@@ -8,6 +8,7 @@ from __future__ import annotations
 import argparse
 import csv
 import os
+import re
 import sys
 
 import polib
@@ -55,8 +56,8 @@ def main() -> int:
             ctxt = entry.msgctxt
             if not ctxt:  # コンテキストがなければスキップ
                 continue
-            msgid = entry.msgid or ""
-            msgstr = entry.msgstr or msgid
+            msgid = escape(entry.msgid) or ""
+            msgstr = escape(entry.msgstr) or msgid
             writer.writerow([ctxt, msgid, msgstr])  # 書き出す
     except BrokenPipeError:
         # パイプが切れた時のエラーを消す
@@ -65,6 +66,16 @@ def main() -> int:
         return 1
 
     return 0
+
+
+CRE_CRLF = re.compile(r"(\r\n|\n)")
+
+
+def escape(text: str) -> str:
+    """エスケープする"""
+    assert text is not None
+    text = CRE_CRLF.sub(r"\\n", text)
+    return text
 
 
 if __name__ == "__main__":
