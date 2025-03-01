@@ -62,7 +62,7 @@ Ja.pot: En.csv
 .PHONY: merge-pot
 merge-pot: ## Ja.potをJa.poにマージする
 merge-pot: Ja.po Ja.pot
-	msgcat --use-first --no-location --no-wrap -o Ja.po $^
+	msgmerge --no-fuzzy-matching --backup=t -U $^
 	$(MAKE) slim
 
 
