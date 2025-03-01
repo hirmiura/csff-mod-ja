@@ -3480,7 +3480,7 @@ HearthAwakened_CookingRecipes[2].CustomCookingText,Drying...,Drying...
 HearthAwakened_CookingRecipes[3].CustomCookingText,Drying...,Drying...
 Hearth_CookingRecipes[2].CustomCookingText,Drying...,Drying...
 Hearth_CookingRecipes[3].CustomCookingText,Drying...,Drying...
-USAGE_DEFAULT_NAME,Durability,Durability
+USAGE_DEFAULT_NAME,Durability,耐久度
 DURATION,Duration,Duration
 Weather_0_Clear_SpoilageTime.CardStatName,Duration,Duration
 Weather_0_Cloudy_SpoilageTime.CardStatName,Duration,Duration
@@ -4601,32 +4601,32 @@ FirerootPlantedDormant_CardDescription,"Found in areas that are not excesively h
 AppleweedPlantedGrowing_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 AppleweedPlantedMature_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 AppleweedPlantedDormant_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right."
-Bp_TurnrootField_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
-TurnrootFieldGrowing_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
-TurnrootFieldMature_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
-TurnrootPlantedGrowing_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.","Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses."
-TurnrootPlantedMature_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.","Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses."
-TurnrootPlantedDormant_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.","Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right."
-SpiritMushroomsPlantedMature_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states.","Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states."
-SpiritMushroomsPlanted_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states.","Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states."
-SpiritMushroomsPlantedDormant_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right.","Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right."
+Bp_TurnrootField_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中から低の酸性度、中程度の水分と養分、中から高のストラクチャーが必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootFieldGrowing_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中から低の酸性度、中程度の水分と養分、中から高のストラクチャーが必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootFieldMature_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中から低の酸性度、中程度の水分と養分、中から高のストラクチャーが必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootPlantedGrowing_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、栄養分、水分が必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootPlantedMature_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、栄養分、水分が必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootPlantedDormant_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、栄養分、水分が必要。\n\n条件が整えば育つ。
+SpiritMushroomsPlantedMature_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states.",オークの伐採地で見られる。 高い酸度、水分、養分を必要とする。 秋に成長が早まる。\n\n精神状態を変容させる食用キノコ。
+SpiritMushroomsPlanted_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states.",オークの伐採地で見られる。 高い酸度、水分、養分を必要とする。 秋に成長が早まる。\n\n精神状態を変容させる食用キノコ。
+SpiritMushroomsPlantedDormant_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right.",オークの伐採地で見られる。 高い酸度、水分、養分を必要とする。 秋に成長が早まる。\n\n条件が整えば育つ。
 Bp_CloverField_CardDescription,"Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop.","Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop."
 CloverFieldGrowing_CardDescription,"Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop.","Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop."
 CloverFieldMature_CardDescription,"Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop.","Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop."
 CloverPatch_CardDescription,"Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop.","Found in oak clearings; has very few needs and is ideal for letting fields rest because of its nutrient fixing capabilities.\n\nCan be used as bedding material, animal feed, human food or as a cover crop."
-FairyWeedPlantedGrowing_CardDescription,"Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nLowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nLowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-FairyweedPlantedMature_CardDescription,"Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nLowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nLowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-FairyWeedPlantedDormant_CardDescription,"Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.","Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right."
+FairyWeedPlantedGrowing_CardDescription,"Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nLowers fever, pain, stress and wakefulness, while slightly altering your mind state.",オーク林に生息、 中程度の酸性度、養分、水分が必要。\n\n熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+FairyweedPlantedMature_CardDescription,"Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nLowers fever, pain, stress and wakefulness, while slightly altering your mind state.",オーク林に生息、 中程度の酸性度、養分、水分が必要。\n\n熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+FairyWeedPlantedDormant_CardDescription,"Found in oak groves; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.",オーク林に生息、 中程度の酸性度、養分、水分が必要。\n\n条件が整えば育つ。
 MeadowgrassFieldGrowing_CardDescription,"Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop.","Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop."
 Bp_MeadowgrassField_CardDescription,"Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop. Produces seeds in summer.","Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop. Produces seeds in summer."
 MeadowgrassFieldMature_CardDescription,"Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop. Produces seeds in summer.","Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop. Produces seeds in summer."
 MeadowgrassPatch_CardDescription,"Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop. Produces seeds in summer.","Found in pine clearings; has very few needs and is ideal for letting fields rest because of its soil structure improving capabilities.\n\nCan be used as bedding material, roofing, animal feed or as a cover crop. Produces seeds in summer."
-ForestCapsPlantedGrowing_CardDescription,"Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nAn edible mushroom.","Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nAn edible mushroom."
-ForestCapsPlantedMature_CardDescription,"Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nAn edible mushroom.","Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nAn edible mushroom."
-ForestCapsPlantedDormant_CardDescription,"Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right.","Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right."
-WildGarlicPlantedGrowing_CardDescription,Found near rivers during spring and summer. Needs low acidity and high hydration.\n\nEdible plant with an intense flavour. Great for enhancing meals.,Found near rivers during spring and summer. Needs low acidity and high hydration.\n\nEdible plant with an intense flavour. Great for enhancing meals.
-WildGarlicPlantedMature_CardDescription,Found near rivers during spring and summer. Needs low acidity and high hydration.\n\nEdible plant with an intense flavour. Great for enhancing meals.,Found near rivers during spring and summer. Needs low acidity and high hydration.\n\nEdible plant with an intense flavour. Great for enhancing meals.
-WildGarlicPlantedDormant_CardDescription,Found near rivers during spring and summer. Prefers moist low-acidic soil.\n\nWill grow when conditions are right.,Found near rivers during spring and summer. Prefers moist low-acidic soil.\n\nWill grow when conditions are right.
+ForestCapsPlantedGrowing_CardDescription,"Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nAn edible mushroom.",日陰の湿った場所に生息。 強酸性、水分、養分を必要とする。 秋に成長が早まる。\n\n食用キノコ。
+ForestCapsPlantedMature_CardDescription,"Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nAn edible mushroom.",日陰の湿った場所に生息。 強酸性、水分、養分を必要とする。 秋に成長が早まる。\n\n食用キノコ。
+ForestCapsPlantedDormant_CardDescription,"Found in shady, moist areas. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right.",日陰の湿った場所に生息。 強酸性、水分、養分を必要とする。 秋に成長が早まる。\n\n条件が整えば成長する。
+WildGarlicPlantedGrowing_CardDescription,Found near rivers during spring and summer. Needs low acidity and high hydration.\n\nEdible plant with an intense flavour. Great for enhancing meals.,春から夏にかけて河川の近くで見られる。 低い酸性度と、豊富な水分を好む。\n\n強烈な風味の食用植物。 食欲をそそる。
+WildGarlicPlantedMature_CardDescription,Found near rivers during spring and summer. Needs low acidity and high hydration.\n\nEdible plant with an intense flavour. Great for enhancing meals.,春から夏にかけて河川の近くで見られる。 低い酸性度と、豊富な水分を好む。\n\n強烈な風味の食用植物。 食欲をそそる。
+WildGarlicPlantedDormant_CardDescription,Found near rivers during spring and summer. Prefers moist low-acidic soil.\n\nWill grow when conditions are right.,春から夏にかけて河川近くで見られる。 酸性度の低い湿った土壌を好む。\n\n条件が整えば成長する。
 Agent_Fox_AgentName,Fox,Fox
 Combat_EncounterFox_EncounterTitle,Fox,Fox
 Carcass_FoxCarcassWinter_CardName,Fox Carcass,Fox Carcass
@@ -5084,71 +5084,71 @@ RyePlantedMature_CardName,Grown Rye,Grown Rye
 FrostleafPlantedGrowing_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. ","Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. "
 FrostleafPlantedMature_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Can alleviate inflamation and  provide a mild numbing effect against pain and headaches.","Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Can alleviate inflamation and  provide a mild numbing effect against pain and headaches."
 FrostleafPlantedDormant_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nWill grow when conditions are right.","Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nWill grow when conditions are right."
-AppleweedFresh_Progress.CardStatName,Growth,Growth
-AppleweedPlantedDormant_Progress.CardStatName,Growth,Growth
-AppleweedPlantedGrowing_Progress.CardStatName,Growth,Growth
-AppleweedPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-BillberriesFermenting_Progress.CardStatName,Growth,Growth
-BillberriesFresh_Progress.CardStatName,Growth,Growth
-BillberriesPlantedDormant_Progress.CardStatName,Growth,Growth
-BillberriesPlantedGrowing_Progress.CardStatName,Growth,Growth
-BillberriesPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-BoarFreePiglet_SpecialDurability1.CardStatName,Growth,Growth
-BoarFreePiglet_SpecialDurability4.CardStatName,Growth,Growth
-CloverFieldGrowing_SpecialDurability1.CardStatName,Growth,Growth
-FairyWeedPlantedDormant_Progress.CardStatName,Growth,Growth
-FairyWeedPlantedGrowing_Progress.CardStatName,Growth,Growth
-FairyWeedPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-FairyweedFresh_Progress.CardStatName,Growth,Growth
-FirerootFresh_Progress.CardStatName,Growth,Growth
-FirerootPlantedDormant_Progress.CardStatName,Growth,Growth
-FirerootPlantedGrowing_Progress.CardStatName,Growth,Growth
-FirerootPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-ForestCapsDried_Progress.CardStatName,Growth,Growth
-ForestCapsFresh_Progress.CardStatName,Growth,Growth
-ForestCapsPlantedDormant_Progress.CardStatName,Growth,Growth
-ForestCapsPlantedGrowing_Progress.CardStatName,Growth,Growth
-ForestCapsPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-FrostleafFresh_Progress.CardStatName,Growth,Growth
-FrostleafPlantedDormant_Progress.CardStatName,Growth,Growth
-FrostleafPlantedGrowing_Progress.CardStatName,Growth,Growth
-FrostleafPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-MeadowgrassFieldGrowing_SpecialDurability1.CardStatName,Growth,Growth
-NettleStemsPlantedDormant_Progress.CardStatName,Growth,Growth
-NettleStemsPlantedGrowing_Progress.CardStatName,Growth,Growth
-NettleStemsPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-NettleStems_Progress.CardStatName,Growth,Growth
-NettleStems_UsageDurability.CardStatName,Growth,Growth
-PartridgeChickFree_SpecialDurability1.CardStatName,Growth,Growth
-PeaFieldGrowing_SpecialDurability1.CardStatName,Growth,Growth
-PeasFresh_Progress.CardStatName,Growth,Growth
-PeasPlantedDormant_Progress.CardStatName,Growth,Growth
-PeasPlantedGrowing_Progress.CardStatName,Growth,Growth
-PeasPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-RyeFieldGrowing_SpecialDurability1.CardStatName,Growth,Growth
-RyeFlourRaw_Progress.CardStatName,Growth,Growth
-RyeGrains_Progress.CardStatName,Growth,Growth
-RyePlantedDormant_Progress.CardStatName,Growth,Growth
-RyePlantedGrowing_Progress.CardStatName,Growth,Growth
-RyePlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-SpiritMushroomsFresh_Progress.CardStatName,Growth,Growth
-SpiritMushroomsPlantedDormant_Progress.CardStatName,Growth,Growth
-SpiritMushroomsPlanted_Progress.CardStatName,Growth,Growth
-SpiritMushroomsPlanted_UsageDurability.CardStatName,Growth,Growth
-SpringBerriesPlantedGrowing_Progress.CardStatName,Growth,Growth
-SpringBerriesPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-SpringberriesFermenting_Progress.CardStatName,Growth,Growth
-SpringberriesFresh_Progress.CardStatName,Growth,Growth
-SpringberriesPlantedDormant_Progress.CardStatName,Growth,Growth
-TurnrootFieldGrowing_SpecialDurability1.CardStatName,Growth,Growth
-TurnrootFresh_Progress.CardStatName,Growth,Growth
-TurnrootPlantedDormant_Progress.CardStatName,Growth,Growth
-TurnrootPlantedGrowing_Progress.CardStatName,Growth,Growth
-TurnrootPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
-WildGarlicFresh_Progress.CardStatName,Growth,Growth
-WildGarlicPlantedDormant_Progress.CardStatName,Growth,Growth
-WildGarlicPlantedGrowing_Progress.CardStatName,Growth,Growth
-WildGarlicPlantedGrowing_UsageDurability.CardStatName,Growth,Growth
+AppleweedFresh_Progress.CardStatName,Growth,成長
+AppleweedPlantedDormant_Progress.CardStatName,Growth,成長
+AppleweedPlantedGrowing_Progress.CardStatName,Growth,成長
+AppleweedPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+BillberriesFermenting_Progress.CardStatName,Growth,成長
+BillberriesFresh_Progress.CardStatName,Growth,成長
+BillberriesPlantedDormant_Progress.CardStatName,Growth,成長
+BillberriesPlantedGrowing_Progress.CardStatName,Growth,成長
+BillberriesPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+BoarFreePiglet_SpecialDurability1.CardStatName,Growth,成長
+BoarFreePiglet_SpecialDurability4.CardStatName,Growth,成長
+CloverFieldGrowing_SpecialDurability1.CardStatName,Growth,成長
+FairyWeedPlantedDormant_Progress.CardStatName,Growth,成長
+FairyWeedPlantedGrowing_Progress.CardStatName,Growth,成長
+FairyWeedPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+FairyweedFresh_Progress.CardStatName,Growth,成長
+FirerootFresh_Progress.CardStatName,Growth,成長
+FirerootPlantedDormant_Progress.CardStatName,Growth,成長
+FirerootPlantedGrowing_Progress.CardStatName,Growth,成長
+FirerootPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+ForestCapsDried_Progress.CardStatName,Growth,成長
+ForestCapsFresh_Progress.CardStatName,Growth,成長
+ForestCapsPlantedDormant_Progress.CardStatName,Growth,成長
+ForestCapsPlantedGrowing_Progress.CardStatName,Growth,成長
+ForestCapsPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+FrostleafFresh_Progress.CardStatName,Growth,成長
+FrostleafPlantedDormant_Progress.CardStatName,Growth,成長
+FrostleafPlantedGrowing_Progress.CardStatName,Growth,成長
+FrostleafPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+MeadowgrassFieldGrowing_SpecialDurability1.CardStatName,Growth,成長
+NettleStemsPlantedDormant_Progress.CardStatName,Growth,成長
+NettleStemsPlantedGrowing_Progress.CardStatName,Growth,成長
+NettleStemsPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+NettleStems_Progress.CardStatName,Growth,成長
+NettleStems_UsageDurability.CardStatName,Growth,成長
+PartridgeChickFree_SpecialDurability1.CardStatName,Growth,成長
+PeaFieldGrowing_SpecialDurability1.CardStatName,Growth,成長
+PeasFresh_Progress.CardStatName,Growth,成長
+PeasPlantedDormant_Progress.CardStatName,Growth,成長
+PeasPlantedGrowing_Progress.CardStatName,Growth,成長
+PeasPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+RyeFieldGrowing_SpecialDurability1.CardStatName,Growth,成長
+RyeFlourRaw_Progress.CardStatName,Growth,成長
+RyeGrains_Progress.CardStatName,Growth,成長
+RyePlantedDormant_Progress.CardStatName,Growth,成長
+RyePlantedGrowing_Progress.CardStatName,Growth,成長
+RyePlantedGrowing_UsageDurability.CardStatName,Growth,成長
+SpiritMushroomsFresh_Progress.CardStatName,Growth,成長
+SpiritMushroomsPlantedDormant_Progress.CardStatName,Growth,成長
+SpiritMushroomsPlanted_Progress.CardStatName,Growth,成長
+SpiritMushroomsPlanted_UsageDurability.CardStatName,Growth,成長
+SpringBerriesPlantedGrowing_Progress.CardStatName,Growth,成長
+SpringBerriesPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+SpringberriesFermenting_Progress.CardStatName,Growth,成長
+SpringberriesFresh_Progress.CardStatName,Growth,成長
+SpringberriesPlantedDormant_Progress.CardStatName,Growth,成長
+TurnrootFieldGrowing_SpecialDurability1.CardStatName,Growth,成長
+TurnrootFresh_Progress.CardStatName,Growth,成長
+TurnrootPlantedDormant_Progress.CardStatName,Growth,成長
+TurnrootPlantedGrowing_Progress.CardStatName,Growth,成長
+TurnrootPlantedGrowing_UsageDurability.CardStatName,Growth,成長
+WildGarlicFresh_Progress.CardStatName,Growth,成長
+WildGarlicPlantedDormant_Progress.CardStatName,Growth,成長
+WildGarlicPlantedGrowing_Progress.CardStatName,Growth,成長
+WildGarlicPlantedGrowing_UsageDurability.CardStatName,Growth,成長
 Fish_Perch_CardInteractions[0].ActionName,Gut,Gut
 Fish_Pike_CardInteractions[0].ActionName,Gut,Gut
 Fish_Sturgeon_CardInteractions[0].ActionName,Gut,Gut
@@ -5329,111 +5329,111 @@ W_WolfBite_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
 Bp_RiverPoultice_CardName,Healing Ointment,Healing Ointment
 HealingOintment_CardName,Healing Ointment,Healing Ointment
 LQ_SpiritFire_CardInteractions[0].ActionName,Healing Warmth,Healing Warmth
-AppleweedPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-AppleweedPlantedDormant_SpoilageTime.CardStatName,Health,Health
-AppleweedPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-AppleweedPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-AppleweedPlantedMature_Progress.CardStatName,Health,Health
-AppleweedPlantedMature_SpecialDurability2.CardStatName,Health,Health
-AppleweedPlantedMature_SpoilageTime.CardStatName,Health,Health
-BillberriesPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-BillberriesPlantedDormant_SpoilageTime.CardStatName,Health,Health
-BillberriesPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-BillberriesPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-BillberriesPlantedMature_Progress.CardStatName,Health,Health
-BillberriesPlantedMature_SpecialDurability2.CardStatName,Health,Health
-BillberriesPlantedMature_SpoilageTime.CardStatName,Health,Health
-Brushwood_rename_Progress.CardStatName,Health,Health
-CloverPatch_Progress.CardStatName,Health,Health
-FairyWeedPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-FairyWeedPlantedDormant_SpoilageTime.CardStatName,Health,Health
-FairyWeedPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-FairyWeedPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-FairyweedPlantedMature_Progress.CardStatName,Health,Health
-FairyweedPlantedMature_SpecialDurability2.CardStatName,Health,Health
-FairyweedPlantedMature_SpoilageTime.CardStatName,Health,Health
-FirerootPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-FirerootPlantedDormant_SpoilageTime.CardStatName,Health,Health
-FirerootPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-FirerootPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-FirerootPlantedMature_Progress.CardStatName,Health,Health
-FirerootPlantedMature_SpecialDurability2.CardStatName,Health,Health
-FirerootPlantedMature_SpoilageTime.CardStatName,Health,Health
-ForestCapsPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-ForestCapsPlantedDormant_SpoilageTime.CardStatName,Health,Health
-ForestCapsPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-ForestCapsPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-ForestCapsPlantedMature_Progress.CardStatName,Health,Health
-ForestCapsPlantedMature_SpecialDurability2.CardStatName,Health,Health
-ForestCapsPlantedMature_SpoilageTime.CardStatName,Health,Health
-FrostleafPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-FrostleafPlantedDormant_SpoilageTime.CardStatName,Health,Health
-FrostleafPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-FrostleafPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-FrostleafPlantedMature_Progress.CardStatName,Health,Health
-FrostleafPlantedMature_SpecialDurability2.CardStatName,Health,Health
-FrostleafPlantedMature_SpoilageTime.CardStatName,Health,Health
-NettlePatchWild_Progress.CardStatName,Health,Health
-NettlePatchWild_SpecialDurability2.CardStatName,Health,Health
-NettlePatchWild_SpoilageTime.CardStatName,Health,Health
-NettleStemsLocation_SpoilageTime.CardStatName,Health,Health
-NettleStemsPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-NettleStemsPlantedDormant_SpoilageTime.CardStatName,Health,Health
-NettleStemsPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-NettleStemsPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-NettleStemsPlantedMature_Progress.CardStatName,Health,Health
-NettleStemsPlantedMature_SpecialDurability2.CardStatName,Health,Health
-NettleStemsPlantedMature_SpoilageTime.CardStatName,Health,Health
-NettleStems_SpoilageTime.CardStatName,Health,Health
-PeaFieldGrowing_SpecialDurability2.CardStatName,Health,Health
-PeaFieldMature_SpecialDurability2.CardStatName,Health,Health
-PeasPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-PeasPlantedDormant_SpoilageTime.CardStatName,Health,Health
-PeasPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-PeasPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-PeasPlantedMature_Progress.CardStatName,Health,Health
-PeasPlantedMature_SpecialDurability2.CardStatName,Health,Health
-PeasPlantedMature_SpoilageTime.CardStatName,Health,Health
-ReedPatch_Progress.CardStatName,Health,Health
-RyeFieldGrowing_SpecialDurability2.CardStatName,Health,Health
-RyeFieldMature_SpecialDurability2.CardStatName,Health,Health
-RyePlantedDormant_SpecialDurability2.CardStatName,Health,Health
-RyePlantedDormant_SpoilageTime.CardStatName,Health,Health
-RyePlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-RyePlantedGrowing_SpoilageTime.CardStatName,Health,Health
-RyePlantedMature_Progress.CardStatName,Health,Health
-RyePlantedMature_SpecialDurability2.CardStatName,Health,Health
-RyePlantedMature_SpoilageTime.CardStatName,Health,Health
-SpiritMushroomsPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-SpiritMushroomsPlantedDormant_SpoilageTime.CardStatName,Health,Health
-SpiritMushroomsPlantedMature_Progress.CardStatName,Health,Health
-SpiritMushroomsPlantedMature_SpecialDurability2.CardStatName,Health,Health
-SpiritMushroomsPlantedMature_SpoilageTime.CardStatName,Health,Health
-SpiritMushroomsPlanted_SpecialDurability2.CardStatName,Health,Health
-SpiritMushroomsPlanted_SpoilageTime.CardStatName,Health,Health
-SpringBerriesPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-SpringBerriesPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-SpringBerriesPlantedMature_Progress.CardStatName,Health,Health
-SpringBerriesPlantedMature_SpecialDurability2.CardStatName,Health,Health
-SpringBerriesPlantedMature_SpoilageTime.CardStatName,Health,Health
-SpringberriesPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-SpringberriesPlantedDormant_SpoilageTime.CardStatName,Health,Health
-TurnrootFieldGrowing_SpecialDurability2.CardStatName,Health,Health
-TurnrootFieldMature_SpecialDurability2.CardStatName,Health,Health
-TurnrootPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-TurnrootPlantedDormant_SpoilageTime.CardStatName,Health,Health
-TurnrootPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-TurnrootPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-TurnrootPlantedMature_Progress.CardStatName,Health,Health
-TurnrootPlantedMature_SpecialDurability2.CardStatName,Health,Health
-TurnrootPlantedMature_SpoilageTime.CardStatName,Health,Health
-WildGarlicPlantedDormant_SpecialDurability2.CardStatName,Health,Health
-WildGarlicPlantedDormant_SpoilageTime.CardStatName,Health,Health
-WildGarlicPlantedGrowing_SpecialDurability2.CardStatName,Health,Health
-WildGarlicPlantedGrowing_SpoilageTime.CardStatName,Health,Health
-WildGarlicPlantedMature_Progress.CardStatName,Health,Health
-WildGarlicPlantedMature_SpecialDurability2.CardStatName,Health,Health
-WildGarlicPlantedMature_SpoilageTime.CardStatName,Health,Health
+AppleweedPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+AppleweedPlantedDormant_SpoilageTime.CardStatName,Health,健康
+AppleweedPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+AppleweedPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+AppleweedPlantedMature_Progress.CardStatName,Health,健康
+AppleweedPlantedMature_SpecialDurability2.CardStatName,Health,健康
+AppleweedPlantedMature_SpoilageTime.CardStatName,Health,健康
+BillberriesPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+BillberriesPlantedDormant_SpoilageTime.CardStatName,Health,健康
+BillberriesPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+BillberriesPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+BillberriesPlantedMature_Progress.CardStatName,Health,健康
+BillberriesPlantedMature_SpecialDurability2.CardStatName,Health,健康
+BillberriesPlantedMature_SpoilageTime.CardStatName,Health,健康
+Brushwood_rename_Progress.CardStatName,Health,健康
+CloverPatch_Progress.CardStatName,Health,健康
+FairyWeedPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+FairyWeedPlantedDormant_SpoilageTime.CardStatName,Health,健康
+FairyWeedPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+FairyWeedPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+FairyweedPlantedMature_Progress.CardStatName,Health,健康
+FairyweedPlantedMature_SpecialDurability2.CardStatName,Health,健康
+FairyweedPlantedMature_SpoilageTime.CardStatName,Health,健康
+FirerootPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+FirerootPlantedDormant_SpoilageTime.CardStatName,Health,健康
+FirerootPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+FirerootPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+FirerootPlantedMature_Progress.CardStatName,Health,健康
+FirerootPlantedMature_SpecialDurability2.CardStatName,Health,健康
+FirerootPlantedMature_SpoilageTime.CardStatName,Health,健康
+ForestCapsPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+ForestCapsPlantedDormant_SpoilageTime.CardStatName,Health,健康
+ForestCapsPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+ForestCapsPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+ForestCapsPlantedMature_Progress.CardStatName,Health,健康
+ForestCapsPlantedMature_SpecialDurability2.CardStatName,Health,健康
+ForestCapsPlantedMature_SpoilageTime.CardStatName,Health,健康
+FrostleafPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+FrostleafPlantedDormant_SpoilageTime.CardStatName,Health,健康
+FrostleafPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+FrostleafPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+FrostleafPlantedMature_Progress.CardStatName,Health,健康
+FrostleafPlantedMature_SpecialDurability2.CardStatName,Health,健康
+FrostleafPlantedMature_SpoilageTime.CardStatName,Health,健康
+NettlePatchWild_Progress.CardStatName,Health,健康
+NettlePatchWild_SpecialDurability2.CardStatName,Health,健康
+NettlePatchWild_SpoilageTime.CardStatName,Health,健康
+NettleStemsLocation_SpoilageTime.CardStatName,Health,健康
+NettleStemsPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+NettleStemsPlantedDormant_SpoilageTime.CardStatName,Health,健康
+NettleStemsPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+NettleStemsPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+NettleStemsPlantedMature_Progress.CardStatName,Health,健康
+NettleStemsPlantedMature_SpecialDurability2.CardStatName,Health,健康
+NettleStemsPlantedMature_SpoilageTime.CardStatName,Health,健康
+NettleStems_SpoilageTime.CardStatName,Health,健康
+PeaFieldGrowing_SpecialDurability2.CardStatName,Health,健康
+PeaFieldMature_SpecialDurability2.CardStatName,Health,健康
+PeasPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+PeasPlantedDormant_SpoilageTime.CardStatName,Health,健康
+PeasPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+PeasPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+PeasPlantedMature_Progress.CardStatName,Health,健康
+PeasPlantedMature_SpecialDurability2.CardStatName,Health,健康
+PeasPlantedMature_SpoilageTime.CardStatName,Health,健康
+ReedPatch_Progress.CardStatName,Health,健康
+RyeFieldGrowing_SpecialDurability2.CardStatName,Health,健康
+RyeFieldMature_SpecialDurability2.CardStatName,Health,健康
+RyePlantedDormant_SpecialDurability2.CardStatName,Health,健康
+RyePlantedDormant_SpoilageTime.CardStatName,Health,健康
+RyePlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+RyePlantedGrowing_SpoilageTime.CardStatName,Health,健康
+RyePlantedMature_Progress.CardStatName,Health,健康
+RyePlantedMature_SpecialDurability2.CardStatName,Health,健康
+RyePlantedMature_SpoilageTime.CardStatName,Health,健康
+SpiritMushroomsPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+SpiritMushroomsPlantedDormant_SpoilageTime.CardStatName,Health,健康
+SpiritMushroomsPlantedMature_Progress.CardStatName,Health,健康
+SpiritMushroomsPlantedMature_SpecialDurability2.CardStatName,Health,健康
+SpiritMushroomsPlantedMature_SpoilageTime.CardStatName,Health,健康
+SpiritMushroomsPlanted_SpecialDurability2.CardStatName,Health,健康
+SpiritMushroomsPlanted_SpoilageTime.CardStatName,Health,健康
+SpringBerriesPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+SpringBerriesPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+SpringBerriesPlantedMature_Progress.CardStatName,Health,健康
+SpringBerriesPlantedMature_SpecialDurability2.CardStatName,Health,健康
+SpringBerriesPlantedMature_SpoilageTime.CardStatName,Health,健康
+SpringberriesPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+SpringberriesPlantedDormant_SpoilageTime.CardStatName,Health,健康
+TurnrootFieldGrowing_SpecialDurability2.CardStatName,Health,健康
+TurnrootFieldMature_SpecialDurability2.CardStatName,Health,健康
+TurnrootPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+TurnrootPlantedDormant_SpoilageTime.CardStatName,Health,健康
+TurnrootPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+TurnrootPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+TurnrootPlantedMature_Progress.CardStatName,Health,健康
+TurnrootPlantedMature_SpecialDurability2.CardStatName,Health,健康
+TurnrootPlantedMature_SpoilageTime.CardStatName,Health,健康
+WildGarlicPlantedDormant_SpecialDurability2.CardStatName,Health,健康
+WildGarlicPlantedDormant_SpoilageTime.CardStatName,Health,健康
+WildGarlicPlantedGrowing_SpecialDurability2.CardStatName,Health,健康
+WildGarlicPlantedGrowing_SpoilageTime.CardStatName,Health,健康
+WildGarlicPlantedMature_Progress.CardStatName,Health,健康
+WildGarlicPlantedMature_SpecialDurability2.CardStatName,Health,健康
+WildGarlicPlantedMature_SpoilageTime.CardStatName,Health,健康
 Bp_Hearth_CardName,Hearth,Hearth
 HearthExtinguished_CardName,Hearth,Hearth
 Hearth_CardName,Hearth,Hearth
