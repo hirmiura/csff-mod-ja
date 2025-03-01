@@ -1534,7 +1534,7 @@ msgid "Add Fresh Billberries"
 msgstr ""
 
 msgctxt "LQ_StewWater_CardInteractions[20].ActionName"
-msgid "Add Fresh Fireroot"
+msgid "Add Fresh Cut Fireroot"
 msgstr ""
 
 msgctxt "LQ_StewWater_CardInteractions[25].ActionName"
@@ -2125,11 +2125,11 @@ msgctxt "ClothSmall_SpecialDurability3.CardStatName"
 msgid "Analgesic Factor"
 msgstr ""
 
-msgctxt "HealersMoss_SpecialDurability3.CardStatName"
+msgctxt "HealersMossBoiled_SpecialDurability3.CardStatName"
 msgid "Analgesic Factor"
 msgstr ""
 
-msgctxt "MossBoiled_SpecialDurability3.CardStatName"
+msgctxt "HealersMoss_SpecialDurability3.CardStatName"
 msgid "Analgesic Factor"
 msgstr ""
 
@@ -2383,14 +2383,6 @@ msgstr ""
 
 msgctxt "FractureAndSprainTreatment_Sub2_ApplyARiverPoulticeToTheSplint_QuestTitle"
 msgid "Apply Soothing Ointment to Wound"
-msgstr ""
-
-msgctxt "BasicWoundTreatment_Obj3_ApplyAHealingOintment_ObjectiveDescription"
-msgid "Apply a Healing Ointment"
-msgstr ""
-
-msgctxt "BasicWoundTreatment_Sub3_ApplyAHealingOintment_QuestTitle"
-msgid "Apply a Healing Ointment"
 msgstr ""
 
 msgctxt "BasicCooking_Obj1_CombineVegetablesAndFishOrMeatInAClayBowl_ObjectiveDescription"
@@ -7345,11 +7337,19 @@ msgctxt "Woodcarving_Sub1_ChopALogIntoPieces_QuestTitle*"
 msgid "Chop a Log into Pieces"
 msgstr ""
 
-msgctxt "HealersMoss_Progress.CardStatName"
+msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription"
+msgid "Chop some Wood with the Axe"
+msgstr ""
+
+msgctxt "WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle"
+msgid "Chop some Wood with the Axe"
+msgstr ""
+
+msgctxt "HealersMossBoiled_Progress.CardStatName"
 msgid "Cicatrisant Factor"
 msgstr ""
 
-msgctxt "MossBoiled_Progress.CardStatName"
+msgctxt "HealersMoss_Progress.CardStatName"
 msgid "Cicatrisant Factor"
 msgstr ""
 
@@ -8165,6 +8165,10 @@ msgctxt "ModifierClimb_Statuses[2].GameName"
 msgid "Climb Modifier 3"
 msgstr ""
 
+msgctxt "Caves_FmTheShaft_DismantleActions[0].ActionName*"
+msgid "Climb Up"
+msgstr ""
+
 msgctxt "Path_RockyGroveFromFmTheShaft_DismantleActions[0].ActionName"
 msgid "Climb Up"
 msgstr ""
@@ -8183,6 +8187,10 @@ msgstr ""
 
 msgctxt "Path_FmTheShaftFromRockyGrove_DismantleActions[0].FadeMessage"
 msgid "Climbing down into The Shaft"
+msgstr ""
+
+msgctxt "Caves_FmTheShaft_DismantleActions[0].FadeMessage*"
+msgid "Climbing up into the Rocky Grove"
 msgstr ""
 
 msgctxt "Path_RockyGroveFromFmTheShaft_DismantleActions[0].FadeMessage"
@@ -8261,7 +8269,7 @@ msgctxt "ClothSmall_SpecialDurability4.CardStatName"
 msgid "Coagulant Factor"
 msgstr ""
 
-msgctxt "MossBoiled_SpecialDurability4.CardStatName"
+msgctxt "HealersMossBoiled_SpecialDurability4.CardStatName"
 msgid "Coagulant Factor"
 msgstr ""
 
@@ -13225,6 +13233,10 @@ msgctxt "CONFIRM_SAVE"
 msgid "Do you want to overwrite this checkpoint?"
 msgstr ""
 
+msgctxt "PLAY_TUTORIAL"
+msgid "Do you want to play the tutorial?"
+msgstr ""
+
 msgctxt "EncounterWindow_GeneralPlayerActions[0].ActionName"
 msgid "Dodge"
 msgstr ""
@@ -13255,6 +13267,10 @@ msgstr ""
 
 msgctxt "SuccessChanceLabels_ModifiedSuccessLabels[4].LabelText"
 msgid "Don't see how this could fail!"
+msgstr ""
+
+msgctxt "DONT_SHOW_STARTUP"
+msgid "Don't show this on start up."
 msgstr ""
 
 msgctxt "COOKING_READY"
@@ -13337,15 +13353,7 @@ msgctxt "TRADE_SLOT"
 msgid "Drag items here to trade"
 msgstr ""
 
-msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription"
-msgid "Drag the Axe onto Location Card to chop some Wood"
-msgstr ""
-
 msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription*"
-msgid "Drag the Axe onto Location Card to chop some Wood"
-msgstr ""
-
-msgctxt "WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle"
 msgid "Drag the Axe onto Location Card to chop some Wood"
 msgstr ""
 
@@ -21177,11 +21185,11 @@ msgctxt "ClothSmall_SpecialDurability1.CardStatName"
 msgid "Healing Factor"
 msgstr ""
 
-msgctxt "HealersMoss_SpecialDurability1.CardStatName"
+msgctxt "HealersMossBoiled_SpecialDurability1.CardStatName"
 msgid "Healing Factor"
 msgstr ""
 
-msgctxt "MossBoiled_SpecialDurability1.CardStatName"
+msgctxt "HealersMoss_SpecialDurability1.CardStatName"
 msgid "Healing Factor"
 msgstr ""
 
@@ -29677,10 +29685,6 @@ msgctxt "OBJECTIVE_COMPLETE"
 msgid "OBJECTIVE COMPLETE"
 msgstr ""
 
-msgctxt "OK"
-msgid "OK"
-msgstr ""
-
 msgctxt "OPTIONS_MENU_TITLE"
 msgid "OPTIONS"
 msgstr "オプション"
@@ -29787,6 +29791,10 @@ msgstr ""
 
 msgctxt "tag_Oil_InGameName"
 msgid "Oil"
+msgstr ""
+
+msgctxt "OK"
+msgid "Ok"
 msgstr ""
 
 msgctxt "Env_GroveOak_OldStump_CardName"
@@ -30247,6 +30255,10 @@ msgstr ""
 
 msgctxt "W_RibFracture_InventorySlotsText"
 msgid "PLACE SPLINT HERE"
+msgstr ""
+
+msgctxt "PREV"
+msgid "PREVIOUS"
 msgstr ""
 
 msgctxt "tag_Paddy_InGameName"
@@ -31151,6 +31163,14 @@ msgstr ""
 
 msgctxt "Wood_CardInteractions[2].ActionName"
 msgid "Prepare Fire"
+msgstr ""
+
+msgctxt "BasicWoundTreatment_Obj3_ApplyAHealingOintment_ObjectiveDescription"
+msgid "Prepare Healing Ointment"
+msgstr ""
+
+msgctxt "BasicWoundTreatment_Sub3_ApplyAHealingOintment_QuestTitle"
+msgid "Prepare Healing Ointment"
 msgstr ""
 
 msgctxt "IntermediateHerbalism_Obj3_PrepareAFirebrew_ObjectiveDescription"
@@ -37439,6 +37459,10 @@ msgstr ""
 
 msgctxt "Infection_Systemic_Statuses[5].GameName"
 msgid "Systemic Infection"
+msgstr ""
+
+msgctxt "TUTORIAL"
+msgid "TUTORIAL"
 msgstr ""
 
 msgctxt "Bp_Table_CardName"
