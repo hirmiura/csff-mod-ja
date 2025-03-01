@@ -303,7 +303,7 @@ OUR_CHINESE_VOLUNTEERS,Our chinese translation volunteers:,Our chinese translati
 EXIT_CHARACTER_WITHOUT_NAME,Please enter a name for your character,Please enter a name for your character
 START_GAME_BUTTON,START GAME,START GAME
 CREATE_NEW_CHARACTER,CREATE NEW CHARACTER,CREATE NEW CHARACTER
-OK,OK,OK
+OK,Ok,Ok
 DELETING_PORTRAIT,DELETING CUSTOM PORTRAIT...,DELETING CUSTOM PORTRAIT...
 THANKS_THENEOMARE,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>,The Neomare \n<size=75\n%>For being another great guy & showing his constant support both in his Youtube channel & the forums.</size>
 ALLOWED_CHARACTERS,Allowed Characters,Allowed Characters
@@ -5788,7 +5788,7 @@ LQ_StewWater_CardInteractions[18].RequiredReceivingDurabilities.SpecificFailMess
 LQ_StewWater_CardInteractions[19].ActionName,Add Dried Fireroot,Add Dried Fireroot
 LQ_StewWater_CardInteractions[19].RequiredReceivingDurabilities.SpecificFailMessages[0].Message,The mixture is too thick...,The mixture is too thick...
 LQ_StewWater_CardInteractions[19].RequiredReceivingDurabilities.SpecificFailMessages[1].Message,Not hot enough...,Not hot enough...
-LQ_StewWater_CardInteractions[20].ActionName,Add Fresh Fireroot,Add Fresh Fireroot
+LQ_StewWater_CardInteractions[20].ActionName,Add Fresh Cut Fireroot,Add Fresh Cut Fireroot
 LQ_StewWater_CardInteractions[20].RequiredReceivingDurabilities.SpecificFailMessages[0].Message,The mixture is too thick...,The mixture is too thick...
 LQ_StewWater_CardInteractions[20].RequiredReceivingDurabilities.SpecificFailMessages[1].Message,Not hot enough...,Not hot enough...
 LQ_StewWater_CardInteractions[21].ActionName,Add Roasted Fireroot,Add Roasted Fireroot
@@ -7839,12 +7839,12 @@ WoodcuttingBasics_Main_QuestTitle,Woodcutting Basics,Woodcutting Basics
 WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
 WoodcuttingBasics_Obj2_GetEmbersFromALitFire_ObjectiveDescription,Get Embers from a Lit Fire,Get Embers from a Lit Fire
 WoodcuttingBasics_Obj3_CraftAStoneAxe_ObjectiveDescription,Craft a Stone Axe,Craft a Stone Axe
-WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription,Drag the Axe onto Location Card to chop some Wood,Drag the Axe onto Location Card to chop some Wood
+WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription,Chop some Wood with the Axe,Chop some Wood with the Axe
 WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription,Cut down a Small Tree,Cut down a Small Tree
 WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
 WoodcuttingBasics_Sub2_GetEmbersFromALitFire_QuestTitle,Get Embers from a Lit Fire,Get Embers from a Lit Fire
 WoodcuttingBasics_Sub3_CraftAStoneAxe_QuestTitle,Craft a Stone Axe,Craft a Stone Axe
-WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle,Drag the Axe onto Location Card to chop some Wood,Drag the Axe onto Location Card to chop some Wood
+WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle,Chop some Wood with the Axe,Chop some Wood with the Axe
 WoodcuttingBasics_Sub5_CutDownASmallTree_QuestTitle,Cut down a Small Tree,Cut down a Small Tree
 AdvancedPottery_Completed_ObjectiveDescription*,Advanced Pottery,Advanced Pottery
 AdvancedPottery_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
@@ -8146,10 +8146,10 @@ BasicWoundTreatment_DisplayConditions_OnCompleteActions[0].ActionName*,Completed
 BasicWoundTreatment_Main_QuestTitle*,Basic Wound Treatment,Basic Wound Treatment
 BasicWoundTreatment_Obj1_WashAnOpenWoundWithAClayBowl_ObjectiveDescription,Wash an open Wound with a Clay Bowl,Wash an open Wound with a Clay Bowl
 BasicWoundTreatment_Obj2_EquipHealersMossinAWound_ObjectiveDescription,Equip Healers Moss in a Wound,Equip Healers Moss in a Wound
-BasicWoundTreatment_Obj3_ApplyAHealingOintment_ObjectiveDescription,Apply a Healing Ointment,Apply a Healing Ointment
+BasicWoundTreatment_Obj3_ApplyAHealingOintment_ObjectiveDescription,Prepare Healing Ointment,Prepare Healing Ointment
 BasicWoundTreatment_Sub1_WashAnOpenWoundWithAClayBowl_QuestTitle,Wash an open Wound with a Clay Bowl,Wash an open Wound with a Clay Bowl
 BasicWoundTreatment_Sub2_EquipHealersMossinAWound_QuestTitle,Equip Healers Moss in a Wound,Equip Healers Moss in a Wound
-BasicWoundTreatment_Sub3_ApplyAHealingOintment_QuestTitle,Apply a Healing Ointment,Apply a Healing Ointment
+BasicWoundTreatment_Sub3_ApplyAHealingOintment_QuestTitle,Prepare Healing Ointment,Prepare Healing Ointment
 FireBasics_Completed_ObjectiveDescription*,Fire Basics,Fire Basics
 FireBasics_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
 FireBasics_Completed_Event_CardName*,Fire Basics Complete,Fire Basics Complete
@@ -11156,11 +11156,7 @@ MossBoiled_CardName,Boiled Moss,Boiled Moss
 MossBoiled_CardDescription,Edible.,Edible.
 MossBoiled_SpoilageTime.OnZero.ActionDescription,Moss spoiled!,Moss spoiled!
 MossBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-MossBoiled_Progress.CardStatName,Cicatrisant Factor,Cicatrisant Factor
-MossBoiled_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
 MossBoiled_SpecialDurability2.CardStatName,Quality,Quality
-MossBoiled_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-MossBoiled_SpecialDurability4.CardStatName,Coagulant Factor,Coagulant Factor
 MossBoiled_DismantleActions[0].ActionName,Eat,Eat
 OLD_HealersMoss_OldHealingFactors_CardName,Healer's Moss,Healer's Moss
 OLD_HealersMoss_OldHealingFactors_CardDescription,Useful as dressing and edible if boiled.,Useful as dressing and edible if boiled.
@@ -11634,3 +11630,13 @@ MsStandardExperience_CharacterDescription,Want to jump straight into the game wi
 NewsEARelease1_PageTitle,Card Survival: Fantasy Forest is Live!,Card Survival: Fantasy Forest is Live!
 NewsEARelease1_Sections[0].Entries[0].Content,"Hello everyone!\n<b>Card Survival: Fantasy Forest</b> is finally here.\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\n\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\n\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!","Hello everyone!\n<b>Card Survival: Fantasy Forest</b> is finally here.\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\n\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\n\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!"
 NewsEARelease1_Sections[0].Entries[1].Content,"We will be releasing <b>regular updates</b> with new content as often as we can, as well as <b>3 major updates</b> introducing 3 new large areas to the forest (mountains, swamp and forest expanse) and new important content (like Metallurgy and the NPCs).\n\n\nWe hope Fantasy Forest can turn into a super deep and complete survival/life simulation.\nLet's make it the best possible survival experience <b>together</b>!","We will be releasing <b>regular updates</b> with new content as often as we can, as well as <b>3 major updates</b> introducing 3 new large areas to the forest (mountains, swamp and forest expanse) and new important content (like Metallurgy and the NPCs).\n\n\nWe hope Fantasy Forest can turn into a super deep and complete survival/life simulation.\nLet's make it the best possible survival experience <b>together</b>!"
+TUTORIAL,TUTORIAL,TUTORIAL
+PLAY_TUTORIAL,Do you want to play the tutorial?,Do you want to play the tutorial?
+DONT_SHOW_STARTUP,Don't show this on start up.,Don't show this on start up.
+PREV,PREVIOUS,PREVIOUS
+Caves_FmTheShaft_DismantleActions[0].ActionName*,Climb Up,Climb Up
+Caves_FmTheShaft_DismantleActions[0].FadeMessage*,Climbing up into the Rocky Grove,Climbing up into the Rocky Grove
+HealersMossBoiled_Progress.CardStatName,Cicatrisant Factor,Cicatrisant Factor
+HealersMossBoiled_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
+HealersMossBoiled_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
+HealersMossBoiled_SpecialDurability4.CardStatName,Coagulant Factor,Coagulant Factor
