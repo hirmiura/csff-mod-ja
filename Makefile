@@ -57,17 +57,36 @@ Ja.pot: En.csv
 
 
 #==============================================================================
+# Ja.potをJa.poにマージする
+#==============================================================================
+.PHONY: merge-pot
+merge-pot: ## Ja.potをJa.poにマージする
+merge-pot: Ja.po Ja.pot
+	msgcat --use-first --no-location --no-wrap -o Ja.po $^
+	$(MAKE) slim
+
+
+#==============================================================================
 # Ja.edit.poをJa.poにマージする
 #==============================================================================
 .PHONY: merge-editpo
 merge-editpo: ## Ja.edit.poをJa.poにマージする
 merge-editpo: Ja.po
+	$(MAKE) slim
 
 Ja.po: Ja.edit.po
 	msgcat --use-first --no-location --no-wrap -o $@ $< $@
-	msgattrib --no-obsolete --no-location --no-wrap --sort-output -o - $@ \
+
+
+#==============================================================================
+# Ja.poを軽量化する
+#==============================================================================
+.PHONY: slim
+slim: ## Ja.poを軽量化する
+slim: Ja.po
+	msgattrib --no-obsolete --no-location --no-wrap --sort-output -o - $< \
 	| grep -vE '^"(Project-Id-Version|POT-Creation-Date|Last-Translator|X-Generator):.*\\n"' \
-	| sponge $@
+	| sponge $<
 
 
 #==============================================================================
@@ -94,4 +113,4 @@ build: merge-editpo gen-jacsv
 #==============================================================================
 .PHONY: all
 all: ## 全ての作業を一括で実施する
-all: check gen-encsv gen-pot build
+all: check merge-pot build
