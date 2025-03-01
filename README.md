@@ -37,7 +37,7 @@ msgcat --use-first --no-location --no-wrap -o Ja.po Ja.edit.po Ja.po
 
 ```bash
 msgattrib --no-obsolete --no-location --no-wrap --sort-output -o - Ja.po \
-| grep -vE '^"(POT-Creation-Date|X-Generator):.*\\n"' \
+| grep -vE '^"(Project-Id-Version|POT-Creation-Date|Last-Translator|X-Generator):.*\\n"' \
 | sponge Ja.po
 ```
 
