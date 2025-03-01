@@ -117,10 +117,10 @@ Bp_FurTrousers_CardDescription,"A bit hot, but should offer protection to my leg
 Beeswax_CardDescription,A bit of wax.,A bit of wax.
 ChickenChick_FuelCapacity.OnFull.ActionDescription,A chick has matured.,A chick has matured.
 PartridgeChickFree_SpecialDurability1.OnFull.ActionDescription,A chick has matured.,A chick has matured.
-Bp_RusticSpear_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.
-Spear_Rustic_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.
+Bp_RusticSpear_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.,リーチに優れた接近戦用の武器。大型獣の狩猟や捕食者から身を守るのに適している。
+Spear_Rustic_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.,リーチに優れた接近戦用の武器。大型獣の狩猟や捕食者から身を守るのに適している。
 Bp_Flint_Spear_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.,リーチに優れた接近戦用の武器。大型獣の狩猟や捕食者から身を守るのに適している。\n\n分厚い獣皮も貫通する切れ味。
-Spear_Flint_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.
+Spear_Flint_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.,リーチに優れた接近戦用の武器。大型獣の狩猟や捕食者から身を守るのに適している。\n\n分厚い獣皮も貫通する切れ味。
 Bp_Sack_CardDescription,"A cloth sack, good for carrying stuff around.","A cloth sack, good for carrying stuff around."
 Infection_UpperRespiratory_Description,"A common disease affecting the nose and throat. Symptoms include a sore throat, nasal congestion and coughing fits.",鼻とのどを侵す一般的な病気。 のどの痛み、鼻づまり、咳などの症状が現れる。
 Infection_Gastrointestinal_Description,"A common disease of the intestinal tracts. Symptoms include diarrhoea, nausea, vomiting  and abdominal pain.",腸管の一般的な疾患。 症状は下痢、吐き気、嘔吐、腹痛など。
@@ -292,23 +292,23 @@ RyeFieldMature_CardInteractions[2].ActionName,Acidify,Acidify
 TilledField_CardInteractions[2].ActionName,Acidify,Acidify
 TurnrootFieldGrowing_CardInteractions[2].ActionName,Acidify,Acidify
 TurnrootFieldMature_CardInteractions[2].ActionName,Acidify,Acidify
-CloverFieldGrowing_UsageDurability.CardStatName,Acidity,Acidity
-CloverFieldMature_UsageDurability.CardStatName,Acidity,Acidity
-FallowFieldInvisible_UsageDurability.CardStatName,Acidity,Acidity
-FallowField_UsageDurability.CardStatName,Acidity,Acidity
-GardenPlot_UsageDurability.CardStatName,Acidity,Acidity
-MeadowgrassFieldGrowing_UsageDurability.CardStatName,Acidity,Acidity
-MeadowgrassFieldMature_UsageDurability.CardStatName,Acidity,Acidity
-MushroomBed_UsageDurability.CardStatName,Acidity,Acidity
-PeaFieldGrowing_UsageDurability.CardStatName,Acidity,Acidity
-PeaFieldMature_UsageDurability.CardStatName,Acidity,Acidity
-RyeFieldGrowing_UsageDurability.CardStatName,Acidity,Acidity
-RyeFieldMature_UsageDurability.CardStatName,Acidity,Acidity
-SpiritShrine_Earth_SacredOak_UsageDurability.CardStatName,Acidity,Acidity
-SpiritShrine_Water_SacredSpring_UsageDurability.CardStatName,Acidity,Acidity
-TilledField_UsageDurability.CardStatName,Acidity,Acidity
-TurnrootFieldGrowing_UsageDurability.CardStatName,Acidity,Acidity
-TurnrootFieldMature_UsageDurability.CardStatName,Acidity,Acidity
+CloverFieldGrowing_UsageDurability.CardStatName,Acidity,酸性度
+CloverFieldMature_UsageDurability.CardStatName,Acidity,酸性度
+FallowFieldInvisible_UsageDurability.CardStatName,Acidity,酸性度
+FallowField_UsageDurability.CardStatName,Acidity,酸性度
+GardenPlot_UsageDurability.CardStatName,Acidity,酸性度
+MeadowgrassFieldGrowing_UsageDurability.CardStatName,Acidity,酸性度
+MeadowgrassFieldMature_UsageDurability.CardStatName,Acidity,酸性度
+MushroomBed_UsageDurability.CardStatName,Acidity,酸性度
+PeaFieldGrowing_UsageDurability.CardStatName,Acidity,酸性度
+PeaFieldMature_UsageDurability.CardStatName,Acidity,酸性度
+RyeFieldGrowing_UsageDurability.CardStatName,Acidity,酸性度
+RyeFieldMature_UsageDurability.CardStatName,Acidity,酸性度
+SpiritShrine_Earth_SacredOak_UsageDurability.CardStatName,Acidity,酸性度
+SpiritShrine_Water_SacredSpring_UsageDurability.CardStatName,Acidity,酸性度
+TilledField_UsageDurability.CardStatName,Acidity,酸性度
+TurnrootFieldGrowing_UsageDurability.CardStatName,Acidity,酸性度
+TurnrootFieldMature_UsageDurability.CardStatName,Acidity,酸性度
 AcornDoughRaw_CardName,Acorn Dough,Acorn Dough
 AcornFlatBread_CardName,Acorn FlatBread,Acorn FlatBread
 AcornFlourRaw_CardName,Acorn Flour,Acorn Flour
@@ -476,7 +476,7 @@ MudHutConstructionStartingPointMudHut_Progress.CardStatName,Affinity,Affinity
 MudHutExpansionLeft_Progress.CardStatName,Affinity,Affinity
 MudHutExpansionRight_Progress.CardStatName,Affinity,Affinity
 MudHut_Progress.CardStatName,Affinity,Affinity
-Tab_6_Farming_Subtab_1_Agriculture_TabName,Agriculture,Agriculture
+Tab_6_Farming_Subtab_1_Agriculture_TabName,Agriculture,農業
 AlcoholEffect_GameName,Alcohol,Alcohol
 GpTag_Alcohol_TabName,Alcohol,Alcohol
 KilnExtinguished_CookingRecipes[0].ActionName,Alembic,Alembic
@@ -1493,9 +1493,9 @@ LQ_SpiritFear_CardInteractions[0].ActionName,Call Nightmare,Call Nightmare
 SeaAgitation_Statuses[0].GameName,Calm Waters,Calm Waters
 Refreshment_GameName,Calming Flow,Calming Flow
 Refreshment_Statuses[0].GameName,Calming Flow,Calming Flow
-LQ_RottenStew_SpecialDurability1.CardStatName,Calories,Calories
-LQ_StewWater_SpecialDurability1.CardStatName,Calories,Calories
-LQ_Water_SpecialDurability1.CardStatName,Calories,Calories
+LQ_RottenStew_SpecialDurability1.CardStatName,Calories,カロリー
+LQ_StewWater_SpecialDurability1.CardStatName,Calories,カロリー
+LQ_Water_SpecialDurability1.CardStatName,Calories,カロリー
 Filter_Camp_GameName,Camp,Camp
 Tab_Base_Camp_TabName,Camp,Camp
 Bp_Campfire_CardName,Campfire,Campfire
@@ -1522,12 +1522,12 @@ BillberriesPlantedGrowing_CardDescription,"Can be found in Pine areas during sum
 BillberriesPlantedMature_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries.","Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries."
 BillberriesPlantedDormant_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nWill grow when conditions are right.","Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nWill grow when conditions are right."
 ReedPatch_CardDescription,"Can be harvested and used for roofing, bedding, clothing or weaving baskets.","Can be harvested and used for roofing, bedding, clothing or weaving baskets."
-SkinFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.
+SkinFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.,そのまま自然乾燥させるか、なめし槽に沈めて革にする。
 FurFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.\n\nCan be scraped to turn it into a normal skin.,そのまま自然乾燥させるか、なめし槽に沈めて革にする。\n\n削って普通の皮にすることもできる。
-CampfireExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.",十分な燃料があれば、火口でも点火できる。
-FireplaceExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.","Can be lit with tinder, provided it has enough fuel."
+CampfireExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.",充分な燃料があれば、火口でも点火できる。
+FireplaceExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.",充分な燃料があれば、火口でも点火できる。
 MudPile_CardDescription,Can be mixed with reeds or straw to form bricks or refined into clay by crushing it into finer pieces.,葦や藁と混ぜてレンガにしたり、細かく砕いて粘土にしたりする。
-FineDirt_CardDescription,Can be mixed with water to produce clay.,Can be mixed with water to produce clay.
+FineDirt_CardDescription,Can be mixed with water to produce clay.,水と混ぜて粘土を作ることができる。
 FurLeather_CardDescription,Can be used  for warm clothing and other crafts. It can be dehaired by soaking it in lime and scraping it with a knife.\n\nProvides comfort and insulation while sleeping when placed on a bed.,Can be used  for warm clothing and other crafts. It can be dehaired by soaking it in lime and scraping it with a knife.\n\nProvides comfort and insulation while sleeping when placed on a bed.
 Bp_ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.",コップとして、食器として、お茶を入れる器として使える。
 ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.",コップとして、食器として、お茶を入れる器として使える。
@@ -1536,7 +1536,7 @@ CloverRaw_CardDescription,"Can be used as bedding material, animal feed or human
 MeadowgrassGrass_CardDescription,"Can be used as bedding material, roofing or animal feed. ","Can be used as bedding material, roofing or animal feed. "
 ExcrementHuman_CardDescription,Can be used as fertilizer or compost. Should handle it with care due to health risks.,Can be used as fertilizer or compost. Should handle it with care due to health risks.
 RottenRemains_CardDescription,"Can be used as fertilizer, compost or trap bait.","Can be used as fertilizer, compost or trap bait."
-Straw_CardDescription,Can be used as fuel or animal feed.,Can be used as fuel or animal feed.
+Straw_CardDescription,Can be used as fuel or animal feed.,燃料や飼料として利用できる。
 Charcoal_CardDescription,"Can be used as fuel, crushed into ashes or eaten to treat diarrhoea.",燃料にしたり、砕いて灰にしたり、下痢の治療に食べたりする。
 LeavesDry_CardDescription,"Can be used as tinder by dragging a fire starter to it, or used as compost or soil acidifier.",火おこし器で火種にしたり、堆肥や土壌の酸性化剤として使用することもできる。
 SkinCured_CardDescription,"Can be used for clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed.","Can be used for clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed."
@@ -1578,7 +1578,7 @@ NerveDamageLegsPermanent_NotEnoughText,Can't climb in this state.,Can't climb in
 NerveDamageLegs_NotEnoughText,Can't climb in this state.,Can't climb in this state.
 CANCEL,Cancel,キャンセル
 CANCEL_EASY_PACKAGE,Cancel,キャンセル
-Event_FluteTunes3_DismantleActions[3].ActionName,Cancel,Cancel
+Event_FluteTunes3_DismantleActions[3].ActionName,Cancel,キャンセル
 GpTag_CandleMaterial_TabName,Candle Material,Candle Material
 Irrigated_NotEnoughText,Cannot be built here.,Cannot be built here.
 Sheltered_NotEnoughText,Cannot be built here.,Cannot be built here.
@@ -2025,7 +2025,7 @@ WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle*,Clear the Ar
 Caves_FmOvergrownTunnel_Progress.OnZero.ActionName,Cleared,Cleared
 Caves_FmClearedTunnel_CardName,Cleared Tunnel,Cleared Tunnel
 Event_WillOWisp_RiverClearing_CardName,Clearing by the River,Clearing by the River
-STATUS_INFO_CLICK,Click on a status for more <b>information</b> and special actions,ステータスをクリックすると、より詳しい<b>情報</b>や特別なアクションが表示されます。
+STATUS_INFO_CLICK,Click on a status for more <b>information</b> and special actions,ステータスをクリックすると、より詳しい<b>情報</b>や特別なアクションが表示されます
 Number2_Obj1_ClickOnYourRectalPressureStatAndClickOnTheDefecateButton_ObjectiveDescription,Click on your Rectal Pressure Stat and Click on the Defecate Button,Click on your Rectal Pressure Stat and Click on the Defecate Button
 Number2_Sub1_ClickOnYourRectalPressureStatAndClickOnTheDefecateButton_QuestTitle,Click on your Rectal Pressure Stat and Click on the Defecate Button,Click on your Rectal Pressure Stat and Click on the Defecate Button
 Resting_Obj1_ClickOnYourStaminaStatAndClickOnTheRestButton_ObjectiveDescription,Click on your Stamina Stat and click on the Rest Button,Click on your Stamina Stat and click on the Rest Button
@@ -3517,36 +3517,36 @@ EarthUrge_Statuses[1].GameName,Earth Urge,Earth Urge
 EarthUrge_Statuses[2].GameName,Earth Urge,Earth Urge
 Imp_EarthenFloors_CardName,Earthen Floors,Earthen Floors
 Earthy_FlavourName,Earthy,Earthy
-Caves_FmDarkTunnelNorthEast_DismantleActions[1].ActionName,East,East
-Caves_FmDarkTunnelNorthWest_DismantleActions[0].ActionName,East,East
-Caves_FmDarkTunnelSouthEast_DismantleActions[1].ActionName,East,East
-Caves_FmDarkTunnelSouthWest_DismantleActions[0].ActionName,East,East
-Caves_FmFlintclaw'sChamber_DismantleActions[1].ActionName,East,East
-Caves_FmOminousTunnel_DismantleActions[1].ActionName,East,East
-Caves_FmOvergrownTunnel_DismantleActions[1].ActionName,East,East
-Caves_FmSouthernTunnel_DismantleActions[0].ActionName,East,East
-ClearingOak_GreenGlade_DismantleActions[4].ActionName,East,East
-ClearingOak_MossyClearing_DismantleActions[4].ActionName,East,East
-ClearingPine_FlowerGlade_DismantleActions[3].ActionName,East,East
-EAST,East,East
-GroveOak_GreatOak_DismantleActions[4].ActionName,East,East
-GroveOak_GreenGrove_DismantleActions[4].ActionName,East,East
-GroveOak_MossyGrove_DismantleActions[4].ActionName,East,East
-GroveOak_MossyStone_DismantleActions[4].ActionName,East,East
-GroveOak_MuddyGrove_DismantleActions[4].ActionName,East,East
-GroveOak_OakenGrove_DismantleActions[4].ActionName,East,East
-GroveOak_OldStump_DismantleActions[3].ActionName,East,East
-GroveOak_SecretGrove_DismantleActions[3].ActionName,East,East
-GroveOak_ShadyGrove_DismantleActions[4].ActionName,East,East
-GrovePine_DeerGrove_DismantleActions[4].ActionName,East,East
-GrovePine_RockyGrove_DismantleActions[4].ActionName,East,East
-GrovePine_SlopedGrove_DismantleActions[4].ActionName,East,East
-ThicketOak_GreenTangle_DismantleActions[4].ActionName,East,East
-ThicketOak_LostWoods_DismantleActions[4].ActionName,East,East
-ThicketOak_MuddyThicket_DismantleActions[3].ActionName,East,East
-ThicketOak_MuddyWay_DismantleActions[4].ActionName,East,East
-ThicketOak_WhisperingThicket_DismantleActions[3].ActionName,East,East
-ThicketOak_WildThicket_DismantleActions[4].ActionName,East,East
+Caves_FmDarkTunnelNorthEast_DismantleActions[1].ActionName,East,東
+Caves_FmDarkTunnelNorthWest_DismantleActions[0].ActionName,East,東
+Caves_FmDarkTunnelSouthEast_DismantleActions[1].ActionName,East,東
+Caves_FmDarkTunnelSouthWest_DismantleActions[0].ActionName,East,東
+Caves_FmFlintclaw'sChamber_DismantleActions[1].ActionName,East,東
+Caves_FmOminousTunnel_DismantleActions[1].ActionName,East,東
+Caves_FmOvergrownTunnel_DismantleActions[1].ActionName,East,東
+Caves_FmSouthernTunnel_DismantleActions[0].ActionName,East,東
+ClearingOak_GreenGlade_DismantleActions[4].ActionName,East,東
+ClearingOak_MossyClearing_DismantleActions[4].ActionName,East,東
+ClearingPine_FlowerGlade_DismantleActions[3].ActionName,East,東
+EAST,East,東
+GroveOak_GreatOak_DismantleActions[4].ActionName,East,東
+GroveOak_GreenGrove_DismantleActions[4].ActionName,East,東
+GroveOak_MossyGrove_DismantleActions[4].ActionName,East,東
+GroveOak_MossyStone_DismantleActions[4].ActionName,East,東
+GroveOak_MuddyGrove_DismantleActions[4].ActionName,East,東
+GroveOak_OakenGrove_DismantleActions[4].ActionName,East,東
+GroveOak_OldStump_DismantleActions[3].ActionName,East,東
+GroveOak_SecretGrove_DismantleActions[3].ActionName,East,東
+GroveOak_ShadyGrove_DismantleActions[4].ActionName,East,東
+GrovePine_DeerGrove_DismantleActions[4].ActionName,East,東
+GrovePine_RockyGrove_DismantleActions[4].ActionName,East,東
+GrovePine_SlopedGrove_DismantleActions[4].ActionName,East,東
+ThicketOak_GreenTangle_DismantleActions[4].ActionName,East,東
+ThicketOak_LostWoods_DismantleActions[4].ActionName,East,東
+ThicketOak_MuddyThicket_DismantleActions[3].ActionName,East,東
+ThicketOak_MuddyWay_DismantleActions[4].ActionName,East,東
+ThicketOak_WhisperingThicket_DismantleActions[3].ActionName,East,東
+ThicketOak_WildThicket_DismantleActions[4].ActionName,East,東
 WindEast_GameName,East Wind,East Wind
 EASY_PACKAGE_TOGGLE,Easy Mode,Easy Mode
 EasyMode_PackageName,Easy Mode,Easy Mode
@@ -3701,7 +3701,7 @@ MudHutConstructionLocationEnclosure_Progress.CardStatName,Enclosure Stress,Enclo
 MudHutEnclosure_Progress.CardStatName,Enclosure Stress,Enclosure Stress
 Encumbrance_Statuses[0].GameName,Encumbered,Encumbered
 Encumbrance_GameName,Encumbrance,Encumbrance
-ENCUMBRANCE_AND_CHARACTER,"Encumbrance and Character screen\n<b>(Equipment, Wounds, Abilities)</b>","重量とキャラクター画面\n<b>(装備, 受傷, 能力)</b>"
+ENCUMBRANCE_AND_CHARACTER,"Encumbrance and Character screen\n<b>(Equipment, Wounds, Abilities)</b>","重量とキャラクター画面\n<b>(装備, 怪我, 能力)</b>"
 DEFAULT_ENCOUNTER_ENEMY_NAME,Enemy,Enemy
 EnemyDefeated_GameName,Enemy Prescence,Enemy Prescence
 Energy_GameName,Energy,Energy
@@ -4602,8 +4602,8 @@ AppleweedPlantedGrowing_CardDescription,"Found in clearings; needs medium acidit
 AppleweedPlantedMature_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 AppleweedPlantedDormant_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right."
 Bp_TurnrootField_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
-TurnrootFieldGrowing_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.","Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses."
-TurnrootFieldMature_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.","Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses."
+TurnrootFieldGrowing_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
+TurnrootFieldMature_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
 TurnrootPlantedGrowing_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.","Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses."
 TurnrootPlantedMature_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.","Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses."
 TurnrootPlantedDormant_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.","Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right."
@@ -4803,11 +4803,11 @@ GpTag_Garlic_TabName,Garlic,Garlic
 Spice_GarlicDry_SpiceName,Garlic,Garlic
 LQ_GarlicWater_CardName,Garlic Water,Garlic Water
 WildGarlicFresh_UsageDurability.OnFull.ActionDescription,Garlic dried!,Garlic dried!
-BacteriaDiarrhoea_GameName,Gastrointentinal Infection,胃腸感染
-BacteriaDiarrhoea_Statuses[3].GameName,Gastrointentinal Infection,胃腸感染
-BacteriaDiarrhoea_Statuses[4].GameName,Gastrointentinal Infection,胃腸感染
-BacteriaDiarrhoea_Statuses[5].GameName,Gastrointentinal Infection,胃腸感染
-BacteriaDiarrhoea_Statuses[6].GameName,Gastrointentinal Infection,胃腸感染
+BacteriaDiarrhoea_GameName,Gastrointentinal Infection,胃腸感染症
+BacteriaDiarrhoea_Statuses[3].GameName,Gastrointentinal Infection,胃腸感染症
+BacteriaDiarrhoea_Statuses[4].GameName,Gastrointentinal Infection,胃腸感染症
+BacteriaDiarrhoea_Statuses[5].GameName,Gastrointentinal Infection,胃腸感染症
+BacteriaDiarrhoea_Statuses[6].GameName,Gastrointentinal Infection,胃腸感染症
 BasicPottery_Obj1_GatherMud_ObjectiveDescription,Gather Mud,Gather Mud
 BasicPottery_Obj1_GatherMud_ObjectiveDescription*,Gather Mud,Gather Mud
 BasicPottery_Sub1_GatherMud_QuestTitle,Gather Mud,Gather Mud
@@ -7154,42 +7154,42 @@ WaterLevel_Statuses[0].GameName,Normal Water Level,Normal Water Level
 Weight_Statuses[3].GameName,Normal Weight,Normal Weight
 Weight_Statuses[4].GameName,Normal Weight,Normal Weight
 Weight_Statuses[5].GameName,Normal Weight,Normal Weight
-Caves_FmClearedTunnel_DismantleActions[0].ActionName,North,North
-Caves_FmDarkTunnelSouthEast_DismantleActions[2].ActionName,North,North
-Caves_FmDarkTunnelSouthWest_DismantleActions[1].ActionName,North,North
-Caves_FmDarkTunnelWest_DismantleActions[1].ActionName,North,North
-Caves_FmNorthernTunnel_DismantleActions[0].ActionName,North,North
-Caves_FmOvergrownTunnel_DismantleActions[2].ActionName,North,North
-Caves_FmSouthernTunnel_DismantleActions[1].ActionName,North,North
-Caves_FmTheShaft_DismantleActions[0].ActionName,North,North
-ClearingOak_GreenGlade_DismantleActions[5].ActionName,North,North
-GroveOak_MuddyGrove_DismantleActions[5].ActionName,North,North
-GroveOak_OakenGrove_DismantleActions[5].ActionName,North,North
-GroveOak_OldStump_DismantleActions[4].ActionName,North,North
-GrovePine_SlopedGrove_DismantleActions[5].ActionName,North,North
-NORTH,North,North
-River_ClearingOak_RiverClearing_DismantleActions[4].ActionName,North,North
-River_ClearingOak_RiverClearing_DismantleActions[5].ActionName,North,North
-River_GroveOak_FloodedGrove_DismantleActions[5].ActionName,North,North
-River_GroveOak_MossyBank_DismantleActions[4].ActionName,North,North
-River_GroveOak_MossyBank_DismantleActions[5].ActionName,North,North
-River_ThicketOak_MuddyBank_DismantleActions[6].ActionName,North,North
-River_ThicketOak_MuddyBank_DismantleActions[7].ActionName,North,North
-River_ThicketOak_RiverConfluence_DismantleActions[4].ActionName,North,North
-River_ThicketOak_RiverConfluence_DismantleActions[5].ActionName,North,North
-River_ThicketOak_ShadyBank_DismantleActions[4].ActionName,North,North
-River_ThicketOak_ShadyBank_DismantleActions[5].ActionName,North,North
-ThicketOak_GreenTangle_DismantleActions[5].ActionName,North,North
-ThicketOak_MuddyThicket_DismantleActions[4].ActionName,North,North
-ThicketOak_WhisperingThicket_DismantleActions[4].ActionName,North,North
-ThicketOak_WildThicket_DismantleActions[5].ActionName,North,North
+Caves_FmClearedTunnel_DismantleActions[0].ActionName,North,北
+Caves_FmDarkTunnelSouthEast_DismantleActions[2].ActionName,North,北
+Caves_FmDarkTunnelSouthWest_DismantleActions[1].ActionName,North,北
+Caves_FmDarkTunnelWest_DismantleActions[1].ActionName,North,北
+Caves_FmNorthernTunnel_DismantleActions[0].ActionName,North,北
+Caves_FmOvergrownTunnel_DismantleActions[2].ActionName,North,北
+Caves_FmSouthernTunnel_DismantleActions[1].ActionName,North,北
+Caves_FmTheShaft_DismantleActions[0].ActionName,North,北
+ClearingOak_GreenGlade_DismantleActions[5].ActionName,North,北
+GroveOak_MuddyGrove_DismantleActions[5].ActionName,North,北
+GroveOak_OakenGrove_DismantleActions[5].ActionName,North,北
+GroveOak_OldStump_DismantleActions[4].ActionName,North,北
+GrovePine_SlopedGrove_DismantleActions[5].ActionName,North,北
+NORTH,North,北
+River_ClearingOak_RiverClearing_DismantleActions[4].ActionName,North,北
+River_ClearingOak_RiverClearing_DismantleActions[5].ActionName,North,北
+River_GroveOak_FloodedGrove_DismantleActions[5].ActionName,North,北
+River_GroveOak_MossyBank_DismantleActions[4].ActionName,North,北
+River_GroveOak_MossyBank_DismantleActions[5].ActionName,North,北
+River_ThicketOak_MuddyBank_DismantleActions[6].ActionName,North,北
+River_ThicketOak_MuddyBank_DismantleActions[7].ActionName,North,北
+River_ThicketOak_RiverConfluence_DismantleActions[4].ActionName,North,北
+River_ThicketOak_RiverConfluence_DismantleActions[5].ActionName,North,北
+River_ThicketOak_ShadyBank_DismantleActions[4].ActionName,North,北
+River_ThicketOak_ShadyBank_DismantleActions[5].ActionName,North,北
+ThicketOak_GreenTangle_DismantleActions[5].ActionName,North,北
+ThicketOak_MuddyThicket_DismantleActions[4].ActionName,North,北
+ThicketOak_WhisperingThicket_DismantleActions[4].ActionName,North,北
+ThicketOak_WildThicket_DismantleActions[5].ActionName,North,北
 WindNorth_GameName,North Wind,North Wind
-River_GroveOak_FloodedGrove_DismantleActions[4].ActionName,Northeast,Northeast
+River_GroveOak_FloodedGrove_DismantleActions[4].ActionName,Northeast,北東
 Caves_FmNorthernChamber_CardName,Northern Chamber,Northern Chamber
 Env_FmNorthernChamber_CardName,Northern Chamber,Northern Chamber
 Caves_FmNorthernTunnel_CardName,Northern Tunnel,Northern Tunnel
 Env_FmNorthernTunnel_CardName,Northern Tunnel,Northern Tunnel
-River_GroveOak_FloodedGrove_DismantleActions[3].ActionName,Northwest,Northwest
+River_GroveOak_FloodedGrove_DismantleActions[3].ActionName,Northwest,北西
 BloodLoss_Statuses[0].GameName,Not Bleeding,Not Bleeding
 CampfireExtinguished_CardInteractions[8].RequiredReceivingDurabilities.FailMessage,Not Enough Fuel,Not Enough Fuel
 FireplaceExtinguished_CardInteractions[8].RequiredReceivingDurabilities.FailMessage,Not Enough Fuel,Not Enough Fuel
@@ -7863,10 +7863,10 @@ LeatherHelmet_CardDescription,Provide protection and insulation.\n\n<b>MUST BE E
 FurTrousers_CardDescription,"Provide protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>","Provide protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>"
 LeatherTrousers_CardDescription,"Provide protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>","Provide protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>"
 LeatherBracers_CardDescription,Provide protection.\n\n<b>MUST BE EQUIPPED TO WORK</b>,Provide protection.\n\n<b>MUST BE EQUIPPED TO WORK</b>
-Bp_FurBlanket_CardDescription,Provides comfort and insulation while sleeping when placed on a bed.,Provides comfort and insulation while sleeping when placed on a bed.
+Bp_FurBlanket_CardDescription,Provides comfort and insulation while sleeping when placed on a bed.,ベッドの上に置くと、就寝中に快適さと断熱性を提供する。
 Bp_LeatherBlanket_CardDescription,Provides comfort and insulation while sleeping when placed on a bed.,ベッドの上に置くと、就寝中に快適さと断熱性を提供する。
-FurBlanket_CardDescription,"Provides comfort, wellbeing and insulation while sleeping when placed on a bed.","Provides comfort, wellbeing and insulation while sleeping when placed on a bed."
-LeatherBlanket_CardDescription,"Provides comfort, wellbeing and insulation while sleeping when placed on a bed.","Provides comfort, wellbeing and insulation while sleeping when placed on a bed."
+FurBlanket_CardDescription,"Provides comfort, wellbeing and insulation while sleeping when placed on a bed.",ベッドの上に置くと、睡眠中に快適さ、幸福度、断熱性を提供する。
+LeatherBlanket_CardDescription,"Provides comfort, wellbeing and insulation while sleeping when placed on a bed.",ベッドの上に置くと、睡眠中に快適さ、幸福度、断熱性を提供する。
 Bonemeal_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
 Feathermeal_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
 Fertilizer_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
@@ -7905,199 +7905,199 @@ Event_FluteTunes3_DismantleActions[3].ActionDescription,Put down the instrument.
 DryingRack_CookingRecipes[1].ActionName,Putrefaction Quick Dryable,Putrefaction Quick Dryable
 PsychoCounter_GameName,Pyscho Counter,Pyscho Counter
 QUESTS_JOURNAL,QUESTS,クエスト
-AcornDoughRaw_SpecialDurability2.CardStatName,Quality,Quality
-AcornFlatBread_SpecialDurability2.CardStatName,Quality,Quality
-AcornFlourRaw_SpecialDurability2.CardStatName,Quality,Quality
-AcornsEdibleRaw_SpecialDurability2.CardStatName,Quality,Quality
-AcornsPoisonRaw_SpecialDurability2.CardStatName,Quality,Quality
-AcornsRoasted_SpecialDurability2.CardStatName,Quality,Quality
-AcornsSpiritRaw_SpecialDurability2.CardStatName,Quality,Quality
-AntlerPick_SpecialDurability2.CardStatName,Quality,Quality
-AppleWeedDried_SpecialDurability2.CardStatName,Quality,Quality
-AppleWeedPowder_SpecialDurability2.CardStatName,Quality,Quality
-AppleweedFresh_SpecialDurability2.CardStatName,Quality,Quality
-Arrow_Flint_SpecialDurability2.CardStatName,Quality,Quality
-Axe_Flint_SpecialDurability2.CardStatName,Quality,Quality
-BarkSandals_SpecialDurability2.CardStatName,Quality,Quality
-Basket_SpecialDurability2.CardStatName,Quality,Quality
-BillberriesDried_SpecialDurability2.CardStatName,Quality,Quality
-BillberriesFermented_SpecialDurability2.CardStatName,Quality,Quality
-BillberriesFermenting_SpecialDurability2.CardStatName,Quality,Quality
-BillberriesFresh_SpecialDurability2.CardStatName,Quality,Quality
-BillberriesRoasted_SpecialDurability2.CardStatName,Quality,Quality
-BirdMeatCooked_SpecialDurability2.CardStatName,Quality,Quality
-BirdMeatDried_SpecialDurability2.CardStatName,Quality,Quality
-BirdMeatRaw_SpecialDurability2.CardStatName,Quality,Quality
-BoarCarcassPiglet_SpecialDurability2.CardStatName,Quality,Quality
-BreadLoafCooked_SpecialDurability2.CardStatName,Quality,Quality
-BreadLoafRaw_SpecialDurability2.CardStatName,Quality,Quality
-BrickMold_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_BadgerCarcass_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_BoarCarcass_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_DoeCarcass_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_FoxCarcassWinter_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_PixieCarcass_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_StagCarcass_SpecialDurability2.CardStatName,Quality,Quality
-Carcass_WolfCarcass_SpecialDurability2.CardStatName,Quality,Quality
-ClayPlate_SpecialDurability2.CardStatName,Quality,Quality
-ClothLarge_SpecialDurability2.CardStatName,Quality,Quality
-Cloth_SpecialDurability2.CardStatName,Quality,Quality
-CloverRaw_SpecialDurability2.CardStatName,Quality,Quality
-EggBoiled_SpecialDurability2.CardStatName,Quality,Quality
-EggChickenCooked_SpecialDurability2.CardStatName,Quality,Quality
-EggChickenRaw_SpecialDurability2.CardStatName,Quality,Quality
-EggPartridgeCooked_SpecialDurability2.CardStatName,Quality,Quality
-EggPartridgeRaw_SpecialDurability2.CardStatName,Quality,Quality
-FairyweedDried_SpecialDurability2.CardStatName,Quality,Quality
-FairyweedFresh_SpecialDurability2.CardStatName,Quality,Quality
-FairyweedPowder_SpecialDurability2.CardStatName,Quality,Quality
-FatChunk_SpecialDurability2.CardStatName,Quality,Quality
-Fat_SpecialDurability2.CardStatName,Quality,Quality
-Fibers_SpecialDurability2.CardStatName,Quality,Quality
-FirerootBoiled_SpecialDurability2.CardStatName,Quality,Quality
-FirerootCutFresh_SpecialDurability2.CardStatName,Quality,Quality
-FirerootDried_SpecialDurability2.CardStatName,Quality,Quality
-FirerootFresh_SpecialDurability2.CardStatName,Quality,Quality
-FirerootPowder_SpecialDurability2.CardStatName,Quality,Quality
-FirerootRoasted_SpecialDurability2.CardStatName,Quality,Quality
-FishMeatCooked_SpecialDurability2.CardStatName,Quality,Quality
-FishMeatDried_SpecialDurability2.CardStatName,Quality,Quality
-FishMeatRaw_SpecialDurability2.CardStatName,Quality,Quality
-Fish_Perch_SpecialDurability2.CardStatName,Quality,Quality
-Fish_Pike_SpecialDurability2.CardStatName,Quality,Quality
-Fish_Sturgeon_SpecialDurability2.CardStatName,Quality,Quality
-Fish_Trout_SpecialDurability2.CardStatName,Quality,Quality
-FishingLine_Rustic_SpecialDurability2.CardStatName,Quality,Quality
-FishingRod_SpecialDurability2.CardStatName,Quality,Quality
-Flint_SpecialDurability2.CardStatName,Quality,Quality
-FluteWooden_SpecialDurability2.CardStatName,Quality,Quality
-FluteWooden_Unfinished_SpecialDurability2.CardStatName,Quality,Quality
-ForestCapsCooked_SpecialDurability2.CardStatName,Quality,Quality
-ForestCapsDried_SpecialDurability2.CardStatName,Quality,Quality
-ForestCapsFresh_SpecialDurability2.CardStatName,Quality,Quality
-FrostleafDried_SpecialDurability2.CardStatName,Quality,Quality
-FrostleafFresh_SpecialDurability2.CardStatName,Quality,Quality
-FrostleafPowder_SpecialDurability2.CardStatName,Quality,Quality
-FurBlanket_SpecialDurability2.CardStatName,Quality,Quality
-FurBoots_SpecialDurability2.CardStatName,Quality,Quality
-FurCoat_SpecialDurability2.CardStatName,Quality,Quality
-FurCured_SpecialDurability2.CardStatName,Quality,Quality
-FurFleshed_SpecialDurability2.CardStatName,Quality,Quality
-FurFresh_SpecialDurability2.CardStatName,Quality,Quality
-FurHat_SpecialDurability2.CardStatName,Quality,Quality
-FurLeather_SpecialDurability2.CardStatName,Quality,Quality
-FurMittens_SpecialDurability2.CardStatName,Quality,Quality
-FurTrousers_SpecialDurability2.CardStatName,Quality,Quality
-HealersMoss_SpecialDurability2.CardStatName*,Quality,Quality
-HealingOintment_SpecialDurability2.CardStatName,Quality,Quality
-Hoe_Flint_SpecialDurability2.CardStatName,Quality,Quality
-Knife_Flint_SpecialDurability2.CardStatName,Quality,Quality
-LQ_AppleweedTea_SpecialDurability2.CardStatName,Quality,Quality
-LQ_Beer_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FairyBrewCooked_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FairyBrewUncooked_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FairyweedTea_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FireBrewCooked_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FireBrewSuperCooked_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FireBrewUncooked_SpecialDurability2.CardStatName,Quality,Quality
-LQ_Firewater_SpecialDurability2.CardStatName,Quality,Quality
-LQ_FrostleafTea_SpecialDurability2.CardStatName,Quality,Quality
-LQ_GarlicWater_SpecialDurability2.CardStatName,Quality,Quality
-LQ_PoridgeDone_SpecialDurability2.CardStatName,Quality,Quality
-LQ_PoridgeFresh_SpecialDurability2.CardStatName,Quality,Quality
-LQ_RottenStew_SpecialDurability2.CardStatName,Quality,Quality
-LQ_SoakedRye_SpecialDurability2.CardStatName,Quality,Quality
-LQ_SpiritTea_SpecialDurability2.CardStatName,Quality,Quality
-LQ_StewWater_SpecialDurability2.CardStatName,Quality,Quality
-LQ_TanningLiquor_SpecialDurability2.CardStatName,Quality,Quality
-LQ_TanningWater_SpecialDurability2.CardStatName,Quality,Quality
-LQ_Water_SpecialDurability2.CardStatName,Quality,Quality
-LQ_Wort_SpecialDurability2.CardStatName,Quality,Quality
-LQ_Wort_SpecialDurability3.CardStatName,Quality,Quality
-LeatherBlanket_SpecialDurability2.CardStatName,Quality,Quality
-LeatherBoots_SpecialDurability2.CardStatName,Quality,Quality
-LeatherBracers_SpecialDurability2.CardStatName,Quality,Quality
-LeatherCoat_SpecialDurability2.CardStatName,Quality,Quality
-LeatherCuirass_SpecialDurability2.CardStatName,Quality,Quality
-LeatherGloves_SpecialDurability2.CardStatName,Quality,Quality
-LeatherHelmet_SpecialDurability2.CardStatName,Quality,Quality
-LeatherShoes_SpecialDurability2.CardStatName,Quality,Quality
-LeatherTrousers_SpecialDurability2.CardStatName,Quality,Quality
-LeatherTunic_SpecialDurability2.CardStatName,Quality,Quality
-LeatherVest_SpecialDurability2.CardStatName,Quality,Quality
-LeavesFresh_SpecialDurability2.CardStatName,Quality,Quality
-Loom_SpecialDurability2.CardStatName,Quality,Quality
-MaltedRyeCrushed_SpecialDurability2.CardStatName,Quality,Quality
-MaltedRyeExtracted_SpecialDurability2.CardStatName,Quality,Quality
-MaltingRyeClayVase_SpecialDurability2.CardStatName,Quality,Quality
-MeadowgrassSeeds_SpecialDurability2.CardStatName,Quality,Quality
-MeatCooked_SpecialDurability2.CardStatName,Quality,Quality
-MeatDried_SpecialDurability2.CardStatName,Quality,Quality
-MeatRaw_SpecialDurability2.CardStatName,Quality,Quality
-MinnowCooked_SpecialDurability2.CardStatName,Quality,Quality
-MinnowRaw_SpecialDurability2.CardStatName,Quality,Quality
-MossBoiled_SpecialDurability2.CardStatName,Quality,Quality
-MouseCooked_SpecialDurability2.CardStatName,Quality,Quality
-MouseRaw_SpecialDurability2.CardStatName,Quality,Quality
-NettleLeavesBlanchedBoiled_SpecialDurability2.CardStatName,Quality,Quality
-NettleLeavesDried_SpecialDurability2.CardStatName,Quality,Quality
-NettleLeavesRaw_SpecialDurability2.CardStatName,Quality,Quality
-NettleStemsLocation_SpecialDurability2.CardStatName,Quality,Quality
-NettleStems_SpecialDurability2.CardStatName,Quality,Quality
-PeasCooked_SpecialDurability2.CardStatName,Quality,Quality
-PeasDried_SpecialDurability2.CardStatName,Quality,Quality
-PeasFresh_SpecialDurability2.CardStatName,Quality,Quality
-ReedCoat_SpecialDurability2.CardStatName,Quality,Quality
-ReedSkirt_SpecialDurability2.CardStatName,Quality,Quality
-ReedTunic_SpecialDurability2.CardStatName,Quality,Quality
-ReedsDry_SpecialDurability2.CardStatName,Quality,Quality
-ReedsFreshLocation_SpecialDurability2.CardStatName,Quality,Quality
-ReedsFresh_SpecialDurability2.CardStatName,Quality,Quality
-RiverPoultice_SpecialDurability2.CardStatName,Quality,Quality
-RyeDoughRaw_SpecialDurability2.CardStatName,Quality,Quality
-RyeFlatBread_SpecialDurability2.CardStatName,Quality,Quality
-RyeFlourRaw_SpecialDurability2.CardStatName,Quality,Quality
-RyeGrains_SpecialDurability2.CardStatName,Quality,Quality
-RyeStalksDry_SpecialDurability2.CardStatName,Quality,Quality
-RyeStalksFresh_SpecialDurability2.CardStatName,Quality,Quality
-ShirtCloth_SpecialDurability2.CardStatName,Quality,Quality
-Sieve_SpecialDurability2.CardStatName,Quality,Quality
-SkinCured_SpecialDurability2.CardStatName,Quality,Quality
-SkinFleshed_SpecialDurability2.CardStatName,Quality,Quality
-SkinFresh_SpecialDurability2.CardStatName,Quality,Quality
-SkinLeather_SpecialDurability2.CardStatName,Quality,Quality
-SoothingPaste_SpecialDurability2.CardStatName,Quality,Quality
-Spear_Flint_SpecialDurability2.CardStatName,Quality,Quality
-Spindle_SpecialDurability2.CardStatName,Quality,Quality
-SpiritMushroomsDried_SpecialDurability2.CardStatName,Quality,Quality
-SpiritMushroomsFresh_SpecialDurability2.CardStatName,Quality,Quality
-SpiritMushroomsPowder_SpecialDurability2.CardStatName,Quality,Quality
-SpringberriesDried_SpecialDurability2.CardStatName,Quality,Quality
-SpringberriesFermented_SpecialDurability2.CardStatName,Quality,Quality
-SpringberriesFermenting_SpecialDurability2.CardStatName,Quality,Quality
-SpringberriesFresh_SpecialDurability2.CardStatName,Quality,Quality
-SpringberriesRoasted_SpecialDurability2.CardStatName,Quality,Quality
-SquirrelCooked_SpecialDurability2.CardStatName,Quality,Quality
-SquirrelRaw_SpecialDurability2.CardStatName,Quality,Quality
-StoneMortarAndPestle_SpecialDurability2.CardStatName,Quality,Quality
-Stone_SpecialDurability2.CardStatName,Quality,Quality
-StretchingFrame_SpecialDurability2.CardStatName,Quality,Quality
-TurnrootBoiled_SpecialDurability2.CardStatName,Quality,Quality
-TurnrootDried_SpecialDurability2.CardStatName,Quality,Quality
-TurnrootFresh_SpecialDurability2.CardStatName,Quality,Quality
-TurnrootMashedBoiled_SpecialDurability2.CardStatName,Quality,Quality
-TurnrootRoasted_SpecialDurability2.CardStatName,Quality,Quality
-TurnrootSeeds_SpecialDurability2.CardStatName,Quality,Quality
-WildGarlicCooked_SpecialDurability2.CardStatName,Quality,Quality
-WildGarlicDried_SpecialDurability2.CardStatName,Quality,Quality
-WildGarlicFresh_SpecialDurability2.CardStatName,Quality,Quality
-WildGarlicPowder_SpecialDurability2.CardStatName,Quality,Quality
-WoodCarving_Man_SpecialDurability2.CardStatName,Quality,Quality
-WoodCarving_Monster_SpecialDurability2.CardStatName,Quality,Quality
-WoodCarving_Unfinished_SpecialDurability2.CardStatName,Quality,Quality
-WoodCarving_Woman_SpecialDurability2.CardStatName,Quality,Quality
-WoodenPlate_SpecialDurability2.CardStatName,Quality,Quality
-YarnFiber_SpecialDurability2.CardStatName,Quality,Quality
+AcornDoughRaw_SpecialDurability2.CardStatName,Quality,品質
+AcornFlatBread_SpecialDurability2.CardStatName,Quality,品質
+AcornFlourRaw_SpecialDurability2.CardStatName,Quality,品質
+AcornsEdibleRaw_SpecialDurability2.CardStatName,Quality,品質
+AcornsPoisonRaw_SpecialDurability2.CardStatName,Quality,品質
+AcornsRoasted_SpecialDurability2.CardStatName,Quality,品質
+AcornsSpiritRaw_SpecialDurability2.CardStatName,Quality,品質
+AntlerPick_SpecialDurability2.CardStatName,Quality,品質
+AppleWeedDried_SpecialDurability2.CardStatName,Quality,品質
+AppleWeedPowder_SpecialDurability2.CardStatName,Quality,品質
+AppleweedFresh_SpecialDurability2.CardStatName,Quality,品質
+Arrow_Flint_SpecialDurability2.CardStatName,Quality,品質
+Axe_Flint_SpecialDurability2.CardStatName,Quality,品質
+BarkSandals_SpecialDurability2.CardStatName,Quality,品質
+Basket_SpecialDurability2.CardStatName,Quality,品質
+BillberriesDried_SpecialDurability2.CardStatName,Quality,品質
+BillberriesFermented_SpecialDurability2.CardStatName,Quality,品質
+BillberriesFermenting_SpecialDurability2.CardStatName,Quality,品質
+BillberriesFresh_SpecialDurability2.CardStatName,Quality,品質
+BillberriesRoasted_SpecialDurability2.CardStatName,Quality,品質
+BirdMeatCooked_SpecialDurability2.CardStatName,Quality,品質
+BirdMeatDried_SpecialDurability2.CardStatName,Quality,品質
+BirdMeatRaw_SpecialDurability2.CardStatName,Quality,品質
+BoarCarcassPiglet_SpecialDurability2.CardStatName,Quality,品質
+BreadLoafCooked_SpecialDurability2.CardStatName,Quality,品質
+BreadLoafRaw_SpecialDurability2.CardStatName,Quality,品質
+BrickMold_SpecialDurability2.CardStatName,Quality,品質
+Carcass_BadgerCarcass_SpecialDurability2.CardStatName,Quality,品質
+Carcass_BoarCarcass_SpecialDurability2.CardStatName,Quality,品質
+Carcass_DoeCarcass_SpecialDurability2.CardStatName,Quality,品質
+Carcass_FoxCarcassWinter_SpecialDurability2.CardStatName,Quality,品質
+Carcass_PixieCarcass_SpecialDurability2.CardStatName,Quality,品質
+Carcass_StagCarcass_SpecialDurability2.CardStatName,Quality,品質
+Carcass_WolfCarcass_SpecialDurability2.CardStatName,Quality,品質
+ClayPlate_SpecialDurability2.CardStatName,Quality,品質
+ClothLarge_SpecialDurability2.CardStatName,Quality,品質
+Cloth_SpecialDurability2.CardStatName,Quality,品質
+CloverRaw_SpecialDurability2.CardStatName,Quality,品質
+EggBoiled_SpecialDurability2.CardStatName,Quality,品質
+EggChickenCooked_SpecialDurability2.CardStatName,Quality,品質
+EggChickenRaw_SpecialDurability2.CardStatName,Quality,品質
+EggPartridgeCooked_SpecialDurability2.CardStatName,Quality,品質
+EggPartridgeRaw_SpecialDurability2.CardStatName,Quality,品質
+FairyweedDried_SpecialDurability2.CardStatName,Quality,品質
+FairyweedFresh_SpecialDurability2.CardStatName,Quality,品質
+FairyweedPowder_SpecialDurability2.CardStatName,Quality,品質
+FatChunk_SpecialDurability2.CardStatName,Quality,品質
+Fat_SpecialDurability2.CardStatName,Quality,品質
+Fibers_SpecialDurability2.CardStatName,Quality,品質
+FirerootBoiled_SpecialDurability2.CardStatName,Quality,品質
+FirerootCutFresh_SpecialDurability2.CardStatName,Quality,品質
+FirerootDried_SpecialDurability2.CardStatName,Quality,品質
+FirerootFresh_SpecialDurability2.CardStatName,Quality,品質
+FirerootPowder_SpecialDurability2.CardStatName,Quality,品質
+FirerootRoasted_SpecialDurability2.CardStatName,Quality,品質
+FishMeatCooked_SpecialDurability2.CardStatName,Quality,品質
+FishMeatDried_SpecialDurability2.CardStatName,Quality,品質
+FishMeatRaw_SpecialDurability2.CardStatName,Quality,品質
+Fish_Perch_SpecialDurability2.CardStatName,Quality,品質
+Fish_Pike_SpecialDurability2.CardStatName,Quality,品質
+Fish_Sturgeon_SpecialDurability2.CardStatName,Quality,品質
+Fish_Trout_SpecialDurability2.CardStatName,Quality,品質
+FishingLine_Rustic_SpecialDurability2.CardStatName,Quality,品質
+FishingRod_SpecialDurability2.CardStatName,Quality,品質
+Flint_SpecialDurability2.CardStatName,Quality,品質
+FluteWooden_SpecialDurability2.CardStatName,Quality,品質
+FluteWooden_Unfinished_SpecialDurability2.CardStatName,Quality,品質
+ForestCapsCooked_SpecialDurability2.CardStatName,Quality,品質
+ForestCapsDried_SpecialDurability2.CardStatName,Quality,品質
+ForestCapsFresh_SpecialDurability2.CardStatName,Quality,品質
+FrostleafDried_SpecialDurability2.CardStatName,Quality,品質
+FrostleafFresh_SpecialDurability2.CardStatName,Quality,品質
+FrostleafPowder_SpecialDurability2.CardStatName,Quality,品質
+FurBlanket_SpecialDurability2.CardStatName,Quality,品質
+FurBoots_SpecialDurability2.CardStatName,Quality,品質
+FurCoat_SpecialDurability2.CardStatName,Quality,品質
+FurCured_SpecialDurability2.CardStatName,Quality,品質
+FurFleshed_SpecialDurability2.CardStatName,Quality,品質
+FurFresh_SpecialDurability2.CardStatName,Quality,品質
+FurHat_SpecialDurability2.CardStatName,Quality,品質
+FurLeather_SpecialDurability2.CardStatName,Quality,品質
+FurMittens_SpecialDurability2.CardStatName,Quality,品質
+FurTrousers_SpecialDurability2.CardStatName,Quality,品質
+HealersMoss_SpecialDurability2.CardStatName*,Quality,品質
+HealingOintment_SpecialDurability2.CardStatName,Quality,品質
+Hoe_Flint_SpecialDurability2.CardStatName,Quality,品質
+Knife_Flint_SpecialDurability2.CardStatName,Quality,品質
+LQ_AppleweedTea_SpecialDurability2.CardStatName,Quality,品質
+LQ_Beer_SpecialDurability2.CardStatName,Quality,品質
+LQ_FairyBrewCooked_SpecialDurability2.CardStatName,Quality,品質
+LQ_FairyBrewUncooked_SpecialDurability2.CardStatName,Quality,品質
+LQ_FairyweedTea_SpecialDurability2.CardStatName,Quality,品質
+LQ_FireBrewCooked_SpecialDurability2.CardStatName,Quality,品質
+LQ_FireBrewSuperCooked_SpecialDurability2.CardStatName,Quality,品質
+LQ_FireBrewUncooked_SpecialDurability2.CardStatName,Quality,品質
+LQ_Firewater_SpecialDurability2.CardStatName,Quality,品質
+LQ_FrostleafTea_SpecialDurability2.CardStatName,Quality,品質
+LQ_GarlicWater_SpecialDurability2.CardStatName,Quality,品質
+LQ_PoridgeDone_SpecialDurability2.CardStatName,Quality,品質
+LQ_PoridgeFresh_SpecialDurability2.CardStatName,Quality,品質
+LQ_RottenStew_SpecialDurability2.CardStatName,Quality,品質
+LQ_SoakedRye_SpecialDurability2.CardStatName,Quality,品質
+LQ_SpiritTea_SpecialDurability2.CardStatName,Quality,品質
+LQ_StewWater_SpecialDurability2.CardStatName,Quality,品質
+LQ_TanningLiquor_SpecialDurability2.CardStatName,Quality,品質
+LQ_TanningWater_SpecialDurability2.CardStatName,Quality,品質
+LQ_Water_SpecialDurability2.CardStatName,Quality,品質
+LQ_Wort_SpecialDurability2.CardStatName,Quality,品質
+LQ_Wort_SpecialDurability3.CardStatName,Quality,品質
+LeatherBlanket_SpecialDurability2.CardStatName,Quality,品質
+LeatherBoots_SpecialDurability2.CardStatName,Quality,品質
+LeatherBracers_SpecialDurability2.CardStatName,Quality,品質
+LeatherCoat_SpecialDurability2.CardStatName,Quality,品質
+LeatherCuirass_SpecialDurability2.CardStatName,Quality,品質
+LeatherGloves_SpecialDurability2.CardStatName,Quality,品質
+LeatherHelmet_SpecialDurability2.CardStatName,Quality,品質
+LeatherShoes_SpecialDurability2.CardStatName,Quality,品質
+LeatherTrousers_SpecialDurability2.CardStatName,Quality,品質
+LeatherTunic_SpecialDurability2.CardStatName,Quality,品質
+LeatherVest_SpecialDurability2.CardStatName,Quality,品質
+LeavesFresh_SpecialDurability2.CardStatName,Quality,品質
+Loom_SpecialDurability2.CardStatName,Quality,品質
+MaltedRyeCrushed_SpecialDurability2.CardStatName,Quality,品質
+MaltedRyeExtracted_SpecialDurability2.CardStatName,Quality,品質
+MaltingRyeClayVase_SpecialDurability2.CardStatName,Quality,品質
+MeadowgrassSeeds_SpecialDurability2.CardStatName,Quality,品質
+MeatCooked_SpecialDurability2.CardStatName,Quality,品質
+MeatDried_SpecialDurability2.CardStatName,Quality,品質
+MeatRaw_SpecialDurability2.CardStatName,Quality,品質
+MinnowCooked_SpecialDurability2.CardStatName,Quality,品質
+MinnowRaw_SpecialDurability2.CardStatName,Quality,品質
+MossBoiled_SpecialDurability2.CardStatName,Quality,品質
+MouseCooked_SpecialDurability2.CardStatName,Quality,品質
+MouseRaw_SpecialDurability2.CardStatName,Quality,品質
+NettleLeavesBlanchedBoiled_SpecialDurability2.CardStatName,Quality,品質
+NettleLeavesDried_SpecialDurability2.CardStatName,Quality,品質
+NettleLeavesRaw_SpecialDurability2.CardStatName,Quality,品質
+NettleStemsLocation_SpecialDurability2.CardStatName,Quality,品質
+NettleStems_SpecialDurability2.CardStatName,Quality,品質
+PeasCooked_SpecialDurability2.CardStatName,Quality,品質
+PeasDried_SpecialDurability2.CardStatName,Quality,品質
+PeasFresh_SpecialDurability2.CardStatName,Quality,品質
+ReedCoat_SpecialDurability2.CardStatName,Quality,品質
+ReedSkirt_SpecialDurability2.CardStatName,Quality,品質
+ReedTunic_SpecialDurability2.CardStatName,Quality,品質
+ReedsDry_SpecialDurability2.CardStatName,Quality,品質
+ReedsFreshLocation_SpecialDurability2.CardStatName,Quality,品質
+ReedsFresh_SpecialDurability2.CardStatName,Quality,品質
+RiverPoultice_SpecialDurability2.CardStatName,Quality,品質
+RyeDoughRaw_SpecialDurability2.CardStatName,Quality,品質
+RyeFlatBread_SpecialDurability2.CardStatName,Quality,品質
+RyeFlourRaw_SpecialDurability2.CardStatName,Quality,品質
+RyeGrains_SpecialDurability2.CardStatName,Quality,品質
+RyeStalksDry_SpecialDurability2.CardStatName,Quality,品質
+RyeStalksFresh_SpecialDurability2.CardStatName,Quality,品質
+ShirtCloth_SpecialDurability2.CardStatName,Quality,品質
+Sieve_SpecialDurability2.CardStatName,Quality,品質
+SkinCured_SpecialDurability2.CardStatName,Quality,品質
+SkinFleshed_SpecialDurability2.CardStatName,Quality,品質
+SkinFresh_SpecialDurability2.CardStatName,Quality,品質
+SkinLeather_SpecialDurability2.CardStatName,Quality,品質
+SoothingPaste_SpecialDurability2.CardStatName,Quality,品質
+Spear_Flint_SpecialDurability2.CardStatName,Quality,品質
+Spindle_SpecialDurability2.CardStatName,Quality,品質
+SpiritMushroomsDried_SpecialDurability2.CardStatName,Quality,品質
+SpiritMushroomsFresh_SpecialDurability2.CardStatName,Quality,品質
+SpiritMushroomsPowder_SpecialDurability2.CardStatName,Quality,品質
+SpringberriesDried_SpecialDurability2.CardStatName,Quality,品質
+SpringberriesFermented_SpecialDurability2.CardStatName,Quality,品質
+SpringberriesFermenting_SpecialDurability2.CardStatName,Quality,品質
+SpringberriesFresh_SpecialDurability2.CardStatName,Quality,品質
+SpringberriesRoasted_SpecialDurability2.CardStatName,Quality,品質
+SquirrelCooked_SpecialDurability2.CardStatName,Quality,品質
+SquirrelRaw_SpecialDurability2.CardStatName,Quality,品質
+StoneMortarAndPestle_SpecialDurability2.CardStatName,Quality,品質
+Stone_SpecialDurability2.CardStatName,Quality,品質
+StretchingFrame_SpecialDurability2.CardStatName,Quality,品質
+TurnrootBoiled_SpecialDurability2.CardStatName,Quality,品質
+TurnrootDried_SpecialDurability2.CardStatName,Quality,品質
+TurnrootFresh_SpecialDurability2.CardStatName,Quality,品質
+TurnrootMashedBoiled_SpecialDurability2.CardStatName,Quality,品質
+TurnrootRoasted_SpecialDurability2.CardStatName,Quality,品質
+TurnrootSeeds_SpecialDurability2.CardStatName,Quality,品質
+WildGarlicCooked_SpecialDurability2.CardStatName,Quality,品質
+WildGarlicDried_SpecialDurability2.CardStatName,Quality,品質
+WildGarlicFresh_SpecialDurability2.CardStatName,Quality,品質
+WildGarlicPowder_SpecialDurability2.CardStatName,Quality,品質
+WoodCarving_Man_SpecialDurability2.CardStatName,Quality,品質
+WoodCarving_Monster_SpecialDurability2.CardStatName,Quality,品質
+WoodCarving_Unfinished_SpecialDurability2.CardStatName,Quality,品質
+WoodCarving_Woman_SpecialDurability2.CardStatName,Quality,品質
+WoodenPlate_SpecialDurability2.CardStatName,Quality,品質
+YarnFiber_SpecialDurability2.CardStatName,Quality,品質
 GpTag_FeedBirdMedium_TabName,Quality Bird Feed ,Quality Bird Feed 
 LIQUID_DEFAULT_NAME,Quantity,Quantity
 Quicklime_CardName,Quicklime,Quicklime
@@ -8608,10 +8608,10 @@ tag_ShallowWater_InGameName,Shallow Water,Shallow Water
 GpTag_SharpAxe_TabName,Sharp Axe,Sharp Axe
 GpTag_SharpKnife_TabName,Sharp Knife,Sharp Knife
 Axe_Flint_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.","Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood."
-Bp_Flint_Axe_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.",木を切り倒すのに十分な鋭さで、雑木林の伐採や木材の生産に最適。
+Bp_Flint_Axe_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.",木を切り倒すのに充分な鋭さで、雑木林の伐採や木材の生産に最適。
 Arrow_Flint_CardDescription,Sharp enough to pierce through the hides of larger animal.,Sharp enough to pierce through the hides of larger animal.
 Bp_Flint_Arrows_CardDescription,Sharp enough to pierce through the hides of larger animal.,Sharp enough to pierce through the hides of larger animal.
-Bp_Knife_Flint_CardDescription,Sharp enough to work wood and leather.,木材や皮革を加工するのに十分な切れ味。
+Bp_Knife_Flint_CardDescription,Sharp enough to work wood and leather.,木材や皮革を加工するのに充分な切れ味。
 Knife_Flint_CardDescription,Sharp enough to work wood and leather.,Sharp enough to work wood and leather.
 StoneHeavy_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 Stone_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
@@ -8933,43 +8933,43 @@ SoothingPasteApplied_Statuses[0].GameName,Soothing Paste,Soothing Paste
 SFX,Sound Effects,効果音
 LQ_StewWater_AlternateNames[2].Name,Soup,Soup
 Sour_FlavourName,Sour,Sour
-Caves_FmClearedTunnel_DismantleActions[1].ActionName,South,South
-Caves_FmCollapsedTunnel_DismantleActions[1].ActionName,South,South
-Caves_FmDarkTunnelNorthEast_DismantleActions[2].ActionName,South,South
-Caves_FmDarkTunnelNorthWest_DismantleActions[1].ActionName,South,South
-Caves_FmDarkTunnelWest_DismantleActions[2].ActionName,South,South
-Caves_FmFloodedTunnel_DismantleActions[1].ActionName,South,South
-Caves_FmNorthernChamber_DismantleActions[0].ActionName,South,South
-Caves_FmNorthernTunnel_DismantleActions[1].ActionName,South,South
-Caves_FmTheShaft_DismantleActions[1].ActionName,South,South
-ClearingOak_MossyClearing_DismantleActions[5].ActionName,South,South
-ClearingPine_FlowerGlade_DismantleActions[4].ActionName,South,South
-Env_FmNorthernChamber_DismantleActions[0].ActionName,South,South
-GroveOak_MossyStone_DismantleActions[5].ActionName,South,South
-GroveOak_MuddyGrove_DismantleActions[6].ActionName,South,South
-GroveOak_OakenGrove_DismantleActions[6].ActionName,South,South
-GroveOak_ShadyGrove_DismantleActions[5].ActionName,South,South
-GrovePine_DeerGrove_DismantleActions[5].ActionName,South,South
-GrovePine_RockyGrove_DismantleActions[5].ActionName,South,South
-River_ClearingOak_RiverClearing_DismantleActions[6].ActionName,South,South
-River_ClearingOak_RiverClearing_DismantleActions[7].ActionName,South,South
-River_GroveOak_Greenfalls_DismantleActions[5].ActionName,South,South
-River_GroveOak_Greenfalls_DismantleActions[6].ActionName,South,South
-River_GroveOak_MossyBank_DismantleActions[6].ActionName,South,South
-River_GroveOak_MossyBank_DismantleActions[7].ActionName,South,South
-River_ThicketOak_RiverConfluence_DismantleActions[6].ActionName,South,South
-River_ThicketOak_RiverConfluence_DismantleActions[7].ActionName,South,South
-River_ThicketOak_ShadyBank_DismantleActions[6].ActionName,South,South
-River_ThicketOak_ShadyBank_DismantleActions[7].ActionName,South,South
-SOUTH,South,South
-ThicketOak_WhisperingThicket_DismantleActions[5].ActionName,South,South
-ThicketOak_WildThicket_DismantleActions[6].ActionName,South,South
+Caves_FmClearedTunnel_DismantleActions[1].ActionName,South,南
+Caves_FmCollapsedTunnel_DismantleActions[1].ActionName,South,南
+Caves_FmDarkTunnelNorthEast_DismantleActions[2].ActionName,South,南
+Caves_FmDarkTunnelNorthWest_DismantleActions[1].ActionName,South,南
+Caves_FmDarkTunnelWest_DismantleActions[2].ActionName,South,南
+Caves_FmFloodedTunnel_DismantleActions[1].ActionName,South,南
+Caves_FmNorthernChamber_DismantleActions[0].ActionName,South,南
+Caves_FmNorthernTunnel_DismantleActions[1].ActionName,South,南
+Caves_FmTheShaft_DismantleActions[1].ActionName,South,南
+ClearingOak_MossyClearing_DismantleActions[5].ActionName,South,南
+ClearingPine_FlowerGlade_DismantleActions[4].ActionName,South,南
+Env_FmNorthernChamber_DismantleActions[0].ActionName,South,南
+GroveOak_MossyStone_DismantleActions[5].ActionName,South,南
+GroveOak_MuddyGrove_DismantleActions[6].ActionName,South,南
+GroveOak_OakenGrove_DismantleActions[6].ActionName,South,南
+GroveOak_ShadyGrove_DismantleActions[5].ActionName,South,南
+GrovePine_DeerGrove_DismantleActions[5].ActionName,South,南
+GrovePine_RockyGrove_DismantleActions[5].ActionName,South,南
+River_ClearingOak_RiverClearing_DismantleActions[6].ActionName,South,南
+River_ClearingOak_RiverClearing_DismantleActions[7].ActionName,South,南
+River_GroveOak_Greenfalls_DismantleActions[5].ActionName,South,南
+River_GroveOak_Greenfalls_DismantleActions[6].ActionName,South,南
+River_GroveOak_MossyBank_DismantleActions[6].ActionName,South,南
+River_GroveOak_MossyBank_DismantleActions[7].ActionName,South,南
+River_ThicketOak_RiverConfluence_DismantleActions[6].ActionName,South,南
+River_ThicketOak_RiverConfluence_DismantleActions[7].ActionName,South,南
+River_ThicketOak_ShadyBank_DismantleActions[6].ActionName,South,南
+River_ThicketOak_ShadyBank_DismantleActions[7].ActionName,South,南
+SOUTH,South,南
+ThicketOak_WhisperingThicket_DismantleActions[5].ActionName,South,南
+ThicketOak_WildThicket_DismantleActions[6].ActionName,South,南
 WindSouth_GameName,South Wind,South Wind
-ThicketOak_MuddyThicket_DismantleActions[5].ActionName,Southeast,Southeast
+ThicketOak_MuddyThicket_DismantleActions[5].ActionName,Southeast,南東
 Caves_FmSouthernTunnel_CardName,Southern Tunnel,Southern Tunnel
 Env_FmSouthernTunnel_CardName,Southern Tunnel,Southern Tunnel
-River_ThicketOak_MuddyBank_DismantleActions[4].ActionName,Southwest,Southwest
-River_ThicketOak_MuddyBank_DismantleActions[5].ActionName,Southwest,Southwest
+River_ThicketOak_MuddyBank_DismantleActions[4].ActionName,Southwest,南西
+River_ThicketOak_MuddyBank_DismantleActions[5].ActionName,Southwest,南西
 BoarEnclosureFemale_CardName,Sow,Sow
 BoarEnclosureFemale_SpoilageTime.OnZero.ActionDescription,Sow died of starvation!,Sow died of starvation!
 tag_Spear_InGameName,Spear,Spear
@@ -8981,70 +8981,70 @@ River_CardInteractions[7].ActionName,Spearfish,Spearfish
 Tab_Cooking_Special_TabName,Special,Special
 Tab_Tailoring_Special_TabName,Special,Special
 SPECIAL_THANKS,Special thanks to:,Special thanks to:
-AcornFlatBread_SpecialDurability4.CardStatName,Spices,Spices
-AcornFlourRaw_SpecialDurability4.CardStatName,Spices,Spices
-AcornsEdibleRaw_SpecialDurability4.CardStatName,Spices,Spices
-AcornsRoasted_SpecialDurability4.CardStatName,Spices,Spices
-BillberriesDried_SpecialDurability4.CardStatName,Spices,Spices
-BillberriesFermented_SpecialDurability4.CardStatName,Spices,Spices
-BillberriesFermenting_SpecialDurability4.CardStatName,Spices,Spices
-BillberriesFresh_SpecialDurability4.CardStatName,Spices,Spices
-BillberriesRoasted_SpecialDurability4.CardStatName,Spices,Spices
-BirdMeatCooked_SpecialDurability4.CardStatName,Spices,Spices
-BirdMeatDried_SpecialDurability4.CardStatName,Spices,Spices
-BirdMeatRaw_SpecialDurability4.CardStatName,Spices,Spices
-FirerootBoiled_SpecialDurability4.CardStatName,Spices,Spices
-FirerootDried_SpecialDurability4.CardStatName,Spices,Spices
-FirerootPowder_SpecialDurability4.CardStatName,Spices,Spices
-FirerootRoasted_SpecialDurability4.CardStatName,Spices,Spices
-FishMeatCooked_SpecialDurability4.CardStatName,Spices,Spices
-FishMeatDried_SpecialDurability4.CardStatName,Spices,Spices
-FishMeatRaw_SpecialDurability4.CardStatName,Spices,Spices
-ForestCapsCooked_SpecialDurability4.CardStatName,Spices,Spices
-ForestCapsDried_SpecialDurability4.CardStatName,Spices,Spices
-ForestCapsFresh_SpecialDurability4.CardStatName,Spices,Spices
-LQ_AppleweedTea_SpecialDurability4.CardStatName,Spices,Spices
-LQ_FairyweedTea_SpecialDurability4.CardStatName,Spices,Spices
-LQ_Firewater_SpecialDurability4.CardStatName,Spices,Spices
-LQ_FrostleafTea_SpecialDurability4.CardStatName,Spices,Spices
-LQ_PoridgeDone_SpecialDurability4.CardStatName,Spices,Spices
-LQ_PoridgeFresh_SpecialDurability4.CardStatName,Spices,Spices
-LQ_SoakedRye_SpecialDurability4.CardStatName,Spices,Spices
-LQ_SpiritTea_SpecialDurability4.CardStatName,Spices,Spices
-LQ_TanningLiquor_SpecialDurability4.CardStatName,Spices,Spices
-LQ_TanningWater_SpecialDurability4.CardStatName,Spices,Spices
-MeatCooked_SpecialDurability4.CardStatName,Spices,Spices
-MeatDried_SpecialDurability4.CardStatName,Spices,Spices
-MeatRaw_SpecialDurability4.CardStatName,Spices,Spices
-MinnowCooked_SpecialDurability4.CardStatName,Spices,Spices
-MinnowRaw_SpecialDurability4.CardStatName,Spices,Spices
-MouseCooked_SpecialDurability4.CardStatName,Spices,Spices
-MouseRaw_SpecialDurability4.CardStatName,Spices,Spices
-NOT_USED_LQ_FairyBrewCooked_SpecialDurability4.CardStatName,Spices,Spices
-NOT_USED_LQ_FairyBrewUncooked_SpecialDurability4.CardStatName,Spices,Spices
-NOT_USED_LQ_FireBrewCooked_SpecialDurability4.CardStatName,Spices,Spices
-NOT_USED_LQ_FireBrewSuperCooked_SpecialDurability4.CardStatName,Spices,Spices
-NOT_USED_LQ_FireBrewUncooked_SpecialDurability4.CardStatName,Spices,Spices
-NettleLeavesBlanchedBoiled_SpecialDurability4.CardStatName,Spices,Spices
-PeasCooked_SpecialDurability4.CardStatName,Spices,Spices
-PeasDried_SpecialDurability4.CardStatName,Spices,Spices
-PeasFresh_SpecialDurability4.CardStatName,Spices,Spices
-RyeFlatBread_SpecialDurability4.CardStatName,Spices,Spices
-SpringberriesDried_SpecialDurability4.CardStatName,Spices,Spices
-SpringberriesFermented_SpecialDurability4.CardStatName,Spices,Spices
-SpringberriesFermenting_SpecialDurability4.CardStatName,Spices,Spices
-SpringberriesFresh_SpecialDurability4.CardStatName,Spices,Spices
-SpringberriesRoasted_SpecialDurability4.CardStatName,Spices,Spices
-SquirrelCooked_SpecialDurability4.CardStatName,Spices,Spices
-SquirrelRaw_SpecialDurability4.CardStatName,Spices,Spices
-TurnrootBoiled_SpecialDurability4.CardStatName,Spices,Spices
-TurnrootDried_SpecialDurability4.CardStatName,Spices,Spices
-TurnrootMashedBoiled_SpecialDurability4.CardStatName,Spices,Spices
-TurnrootRoasted_SpecialDurability4.CardStatName,Spices,Spices
-WildGarlicCooked_SpecialDurability4.CardStatName,Spices,Spices
-WildGarlicDried_SpecialDurability4.CardStatName,Spices,Spices
-WildGarlicFresh_SpecialDurability4.CardStatName,Spices,Spices
-WildGarlicPowder_SpecialDurability4.CardStatName,Spices,Spices
+AcornFlatBread_SpecialDurability4.CardStatName,Spices,スパイス
+AcornFlourRaw_SpecialDurability4.CardStatName,Spices,スパイス
+AcornsEdibleRaw_SpecialDurability4.CardStatName,Spices,スパイス
+AcornsRoasted_SpecialDurability4.CardStatName,Spices,スパイス
+BillberriesDried_SpecialDurability4.CardStatName,Spices,スパイス
+BillberriesFermented_SpecialDurability4.CardStatName,Spices,スパイス
+BillberriesFermenting_SpecialDurability4.CardStatName,Spices,スパイス
+BillberriesFresh_SpecialDurability4.CardStatName,Spices,スパイス
+BillberriesRoasted_SpecialDurability4.CardStatName,Spices,スパイス
+BirdMeatCooked_SpecialDurability4.CardStatName,Spices,スパイス
+BirdMeatDried_SpecialDurability4.CardStatName,Spices,スパイス
+BirdMeatRaw_SpecialDurability4.CardStatName,Spices,スパイス
+FirerootBoiled_SpecialDurability4.CardStatName,Spices,スパイス
+FirerootDried_SpecialDurability4.CardStatName,Spices,スパイス
+FirerootPowder_SpecialDurability4.CardStatName,Spices,スパイス
+FirerootRoasted_SpecialDurability4.CardStatName,Spices,スパイス
+FishMeatCooked_SpecialDurability4.CardStatName,Spices,スパイス
+FishMeatDried_SpecialDurability4.CardStatName,Spices,スパイス
+FishMeatRaw_SpecialDurability4.CardStatName,Spices,スパイス
+ForestCapsCooked_SpecialDurability4.CardStatName,Spices,スパイス
+ForestCapsDried_SpecialDurability4.CardStatName,Spices,スパイス
+ForestCapsFresh_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_AppleweedTea_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_FairyweedTea_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_Firewater_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_FrostleafTea_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_PoridgeDone_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_PoridgeFresh_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_SoakedRye_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_SpiritTea_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_TanningLiquor_SpecialDurability4.CardStatName,Spices,スパイス
+LQ_TanningWater_SpecialDurability4.CardStatName,Spices,スパイス
+MeatCooked_SpecialDurability4.CardStatName,Spices,スパイス
+MeatDried_SpecialDurability4.CardStatName,Spices,スパイス
+MeatRaw_SpecialDurability4.CardStatName,Spices,スパイス
+MinnowCooked_SpecialDurability4.CardStatName,Spices,スパイス
+MinnowRaw_SpecialDurability4.CardStatName,Spices,スパイス
+MouseCooked_SpecialDurability4.CardStatName,Spices,スパイス
+MouseRaw_SpecialDurability4.CardStatName,Spices,スパイス
+NOT_USED_LQ_FairyBrewCooked_SpecialDurability4.CardStatName,Spices,スパイス
+NOT_USED_LQ_FairyBrewUncooked_SpecialDurability4.CardStatName,Spices,スパイス
+NOT_USED_LQ_FireBrewCooked_SpecialDurability4.CardStatName,Spices,スパイス
+NOT_USED_LQ_FireBrewSuperCooked_SpecialDurability4.CardStatName,Spices,スパイス
+NOT_USED_LQ_FireBrewUncooked_SpecialDurability4.CardStatName,Spices,スパイス
+NettleLeavesBlanchedBoiled_SpecialDurability4.CardStatName,Spices,スパイス
+PeasCooked_SpecialDurability4.CardStatName,Spices,スパイス
+PeasDried_SpecialDurability4.CardStatName,Spices,スパイス
+PeasFresh_SpecialDurability4.CardStatName,Spices,スパイス
+RyeFlatBread_SpecialDurability4.CardStatName,Spices,スパイス
+SpringberriesDried_SpecialDurability4.CardStatName,Spices,スパイス
+SpringberriesFermented_SpecialDurability4.CardStatName,Spices,スパイス
+SpringberriesFermenting_SpecialDurability4.CardStatName,Spices,スパイス
+SpringberriesFresh_SpecialDurability4.CardStatName,Spices,スパイス
+SpringberriesRoasted_SpecialDurability4.CardStatName,Spices,スパイス
+SquirrelCooked_SpecialDurability4.CardStatName,Spices,スパイス
+SquirrelRaw_SpecialDurability4.CardStatName,Spices,スパイス
+TurnrootBoiled_SpecialDurability4.CardStatName,Spices,スパイス
+TurnrootDried_SpecialDurability4.CardStatName,Spices,スパイス
+TurnrootMashedBoiled_SpecialDurability4.CardStatName,Spices,スパイス
+TurnrootRoasted_SpecialDurability4.CardStatName,Spices,スパイス
+WildGarlicCooked_SpecialDurability4.CardStatName,Spices,スパイス
+WildGarlicDried_SpecialDurability4.CardStatName,Spices,スパイス
+WildGarlicFresh_SpecialDurability4.CardStatName,Spices,スパイス
+WildGarlicPowder_SpecialDurability4.CardStatName,Spices,スパイス
 Spicy_FlavourName,Spicy,Spicy
 SpiderLilyEffect_GameName,Spider Lily Effect,Spider Lily Effect
 tag_Spillable_InGameName,Spillable,Spillable
@@ -9111,11 +9111,11 @@ W_LegSprainedR_CookingRecipes[0].ActionName,Splint,Splint
 W_RibFracture_CookingRecipes[0].ActionName,Splint,Splint
 OakLog_CardInteractions[0].ActionName,Split into pieces,Split into pieces
 PineLog_CardInteractions[0].ActionName,Split into pieces,Split into pieces
-BasketPlaced_SpecialDurability2.CardStatName,Spoilage,Spoilage
-HandBasket_SpecialDurability2.CardStatName,Spoilage,Spoilage
-IceHole_SpoilageTime.CardStatName,Spoilage,Spoilage
-SPOILAGE_DEFAULT_NAME,Spoilage,Spoilage
-Travois_SpoilageTime.CardStatName,Spoilage,Spoilage
+BasketPlaced_SpecialDurability2.CardStatName,Spoilage,腐敗
+HandBasket_SpecialDurability2.CardStatName,Spoilage,腐敗
+IceHole_SpoilageTime.CardStatName,Spoilage,腐敗
+SPOILAGE_DEFAULT_NAME,Spoilage,腐敗
+Travois_SpoilageTime.CardStatName,Spoilage,腐敗
 LungrotSpores_Description,Spores from the lungrot fungus. Can lead to respiratory infections.,Spores from the lungrot fungus. Can lead to respiratory infections.
 SeasonsSettings_Seasons[0].SeasonClockName,Spr.,Spr.
 W_ArmSprainedL_SpoilageTime.OnFull.ActionName,Sprain,Sprain
@@ -9289,7 +9289,7 @@ Neoteny_Statuses[3].GameName,Subtle,Subtle
 SUCCESS_CHANCE,Success,Success
 SaturationSugar_GameName,Sugar Saturation,Sugar Saturation
 BonesBird_CardDescription,Suitable for crafting hooks and needles.,手芸用のフックや針に適している。
-Axe_Stone_CardDescription,"Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood.","Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood."
+Axe_Stone_CardDescription,"Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood.",小さな木の伐採、雑木の伐採、木材の生産に適している。 樹木の伐採や薪割りには不向き。
 Bp_StoneAxe_CardDescription,"Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood.",小さな木の伐採、雑木の伐採、木材の生産に適している。 樹木の伐採や薪割りには不向き。
 SeasonsSettings_Seasons[1].SeasonClockName,Sum.,Sum.
 SeasonsSettings_Seasons[1].SeasonFullName,Summer,Summer
@@ -9435,135 +9435,135 @@ FishMeatCooked_CardDescription,Tasty and nutritious.\n\nCan be dried to last lon
 MeatCooked_CardDescription,Tasty and nutritious.\n\nCan be dried to last longer.,Tasty and nutritious.\n\nCan be dried to last longer.
 GpTag_Temper_TabName,Temper,Temper
 tag_Temper_InGameName,Temper,Temper
-AcornDoughRaw_FuelCapacity.CardStatName,Temperature,Temperature
-AcornFlatBread_FuelCapacity.CardStatName,Temperature,Temperature
-AcornFlourRaw_FuelCapacity.CardStatName,Temperature,Temperature
-AcornsEdibleRaw_FuelCapacity.CardStatName,Temperature,Temperature
-AcornsPoisonRaw_FuelCapacity.CardStatName,Temperature,Temperature
-AcornsRoasted_FuelCapacity.CardStatName,Temperature,Temperature
-AcornsSpiritRaw_FuelCapacity.CardStatName,Temperature,Temperature
-AppleWeedDried_FuelCapacity.CardStatName,Temperature,Temperature
-BaseTemperature_DefaultStatusName,Temperature,Temperature
-BillberriesDried_FuelCapacity.CardStatName,Temperature,Temperature
-BillberriesFermented_FuelCapacity.CardStatName,Temperature,Temperature
-BillberriesFermenting_FuelCapacity.CardStatName,Temperature,Temperature
-BillberriesFresh_FuelCapacity.CardStatName,Temperature,Temperature
-BillberriesRoasted_FuelCapacity.CardStatName,Temperature,Temperature
-BirdMeatCooked_FuelCapacity.CardStatName,Temperature,Temperature
-BirdMeatDried_FuelCapacity.CardStatName,Temperature,Temperature
-BirdMeatRaw_FuelCapacity.CardStatName,Temperature,Temperature
-BreadLoafCooked_FuelCapacity.CardStatName,Temperature,Temperature
-BreadLoafRaw_FuelCapacity.CardStatName,Temperature,Temperature
-ClayBowl_FuelCapacity.CardStatName,Temperature,Temperature
-ClayCauldron_FuelCapacity.CardStatName,Temperature,Temperature
-ClayJar_FuelCapacity.CardStatName,Temperature,Temperature
-ClayStoragePotPlaced_FuelCapacity.CardStatName,Temperature,Temperature
-ClayStoragePot_FuelCapacity.CardStatName,Temperature,Temperature
-ClayVase_FuelCapacity.CardStatName,Temperature,Temperature
-CloverRaw_FuelCapacity.CardStatName,Temperature,Temperature
-ColdTar_FuelCapacity.CardStatName,Temperature,Temperature
-CookingPot_FuelCapacity.CardStatName,Temperature,Temperature
-EggBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-EggChickenCooked_FuelCapacity.CardStatName,Temperature,Temperature
-EggPartridgeCooked_FuelCapacity.CardStatName,Temperature,Temperature
-FairyweedDried_FuelCapacity.CardStatName,Temperature,Temperature
-FatChunk_FuelCapacity.CardStatName,Temperature,Temperature
-Fat_FuelCapacity.CardStatName,Temperature,Temperature
-FirerootBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-FirerootCutFresh_FuelCapacity.CardStatName,Temperature,Temperature
-FirerootDried_FuelCapacity.CardStatName,Temperature,Temperature
-FirerootRoasted_FuelCapacity.CardStatName,Temperature,Temperature
-FishMeatCooked_FuelCapacity.CardStatName,Temperature,Temperature
-FishMeatDried_FuelCapacity.CardStatName,Temperature,Temperature
-FishMeatRaw_FuelCapacity.CardStatName,Temperature,Temperature
-Fish_Sturgeon_FuelCapacity.CardStatName,Temperature,Temperature
-ForestCapsCooked_FuelCapacity.CardStatName,Temperature,Temperature
-ForestCapsDried_FuelCapacity.CardStatName,Temperature,Temperature
-ForestCapsFresh_FuelCapacity.CardStatName,Temperature,Temperature
-FrostleafDried_FuelCapacity.CardStatName,Temperature,Temperature
-HealersMoss_FuelCapacity.CardStatName*,Temperature,Temperature
-HeatedTar_FuelCapacity.CardStatName,Temperature,Temperature
-KilnExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
-Kiln_SpoilageTime.CardStatName,Temperature,Temperature
-LQ_AppleweedTea_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_BlessedWater_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FairyBrewCooked_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FairyBrewUncooked_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Fairybrew_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FairyweedTea_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FireBrewCooked_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FireBrewSuperCooked_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FireBrewUncooked_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Firebrew_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Firewater_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_FrostleafTea_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Fungicide_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_GarlicWater_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Insecticide_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_PoridgeDone_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_PoridgeFresh_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_RottenStew_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SoakedRye_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritBadger_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritBoar_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritDarkness_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritDeer_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritEarth_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritFear_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritFire_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritFlint_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritFlintclaw_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritFox_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritTea_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritWater_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_SpiritWolf_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_StewWater_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_TanningLiquor_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_TanningWater_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_WaterUnsafe_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Water_FuelCapacity.CardStatName,Temperature,Temperature
-LQ_Wort_FuelCapacity.CardStatName,Temperature,Temperature
-MeatCooked_FuelCapacity.CardStatName,Temperature,Temperature
-MeatDried_FuelCapacity.CardStatName,Temperature,Temperature
-MeatRaw_FuelCapacity.CardStatName,Temperature,Temperature
-MinnowCooked_FuelCapacity.CardStatName,Temperature,Temperature
-MinnowRaw_FuelCapacity.CardStatName,Temperature,Temperature
-MossBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-MouseCooked_FuelCapacity.CardStatName,Temperature,Temperature
-MouseRaw_FuelCapacity.CardStatName,Temperature,Temperature
-NettleLeavesBlanchedBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-NettleLeavesDried_FuelCapacity.CardStatName,Temperature,Temperature
-NettleLeavesRaw_FuelCapacity.CardStatName,Temperature,Temperature
-OvenExtinguished_SpoilageTime.CardStatName,Temperature,Temperature
-Oven_SpoilageTime.CardStatName,Temperature,Temperature
-PeasCooked_FuelCapacity.CardStatName,Temperature,Temperature
-PeasDried_FuelCapacity.CardStatName,Temperature,Temperature
-PeasFresh_FuelCapacity.CardStatName,Temperature,Temperature
-RyeDoughRaw_FuelCapacity.CardStatName,Temperature,Temperature
-RyeFlatBread_FuelCapacity.CardStatName,Temperature,Temperature
-SmokehouseExtinguished__SpoilageTime.CardStatName,Temperature,Temperature
-Smokehouse__SpoilageTime.CardStatName,Temperature,Temperature
-SpiritMushroomsDried_FuelCapacity.CardStatName,Temperature,Temperature
-SpringberriesDried_FuelCapacity.CardStatName,Temperature,Temperature
-SpringberriesFermented_FuelCapacity.CardStatName,Temperature,Temperature
-SpringberriesFermenting_FuelCapacity.CardStatName,Temperature,Temperature
-SpringberriesFresh_FuelCapacity.CardStatName,Temperature,Temperature
-SpringberriesRoasted_FuelCapacity.CardStatName,Temperature,Temperature
-SquirrelCooked_FuelCapacity.CardStatName,Temperature,Temperature
-SquirrelRaw_FuelCapacity.CardStatName,Temperature,Temperature
-TemperatureAlert_DefaultStatusName,Temperature,Temperature
-TemperatureAlert_GameName,Temperature,Temperature
-TemperaturePerceived_DefaultStatusName,Temperature,Temperature
-TurnrootBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-TurnrootDried_FuelCapacity.CardStatName,Temperature,Temperature
-TurnrootFresh_FuelCapacity.CardStatName,Temperature,Temperature
-TurnrootMashedBoiled_FuelCapacity.CardStatName,Temperature,Temperature
-TurnrootRoasted_FuelCapacity.CardStatName,Temperature,Temperature
-Waterskin_FuelCapacity.CardStatName,Temperature,Temperature
-WildGarlicCooked_FuelCapacity.CardStatName,Temperature,Temperature
-WildGarlicDried_FuelCapacity.CardStatName,Temperature,Temperature
-WildGarlicFresh_FuelCapacity.CardStatName,Temperature,Temperature
-Template_TabName,Template,Template
+AcornDoughRaw_FuelCapacity.CardStatName,Temperature,温度
+AcornFlatBread_FuelCapacity.CardStatName,Temperature,温度
+AcornFlourRaw_FuelCapacity.CardStatName,Temperature,温度
+AcornsEdibleRaw_FuelCapacity.CardStatName,Temperature,温度
+AcornsPoisonRaw_FuelCapacity.CardStatName,Temperature,温度
+AcornsRoasted_FuelCapacity.CardStatName,Temperature,温度
+AcornsSpiritRaw_FuelCapacity.CardStatName,Temperature,温度
+AppleWeedDried_FuelCapacity.CardStatName,Temperature,温度
+BaseTemperature_DefaultStatusName,Temperature,温度
+BillberriesDried_FuelCapacity.CardStatName,Temperature,温度
+BillberriesFermented_FuelCapacity.CardStatName,Temperature,温度
+BillberriesFermenting_FuelCapacity.CardStatName,Temperature,温度
+BillberriesFresh_FuelCapacity.CardStatName,Temperature,温度
+BillberriesRoasted_FuelCapacity.CardStatName,Temperature,温度
+BirdMeatCooked_FuelCapacity.CardStatName,Temperature,温度
+BirdMeatDried_FuelCapacity.CardStatName,Temperature,温度
+BirdMeatRaw_FuelCapacity.CardStatName,Temperature,温度
+BreadLoafCooked_FuelCapacity.CardStatName,Temperature,温度
+BreadLoafRaw_FuelCapacity.CardStatName,Temperature,温度
+ClayBowl_FuelCapacity.CardStatName,Temperature,温度
+ClayCauldron_FuelCapacity.CardStatName,Temperature,温度
+ClayJar_FuelCapacity.CardStatName,Temperature,温度
+ClayStoragePotPlaced_FuelCapacity.CardStatName,Temperature,温度
+ClayStoragePot_FuelCapacity.CardStatName,Temperature,温度
+ClayVase_FuelCapacity.CardStatName,Temperature,温度
+CloverRaw_FuelCapacity.CardStatName,Temperature,温度
+ColdTar_FuelCapacity.CardStatName,Temperature,温度
+CookingPot_FuelCapacity.CardStatName,Temperature,温度
+EggBoiled_FuelCapacity.CardStatName,Temperature,温度
+EggChickenCooked_FuelCapacity.CardStatName,Temperature,温度
+EggPartridgeCooked_FuelCapacity.CardStatName,Temperature,温度
+FairyweedDried_FuelCapacity.CardStatName,Temperature,温度
+FatChunk_FuelCapacity.CardStatName,Temperature,温度
+Fat_FuelCapacity.CardStatName,Temperature,温度
+FirerootBoiled_FuelCapacity.CardStatName,Temperature,温度
+FirerootCutFresh_FuelCapacity.CardStatName,Temperature,温度
+FirerootDried_FuelCapacity.CardStatName,Temperature,温度
+FirerootRoasted_FuelCapacity.CardStatName,Temperature,温度
+FishMeatCooked_FuelCapacity.CardStatName,Temperature,温度
+FishMeatDried_FuelCapacity.CardStatName,Temperature,温度
+FishMeatRaw_FuelCapacity.CardStatName,Temperature,温度
+Fish_Sturgeon_FuelCapacity.CardStatName,Temperature,温度
+ForestCapsCooked_FuelCapacity.CardStatName,Temperature,温度
+ForestCapsDried_FuelCapacity.CardStatName,Temperature,温度
+ForestCapsFresh_FuelCapacity.CardStatName,Temperature,温度
+FrostleafDried_FuelCapacity.CardStatName,Temperature,温度
+HealersMoss_FuelCapacity.CardStatName*,Temperature,温度
+HeatedTar_FuelCapacity.CardStatName,Temperature,温度
+KilnExtinguished_SpoilageTime.CardStatName,Temperature,温度
+Kiln_SpoilageTime.CardStatName,Temperature,温度
+LQ_AppleweedTea_FuelCapacity.CardStatName,Temperature,温度
+LQ_BlessedWater_FuelCapacity.CardStatName,Temperature,温度
+LQ_FairyBrewCooked_FuelCapacity.CardStatName,Temperature,温度
+LQ_FairyBrewUncooked_FuelCapacity.CardStatName,Temperature,温度
+LQ_Fairybrew_FuelCapacity.CardStatName,Temperature,温度
+LQ_FairyweedTea_FuelCapacity.CardStatName,Temperature,温度
+LQ_FireBrewCooked_FuelCapacity.CardStatName,Temperature,温度
+LQ_FireBrewSuperCooked_FuelCapacity.CardStatName,Temperature,温度
+LQ_FireBrewUncooked_FuelCapacity.CardStatName,Temperature,温度
+LQ_Firebrew_FuelCapacity.CardStatName,Temperature,温度
+LQ_Firewater_FuelCapacity.CardStatName,Temperature,温度
+LQ_FrostleafTea_FuelCapacity.CardStatName,Temperature,温度
+LQ_Fungicide_FuelCapacity.CardStatName,Temperature,温度
+LQ_GarlicWater_FuelCapacity.CardStatName,Temperature,温度
+LQ_Insecticide_FuelCapacity.CardStatName,Temperature,温度
+LQ_PoridgeDone_FuelCapacity.CardStatName,Temperature,温度
+LQ_PoridgeFresh_FuelCapacity.CardStatName,Temperature,温度
+LQ_RottenStew_FuelCapacity.CardStatName,Temperature,温度
+LQ_SoakedRye_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritBadger_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritBoar_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritDarkness_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritDeer_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritEarth_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritFear_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritFire_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritFlint_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritFlintclaw_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritFox_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritTea_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritWater_FuelCapacity.CardStatName,Temperature,温度
+LQ_SpiritWolf_FuelCapacity.CardStatName,Temperature,温度
+LQ_StewWater_FuelCapacity.CardStatName,Temperature,温度
+LQ_TanningLiquor_FuelCapacity.CardStatName,Temperature,温度
+LQ_TanningWater_FuelCapacity.CardStatName,Temperature,温度
+LQ_WaterUnsafe_FuelCapacity.CardStatName,Temperature,温度
+LQ_Water_FuelCapacity.CardStatName,Temperature,温度
+LQ_Wort_FuelCapacity.CardStatName,Temperature,温度
+MeatCooked_FuelCapacity.CardStatName,Temperature,温度
+MeatDried_FuelCapacity.CardStatName,Temperature,温度
+MeatRaw_FuelCapacity.CardStatName,Temperature,温度
+MinnowCooked_FuelCapacity.CardStatName,Temperature,温度
+MinnowRaw_FuelCapacity.CardStatName,Temperature,温度
+MossBoiled_FuelCapacity.CardStatName,Temperature,温度
+MouseCooked_FuelCapacity.CardStatName,Temperature,温度
+MouseRaw_FuelCapacity.CardStatName,Temperature,温度
+NettleLeavesBlanchedBoiled_FuelCapacity.CardStatName,Temperature,温度
+NettleLeavesDried_FuelCapacity.CardStatName,Temperature,温度
+NettleLeavesRaw_FuelCapacity.CardStatName,Temperature,温度
+OvenExtinguished_SpoilageTime.CardStatName,Temperature,温度
+Oven_SpoilageTime.CardStatName,Temperature,温度
+PeasCooked_FuelCapacity.CardStatName,Temperature,温度
+PeasDried_FuelCapacity.CardStatName,Temperature,温度
+PeasFresh_FuelCapacity.CardStatName,Temperature,温度
+RyeDoughRaw_FuelCapacity.CardStatName,Temperature,温度
+RyeFlatBread_FuelCapacity.CardStatName,Temperature,温度
+SmokehouseExtinguished__SpoilageTime.CardStatName,Temperature,温度
+Smokehouse__SpoilageTime.CardStatName,Temperature,温度
+SpiritMushroomsDried_FuelCapacity.CardStatName,Temperature,温度
+SpringberriesDried_FuelCapacity.CardStatName,Temperature,温度
+SpringberriesFermented_FuelCapacity.CardStatName,Temperature,温度
+SpringberriesFermenting_FuelCapacity.CardStatName,Temperature,温度
+SpringberriesFresh_FuelCapacity.CardStatName,Temperature,温度
+SpringberriesRoasted_FuelCapacity.CardStatName,Temperature,温度
+SquirrelCooked_FuelCapacity.CardStatName,Temperature,温度
+SquirrelRaw_FuelCapacity.CardStatName,Temperature,温度
+TemperatureAlert_DefaultStatusName,Temperature,温度
+TemperatureAlert_GameName,Temperature,温度
+TemperaturePerceived_DefaultStatusName,Temperature,温度
+TurnrootBoiled_FuelCapacity.CardStatName,Temperature,温度
+TurnrootDried_FuelCapacity.CardStatName,Temperature,温度
+TurnrootFresh_FuelCapacity.CardStatName,Temperature,温度
+TurnrootMashedBoiled_FuelCapacity.CardStatName,Temperature,温度
+TurnrootRoasted_FuelCapacity.CardStatName,Temperature,温度
+Waterskin_FuelCapacity.CardStatName,Temperature,温度
+WildGarlicCooked_FuelCapacity.CardStatName,Temperature,温度
+WildGarlicDried_FuelCapacity.CardStatName,Temperature,温度
+WildGarlicFresh_FuelCapacity.CardStatName,Temperature,温度
+Template_TabName,Template,テンプレート
 CharacterGlobalInfo_DifficultyRatings[2].Label,Tense,Tense
 Stress_Statuses[1].GameName,Tense,Tense
 Fear_Statuses[2].GameName,Terrified,Terrified
@@ -10332,11 +10332,11 @@ Repairs_Obj1_UseAThreadedNeedleToRepairAClothingItem_ObjectiveDescription,Use a 
 Repairs_Sub1_UseAThreadedNeedleToRepairAClothingItem_QuestTitle,Use a Threaded Needle to repair a Clothing Item,Use a Threaded Needle to repair a Clothing Item
 Treenail_CardDescription,Used for complex furniture or construction.,Used for complex furniture or construction.
 Bp_Twine_CardDescription,Used for construction and crafts.,建築や工芸に使用される。
-Twine_CardDescription,Used for construction and crafts.,Used for construction and crafts.
+Twine_CardDescription,Used for construction and crafts.,建築や工芸に使用される。
 LQ_Water_CardDescription,"Used for drinking, cooking, and cleaning. Crucial for survival.",飲料、調理、洗浄に使用される。 サバイバルには欠かせない。
 Bp_Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.","Used for drying, baking, or firing pottery at controlled temperatures."
 Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.",制御された温度で陶器を乾燥、焼成、焼成するために使用される。
-OvenExtinguished_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.\n\nCan be lit with tinder, provided it has enough fuel.",陶器の乾燥、焼成、焼成に使用する。\n\n十分な燃料があれば、火口で点火できる。
+OvenExtinguished_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.\n\nCan be lit with tinder, provided it has enough fuel.",陶器の乾燥、焼成、焼成に使用する。\n\n充分な燃料があれば、火口で点火できる。
 Bp_Kiln_CardDescription,Used for firing pottery at high temperatures and extracting tar out of softwoods.,Used for firing pottery at high temperatures and extracting tar out of softwoods.
 Kiln_CardDescription,"Used for firing pottery at high temperatures, extracting tar out of softwoods and quicklime out of stones.","Used for firing pottery at high temperatures, extracting tar out of softwoods and quicklime out of stones."
 KilnExtinguished_CardDescription,"Used for firing pottery at high temperatures, extracting tar out of softwoods and quicklime out of stones.\n\nCan be lit with tinder, provided it has enough fuel.","Used for firing pottery at high temperatures, extracting tar out of softwoods and quicklime out of stones.\n\nCan be lit with tinder, provided it has enough fuel."
@@ -10344,9 +10344,9 @@ ReedsDry_CardDescription,"Used for roofing, bedding or weaving baskets.",屋根�
 Bp_Spindle_CardDescription,Used for spinning fibers into twine or yarn more effectively.,Used for spinning fibers into twine or yarn more effectively.
 Spindle_CardDescription,Used for spinning fibers into twine or yarn more effectively.,Used for spinning fibers into twine or yarn more effectively.
 Broom_CardDescription,Used for sweeping and cleaning areas. Drag and drop it into the location to clean.,掃き掃除や清掃に使用する。 掃除したい場所にドラッグ＆ドロップ。
-Bp_Broom_CardDescription,Used for sweeping and cleaning indoor areas.,Used for sweeping and cleaning indoor areas.
-Bp_Loom_CardDescription,Used for weaving cloth of different sizes.,Used for weaving cloth of different sizes.
-Loom_CardDescription,Used for weaving cloth of different sizes.,Used for weaving cloth of different sizes.
+Bp_Broom_CardDescription,Used for sweeping and cleaning indoor areas.,屋内の掃き掃除や清掃に使用する。
+Bp_Loom_CardDescription,Used for weaving cloth of different sizes.,さまざまなサイズの布を織るのに使われる。
+Loom_CardDescription,Used for weaving cloth of different sizes.,さまざまなサイズの布を織るのに使われる。
 ReedsFresh_CardDescription,Used mostly for roofing and bedding. Can be soaked and dried to increase their quality.,主に屋根や寝具に使われる。 水に浸して乾燥させると品質が向上する。
 LeavesFresh_CardDescription,"Useful as bedding material, animal fodder or compost.",敷料、家畜の飼料、堆肥として有用。
 HealersMoss_CardDescription,Useful as dressing and edible if boiled.,Useful as dressing and edible if boiled.
@@ -10490,9 +10490,9 @@ IceHole_CardInteractions[2].ActionName,Wash,Wash
 River_CardInteractions[5].ActionName,Wash,Wash
 SkinLeather_CardInteractions[3].ActionName,Wash,Wash
 SpiritShrine_Water_SacredSpring_CardInteractions[1].ActionName,Wash,Wash
-LQ_BlessedWater_DismantleActions[1].ActionName,Wash Yourself,Wash Yourself
-LQ_WaterUnsafe_DismantleActions[1].ActionName,Wash Yourself,Wash Yourself
-LQ_Water_DismantleActions[1].ActionName,Wash Yourself,Wash Yourself
+LQ_BlessedWater_DismantleActions[1].ActionName,Wash Yourself,体を洗う
+LQ_WaterUnsafe_DismantleActions[1].ActionName,Wash Yourself,体を洗う
+LQ_Water_DismantleActions[1].ActionName,Wash Yourself,体を洗う
 BasicWoundTreatment_Obj1_WashAWound_ObjectiveDescription,Wash a Wound with a Bowl of Water,Wash a Wound with a Bowl of Water
 BasicWoundTreatment_Sub1_WashAWound_QuestTitle,Wash a Wound with a Bowl of Water,Wash a Wound with a Bowl of Water
 BasicWoundTreatment_Obj1_WashAnOpenWoundWithAClayBowl_ObjectiveDescription,Wash an open Wound with a Clay Bowl,Wash an open Wound with a Clay Bowl
@@ -10503,7 +10503,7 @@ IntermediateLeatherWorking_Obj5_WashOffTanninsFromLeather_ObjectiveDescription,W
 IntermediateLeatherWorking_Sub5_WashOffTanninsFromLeather_QuestTitle,Wash off Tannins From Leather,Wash off Tannins From Leather
 River_CardInteractions[6].ActionName,Wash the Dressing,Wash the Dressing
 SpiritShrine_Water_SacredSpring_CardInteractions[2].ActionName,Wash the Dressing,Wash the Dressing
-IceHole_DismantleActions[1].ActionName,Wash yourself,Wash yourself
+IceHole_DismantleActions[1].ActionName,Wash yourself,体を洗う
 River_DismantleActions[2].ActionName,Wash yourself,体を洗う
 ImprovisedShelter_Obj2_WashYourselfToTreatTheRash_ObjectiveDescription,Wash yourself to Treat the Rash,Wash yourself to Treat the Rash
 ImprovisedShelter_Obj2_WashYourselfToTreatTheRash_ObjectiveDescription*,Wash yourself to Treat the Rash,Wash yourself to Treat the Rash
@@ -10598,86 +10598,86 @@ IntermediateTailoring_Sub3_WeaveSomeCloth_QuestTitle,Weave some Cloth,Weave some
 IntermediateWeaving_Obj3_WeaveSomeCloth_ObjectiveDescription,Weave some Cloth,Weave some Cloth
 IntermediateWeaving_Sub3_WeaveSomeCloth_QuestTitle,Weave some Cloth,Weave some Cloth
 Skill_Weaving_GameName,Weaving,Weaving
-BoarCarcassPiglet_SpecialDurability1.CardStatName,Weight,Weight
-BoarEnclosureFemale_SpecialDurability1.CardStatName,Weight,Weight
-BoarEnclosureMale_SpecialDurability1.CardStatName,Weight,Weight
-BoarSkinned_SpecialDurability1.CardStatName,Weight,Weight
-BoarTiedFemale_SpecialDurability1.CardStatName,Weight,Weight
-BoarTiedMale_SpecialDurability1.CardStatName,Weight,Weight
-Carcass_BoarCarcass_SpecialDurability1.CardStatName,Weight,Weight
-Fish_Perch_SpecialDurability1.CardStatName,Weight,Weight
-Fish_Pike_SpecialDurability1.CardStatName,Weight,Weight
-Fish_Sturgeon_SpecialDurability1.CardStatName,Weight,Weight
-Fish_Trout_SpecialDurability1.CardStatName,Weight,Weight
-Pkg_Weight_GroupName,Weight,Weight
-Weight_GameName,Weight,Weight
+BoarCarcassPiglet_SpecialDurability1.CardStatName,Weight,重さ
+BoarEnclosureFemale_SpecialDurability1.CardStatName,Weight,重さ
+BoarEnclosureMale_SpecialDurability1.CardStatName,Weight,重さ
+BoarSkinned_SpecialDurability1.CardStatName,Weight,重さ
+BoarTiedFemale_SpecialDurability1.CardStatName,Weight,重さ
+BoarTiedMale_SpecialDurability1.CardStatName,Weight,重さ
+Carcass_BoarCarcass_SpecialDurability1.CardStatName,Weight,重さ
+Fish_Perch_SpecialDurability1.CardStatName,Weight,重さ
+Fish_Pike_SpecialDurability1.CardStatName,Weight,重さ
+Fish_Sturgeon_SpecialDurability1.CardStatName,Weight,重さ
+Fish_Trout_SpecialDurability1.CardStatName,Weight,重さ
+Pkg_Weight_GroupName,Weight,重さ
+Weight_GameName,Weight,重さ
 Well_CardName,Well,Well
 Bp_ArrowBone_CardDescription,Well balanced arrows with bone arrowheads.,Well balanced arrows with bone arrowheads.
 BasicNeeds_Completed_Event_CardDescription,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n
 BasicNeeds_Completed_Event_CardDescription*,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n
 Wellbeing_GameName,Wellbeing,Wellbeing (幸福度)
-Caves_FmDarkTunnelNorthEast_DismantleActions[0].ActionName,West,West
-Caves_FmDarkTunnelSouthEast_DismantleActions[0].ActionName,West,West
-Caves_FmDarkTunnelWest_DismantleActions[0].ActionName,West,West
-Caves_FmFlintclaw'sChamber_DismantleActions[0].ActionName,West,West
-Caves_FmFloodedTunnel_DismantleActions[0].ActionName,West,West
-Caves_FmOminousTunnel_DismantleActions[0].ActionName,West,West
-Caves_FmOvergrownTunnel_DismantleActions[0].ActionName,West,West
-Caves_FmTheFlintMotherLode_DismantleActions[0].ActionName,West,West
-ClearingOak_GreenGlade_DismantleActions[3].ActionName,West,West
-ClearingOak_MossyClearing_DismantleActions[3].ActionName,West,West
-GroveOak_GreatOak_DismantleActions[3].ActionName,West,West
-GroveOak_GreenGrove_DismantleActions[3].ActionName,West,West
-GroveOak_MossyGrove_DismantleActions[3].ActionName,West,West
-GroveOak_MossyStone_DismantleActions[3].ActionName,West,West
-GroveOak_MuddyGrove_DismantleActions[3].ActionName,West,West
-GroveOak_OakenGrove_DismantleActions[3].ActionName,West,West
-GroveOak_ShadyGrove_DismantleActions[3].ActionName,West,West
-GrovePine_DeerGrove_DismantleActions[3].ActionName,West,West
-GrovePine_RockyGrove_DismantleActions[3].ActionName,West,West
-GrovePine_SlopedGrove_DismantleActions[3].ActionName,West,West
-River_ClearingOak_RiverClearing_DismantleActions[3].ActionName,West,West
-River_GroveOak_Greenfalls_DismantleActions[4].ActionName,West,West
-River_GroveOak_MossyBank_DismantleActions[3].ActionName,West,West
-River_ThicketOak_MuddyBank_DismantleActions[3].ActionName,West,West
-River_ThicketOak_RiverConfluence_DismantleActions[3].ActionName,West,West
-River_ThicketOak_ShadyBank_DismantleActions[3].ActionName,West,West
-ThicketOak_GreenTangle_DismantleActions[3].ActionName,West,West
-ThicketOak_LostWoods_DismantleActions[3].ActionName,West,West
-ThicketOak_MuddyWay_DismantleActions[3].ActionName,West,West
-ThicketOak_WildThicket_DismantleActions[3].ActionName,West,West
-WEST,West,West
+Caves_FmDarkTunnelNorthEast_DismantleActions[0].ActionName,West,西
+Caves_FmDarkTunnelSouthEast_DismantleActions[0].ActionName,West,西
+Caves_FmDarkTunnelWest_DismantleActions[0].ActionName,West,西
+Caves_FmFlintclaw'sChamber_DismantleActions[0].ActionName,West,西
+Caves_FmFloodedTunnel_DismantleActions[0].ActionName,West,西
+Caves_FmOminousTunnel_DismantleActions[0].ActionName,West,西
+Caves_FmOvergrownTunnel_DismantleActions[0].ActionName,West,西
+Caves_FmTheFlintMotherLode_DismantleActions[0].ActionName,West,西
+ClearingOak_GreenGlade_DismantleActions[3].ActionName,West,西
+ClearingOak_MossyClearing_DismantleActions[3].ActionName,West,西
+GroveOak_GreatOak_DismantleActions[3].ActionName,West,西
+GroveOak_GreenGrove_DismantleActions[3].ActionName,West,西
+GroveOak_MossyGrove_DismantleActions[3].ActionName,West,西
+GroveOak_MossyStone_DismantleActions[3].ActionName,West,西
+GroveOak_MuddyGrove_DismantleActions[3].ActionName,West,西
+GroveOak_OakenGrove_DismantleActions[3].ActionName,West,西
+GroveOak_ShadyGrove_DismantleActions[3].ActionName,West,西
+GrovePine_DeerGrove_DismantleActions[3].ActionName,West,西
+GrovePine_RockyGrove_DismantleActions[3].ActionName,West,西
+GrovePine_SlopedGrove_DismantleActions[3].ActionName,West,西
+River_ClearingOak_RiverClearing_DismantleActions[3].ActionName,West,西
+River_GroveOak_Greenfalls_DismantleActions[4].ActionName,West,西
+River_GroveOak_MossyBank_DismantleActions[3].ActionName,West,西
+River_ThicketOak_MuddyBank_DismantleActions[3].ActionName,West,西
+River_ThicketOak_RiverConfluence_DismantleActions[3].ActionName,West,西
+River_ThicketOak_ShadyBank_DismantleActions[3].ActionName,West,西
+ThicketOak_GreenTangle_DismantleActions[3].ActionName,West,西
+ThicketOak_LostWoods_DismantleActions[3].ActionName,West,西
+ThicketOak_MuddyWay_DismantleActions[3].ActionName,West,西
+ThicketOak_WildThicket_DismantleActions[3].ActionName,West,西
+WEST,West,西
 WindWest_GameName,West Wind,West Wind
 OLD_HealersMoss_OldHealingFactors_CardInteractions[0].ActionName,Wet,Wet
 Wetness_Statuses[1].GameName,Wet,Wet
-ClothSmall_FuelCapacity.CardStatName,Wetness,Wetness
-FurBoots_FuelCapacity.CardStatName,Wetness,Wetness
-FurCoat_FuelCapacity.CardStatName,Wetness,Wetness
-FurHat_FuelCapacity.CardStatName,Wetness,Wetness
-FurMittens_FuelCapacity.CardStatName,Wetness,Wetness
-FurTrousers_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherBoots_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherBracers_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherCuirass_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherGloves_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherHelmet_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherShoes_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherTrousers_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherTunic_FuelCapacity.CardStatName,Wetness,Wetness
-LeatherVest_FuelCapacity.CardStatName,Wetness,Wetness
-LeavesFresh_SpoilageTime.CardStatName,Wetness,Wetness
-NettleStemsLocation_FuelCapacity.CardStatName,Wetness,Wetness
-NettleStems_FuelCapacity.CardStatName,Wetness,Wetness
-OLD_HealersMoss_OldHealingFactors_FuelCapacity.CardStatName,Wetness,Wetness
-ReedSkirt_FuelCapacity.CardStatName,Wetness,Wetness
-ReedTunic_FuelCapacity.CardStatName,Wetness,Wetness
-ReedsFreshLocation_FuelCapacity.CardStatName,Wetness,Wetness
-ReedsFreshLocation_SpoilageTime.CardStatName,Wetness,Wetness
-ReedsFresh_FuelCapacity.CardStatName,Wetness,Wetness
-ReedsFresh_SpoilageTime.CardStatName,Wetness,Wetness
-ShirtCloth_FuelCapacity.CardStatName,Wetness,Wetness
-Splint_FuelCapacity.CardStatName,Wetness,Wetness
-Wetness_GameName,Wetness,Wetness
+ClothSmall_FuelCapacity.CardStatName,Wetness,濡れ
+FurBoots_FuelCapacity.CardStatName,Wetness,濡れ
+FurCoat_FuelCapacity.CardStatName,Wetness,濡れ
+FurHat_FuelCapacity.CardStatName,Wetness,濡れ
+FurMittens_FuelCapacity.CardStatName,Wetness,濡れ
+FurTrousers_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherBoots_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherBracers_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherCuirass_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherGloves_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherHelmet_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherShoes_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherTrousers_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherTunic_FuelCapacity.CardStatName,Wetness,濡れ
+LeatherVest_FuelCapacity.CardStatName,Wetness,濡れ
+LeavesFresh_SpoilageTime.CardStatName,Wetness,濡れ
+NettleStemsLocation_FuelCapacity.CardStatName,Wetness,濡れ
+NettleStems_FuelCapacity.CardStatName,Wetness,濡れ
+OLD_HealersMoss_OldHealingFactors_FuelCapacity.CardStatName,Wetness,濡れ
+ReedSkirt_FuelCapacity.CardStatName,Wetness,濡れ
+ReedTunic_FuelCapacity.CardStatName,Wetness,濡れ
+ReedsFreshLocation_FuelCapacity.CardStatName,Wetness,濡れ
+ReedsFreshLocation_SpoilageTime.CardStatName,Wetness,濡れ
+ReedsFresh_FuelCapacity.CardStatName,Wetness,濡れ
+ReedsFresh_SpoilageTime.CardStatName,Wetness,濡れ
+ShirtCloth_FuelCapacity.CardStatName,Wetness,濡れ
+Splint_FuelCapacity.CardStatName,Wetness,濡れ
+Wetness_GameName,Wetness,濡れ
 Dmg_RoofCollapsed_CardDescription,What a mess...,What a mess...
 SuccessChanceLabels_ModifiedSuccessLabels[1].LabelText,What could go wrong?,What could go wrong?
 Morale_Statuses[5].Description,What is the point...,What is the point...
@@ -10818,7 +10818,7 @@ W_RibFracture_SpoilageTime.OnFull.ActionDescription,Wound healed!,Wound healed!
 W_WolfBite_SpoilageTime.OnFull.ActionDescription,Wound healed!,Wound healed!
 tag_WoundSplint_InGameName,Wound requiring a Splint,Wound requiring a Splint
 Wounds_GameName,Wounded,Wounded
-WOUNDS,Wounds,受傷
+WOUNDS,Wounds,怪我
 BackpackBasket_CardName,Woven Backpack,Woven Backpack
 Bp_Basket_UnlockConditionsDesc,Woven Palm Needed,Woven Palm Needed
 GroveOak_GreatOak_UsageDurability.CardStatName,X,X
