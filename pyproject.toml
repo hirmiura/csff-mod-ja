@@ -5,7 +5,7 @@ description     = ""
 authors         = [ { name = "Hiroshi Miura", email = "hirmiura@gmail.com" } ]
 readme          = "README.md"
 requires-python = ">=3.13"
-dependencies    = [  ]
+dependencies    = ["polib (>=1.2.0,<2.0.0)"  ]
 
 [tool.poetry]
 packages = [ { include = "csff_mod_ja", from = "src" } ]
