@@ -85,7 +85,7 @@ EQUIP_CARD,Equip {0},Equip {0}
 EQUIP_BOTH_HAND,Equip in Both Hands,Equip in Both Hands
 EQUIP_MAIN_HAND,Equip in Main Hand,Equip in Main Hand
 EQUIP_OFF_HAND,Equip in Off Hand,Equip in Off Hand
-EQUIPMENT,Equipment,Equipment
+EQUIPMENT,Equipment,装備
 EVENT_TITLE,EVENT,EVENT
 EXPLORATION,Exploration,Exploration
 EXPLORED,Explored,Explored
@@ -101,7 +101,7 @@ HOLD_FOR_ACTION,Hold for action...,Hold for action...
 HOLD,Hold,Hold
 HOPE_GOOD_TIME,We hope you had a good time!,We hope you had a good time!
 AN_HOUR,an hour,an hour
-HELP_TAB,Help,Help
+HELP_TAB,Help,ヘルプ
 FORMAT_HOURS,0h,0h
 HOURS,hours,hours
 HOVER,Hover,Hover
@@ -245,7 +245,7 @@ EncounterWindow_EquipInBothHandsLog.LogText,You hold your {0} with both hands.,Y
 EncounterWindow_SheatheLog.LogText,You sheathe away your {0}.,You sheathe away your {0}.
 EncounterWindow_DropOnGroundLog.LogText,You drop your {0}.,You drop your {0}.
 EncounterWindow_DefaultWeaponBrokeLog.LogText,Your {0} broke!,Your {0} broke!
-HELP,Help,Help
+HELP,Help,ヘルプ
 CARD_INSPECTION_TITLE,DETAILS,DETAILS
 SEARCH,Search...,Search...
 SURVIVAL_CODEX,SURVIVAL GUIDE,SURVIVAL GUIDE
@@ -8874,7 +8874,7 @@ Wind_Statuses[3].GameName,Level 2,Level 2
 Wind_Statuses[4].GameName,Level 3,Level 3
 Wind_Statuses[5].GameName,Level 3,Level 3
 Workplace_GameName,Workplace,Workplace
-Workplace_Description,"Shows how good your workplace is. Gives you a bonus to crafting. Can be increased by placing chairs, tables and other equipment.","Shows how good your workplace is. Gives you a bonus to crafting. Can be increased by placing chairs, tables and other equipment."
+Workplace_Description,"Shows how good your workplace is. Gives you a bonus to crafting. Can be increased by placing chairs, tables and other equipment.",作業場の快適さを表す。クラフトへボーナスを与える。椅子やテーブル、その他の設備を設置することで増やせる。
 Workplace_Statuses[0].GameName,Workplace,Workplace
 Workplace_Statuses[0].Description,Minor Effect,Minor Effect
 Workplace_Statuses[1].GameName,Workplace,Workplace
@@ -9191,7 +9191,7 @@ WolfUrge_Statuses[1].GameName,Wolf Urge,Wolf Urge
 WolfUrge_Statuses[2].GameName,Wolf Urge,Wolf Urge
 Stat_StealthMalus_Statuses[0].GameName,Animals noticed your Actions,Animals noticed your Actions
 AlteredMindstate_GameName,Altered Mindstate,Altered Mindstate
-AlteredMindstate_Description,Can trigger spiritual/mental events and lengthen the duration of your actions if it gets too high.,Can trigger spiritual/mental events and lengthen the duration of your actions if it gets too high.
+AlteredMindstate_Description,Can trigger spiritual/mental events and lengthen the duration of your actions if it gets too high.,高すぎると霊的/精神的なイベントを引き起こし、行動時間を長くしてしまう。
 AlteredMindstate_Statuses[0].GameName,Normal Mind State,Normal Mind State
 AlteredMindstate_Statuses[0].Description,Everything seems normal,Everything seems normal
 AlteredMindstate_Statuses[1].GameName,Slightly Altered Mindstate,Slightly Altered Mindstate
@@ -9222,7 +9222,7 @@ Flexibility_Statuses[2].GameName,High,High
 FlintAffinity_GameName,Flint Affinity,Flint Affinity
 FlintAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 Structure_GameName,Mental Structure,Mental Structure
-Structure_Description,How predictable and stable your worldview feels. Stresses you and alters your mind state when it gets too low.,How predictable and stable your worldview feels. Stresses you and alters your mind state when it gets too low.
+Structure_Description,How predictable and stable your worldview feels. Stresses you and alters your mind state when it gets too low.,自分の世界観がいかに予測可能で安定しているか。 低くなりすぎるとストレスになり、精神状態が変容する。
 Structure_Statuses[0].GameName,No Mental Structure,No Mental Structure
 Structure_Statuses[1].GameName,Low Structure,Low Structure
 WaterAffinity_GameName,Water Affinity,Water Affinity
@@ -9248,21 +9248,21 @@ CombatMorale_Description,Needed to stay in a fight and resist your flight instin
 CombatMorale_Statuses[0].GameName,Demoralized,Demoralized
 CombatMorale_Statuses[0].Description,You have recently run away from a fight.,You have recently run away from a fight.
 Comfort_GameName,Comfort,Comfort
-Comfort_Description,"How safe, meaningful and comfortable a place feels. Lowers stress and increases wellbeing and mental structure.\n\nAdd furniture, improvements and decorations to increase it.","How safe, meaningful and comfortable a place feels. Lowers stress and increases wellbeing and mental structure.\n\nAdd furniture, improvements and decorations to increase it."
+Comfort_Description,"How safe, meaningful and comfortable a place feels. Lowers stress and increases wellbeing and mental structure.\n\nAdd furniture, improvements and decorations to increase it.",その場所がいかに安全で、有意義で、心地よく感じられるか。 ストレスを軽減し、幸福度と精神構造を高める。\n\n家具や設備、装飾を追加すると高まる。
 Comfort_Statuses[0].GameName,Minimal Comfort,Minimal Comfort
 Comfort_Statuses[1].GameName,Low Comfort,Low Comfort
 Comfort_Statuses[2].GameName,Medium Comfort,Medium Comfort
 Comfort_Statuses[3].GameName,High Comfort,High Comfort
 Comfort_Statuses[4].GameName,Maximum Comfort,Maximum Comfort
 Courage_GameName,Courage,Courage
-Courage_Description,Allows you to perform painful or dangerous actions you would otherwise not be able to do. It also helps you recover from being demoralized or frightened faster.,Allows you to perform painful or dangerous actions you would otherwise not be able to do. It also helps you recover from being demoralized or frightened faster.
+Courage_Description,Allows you to perform painful or dangerous actions you would otherwise not be able to do. It also helps you recover from being demoralized or frightened faster.,普通ならできないような痛みや危険な動作ができるようになる。 また、戦意喪失や怯えからの回復も早くなる。
 Courage_Statuses[0].GameName,Low Courage,Low Courage
 Courage_Statuses[1].GameName,Moderate Courage,Moderate Courage
 Courage_Statuses[2].GameName,High Courage,High Courage
 Courage_Statuses[3].GameName,Very High Courage,Very High Courage
 Courage_NotEnoughText,I haven't mustered enough courage yet...,I haven't mustered enough courage yet...
 Derealization_GameName,Derealization,Derealization
-Derealization_Description,Increases when you lose belief in reality.,Increases when you lose belief in reality.
+Derealization_Description,Increases when you lose belief in reality.,現実を信じられなくなると増える。
 Derealization_Statuses[0].GameName,Derealization,Derealization
 Derealization_Statuses[0].Description,Everything feels distant and grey,Everything feels distant and grey
 Derealization_Statuses[1].GameName,Derealization,Derealization
@@ -9289,7 +9289,7 @@ Focus_Statuses[2].GameName,Focused,Focused
 Focus_Statuses[3].GameName,In the Flow,In the Flow
 Focus_NotEnoughText,Not enough focus.,Not enough focus.
 Loneliness_GameName,Loneliness,Loneliness
-Loneliness_Description,Increases over time. Lowers morale and mental structure.,Increases over time. Lowers morale and mental structure.
+Loneliness_Description,Increases over time. Lowers morale and mental structure.,時間とともに増加する。 士気や精神構造を低下させる。
 Loneliness_Statuses[0].GameName,Lonely,Lonely
 Loneliness_Statuses[0].Description,I'm feeling a bit lonely...,I'm feeling a bit lonely...
 Loneliness_Statuses[1].GameName,Lonely,Lonely
@@ -9297,13 +9297,13 @@ Loneliness_Statuses[1].Description,I'm feeling lonely...,I'm feeling lonely...
 Loneliness_Statuses[2].GameName,Lonely,Lonely
 Loneliness_Statuses[2].Description,I'm feeling so lonely...,I'm feeling so lonely...
 Mania_GameName,Mania,Mania
-Mania_Description,Makes you happy and brave but also alters your mind state.,Makes you happy and brave but also alters your mind state.
+Mania_Description,Makes you happy and brave but also alters your mind state.,幸せと勇気を与えてくれるが、精神状態も変えてしまう。
 Mania_Statuses[0].GameName,Hypomanic,Hypomanic
 Mania_Statuses[0].Description,I feel so full of energy!,I feel so full of energy!
 Mania_Statuses[1].GameName,Manic,Manic
 Mania_Statuses[1].Description,I feel so full of energy!,I feel so full of energy!
 Morale_GameName,Morale,Morale
-Morale_Description,Shows your general mood. Affects your immune system and can help trigger depressive and manic states at the extremes.,Shows your general mood. Affects your immune system and can help trigger depressive and manic states at the extremes.
+Morale_Description,Shows your general mood. Affects your immune system and can help trigger depressive and manic states at the extremes.,全般的な気分を示す。 免疫系に影響を与え、極端な場合は抑うつ状態や躁状態の引き金となる。
 Morale_DefaultStatusName,Fine,Fine
 Morale_DefaultStatusDescription,I'm feeling fine.,I'm feeling fine.
 Morale_Statuses[0].GameName,Euphoric,Euphoric
@@ -9332,7 +9332,7 @@ SleepDeprivationEffects_Statuses[1].GameName,Sleep Deprivation,Sleep Deprivation
 SleepDeprivationEffects_Statuses[2].GameName,Major Sleep Deprivation,Major Sleep Deprivation
 SleepDeprivationEffects_Statuses[3].GameName,Serious Sleep Deprivation,Serious Sleep Deprivation
 Stress_GameName,Stress,Stress
-Stress_Description,Lowers your morale and mental structure. Can also upset your stomach if it gets too high.,Lowers your morale and mental structure. Can also upset your stomach if it gets too high.
+Stress_Description,Lowers your morale and mental structure. Can also upset your stomach if it gets too high.,士気と精神構造を低下させる。 高すぎると胃を荒らすこともある。
 Stress_Statuses[0].GameName,Relaxed,Relaxed
 Stress_Statuses[1].GameName,Tense,Tense
 Stress_Statuses[2].GameName,Stressed,Stressed
@@ -9343,7 +9343,7 @@ Trust_Statuses[0].GameName,Low,Low
 Trust_Statuses[1].GameName,Medium,Medium
 Trust_Statuses[2].GameName,High,High
 Wakefulness_GameName,Wakefulness,Wakefulness
-Wakefulness_Description,Shows how awake you are. Lack of sleep lowers your wellbeing and can alter your mind state.,Shows how awake you are. Lack of sleep lowers your wellbeing and can alter your mind state.
+Wakefulness_Description,Shows how awake you are. Lack of sleep lowers your wellbeing and can alter your mind state.,覚醒度を表す。睡眠不足は幸福感を低下させ、精神状態を変容させる。
 Wakefulness_Statuses[0].GameName,Sleepy,Sleepy
 Wakefulness_Statuses[0].Description,I'm getting sleepy (click on clock or bed to sleep),I'm getting sleepy (click on clock or bed to sleep)
 Wakefulness_Statuses[1].GameName,Very Sleepy,Very Sleepy
@@ -9390,7 +9390,7 @@ Encumbrance_Statuses[3].GameName,Too encumbered to move,Too encumbered to move
 Encumbrance_Statuses[3].Description,Movement is not possible,Movement is not possible
 Encumbrance_Statuses[3].EffectsOnActions[0].ActionBlockMessage,Too heavy to move...,Too heavy to move...
 Energy_GameName,Energy,Energy
-Energy_Description,Affects your stamina recovery rate. Gained by spending stamina and recovered through prolongued resting.,Affects your stamina recovery rate. Gained by spending stamina and recovered through prolongued resting.
+Energy_Description,Affects your stamina recovery rate. Gained by spending stamina and recovered through prolongued resting.,スタミナの回復速度に影響する。スタミナを消費することで得られ、長期の休息で回復する。
 Energy_Statuses[0].GameName,Depleted Energy,Depleted Energy
 Energy_Statuses[0].Description,You should rest and let your body recover,You should rest and let your body recover
 Energy_Statuses[1].GameName,Low Energy,Low Energy
@@ -9403,7 +9403,7 @@ Energy_Statuses[4].GameName,Full Energy,Full Energy
 Energy_Statuses[4].Description,Your body is full of energy,Your body is full of energy
 Energy_NotEnoughText,I'm too tired for this action...,I'm too tired for this action...
 Fitness_GameName,Fitness,Fitness
-Fitness_Description,Increases your stamina and energy. Can be raised through exercise.,Increases your stamina and energy. Can be raised through exercise.
+Fitness_Description,Increases your stamina and energy. Can be raised through exercise.,スタミナとエネルギーを高める。運動によって高めることができる。
 Fitness_Statuses[0].GameName,Very High Fitness,Very High Fitness
 Fitness_Statuses[1].GameName,High Fitness,High Fitness
 Fitness_Statuses[2].GameName,Moderate Fitness,Moderate Fitness
@@ -9431,7 +9431,7 @@ MuscleMass_Statuses[2].GameName,Moderate Muscle Mass,Moderate Muscle Mass
 MuscleMass_Statuses[3].GameName,Low Muscle Mass,Low Muscle Mass
 MuscleMass_Statuses[4].GameName,Very Low Muscle Mass,Very Low Muscle Mass
 Stamina_GameName,Stamina,Stamina
-Stamina_Description,Needed for physical activities. Can be recovered by resting or engaging in less strenuous activities. Expending stamina increases your appetite and tires you out. Be cautious not to overexert yourself when food is limited.,Needed for physical activities. Can be recovered by resting or engaging in less strenuous activities. Expending stamina increases your appetite and tires you out. Be cautious not to overexert yourself when food is limited.
+Stamina_Description,Needed for physical activities. Can be recovered by resting or engaging in less strenuous activities. Expending stamina increases your appetite and tires you out. Be cautious not to overexert yourself when food is limited.,身体活動に必要。休むか、あまり激しい運動をしないことで回復できる。スタミナを消費すると食欲が増し、疲れやすくなる。食料が制限されているときは、無理をしないように注意する。
 Stamina_Statuses[0].GameName,Exhausted,Exhausted
 Stamina_Statuses[0].Description,"I'm exhausted, I should stop to rest.","I'm exhausted, I should stop to rest."
 Stamina_Statuses[1].GameName,Tired,Tired
@@ -9532,7 +9532,7 @@ SaturationVegetables_Description,Shows how tired you are of eating vegetables. L
 SaturationVegetables_Statuses[0].GameName,I'm a bit tired of eating Vegetables...,I'm a bit tired of eating Vegetables...
 SaturationVegetables_Statuses[1].GameName,I'm so sick of eating Vegetables...,I'm so sick of eating Vegetables...
 Appetite_GameName,Appetite,Appetite
-Appetite_Description,"Appetite governs the rate at which you get hungry. A higher appetite means you'll need to consume more food, making it easier to gain weight but also stressing you more if food is not available. Conversely, a low appetite will make it harder for you to gain weight but also put less pressure on you if food is scarce. \n\nRegular overeating can increase your appetite, while being very hungry can decrease it. ","Appetite governs the rate at which you get hungry. A higher appetite means you'll need to consume more food, making it easier to gain weight but also stressing you more if food is not available. Conversely, a low appetite will make it harder for you to gain weight but also put less pressure on you if food is scarce. \n\nRegular overeating can increase your appetite, while being very hungry can decrease it. "
+Appetite_Description,"Appetite governs the rate at which you get hungry. A higher appetite means you'll need to consume more food, making it easier to gain weight but also stressing you more if food is not available. Conversely, a low appetite will make it harder for you to gain weight but also put less pressure on you if food is scarce. \n\nRegular overeating can increase your appetite, while being very hungry can decrease it. ",食欲は空腹になる速度を支配する。 食欲が旺盛であれば、より多くの食物を摂取する必要があり、体重が増えやすくなるが、食物が手に入らなければストレスも大きくなる。 逆に、食欲が低いと体重は増えにくくなるが、食べ物が不足している場合のプレッシャーも少なくなる。\n\n慢性的な過食は食欲を増進させ、空腹は食欲を減退させる。
 Appetite_Statuses[0].GameName,Tiny,Tiny
 Appetite_Statuses[1].GameName,Small,Small
 Appetite_Statuses[2].GameName,Medium,Medium
@@ -9702,7 +9702,7 @@ Fever_Statuses[2].Description,My body is burning,My body is burning
 Fever_Statuses[3].GameName,Very High Fever,Very High Fever
 Fever_Statuses[3].Description,...,...
 Filth_GameName,Filth,Filth
-Filth_Description,Shows how dirty you are and increases your chances of catching something.,Shows how dirty you are and increases your chances of catching something.
+Filth_Description,Shows how dirty you are and increases your chances of catching something.,どれだけ汚れているかを表し、何かをキャッチする可能性を高める。
 Filth_Statuses[0].GameName,Very Filthy,Very Filthy
 Filth_Statuses[0].Description,I'm covered in filth...,I'm covered in filth...
 Filth_Statuses[1].GameName,Filthy,Filthy
@@ -9794,12 +9794,12 @@ CallousesHands_Description,Protects your hands from the damage caused by working
 CallousesHands_Statuses[0].GameName,Hand Callouses,Hand Callouses
 CallousesHands_Statuses[1].GameName,Hand Callouses,Hand Callouses
 FootDamage_GameName,Foot Damage,Foot Damage
-FootDamage_Description,Caused by walking. Can be neutralized with callouses or footwear.,Caused by walking. Can be neutralized with callouses or footwear.
+FootDamage_Description,Caused by walking. Can be neutralized with callouses or footwear.,歩行が原因。タコができたり、靴を履くと緩和できる。
 FootDamage_Statuses[0].GameName,Moderate Foot Damage,Moderate Foot Damage
 FootDamage_Statuses[1].GameName,Severe Foot Damage,Severe Foot Damage
 FootHardness_GameName,Foot Hardness,Foot Hardness
 HandDamage_GameName,Hand Damage,Hand Damage
-HandDamage_Description,Caused by working with your hands. Can be neutralized with callouses or handwear.,Caused by working with your hands. Can be neutralized with callouses or handwear.
+HandDamage_Description,Caused by working with your hands. Can be neutralized with callouses or handwear.,手仕事が原因。タコができたり、手袋をすると緩和できる。
 HandDamage_Statuses[0].GameName,Moderate Hand Damage,Moderate Hand Damage
 HandDamage_Statuses[1].GameName,Severe Hand Damage,Severe Hand Damage
 SkinHumidity_GameName,Skin Humidity,Skin Humidity
@@ -9808,7 +9808,7 @@ SkinHumidity_Statuses[1].GameName,Dry Skin,Dry Skin
 SkinHumidity_Statuses[2].GameName,Very Dry Skin,Very Dry Skin
 SkinHumidity_Statuses[3].GameName,Cracking Skin,Cracking Skin
 SkinIntegrity_GameName,Skin Integrity,Skin Integrity
-SkinIntegrity_Description,Lowered by wounds and increased through dressings. The lower your skin integrity the easier it is for you to catch infections when dirty.,Lowered by wounds and increased through dressings. The lower your skin integrity the easier it is for you to catch infections when dirty.
+SkinIntegrity_Description,Lowered by wounds and increased through dressings. The lower your skin integrity the easier it is for you to catch infections when dirty.,傷によって低下し、包帯によって上昇する。皮膚の完全性が低ければ低いほど、汚れたときに感染症にかかりやすくなる。
 SkinIntegrity_Statuses[0].GameName,Skin Integrity,Skin Integrity
 SkinIntegrity_Statuses[1].GameName,Skin Integrity,Skin Integrity
 SkinIntegrity_Statuses[2].GameName,Skin Integrity,Skin Integrity
@@ -9888,7 +9888,7 @@ EyeDamage_Statuses[1].GameName,Moderate Eye Damage,Moderate Eye Damage
 EyeDamage_Statuses[2].GameName,Severe Eye Damage,Severe Eye Damage
 EyeDamage_Statuses[3].GameName,Extreme Eye Damage,Extreme Eye Damage
 Myopia_GameName,Eyesight,Eyesight
-Myopia_Description,Makes it harder to find useful things and avoid dangers.,Makes it harder to find useful things and avoid dangers.
+Myopia_Description,Makes it harder to find useful things and avoid dangers.,役に立つものを見つけたり、危険を避けたりするのが難しくなる。
 Myopia_Statuses[0].GameName,Short-sighted,Short-sighted
 Myopia_Statuses[0].Description,My sight is not the best.,My sight is not the best.
 Myopia_Statuses[1].GameName,Very Short-sighted,Very Short-sighted
@@ -9903,7 +9903,7 @@ Headache_Statuses[1].Description,My head hurts.,My head hurts.
 Headache_Statuses[2].GameName,Severe Headache,Severe Headache
 Headache_Statuses[2].Description,My head is killing me!,My head is killing me!
 Pain_GameName,Pain,Pain
-Pain_Description,Lowers your morale and increases your stress.,Lowers your morale and increases your stress.
+Pain_Description,Lowers your morale and increases your stress.,士気を下げ、ストレスを増大させる。
 Pain_Statuses[0].GameName,Minor Pain,Minor Pain
 Pain_Statuses[0].Description,It hurts.,It hurts.
 Pain_Statuses[1].GameName,Moderate Pain,Moderate Pain
@@ -9913,7 +9913,7 @@ Pain_Statuses[2].Description,I'm in serious pain.,I'm in serious pain.
 Pain_Statuses[3].GameName,Extreme Pain,Extreme Pain
 Pain_Statuses[3].Description,It hurts so much I can't think!,It hurts so much I can't think!
 Rash_GameName,Rash,Rash
-Rash_Description,Lowers wellbeing and increases stress. Can be treated with cool water and soothing medicines.,Lowers wellbeing and increases stress. Can be treated with cool water and soothing medicines.
+Rash_Description,Lowers wellbeing and increases stress. Can be treated with cool water and soothing medicines.,幸福感を低下させ、ストレスを増大させる。冷たい水と鎮静剤で治療できる。
 Rash_Statuses[0].GameName,Minor Rash,Minor Rash
 Rash_Statuses[0].Description,Itches...,Itches...
 Rash_Statuses[1].GameName,Rash,Rash
