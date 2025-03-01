@@ -99,7 +99,7 @@ def main() -> int:
 CRE_CRLF = re.compile(r"(\r\n|\n)")
 ESC_TRANS = str.maketrans(
     {
-        "\\": "\\\\",
+        # "\\": "\\\\",
         '"': r"\"",
     }
 )
