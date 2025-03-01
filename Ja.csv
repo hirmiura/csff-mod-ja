@@ -1529,7 +1529,7 @@ MudPile_CardDescription,Can be mixed with reeds or straw to form bricks or refin
 FineDirt_CardDescription,Can be mixed with water to produce clay.,Can be mixed with water to produce clay.
 FurLeather_CardDescription,Can be used  for warm clothing and other crafts. It can be dehaired by soaking it in lime and scraping it with a knife.\n\nProvides comfort and insulation while sleeping when placed on a bed.,Can be used  for warm clothing and other crafts. It can be dehaired by soaking it in lime and scraping it with a knife.\n\nProvides comfort and insulation while sleeping when placed on a bed.
 Bp_ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.",コップとして、食器として、お茶を入れる器として使える。
-ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.","Can be used as a drinking cup, an eating bowl, or to prepare teas."
+ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.",コップとして、食器として、お茶を入れる器として使える。
 Stone_CardDescription,"Can be used as a hammer, sharpened on a heavy stone, or fired on a kiln to make quicklime.",ハンマーとして使ったり、重い石で研いだり、窯で焼いて生石灰を作ったりできる。
 CloverRaw_CardDescription,"Can be used as bedding material, animal feed or human food.","Can be used as bedding material, animal feed or human food."
 MeadowgrassGrass_CardDescription,"Can be used as bedding material, roofing or animal feed. ","Can be used as bedding material, roofing or animal feed. "
@@ -7710,8 +7710,8 @@ PeasPlantedGrowing_CardName,Planted Peas,Planted Peas
 RyePlantedGrowing_CardName,Planted Rye,Planted Rye
 Tab_Farming_Plants_TabName,Plants,Plants
 ThicketOak_LostWoods_SpoilageTime.CardStatName,Plants,Plants
-Bp_GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.","Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger."
-GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.","Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger."
+Bp_GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.",植物やキノコは、適切な酸性度、栄養、水分補給があれば、ここで育てられる。\n\n過度の肥料はダニの発生につながり、過度の水分補給はカビの発生につながる。庭をこまめに点検することで、植物を丈夫に育てることができる。
+GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.",植物やキノコは、適切な酸性度、栄養、水分補給があれば、ここで育てられる。\n\n過度の肥料はダニの発生につながり、過度の水分補給はカビの発生につながる。庭をこまめに点検することで、植物を丈夫に育てることができる。
 Bp_Plaster_CardName,Plaster,Plaster
 Plaster_CardName,Plaster,Plaster
 Imp_PlasteredWalls_CardName,Plastered Walls,Plastered Walls
