@@ -9608,7 +9608,7 @@ RectalPressure_Statuses[2].PreventingActionMessage,Need to Poop before doing thi
 RectalPressure_StatActions[0].ActionName,Defecate (Diarrhoea),Defecate (Diarrhoea)
 RectalPressure_StatActions[1].ActionName,Defecate,Defecate
 Satiation_GameName,Satiation,満腹度
-Satiation_Description,"Measures how full or hungry you feel. Overeating can lead to nausea and increase your stomach capacity, making it harder to feel full. Spending time hungry can cause stress, decrease your wellbeing, and reduce your stomach capacity, making it easier to feel full.","Measures how full or hungry you feel. Overeating can lead to nausea and increase your stomach capacity, making it harder to feel full. Spending time hungry can cause stress, decrease your wellbeing, and reduce your stomach capacity, making it easier to feel full."
+Satiation_Description,"Measures how full or hungry you feel. Overeating can lead to nausea and increase your stomach capacity, making it harder to feel full. Spending time hungry can cause stress, decrease your wellbeing, and reduce your stomach capacity, making it easier to feel full.",あなたの満腹感や空腹感を表す。食べ過ぎれば嘔吐をもよおすが、胃の容量を増やし満腹感を感じにくくする。空腹のまま過ごせば、ストレスが溜まり幸福感が低下するが、胃の容量が減り満腹感を感じやすくなる。
 Satiation_Statuses[0].GameName,Sick,Sick
 Satiation_Statuses[0].Description,You ate too much and are feeling sick.,You ate too much and are feeling sick.
 Satiation_Statuses[1].GameName,Very Full,Very Full
@@ -9863,7 +9863,7 @@ Testosterone_Statuses[1].GameName,Low Testosterone,Low Testosterone
 Testosterone_Statuses[2].GameName,Moderate Testosterone,Moderate Testosterone
 Testosterone_Statuses[3].GameName,High Testosterone,High Testosterone
 BodyTemperature_GameName,Body Temperature,Body Temperature
-BodyTemperature_Description,"Your body's internal temperature. When high, you risk dehydration and heat stroke, when low, you risk frostbite or hypothermia, and have a higher chance to catch a cold.","Your body's internal temperature. When high, you risk dehydration and heat stroke, when low, you risk frostbite or hypothermia, and have a higher chance to catch a cold."
+BodyTemperature_Description,"Your body's internal temperature. When high, you risk dehydration and heat stroke, when low, you risk frostbite or hypothermia, and have a higher chance to catch a cold.",あなたの体内温度。高いと脱水症や熱射病のリスクがあり、低いと凍傷や低体温症のリスクがあり、高確率で風邪をひく。
 BodyTemperature_DefaultStatusName,Comfortable,Comfortable
 BodyTemperature_Statuses[0].GameName,Overheated to Death,Overheated to Death
 BodyTemperature_Statuses[0].Description,You died of a heat stroke.,You died of a heat stroke.
@@ -11264,12 +11264,12 @@ RIGHT_CLICK,<b>Right click</b> to swap between hand and base row.,<b>Right click
 HAND_ROW_HELP,<b>Hand Row</b>\n<size=80%>Items you are carrying.\nThey come with you when you travel and affect your encumbrance.</size>,<b>Hand Row</b>\n<size=80%>Items you are carrying.\nThey come with you when you travel and affect your encumbrance.</size>
 BASE_ROW_HELP,<b>Base Row</b>\n<size=80%>Items laying around in the current location. They stay if you travel.,<b>Base Row</b>\n<size=80%>Items laying around in the current location. They stay if you travel.
 LOCATION_ROW_HELP,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>
-LOCATION_CARD,"Current Location\n<b>(Forage, Clear, Travel)</b>","Current Location\n<b>(Forage, Clear, Travel)</b>"
-STATUS_INFO_CLICK,Click on a status for more <b>information</b> and special actions,Click on a status for more <b>information</b> and special actions
+LOCATION_CARD,"Current Location\n<b>(Forage, Clear, Travel)</b>","現在地\n<b>(Forage, Clear, Travel)</b>"
+STATUS_INFO_CLICK,Click on a status for more <b>information</b> and special actions,ステータスをクリックすると、より詳しい<b>情報</b>や特別なアクションが表示されます。
 HIGH_PRIO_STATUSES,High priority statuses,High priority statuses
-ENCUMBRANCE_AND_CHARACTER,"Encumbrance and Character screen\n<b>(Equipment, Wounds, Abilities)</b>","Encumbrance and Character screen\n<b>(Equipment, Wounds, Abilities)</b>"
-SEASON_AND_TIME,"Clock and Resting\n<b>(Rest, Relax, Nap, Sleep)</b>","Clock and Resting\n<b>(Rest, Relax, Nap, Sleep)</b>"
-WEATHER_AND_TEMPERATURE,Weather and Temperature,Weather and Temperature
+ENCUMBRANCE_AND_CHARACTER,"Encumbrance and Character screen\n<b>(Equipment, Wounds, Abilities)</b>","重量とキャラクター画面\n<b>(装備, 受傷, 能力)</b>"
+SEASON_AND_TIME,"Clock and Resting\n<b>(Rest, Relax, Nap, Sleep)</b>","時刻と休息\n<b>(Rest, Relax, Nap, Sleep)</b>"
+WEATHER_AND_TEMPERATURE,Weather and Temperature,天気と気温
 Bp_Cellar_CardName,Cellar,Cellar
 Bp_Cellar_CardDescription,"An underground room, food stored here will last longer.","An underground room, food stored here will last longer."
 Bp_Cellar_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
