@@ -34,7 +34,7 @@ def pargs() -> argparse.Namespace:
         "-o",
         metavar="OUTPUT",
         type=argparse.FileType("w", encoding="utf-8"),
-        default=sys.stdout,
+        default="-",
         help="出力POTファイル。指定されなければ標準出力",
     )
     parser.add_argument("--version", action="version", version="%(prog)s 0.1.0")
