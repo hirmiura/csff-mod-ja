@@ -22,8 +22,7 @@ msginit --no-translator -l ja_JP.utf8 -i Ja.pot -o Ja.edit.po
 `Ja.edit.po` を翻訳
 
 ```bash
-msgfmt --statistics -o Ja.mo Ja.edit.po
-mo2csv.py -i Ja.mo -o Ja.csv
+po2csv.py -i Ja.po -o Ja.csv
 ```
 
 ## マージ
