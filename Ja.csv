@@ -1,4 +1,5 @@
-﻿PartridgeChickDead_CardDescription, Could be used as trap bait., Could be used as trap bait.
+﻿FlintVein_CardDescription,\n,\n
+PartridgeChickDead_CardDescription, Could be used as trap bait., Could be used as trap bait.
 MudWorkingTools_Obj3_CraftAMudBrickMold_ObjectiveDescription, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 MudWorkingTools_Sub3_CraftAMudBrickMold_QuestTitle, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 BodyTemperature_Statuses[7].GameName, Hypothermia, Hypothermia
@@ -1180,9 +1181,9 @@ RyeFieldGrowing_CardDescription,"Bought from traders; needs medium to high acidi
 RyeFieldMature_CardDescription,"Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nEdible grain, long lasting and useful for making bread and beer.","Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nEdible grain, long lasting and useful for making bread and beer."
 RyePlantedGrowing_CardDescription,"Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nEdible grain, long lasting and useful for making bread and beer.","Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nEdible grain, long lasting and useful for making bread and beer."
 RyePlantedDormant_CardDescription,"Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nWill grow when conditions are right.","Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nWill grow when conditions are right."
-PeasPlantedDormant_CardDescription,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities. \n\nWill grow when conditions are right.,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities. \n\nWill grow when conditions are right.
 PeasPlantedGrowing_CardDescription,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities.\n\nA nutritious food that is long lasting when dry.,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities.\n\nA nutritious food that is long lasting when dry.
 PeasPlantedMature_CardDescription,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities.\n\nA nutritious food that is long lasting when dry.,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities.\n\nA nutritious food that is long lasting when dry.
+PeasPlantedDormant_CardDescription,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities. \n\nWill grow when conditions are right.,Bought from traders; prefers well-drained soils and has good nutrient fixing capabilities. \n\nWill grow when conditions are right.
 Pkg_Bowels_GroupName,Bowels,Bowels
 GpTag_Bowl_TabName,Bowl,Bowl
 tag_ContainerBowl_InGameName,Bowl Container,Bowl Container
@@ -1676,21 +1677,20 @@ W_ArmLacerationL_CardDescription,"Causes pain and blood loss, and makes hand act
 W_ArmLacerationR_CardDescription,"Causes pain and blood loss, and makes hand actions more difficult. \n\nApply a tourniquet or stitch it if necessary, and keep it clean and dress it to avoid infection.","Causes pain and blood loss, and makes hand actions more difficult. \n\nApply a tourniquet or stitch it if necessary, and keep it clean and dress it to avoid infection."
 W_LegLacerationL_CardDescription,"Causes pain and blood loss, and makes leg actions more difficult. \n\nApply a tourniquet or stitch it if necessary, and keep it clean and dress it to avoid infection.","Causes pain and blood loss, and makes leg actions more difficult. \n\nApply a tourniquet or stitch it if necessary, and keep it clean and dress it to avoid infection."
 W_LegLacerationR_CardDescription,"Causes pain and blood loss, and makes leg actions more difficult. \n\nApply a tourniquet or stitch it if necessary, and keep it clean and dress it to avoid infection.","Causes pain and blood loss, and makes leg actions more difficult. \n\nApply a tourniquet or stitch it if necessary, and keep it clean and dress it to avoid infection."
-W_ArmLacerationLStitched_CardDescription,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.
-W_ArmLacerationRStitched_CardDescription,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.
 W_ArmFractureL_CardDescription,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.
 W_ArmFractureR_CardDescription,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.
 W_ArmSprainedL_CardDescription,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.
 W_ArmSprainedR_CardDescription,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes hand actions more difficult.\n\nUse a splint to help it heal.
-W_LegLacerationLStitched_CardDescription,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.
-W_LegLacerationRStitched_CardDescription,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.
+W_ArmLacerationLStitched_CardDescription,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.
+W_ArmLacerationRStitched_CardDescription,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes hand actions more difficult. \n\nKeep it clean and dress it to avoid infection.
 W_LegFractureL_CardDescription,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.
 W_LegFractureR_CardDescription,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.
 W_LegSprainedL_CardDescription,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.
 W_LegSprainedR_CardDescription,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.,Causes pain and makes leg actions more difficult.\n\nUse a splint to help it heal.
+W_LegLacerationLStitched_CardDescription,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.
+W_LegLacerationRStitched_CardDescription,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.,Causes pain and makes leg actions more difficult. \n\nKeep it clean and dress it to avoid infection.
 W_RibFracture_CardDescription,Causes pain and takes a long time to heal. ,Causes pain and takes a long time to heal. 
 W_Bruise_CardDescription,Causes pain.,Causes pain.
-W_Frostnip_CardDescription,Causes pain. \n\nKeep it warm or it might progress into frostbite. Keep it clean and dress it to avoid infection.,Causes pain. \n\nKeep it warm or it might progress into frostbite. Keep it clean and dress it to avoid infection.
 W_Abrasion_CardDescription,Causes pain.\n\nKeep it clean and dress it to avoid infection.,Causes pain.\n\nKeep it clean and dress it to avoid infection.
 W_BiteWound_CardDescription,Causes pain.\n\nKeep it clean and dress it to avoid infection.,Causes pain.\n\nKeep it clean and dress it to avoid infection.
 W_ClawMarks_CardDescription,Causes pain.\n\nKeep it clean and dress it to avoid infection.,Causes pain.\n\nKeep it clean and dress it to avoid infection.
@@ -1700,6 +1700,7 @@ W_Puncture_CardDescription,Causes pain.\n\nKeep it clean and dress it to avoid i
 W_WolfBite_CardDescription,Causes pain.\n\nKeep it clean and dress it to avoid infection.,Causes pain.\n\nKeep it clean and dress it to avoid infection.
 W_MinorLaceration_CardDescription,Causes pain.\n\nKeep it clean and dress it to avoid infection. Can be stitched.,Causes pain.\n\nKeep it clean and dress it to avoid infection. Can be stitched.
 W_Frostbite_CardDescription,Causes pain.\n\nKeep it warm to help it heal. Keep it clean and dress it to avoid infection.,Causes pain.\n\nKeep it warm to help it heal. Keep it clean and dress it to avoid infection.
+W_Frostnip_CardDescription,Causes pain. \n\nKeep it warm or it might progress into frostbite. Keep it clean and dress it to avoid infection.,Causes pain. \n\nKeep it warm or it might progress into frostbite. Keep it clean and dress it to avoid infection.
 River_GroveOak_Greenfalls_DismantleActions[3].ActionName,Cave,Cave
 tag_Cave_InGameName,Cave,Cave
 tag_EnvCaveSystem_InGameName,Cave System,Cave System
@@ -3656,8 +3657,8 @@ TurnrootBoiled_CardDescription,Edible root with versatile culinary uses.,Edible 
 TurnrootDried_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
 TurnrootMashedBoiled_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
 TurnrootRoasted_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
-TurnrootSeeds_CardDescription,Edible root with versatile culinary uses. Can be planted in a garden or as a field crop.,Edible root with versatile culinary uses. Can be planted in a garden or as a field crop.
 TurnrootFresh_CardDescription,Edible root with versatile culinary uses. \n\nCan be dried to last longer.,Edible root with versatile culinary uses. \n\nCan be dried to last longer.
+TurnrootSeeds_CardDescription,Edible root with versatile culinary uses. Can be planted in a garden or as a field crop.,Edible root with versatile culinary uses. Can be planted in a garden or as a field crop.
 EggChickenRaw_CardDescription,"Edible, would taste better cooked.","Edible, would taste better cooked."
 MossBoiled_CardDescription,Edible.,Edible.
 EDIT_CHARACTER,Edit Character,編集
@@ -4594,9 +4595,9 @@ Combat_EncounterWolf_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.Lo
 Combat_EncounterWolf_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
 Combat_EncounterWolf_EnemyActions[3].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
 Combat_EncounterWolf_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-FirerootPlantedDormant_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration. \n\nWill grow when conditions are right.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration. \n\nWill grow when conditions are right."
 FirerootPlantedGrowing_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic."
 FirerootPlantedMature_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic."
+FirerootPlantedDormant_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration. \n\nWill grow when conditions are right.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration. \n\nWill grow when conditions are right."
 AppleweedPlantedGrowing_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 AppleweedPlantedMature_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nBoosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 AppleweedPlantedDormant_CardDescription,"Found in clearings; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.","Found in clearings; needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right."
@@ -5266,10 +5267,10 @@ ThicketOak_MuddyThicket_DismantleActions[0].ActionDescription,Has a chance to gi
 ThicketOak_MuddyWay_DismantleActions[0].ActionDescription,Has a chance to give you food and herbs.,Has a chance to give you food and herbs.
 ThicketOak_WhisperingThicket_DismantleActions[0].ActionDescription,Has a chance to give you food and herbs.,Has a chance to give you food and herbs.
 ThicketOak_WildThicket_DismantleActions[0].ActionDescription,Has a chance to give you food and herbs.,Has a chance to give you food and herbs.
+FrostleafFresh_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.
 LQ_FrostleafTea_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. 
 FrostleafDried_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be ground to enhance its effects.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be ground to enhance its effects.
 FrostleafPowder_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be used to flavour meals.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be used to flavour meals.
-FrostleafFresh_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.
 SunlightExposure_Description,Has a negative effect on your immune system and mood if it gets too low. Increases by spending time under the sun.,Has a negative effect on your immune system and mood if it gets too low. Increases by spending time under the sun.
 EggChickenRaw_Progress.CardStatName,Hatch Progress,Hatch Progress
 EggPartridgeRaw_Progress.CardStatName,Hatch Progress,Hatch Progress
@@ -5636,8 +5637,8 @@ Quiver_CardDescription,I can carry my arrows here. <b>CAN BE EQUIPPED ON EQUIPME
 Bp_DryingRack_CardDescription,I can hang vegetables and meat to dry here.,I can hang vegetables and meat to dry here.
 DryingRack_CardDescription,I can hang vegetables and meat to dry here.,I can hang vegetables and meat to dry here.
 Sack_CardDescription,I can store things inside.,I can store things inside.
-BackpackBasket_CardDescription,I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>\n\n,I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>\n\n
 LeatherSatchel_CardDescription,I can store things inside.\n\n <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,I can store things inside.\n\n <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>
+BackpackBasket_CardDescription,I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>\n\n,I can store things inside. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>\n\n
 IMPOSSIBLE_ACTION,I can't do this now...,I can't do this now...
 ACTION_HAPPENING,I can't do two things at once...,I can't do two things at once...
 Myopia_Statuses[1].Description,I can't see much...,I can't see much...
@@ -9868,6 +9869,7 @@ tag_ThreadedNeedle_InGameName,Threaded Needle,Threaded Needle
 RyeStalksDry_DismantleActions[0].ActionName,Thresh,Thresh
 KnifeThrow_ActionName,Throw,Throw
 SpearThrow_ActionName,Throw,Throw
+THROW_ALL_AWAY,Throw \nall away,Throw \nall away
 THROW_ONE_AWAY,Throw 1 away,Throw 1 away
 CompostBin_CardInteractions[0].ActionName,Throw Inside,Throw Inside
 CompostBin_CardInteractions[1].ActionName,Throw Inside,Throw Inside
@@ -9878,7 +9880,6 @@ MudHutConstructionLocationEnclosure_CardInteractions[2].ActionName,Throw Inside,
 MudHutEnclosure_CardInteractions[0].ActionName,Throw Inside,Throw Inside
 MudHutEnclosure_CardInteractions[1].ActionName,Throw Inside,Throw Inside
 MudHutEnclosure_CardInteractions[2].ActionName,Throw Inside,Throw Inside
-THROW_ALL_AWAY,Throw \nall away,Throw \nall away
 CharredRemains_DismantleActions[1].ActionName,Throw away,Throw away
 THROW_AWAY,Throw away,Throw away
 TRASH_CONFIRM,Throw {0} away?,Throw {0} away?
@@ -11544,7 +11545,6 @@ Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MinorWounds[1].WoundLog.LogTex
 Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MinorWounds[1].WoundLog.LogText,"Your skin was pierced, causing a minor laceration.","Your skin was pierced, causing a minor laceration."
 EncounterWindow_DefaultWeaponBrokeLog.LogText,Your {0} broke!,Your {0} broke!
 LQ_RottenStew_CardDescription,Yuck!,Yuck!
-FlintVein_CardDescription,\n,\n
 A_DAY,a day,a day
 A_FEW,a few {0},a few {0}
 AN_HOUR,an hour,an hour
@@ -11604,6 +11604,7 @@ SpearThrow_ActionFailureLog.LogText,your {1} flies through the air and misses it
 Stab_ActionFailureLog.LogText,your {1} misses {0}...,your {1} misses {0}...
 KnifeSlash_ActionSuccessLog.LogText,your {1} slash connects with {0}!,your {1} slash connects with {0}!
 DarknessSpirit_WeaponMove_Blindness_ActionSuccessLog.LogText,your {1} successfully blinds {0}!,your {1} successfully blinds {0}!
+PLACEHOLDER_DISCLAIMER,{0}\n\n<b>-The text above is a placeholder-</b>,{0}\n\n<b>-The text above is a placeholder-</b>
 BOOKMARK_TITLE_WITH_LIQUID,{0} ({1}),{0} ({1})
 ENCOUNTER_WEAPON_AND_PROJECTILE,{0} and {1},{0} and {1}
 USAGE_ZERO,{0} broke,{0} broke
@@ -11637,6 +11638,5 @@ IMPROVEMENT_DESC,{0} on a card for info,{0} on a card for info
 FUEL_ZERO,{0} ran out of fuel,{0} ran out of fuel
 PROGRESS_ZERO,{0} ran out of uses,{0} ran out of uses
 SPOILAGE_ZERO,{0} spoiled,{0} spoiled
-PLACEHOLDER_DISCLAIMER,{0}\n\n<b>-The text above is a placeholder-</b>,{0}\n\n<b>-The text above is a placeholder-</b>
 BLUEPRINT_FULL,{1} already has enough of {0},{1} already has enough of {0}
 THANKS_CHINESE_VIDEOS,"大头哥哥的游戏世界, 逆风笑, 老番茄 & 冰IC\n<size=75\n%>For their bilibili videos on Card Survival.</size>","大头哥哥的游戏世界, 逆风笑, 老番茄 & 冰IC\n<size=75\n%>For their bilibili videos on Card Survival.</size>"
