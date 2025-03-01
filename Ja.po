@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2025-03-01 15:32+0900\n"
+"PO-Revision-Date: 2025-03-01 16:34+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -7347,22 +7347,6 @@ msgctxt "Woodcarving_Sub1_ChopALogIntoPieces_QuestTitle*"
 msgid "Chop a Log into Pieces"
 msgstr ""
 
-msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription"
-msgid "Chop some Wood with the Axe"
-msgstr ""
-
-msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription*"
-msgid "Chop some Wood with the Axe"
-msgstr ""
-
-msgctxt "WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle"
-msgid "Chop some Wood with the Axe"
-msgstr ""
-
-msgctxt "WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle*"
-msgid "Chop some Wood with the Axe"
-msgstr ""
-
 msgctxt "HealersMoss_Progress.CardStatName"
 msgid "Cicatrisant Factor"
 msgstr ""
@@ -13353,6 +13337,22 @@ msgstr ""
 
 msgctxt "TRADE_SLOT"
 msgid "Drag items here to trade"
+msgstr ""
+
+msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription"
+msgid "Drag the Axe onto Location Card to chop some Wood"
+msgstr ""
+
+msgctxt "WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription*"
+msgid "Drag the Axe onto Location Card to chop some Wood"
+msgstr ""
+
+msgctxt "WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle"
+msgid "Drag the Axe onto Location Card to chop some Wood"
+msgstr ""
+
+msgctxt "WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle*"
+msgid "Drag the Axe onto Location Card to chop some Wood"
 msgstr ""
 
 msgctxt "TinderLit_CardDescription"
@@ -21816,7 +21816,7 @@ msgid "Height"
 msgstr ""
 
 msgctxt "NewsEARelease1_Sections[0].Entries[0].Content"
-msgid "Hello everyone!\\n<b>Card Survival: Fantasy Forest</b> is finally here.\\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\\n\\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time. \\n\\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!"
+msgid "Hello everyone!\\n<b>Card Survival: Fantasy Forest</b> is finally here.\\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\\n\\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\\n\\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!"
 msgstr ""
 
 msgctxt "HELP"
@@ -42256,7 +42256,7 @@ msgid "We hope you had a good time!"
 msgstr ""
 
 msgctxt "NewsEARelease1_Sections[0].Entries[1].Content"
-msgid "We will be releasing <b>regular updates</b> with new content as often as we can, as well as <b>3 major updates</b> introducing 3 new large areas to the forest (mountains, swamp and forest expanse) and new important content (like Metallurgy and the NPCs).\\n\\nWe hope Fantasy Forest can turn into a super deep and complete survival/life simulation.\\nLet's make it the best possible survival experience <b>together</b>!"
+msgid "We will be releasing <b>regular updates</b> with new content as often as we can, as well as <b>3 major updates</b> introducing 3 new large areas to the forest (mountains, swamp and forest expanse) and new important content (like Metallurgy and the NPCs).\\n\\n\\nWe hope Fantasy Forest can turn into a super deep and complete survival/life simulation.\\nLet's make it the best possible survival experience <b>together</b>!"
 msgstr ""
 
 msgctxt "AppleWeedEffect_Statuses[0].GameName"
