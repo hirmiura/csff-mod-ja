@@ -437,7 +437,7 @@ Bp_ArrowBone_UnlockConditionsDesc,More Archery Needed,More Archery Needed
 Bp_BarkSandals_CardName,Bark Sandals,Bark Sandals
 Bp_BarkSandals_CardDescription,"They're not comfortable, but they should protect my feet from damage.","They're not comfortable, but they should protect my feet from damage."
 Bp_Basket_CardName,Basket,Basket
-Bp_Basket_CardDescription,"Provides storage space, comfort and preserves food longer.","Provides storage space, comfort and preserves food longer."
+Bp_Basket_CardDescription,"Provides storage space, comfort and preserves food longer.",収納スペースと快適さを提供し、食品を長持ちさせる。
 Bp_Basket_UnlockConditionsDesc,Woven Palm Needed,Woven Palm Needed
 Bp_Bedroll_CardName,Bedroll,Bedroll
 Bp_Bedroll_CardDescription,"A portable bed. Increases wellbeing, focus and insulation while sleeping on it.","A portable bed. Increases wellbeing, focus and insulation while sleeping on it."
@@ -451,7 +451,7 @@ Bp_Broom_CardDescription,Used for sweeping and cleaning indoor areas.,Used for s
 Bp_Campfire_CardName,Campfire,Campfire
 Bp_Campfire_CardDescription,"Perfect for cooking, should provide me with warmth and light.","Perfect for cooking, should provide me with warmth and light."
 Bp_ClayBowl_CardName,Clay Bowl,Clay Bowl
-Bp_ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.","Can be used as a drinking cup, an eating bowl, or to prepare teas."
+Bp_ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to prepare teas.",コップとして、食器として、お茶を入れる器として使える。
 Bp_ClayBowl_UnlockConditionsDesc,Clay Needed,Clay Needed
 Bp_ClayCauldron_CardName,Clay Cauldron,Clay Cauldron
 Bp_ClayCauldron_CardDescription,Can be used to prepare broths and stews.,Can be used to prepare broths and stews.
@@ -491,9 +491,9 @@ Bp_Flint_Arrows_CardName,Flint Arrows,Flint Arrows
 Bp_Flint_Arrows_CardDescription,Sharp enough to pierce through the hides of larger animal.,Sharp enough to pierce through the hides of larger animal.
 Bp_Flint_Arrows_UnlockConditionsDesc,More Archery/Knapping Needed,More Archery/Knapping Needed
 Bp_Flint_Axe_CardName,Flint Axe,Flint Axe
-Bp_Flint_Axe_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.","Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood."
+Bp_Flint_Axe_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.",木を切り倒すのに十分な鋭さで、雑木林の伐採や木材の生産に最適。
 Bp_Flint_Spear_CardName,Flint Spear,Flint Spear
-Bp_Flint_Spear_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.
+Bp_Flint_Spear_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.\n\nSharp enough to pierce through thick animal hides.,リーチに優れた接近戦用の武器。大型獣の狩猟や捕食者から身を守るのに適している。\n\n分厚い獣皮も貫通する切れ味。
 Bp_Flint_Spear_UnlockConditionsDesc,More Knapping Needed,More Knapping Needed
 Bp_Fungicide_CardName,Fungicide,Fungicide
 Bp_FurBlanket_CardName,Fur Blanket,Fur Blanket
@@ -511,7 +511,7 @@ Bp_FurTrousers_CardName,Fur Trousers,Fur Trousers
 Bp_FurTrousers_CardDescription,"A bit hot, but should offer protection to my legs.","A bit hot, but should offer protection to my legs."
 Bp_GreenwardPouch_CardName,Green Ward Pouch,Green Ward Pouch
 Bp_HandBasket_CardName,Hand Basket,Hand Basket
-Bp_HandBasket_CardDescription,Provides storage space and  preserves food longer.,Provides storage space and  preserves food longer.
+Bp_HandBasket_CardDescription,Provides storage space and  preserves food longer.,収納スペースを確保し、食品を長持ちさせる。
 Bp_RiverPoultice_CardName,Healing Ointment,Healing Ointment
 Bp_RiverPoultice_CardDescription,Can be applied to wounds to increase their healing properties.,Can be applied to wounds to increase their healing properties.
 Bp_ImprovisedBed_CardName,Improvised Bed,Improvised Bed
@@ -522,12 +522,12 @@ Bp_KnifeSheath_CardName,Knife Sheath,Knife Sheath
 Bp_KnifeSheath_CardDescription,A portable knife carrier.,A portable knife carrier.
 Bp_KnifeSheath_UnlockConditionsDesc,More Archery Needed,More Archery Needed
 Bp_Knife_Flint_CardName,Flint Knife,Flint Knife
-Bp_Knife_Flint_CardDescription,Sharp enough to work wood and leather.,Sharp enough to work wood and leather.
+Bp_Knife_Flint_CardDescription,Sharp enough to work wood and leather.,木材や皮革を加工するのに十分な切れ味。
 Bp_LeatherBag_CardName,Leather Sack,Leather Sack
 Bp_LeatherBag_CardDescription,Increases your carrying capacity.,Increases your carrying capacity.
 Bp_LeatherBag_UnlockConditionsDesc,More Tailoring Needed,More Tailoring Needed
 Bp_LeatherBlanket_CardName,Leather Blanket,Leather Blanket
-Bp_LeatherBlanket_CardDescription,Provides comfort and insulation while sleeping when placed on a bed.,Provides comfort and insulation while sleeping when placed on a bed.
+Bp_LeatherBlanket_CardDescription,Provides comfort and insulation while sleeping when placed on a bed.,ベッドの上に置くと、就寝中に快適さと断熱性を提供する。
 Bp_LeatherBlanket_UnlockConditionsDesc,Plastic Sheet Needed,Plastic Sheet Needed
 Bp_LeatherBoots_CardName,Leather Boots,Leather Boots
 Bp_LeatherBoots_CardDescription,Provide protection and insulation.,Provide protection and insulation.
@@ -602,7 +602,7 @@ Bp_Tourniquet_CardDescription,"Stops blood loss, but do not wear it for too long
 Bp_TourniquetRustic_CardName,Improvised Tourniquet,Improvised Tourniquet
 Bp_TourniquetRustic_CardDescription,"Stops blood loss, but do not wear it for too long!","Stops blood loss, but do not wear it for too long!"
 Bp_Twine_CardName,Twine,Twine
-Bp_Twine_CardDescription,Used for construction and crafts.,Used for construction and crafts.
+Bp_Twine_CardDescription,Used for construction and crafts.,建築や工芸に使用される。
 Bp_Waterskin_CardName,Waterskin,Waterskin
 Bp_Waterskin_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
 Bp_Wort_CardName,Wort,Wort
@@ -613,18 +613,18 @@ Bp_FireBrew_CardName,Fire Brew,Fire Brew
 Bp_FireBrew_CardDescription,"Increases body temperature, boosts immune system, stamina and alertness.","Increases body temperature, boosts immune system, stamina and alertness."
 Bp_Spiritbrew_CardName,Spiritbrew,Spiritbrew
 Bp_BedLog_CardName,Log Bed,Log Bed
-Bp_BedLog_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.","Increases comfort, and raises wellbeing, focus and insulation while sleeping on it."
+Bp_BedLog_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.",寝心地が向上し、その上で寝ている間の幸福感、集中力、断熱性が高まる。
 Bp_BedLog_UnlockConditionsDesc,More Crafting Needed,More Crafting Needed
 Bp_BedWooden_CardName,Wooden Bed,Wooden Bed
-Bp_BedWooden_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.","Increases comfort, and raises wellbeing, focus and insulation while sleeping on it."
+Bp_BedWooden_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.",寝心地が向上し、その上で寝ている間の幸福感、集中力、断熱性が高まる。
 Bp_BedWooden_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_Bookshelf_CardName,Bookshelf,Bookshelf
-Bp_Bookshelf_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.
+Bp_Bookshelf_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,小物を収納したり、装飾品を飾ったりするのに有用。 食品の鮮度を長持ちさせ、快適さを提供する。
 Bp_Bookshelf_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_Cage_CardName,Cage,Cage
 Bp_Cage_CardDescription,Can keep small live animals locked inside. \n\nIf an animal is left inside it can be used to lure others of its species.,Can keep small live animals locked inside. \n\nIf an animal is left inside it can be used to lure others of its species.
 Bp_Chair_CardName,Chair,Chair
-Bp_Chair_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
+Bp_Chair_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Bp_Chair_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_ChickenNestBox_CardName,Chicken Nest Box,Chicken Nest Box
 Bp_Clay_CardName,Clay,Clay
@@ -643,12 +643,12 @@ Bp_FluteWooden_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Nee
 Bp_GardenPlot_CardName,Garden Plot,Garden Plot
 Bp_GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.","Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger."
 Bp_HandDrill_CardName,Hand Drill,Hand Drill
-Bp_HandDrill_CardDescription,"A basic tool for fire-making. Can start fires by using it on tinder, like fiber, shavings or dry leaves.","A basic tool for fire-making. Can start fires by using it on tinder, like fiber, shavings or dry leaves."
+Bp_HandDrill_CardDescription,"A basic tool for fire-making. Can start fires by using it on tinder, like fiber, shavings or dry leaves.",基本的な火起こし道具。 繊維や削りくず、枯れ葉などの火種に使うことで火を起こすことができる。
 Bp_Hearth_CardName,Hearth,Hearth
 Bp_Hearth_UnlockConditionsDesc,Kiln Needed,Kiln Needed
 Bp_Hideout_CardName,Hideout,Hideout
 Bp_ImprovisedShelter_CardName,Improvised Shelter,Improvised Shelter
-Bp_ImprovisedShelter_CardDescription,"Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it.","Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it."
+Bp_ImprovisedShelter_CardDescription,"Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it.",風雨をある程度防ぐことができる。 寝ている間の幸福感、集中力、保温性を高める。
 Bp_Kiln_CardName,Kiln,Kiln
 Bp_Kiln_CardDescription,Used for firing pottery at high temperatures and extracting tar out of softwoods.,Used for firing pottery at high temperatures and extracting tar out of softwoods.
 Bp_Kiln_UnlockConditionsDesc,+,+
@@ -675,17 +675,17 @@ Bp_PeaField_CardDescription,"Bought from traders; needs medium acidity, low hydr
 Bp_RusticSpear_CardName,Rustic Spear,Rustic Spear
 Bp_RusticSpear_CardDescription,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.,A close combat weapon with good reach. Good for hunting large game and defending yourself from predators.
 Bp_RusticStool_CardName,Rustic Stool,Rustic Stool
-Bp_RusticStool_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
+Bp_RusticStool_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Bp_RusticStool_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_RusticTable_CardName,Rustic Table,Rustic Table
-Bp_RusticTable_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
+Bp_RusticTable_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Bp_RusticTable_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_RyeField_CardName,Rye Field,Rye Field
 Bp_RyeField_CardDescription,"Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nEdible grain, long lasting and useful for making bread and beer.","Bought from traders; needs medium to high acidity, medium to low hydration and medium nutrients. Increases soil structure.\n\nEdible grain, long lasting and useful for making bread and beer."
 Bp_SharpenedStone_CardName,Sharpened Stone,Sharpened Stone
 Bp_SharpenedStone_CardDescription,"A useful tool, could use it to craft spears out of long sticks or axes out of wood.","A useful tool, could use it to craft spears out of long sticks or axes out of wood."
 Bp_Shelf_CardName,Shelf,Shelf
-Bp_Shelf_CardDescription,Useful for storing items or displaying decorations.,Useful for storing items or displaying decorations.
+Bp_Shelf_CardDescription,Useful for storing items or displaying decorations.,小物を収納したり、装飾品を飾ったりするのに有用。
 Bp_Sieve_CardName,Sieve,Sieve
 Bp_Sieve_CardDescription,A useful device for mass producing clay.,A useful device for mass producing clay.
 Bp_SimpleBow_CardName,Simple Bow,Simple Bow
@@ -702,11 +702,11 @@ Bp_Splint_CardName,Splint,Splint
 Bp_Splint_CardDescription,Can help heal fractures and sprains faster. ,Can help heal fractures and sprains faster. 
 Bp_Splint_UnlockConditionsDesc,Long Stick Needed,Long Stick Needed
 Bp_StoneAxe_CardName,Stone Axe,Stone Axe
-Bp_StoneAxe_CardDescription,"Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood.","Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood."
+Bp_StoneAxe_CardDescription,"Suitable for cutting down small trees, clearing overgrowth and producing wood. Not sharp enough to fell trees or work wood.",小さな木の伐採、雑木の伐採、木材の生産に適している。 樹木の伐採や薪割りには不向き。
 Bp_StoneAxe_UnlockConditionsDesc,LeafBed Needed,LeafBed Needed
 Bp_StretchingFrame_CardName,Stretching Frame,Stretching Frame
 Bp_Table_CardName,Table,Table
-Bp_Table_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
+Bp_Table_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Bp_Table_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_Travois_CardName,Travois,Travois
 Bp_Travois_CardDescription,A device for carrying heavy things.,A device for carrying heavy things.
@@ -714,7 +714,7 @@ Bp_Travois_UnlockConditionsDesc,Rustic Hut Needed,Rustic Hut Needed
 Bp_Treenails_CardName,Treenails,Treenails
 Bp_Treenails_UnlockConditionsDesc,More Woodworking Needed,More Woodworking Needed
 Bp_TurnrootField_CardName,Turnroot Field,Turnroot Field
-Bp_TurnrootField_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.","Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses."
+Bp_TurnrootField_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中位から低めの酸度、中程度の水分と養分、中位から高めのストラクチャーが必要。\n\n食用になる根で、様々な料理に利用できる。
 Bp_WoodCarvings_CardName,Wood Carvings,Wood Carvings
 Bp_WoodenPlate_CardName,Wooden Plate,Wooden Plate
 Bp_WoodenShovel_CardName,Wooden Shovel,Wooden Shovel
@@ -3782,10 +3782,10 @@ ReedPatch_CardInteractions[0].ActionName,Harvest,Harvest
 ReedPatch_CardInteractions[1].ActionName,Clear,Clear
 ReedPatch_DismantleActions[0].ActionName,Harvest,Harvest
 ReedsDry_CardName,Dry Reeds,Dry Reeds
-ReedsDry_CardDescription,"Used for roofing, bedding or weaving baskets.","Used for roofing, bedding or weaving baskets."
+ReedsDry_CardDescription,"Used for roofing, bedding or weaving baskets.",屋根葺き、寝具、籠編みなどに使用される。
 ReedsDry_SpecialDurability2.CardStatName,Quality,Quality
 ReedsFresh_CardName,Fresh Reeds,Fresh Reeds
-ReedsFresh_CardDescription,Used mostly for roofing and bedding. Can be soaked and dried to increase their quality.,Used mostly for roofing and bedding. Can be soaked and dried to increase their quality.
+ReedsFresh_CardDescription,Used mostly for roofing and bedding. Can be soaked and dried to increase their quality.,主に屋根や寝具に使われる。 水に浸して乾燥させると品質が向上する。
 ReedsFresh_SpoilageTime.CardStatName,Wetness,Wetness
 ReedsFresh_SpoilageTime.OnZero.ActionDescription,Reeds dried!,Reeds dried!
 ReedsFresh_FuelCapacity.CardStatName,Wetness,Wetness
@@ -4922,11 +4922,11 @@ WildGarlicDried_CardInteractions[1].ActionName,Grind,Grind
 WildGarlicDried_CardInteractions[2].ActionName,Grind,Grind
 WildGarlicDried_DismantleActions[0].ActionName,Eat,Eat
 Basket_CardName,Basket,Basket
-Basket_CardDescription,Provides storage space and preserves food longer.,Provides storage space and preserves food longer.
+Basket_CardDescription,Provides storage space and preserves food longer.,収納スペースを確保し、食品を長持ちさせる。
 Basket_SpecialDurability2.CardStatName,Quality,Quality
 Basket_DismantleActions[0].ActionName,Place,Place
 BasketPlaced_CardName,Basket,Basket
-BasketPlaced_CardDescription,"Provides storage space, comfort and preserves food longer.","Provides storage space, comfort and preserves food longer."
+BasketPlaced_CardDescription,"Provides storage space, comfort and preserves food longer.",収納スペースと快適さを提供し、食品を長持ちさせる。
 BasketPlaced_SpecialDurability2.CardStatName,Spoilage,Spoilage
 BasketPlaced_DismantleActions[0].ActionName,Pick Up,Pick Up
 ClayJar_CardName,Clay Jar,Clay Jar
@@ -4954,7 +4954,7 @@ ClayStoragePotPlaced_DismantleActions[0].ActionName,Pick Up,Pick Up
 FermentationBin_CardName,Fermentation Bin,Fermentation Bin
 FermentationBin_CookingRecipes[0].ActionName,Ferment,Ferment
 HandBasket_CardName,Hand Basket,Hand Basket
-HandBasket_CardDescription,Portable basket for carrying goods.,Portable basket for carrying goods.
+HandBasket_CardDescription,Portable basket for carrying goods.,持ち運び用のバスケット。
 HandBasket_SpecialDurability2.CardStatName,Spoilage,Spoilage
 LeatherBag_CardName,Leather Sack,Leather Sack
 LeatherBag_CardDescription,Increases your carrying capacity.\n\n <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,Increases your carrying capacity.\n\n <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>
@@ -4971,32 +4971,32 @@ Travois_SpoilageTime.CardStatName,Spoilage,Spoilage
 Travois_CardInteractions[0].ActionName,Repair,Repair
 Travois_DismantleActions[0].ActionName,Dismantle,Dismantle
 Ash_CardName,Ash,Ash
-Ash_CardDescription,"Could use it to temper clay, lower soil acidity or for medicinal or hygienic purposes.","Could use it to temper clay, lower soil acidity or for medicinal or hygienic purposes."
+Ash_CardDescription,"Could use it to temper clay, lower soil acidity or for medicinal or hygienic purposes.",粘土を和らげたり、土壌の酸性度を下げたり、薬用や衛生目的にも使える。
 Ash_CardInteractions[0].ActionName,Soak,Soak
 Bark_CardName,Oak Bark,Oak Bark
-Bark_CardDescription,High in tannins. Can be used to make tanning liquor and process skin into leather.,High in tannins. Can be used to make tanning liquor and process skin into leather.
+Bark_CardDescription,High in tannins. Can be used to make tanning liquor and process skin into leather.,タンニンが多い。 なめし酒や皮革加工に使用される。
 Bones_CardName,Bones,Bones
-Bones_CardDescription,"Can be carved into tools or decorations, used in broths or crushed into smaller parts to craft hooks and needles or use as fertilizer.","Can be carved into tools or decorations, used in broths or crushed into smaller parts to craft hooks and needles or use as fertilizer."
+Bones_CardDescription,"Can be carved into tools or decorations, used in broths or crushed into smaller parts to craft hooks and needles or use as fertilizer.",道具や装飾品に刻んだり、スープに入れたり、細かく砕いてフックや針を作ったり、肥料にしたりできる。
 Bones_CardInteractions[0].ActionName,Break,Break
 BonesBird_CardName,Bird Bones,Bird Bones
-BonesBird_CardDescription,Suitable for crafting hooks and needles.,Suitable for crafting hooks and needles.
+BonesBird_CardDescription,Suitable for crafting hooks and needles.,手芸用のフックや針に適している。
 BonesBird_DismantleActions[0].ActionName,Craft Hook,Craft Hook
 BonesBird_DismantleActions[1].ActionName,Craft Needle,Craft Needle
 BoneSplinters_CardName,Bone Splinters,Bone Splinters
-BoneSplinters_CardDescription,"Can be used to craft hooks and needles or further crushed into bonemeal, which is useful as a fertilizer..","Can be used to craft hooks and needles or further crushed into bonemeal, which is useful as a fertilizer.."
+BoneSplinters_CardDescription,"Can be used to craft hooks and needles or further crushed into bonemeal, which is useful as a fertilizer..",フックや針を作るのに使ったり、さらに砕いて肥料として使えるボーンミールにすることもできる。
 BoneSplinters_CardInteractions[0].ActionName,Ground,Ground
 BoneSplinters_DismantleActions[0].ActionName,Craft Hook,Craft Hook
 BoneSplinters_DismantleActions[1].ActionName,Craft Needle,Craft Needle
 Charcoal_CardName,Charcoal,Charcoal
-Charcoal_CardDescription,"Can be used as fuel, crushed into ashes or eaten to treat diarrhoea.","Can be used as fuel, crushed into ashes or eaten to treat diarrhoea."
+Charcoal_CardDescription,"Can be used as fuel, crushed into ashes or eaten to treat diarrhoea.",燃料にしたり、砕いて灰にしたり、下痢の治療に食べたりする。
 Charcoal_CardInteractions[0].ActionName,Crush,Crush
 Charcoal_DismantleActions[0].ActionName,Eat,Eat
 CharredRemains_CardName,Charred Remains,Charred Remains
-CharredRemains_CardDescription,This unrecognizable burnt mess is probably not even edible.,This unrecognizable burnt mess is probably not even edible.
+CharredRemains_CardDescription,This unrecognizable burnt mess is probably not even edible.,この得体の知れない焦げ目は、おそらく食べられるものではないだろう。
 CharredRemains_DismantleActions[0].ActionName,Eat Charred Remains,Eat Charred Remains
 CharredRemains_DismantleActions[1].ActionName,Throw away,Throw away
 Clay_CardName,Clay,Clay
-Clay_CardDescription,Ideal for crafting pots and improving waterproofing in construction.,Ideal for crafting pots and improving waterproofing in construction.
+Clay_CardDescription,Ideal for crafting pots and improving waterproofing in construction.,鉢の工作や建築の防水性向上に最適。
 Clay_CardInteractions[0].ActionName,Craft Bowl,Craft Bowl
 Cloth_CardName,Cloth,Cloth
 Cloth_SpecialDurability2.CardStatName,Quality,Quality
@@ -5007,7 +5007,7 @@ ColdTar_CardDescription,Should heat it up again if I want to use it.,Should heat
 ColdTar_FuelCapacity.CardStatName,Temperature,Temperature
 ColdTar_FuelCapacity.OnFull.ActionDescription,Tar heated up.,Tar heated up.
 DirtPile_CardName,Dirt Pile,Dirt Pile
-DirtPile_CardDescription,Can be crushed to make clay or moistened to create mud.,Can be crushed to make clay or moistened to create mud.
+DirtPile_CardDescription,Can be crushed to make clay or moistened to create mud.,砕いて粘土を作ったり、湿らせて泥を作ったりできる。
 DirtPile_CardInteractions[0].ActionName,Make Mud,Make Mud
 DirtPile_CardInteractions[1].ActionName,Crush dirt,Crush dirt
 DirtPile_DismantleActions[0].ActionName,Make Mud,Make Mud
@@ -5026,7 +5026,7 @@ FineDirt_CardDescription,Can be mixed with water to produce clay.,Can be mixed w
 FineDirt_CardInteractions[0].ActionName,Mix with Water,Mix with Water
 FineDirt_DismantleActions[0].ActionName,Mix with Water,Mix with Water
 Flint_CardName,Flint,Flint
-Flint_CardDescription,A hard form of quartz ideal for creating sharp tools and generating sparks when struck against steel.,A hard form of quartz ideal for creating sharp tools and generating sparks when struck against steel.
+Flint_CardDescription,A hard form of quartz ideal for creating sharp tools and generating sparks when struck against steel.,鋭利な工具を作ったり、鋼鉄にぶつけて火花を発生させたりするのに理想的な硬質の石英。
 Flint_SpecialDurability2.CardStatName,Quality,Quality
 HandleWood_CardName,Wood Handle,Wood Handle
 HandleWood_CardDescription,"A nice axe handle, just needs a sharpened stone to go in its hole.","A nice axe handle, just needs a sharpened stone to go in its hole."
@@ -5037,14 +5037,14 @@ HeatedTar_FuelCapacity.CardStatName,Temperature,Temperature
 HookBone_CardName,Bone Hook,Bone Hook
 HookBone_CardDescription,An essential component for a fishing rod.,An essential component for a fishing rod.
 LeavesDry_CardName,Dry Leaves,Dry Leaves
-LeavesDry_CardDescription,"Can be used as tinder by dragging a fire starter to it, or used as compost or soil acidifier.","Can be used as tinder by dragging a fire starter to it, or used as compost or soil acidifier."
+LeavesDry_CardDescription,"Can be used as tinder by dragging a fire starter to it, or used as compost or soil acidifier.",火おこし器で火種にしたり、堆肥や土壌の酸性化剤として使用することもできる。
 LeavesDry_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
 LeavesDry_CardInteractions[1].ActionName,Light with Bow Drill,Light with Bow Drill
 LeavesDry_CardInteractions[2].ActionName,Light Tinder,Light Tinder
 LeavesDry_CardInteractions[3].ActionName,Light Tinder,Light Tinder
 LeavesDry_DismantleActions[0].ActionName,Light Fire (spirit),Light Fire (spirit)
 LeavesFresh_CardName,Fresh Leaves,Fresh Leaves
-LeavesFresh_CardDescription,"Useful as bedding material, animal fodder or compost.","Useful as bedding material, animal fodder or compost."
+LeavesFresh_CardDescription,"Useful as bedding material, animal fodder or compost.",敷料、家畜の飼料、堆肥として有用。
 LeavesFresh_SpoilageTime.CardStatName,Wetness,Wetness
 LeavesFresh_SpoilageTime.OnZero.ActionDescription,Leaves Dried!,Leaves Dried!
 LeavesFresh_SpecialDurability2.CardStatName,Quality,Quality
@@ -5052,7 +5052,7 @@ MudBrick_CardName,Mud Brick,Mud Brick
 MudBrick_CardDescription,Ideal for simple construction.,Ideal for simple construction.
 MudBrick_CardInteractions[0].ActionName,Break,Break
 MudPile_CardName,Mud Pile,Mud Pile
-MudPile_CardDescription,Can be mixed with reeds or straw to form bricks or refined into clay by crushing it into finer pieces.,Can be mixed with reeds or straw to form bricks or refined into clay by crushing it into finer pieces.
+MudPile_CardDescription,Can be mixed with reeds or straw to form bricks or refined into clay by crushing it into finer pieces.,葦や藁と混ぜてレンガにしたり、細かく砕いて粘土にしたりする。
 MudPile_SpoilageTime.OnZero.ActionDescription,Mud dried up!,Mud dried up!
 MudPile_CardInteractions[0].ActionName,Make a Mud Brick,Make a Mud Brick
 MudPile_CardInteractions[1].ActionName,Make Clay,Make Clay
@@ -5060,10 +5060,10 @@ MudPile_DismantleActions[0].ActionName,Make Clay,Make Clay
 MudPile_DismantleActions[1].ActionName,Apply to Body,Apply to Body
 OakFireWood_CardName,Oak firewood,Oak firewood
 OakLog_CardName,Oak Log,Oak Log
-OakLog_CardDescription,Hardwood. Harder to work but of higher quality. Can chop it into smaller pieces or use it for construction.,Hardwood. Harder to work but of higher quality. Can chop it into smaller pieces or use it for construction.
+OakLog_CardDescription,Hardwood. Harder to work but of higher quality. Can chop it into smaller pieces or use it for construction.,硬材。 加工は難しいが、品質は高い。 細かく刻んだり、建築用に使用できる。
 OakLog_CardInteractions[0].ActionName,Split into pieces,Split into pieces
 OakLogPiece_CardName,Oak log piece,Oak log piece
-OakLogPiece_CardDescription,Hardwood. Harder to work but of higher quality. Can use it as a stool or carve it into something.,Hardwood. Harder to work but of higher quality. Can use it as a stool or carve it into something.
+OakLogPiece_CardDescription,Hardwood. Harder to work but of higher quality. Can use it as a stool or carve it into something.,硬材。 加工は難しいが、品質は高い。 スツールとして使ったり、何かに彫ったりできる。
 OakLogPiece_CardInteractions[0].ActionName*,Carve,Carve
 OakLogPiece_CardInteractions[0].ActionName,Cut into Wood,Cut into Wood
 OakLogPiece_CardInteractions[1].ActionName,Cut into Wood,Cut into Wood
@@ -5076,7 +5076,7 @@ PineLogPiece_CardInteractions[0].ActionName,Cut into Wood,Cut into Wood
 PineLogPiece_CardInteractions[1].ActionName,Cut into Wood,Cut into Wood
 PineLogPiece_DismantleActions[0].ActionName,Place,Place
 Plank_CardName,Wooden Plank,Wooden Plank
-Plank_CardDescription,Fundamental for constructing furniture and building structures.,Fundamental for constructing furniture and building structures.
+Plank_CardDescription,Fundamental for constructing furniture and building structures.,家具や建築構造物の基礎となる。
 Plaster_CardName,Plaster,Plaster
 Plaster_CardInteractions[0].ActionName,Craft Bowl,Craft Bowl
 SnowPile_CardName,Snow Pile,Snow Pile
@@ -5085,22 +5085,22 @@ SnowPile_SpoilageTime.CardStatName,Integrity,Integrity
 SnowPile_SpoilageTime.OnZero.ActionDescription,Snow Pile melted.,Snow Pile melted.
 SnowPile_CardInteractions[0].ActionName,Store,Store
 StickLong_CardName,Long Stick,Long Stick
-StickLong_CardDescription,"A sturdy long stick, useful for construction projects or crafting tools.","A sturdy long stick, useful for construction projects or crafting tools."
+StickLong_CardDescription,"A sturdy long stick, useful for construction projects or crafting tools.",建設プロジェクトや工作道具に便利な丈夫で長い棒。
 StickLong_CardInteractions[0].ActionName,Craft Rustic Spear,Craft Rustic Spear
 StickLong_DismantleActions[0].ActionName,Break Long Stick,Break Long Stick
 StoneHeavy_CardName,Heavy Stone,Heavy Stone
-StoneHeavy_CardDescription,"Ideal for traps, can also be used to sharpen other stones on or fired in a kiln to make quicklime.","Ideal for traps, can also be used to sharpen other stones on or fired in a kiln to make quicklime."
+StoneHeavy_CardDescription,"Ideal for traps, can also be used to sharpen other stones on or fired in a kiln to make quicklime.",罠に最適で、他の石を研いだり、窯で焼いて生石灰を作るのにも使える。
 StoneHeavy_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 TinderLit_CardName,Lit Tinder,Lit Tinder
 TinderLit_CardDescription,Drag to a fire to start it.,Drag to a fire to start it.
 Treenail_CardName,Treenail,Treenail
 Treenail_CardDescription,Used for complex furniture or construction.,Used for complex furniture or construction.
 Twigs_CardName,Twigs,Twigs
-Twigs_CardDescription,Ideal as fuel and useful for some crafts.,Ideal as fuel and useful for some crafts.
+Twigs_CardDescription,Ideal as fuel and useful for some crafts.,燃料として最適で、クラフトにも有用。
 Twigs_CardInteractions[0].ActionName,Craft Hand Drill,Craft Hand Drill
 Twigs_CardInteractions[1].ActionName,Craft Tourniquet,Craft Tourniquet
 Wood_CardName,Oak Wood,Oak Wood
-Wood_CardDescription,"A hardwood, ideal for quality tools and construction. Useful as fuel too.","A hardwood, ideal for quality tools and construction. Useful as fuel too."
+Wood_CardDescription,"A hardwood, ideal for quality tools and construction. Useful as fuel too.",高級工具や建築に理想的な硬材。 燃料としても有用。
 Wood_CardInteractions[0].ActionName,Cut Shavings,Cut Shavings
 Wood_CardInteractions[1].ActionName,Burn Hole,Burn Hole
 Wood_CardInteractions[2].ActionName,Prepare Fire,Prepare Fire
@@ -5110,7 +5110,7 @@ WoodBurning_SpoilageTime.CardStatName,Burning Hole,Burning Hole
 WoodBurning_SpoilageTime.OnZero.ActionName,Wood Handle ready!,Wood Handle ready!
 WoodBurning_SpoilageTime.OnFull.ActionDescription,Wood Handle ready!,Wood Handle ready!
 WoodShavings_CardName,Wood Shavings,Wood Shavings
-WoodShavings_CardDescription,"Byproduct of woodwork, useful as tinder.","Byproduct of woodwork, useful as tinder."
+WoodShavings_CardDescription,"Byproduct of woodwork, useful as tinder.",木工の副産物で、火種として役立つ。
 WoodShavings_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
 WoodShavings_CardInteractions[1].ActionName,Light with Bow Drill,Light with Bow Drill
 WoodShavings_CardInteractions[2].ActionName,Light Tinder,Light Tinder
@@ -5284,12 +5284,12 @@ ShirtCloth_SpecialDurability2.CardStatName,Quality,Quality
 ShirtCloth_CardInteractions[0].ActionName,Repair,Repair
 ShirtCloth_DismantleActions[0].ActionName,Rip off cloth,Rip off cloth
 FurCured_CardName,Cured Pelt,Cured Pelt
-FurCured_CardDescription,"Can be used for warm clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed.","Can be used for warm clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed."
+FurCured_CardDescription,"Can be used for warm clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed.",暖かい衣類やその他の工芸品に使用できるほか、なめし場でさらに精製して革にすることもできる。\n\nベッドに敷くと、就寝中に快適さと断熱性を提供する。
 FurCured_Progress.CardStatName,Tanning,Tanning
 FurCured_SpecialDurability2.CardStatName,Quality,Quality
 FurCured_CardInteractions[0].ActionName,Scrape,Scrape
 FurFleshed_CardName,Fleshed Fur,Fleshed Fur
-FurFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.\n\nCan be scraped to turn it into a normal skin.,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.\n\nCan be scraped to turn it into a normal skin.
+FurFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.\n\nCan be scraped to turn it into a normal skin.,そのまま自然乾燥させるか、なめし槽に沈めて革にする。\n\n削って普通の皮にすることもできる。
 FurFleshed_SpoilageTime.CardStatName,Progress,Progress
 FurFleshed_SpoilageTime.OnZero.ActionName,Skin Cured!,Skin Cured!
 FurFleshed_SpoilageTime.OnZero.ActionDescription,Skin Ready!,Skin Ready!
@@ -5402,7 +5402,7 @@ BoneNeedleThreaded_CardName,Threaded Needle,Threaded Needle
 BoneNeedleThreaded_CardDescription,Needed to craft more complex cloth and leather items.,Needed to craft more complex cloth and leather items.
 BoneNeedleThreaded_DismantleActions[0].ActionName,Remove Cord,Remove Cord
 Broom_CardName,Broom,Broom
-Broom_CardDescription,Used for sweeping and cleaning areas. Drag and drop it into the location to clean.,Used for sweeping and cleaning areas. Drag and drop it into the location to clean.
+Broom_CardDescription,Used for sweeping and cleaning areas. Drag and drop it into the location to clean.,掃き掃除や清掃に使用する。 掃除したい場所にドラッグ＆ドロップ。
 Broom_UsageDurability.OnZero.ActionName,The Broom broke!,The Broom broke!
 Broom_DismantleActions[0].ActionName,Train,Train
 Broom_DismantleActions[1].ActionName,Dismantle,Dismantle
@@ -5427,7 +5427,7 @@ FluteWooden_Unfinished_Progress.OnFull.ProducedCards[0].CollectionMessages[0],Ca
 FluteWooden_Unfinished_SpecialDurability2.CardStatName,Quality,Quality
 FluteWooden_Unfinished_CardInteractions[0].ActionName,Carve,Carve
 HandDrill_CardName,Hand Drill,Hand Drill
-HandDrill_CardDescription,"A basic tool for fire-making. Can start fires by using it on tinder, like fiber, shavings or dry leaves.","A basic tool for fire-making. Can start fires by using it on tinder, like fiber, shavings or dry leaves."
+HandDrill_CardDescription,"A basic tool for fire-making. Can start fires by using it on tinder, like fiber, shavings or dry leaves.",基本的な火起こし道具。 繊維や削りくず、枯れ葉などの火種に使うことで火を起こすことができる。
 Hoe_Flint_CardName,Flint Hoe,Flint Hoe
 Hoe_Flint_CardDescription,Farming tool for tilling fields and improving soil structure. ,Farming tool for tilling fields and improving soil structure. 
 Hoe_Flint_SpecialDurability2.CardStatName,Quality,Quality
@@ -5445,7 +5445,7 @@ Spindle_SpecialDurability2.CardStatName,Quality,Quality
 StoneMortarAndPestle_CardName,Stone Mortar and Pestle,Stone Mortar and Pestle
 StoneMortarAndPestle_SpecialDurability2.CardStatName,Quality,Quality
 StoneSharpened_CardName,Sharpened Stone,Sharpened Stone
-StoneSharpened_CardDescription,A basic cutter or scraper for simple tasks.,A basic cutter or scraper for simple tasks.
+StoneSharpened_CardDescription,A basic cutter or scraper for simple tasks.,簡単な作業用の基本的な刃物やこて。
 TorchOff_CardName,Torch,Torch
 TorchOff_CardDescription,A portable light source.,A portable light source.
 TorchOff_FuelCapacity.OnZero.ActionDescription,Torch Finished,Torch Finished
@@ -5492,7 +5492,7 @@ Beeswax_CardName,Beeswax,Beeswax
 Beeswax_CardDescription,A bit of wax.,A bit of wax.
 Beeswax_CardInteractions[0].ActionName,Make Block ,Make Block 
 Bugs_CardName,Bugs,Bugs
-Bugs_CardDescription,Can serve as fishing bait or as protein-rich food.,Can serve as fishing bait or as protein-rich food.
+Bugs_CardDescription,Can serve as fishing bait or as protein-rich food.,釣り餌としても、タンパク質を豊富に含む食料としても使える。
 Bugs_DismantleActions[0].ActionName,Eat,Eat
 Cage_CardName,Cage,Cage
 Cage_CardDescription,Can keep small live animals locked inside. \n\nIf a live animal is left inside it can be used to lure others of its species.,Can keep small live animals locked inside. \n\nIf a live animal is left inside it can be used to lure others of its species.
@@ -5931,7 +5931,7 @@ LQ_TanningWater_SpecialDurability2.CardStatName,Quality,Quality
 LQ_TanningWater_SpecialDurability3.CardStatName,Timing,Timing
 LQ_TanningWater_SpecialDurability4.CardStatName,Spices,Spices
 LQ_Water_CardName,Water,Water
-LQ_Water_CardDescription,"Used for drinking, cooking, and cleaning. Crucial for survival.","Used for drinking, cooking, and cleaning. Crucial for survival."
+LQ_Water_CardDescription,"Used for drinking, cooking, and cleaning. Crucial for survival.",飲料、調理、洗浄に使用される。 サバイバルには欠かせない。
 LQ_Water_UsageDurability.CardStatName,Vitamins,Vitamins
 LQ_Water_FuelCapacity.CardStatName,Temperature,Temperature
 LQ_Water_FuelCapacity.OnFull.ActionName,Turn to broth,Turn to broth
@@ -6007,7 +6007,7 @@ Campfire_DismantleActions[3].ActionName,Wait by Fire,Wait by Fire
 Campfire_CookingRecipes[0].CustomCookingText,Drying...,Drying...
 Campfire_CookingRecipes[1].CustomCookingText,Burning,Burning
 CampfireExtinguished_CardName,Campfire,Campfire
-CampfireExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.","Can be lit with tinder, provided it has enough fuel."
+CampfireExtinguished_CardDescription,"Can be lit with tinder, provided it has enough fuel.",十分な燃料があれば、火口でも点火できる。
 CampfireExtinguished_SpoilageTime.CardStatName,Fragrance,Fragrance
 CampfireExtinguished_SpecialDurability1.CardStatName,Ash Amount,Ash Amount
 CampfireExtinguished_CardInteractions[0].ActionName,Feed Coconut,Feed Coconut
@@ -6260,7 +6260,7 @@ KilnExtinguished_CookingRecipes[9].CannotCookText,More temperature required!,Mor
 KilnExtinguished_CookingRecipes[10].ActionName,Make Vitriol,Make Vitriol
 KilnExtinguished_CookingRecipes[10].CannotCookText,More temperature required!,More temperature required!
 Oven_CardName,Oven,Oven
-Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.","Used for drying, baking, or firing pottery at controlled temperatures."
+Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.",制御された温度で陶器を乾燥、焼成、焼成するために使用される。
 Oven_AlternateNames[0].Name,Oven (cold),Oven (cold)
 Oven_AlternateNames[1].Name,Oven (warming),Oven (warming)
 Oven_AlternateNames[2].Name,Oven (drying),Oven (drying)
@@ -6286,7 +6286,7 @@ Oven_CookingRecipes[9].ActionName,Bake,Bake
 Oven_CookingRecipes[10].ActionName,High Temperature: Fast Burn Charables,High Temperature: Fast Burn Charables
 Oven_CookingRecipes[13].ActionName,Dry Clothes and Reed,Dry Clothes and Reed
 OvenExtinguished_CardName,Oven,Oven
-OvenExtinguished_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.\n\nCan be lit with tinder, provided it has enough fuel.","Used for drying, baking, or firing pottery at controlled temperatures.\n\nCan be lit with tinder, provided it has enough fuel."
+OvenExtinguished_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.\n\nCan be lit with tinder, provided it has enough fuel.",陶器の乾燥、焼成、焼成に使用する。\n\n十分な燃料があれば、火口で点火できる。
 OvenExtinguished_AlternateNames[0].Name,Oven (cold),Oven (cold)
 OvenExtinguished_AlternateNames[1].Name,Oven (cooling),Oven (cooling)
 OvenExtinguished_AlternateNames[2].Name,Oven (drying),Oven (drying)
@@ -6445,7 +6445,7 @@ BedRoll_DismantleActions[1].StatInterruptions[7].Notification,I can't sleep in t
 BedRoll_DismantleActions[1].FadeMessage,Sleeping...,Sleeping...
 BedRoll_DismantleActions[2].ActionName,Dismantle,Dismantle
 BedWooden_CardName,Wooden Bed,Wooden Bed
-BedWooden_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.","Increases comfort, and raises wellbeing, focus and insulation while sleeping on it."
+BedWooden_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.",寝心地が向上し、その上で寝ている間の幸福感、集中力、断熱性が高まる。
 BedWooden_DismantleActions[0].ActionName,Nap,Nap
 BedWooden_DismantleActions[0].StatInterruptions[1].Notification,I'm too thirsty to sleep...,I'm too thirsty to sleep...
 BedWooden_DismantleActions[0].StatInterruptions[2].Notification,I'm too hot to sleep...,I'm too hot to sleep...
@@ -6468,14 +6468,14 @@ BedWooden_DismantleActions[1].StatInterruptions[8].Notification,I really need to
 BedWooden_DismantleActions[1].FadeMessage,Sleeping...,Sleeping...
 BedWooden_DismantleActions[2].ActionName,Take apart and Pick Up,Take apart and Pick Up
 BedWoodenDismantled_CardName,Dismantled Wooden Bed,Dismantled Wooden Bed
-BedWoodenDismantled_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.","Increases comfort, and raises wellbeing, focus and insulation while sleeping on it."
+BedWoodenDismantled_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.",寝心地が向上し、その上で寝ている間の幸福感、集中力、断熱性が高まる。
 BedWoodenDismantled_DismantleActions[0].ActionName,Place,Place
 Bookshelf_CardName,Bookshelf,Bookshelf
-Bookshelf_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.
+Bookshelf_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,小物を収納したり、装飾品を飾ったりするのに有用。 食品の鮮度を長持ちさせ、快適さを提供する。
 Bookshelf_DismantleActions[0].ActionName,Dismantle,Dismantle
 Bookshelf_DismantleActions[1].ActionName,Take apart and Pick Up,Take apart and Pick Up
 BookShelfDismantled_CardName,Dismantled BookShelf,Dismantled BookShelf
-BookShelfDismantled_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.
+BookShelfDismantled_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,小物を収納したり、装飾品を飾ったりするのに有用。 食品の鮮度を長持ちさせ、快適さを提供する。
 BookShelfDismantled_DismantleActions[0].ActionName,Place,Place
 Chair_CardName,Chair,Chair
 Chair_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
@@ -6544,7 +6544,7 @@ RusticTableDismantled_CardName,Dismantled Rustic Table,Dismantled Rustic Table
 RusticTableDismantled_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
 RusticTableDismantled_DismantleActions[0].ActionName,Build,Build
 Shelf_CardName,Shelf,Shelf
-Shelf_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.
+Shelf_CardDescription,Useful for storing items or displaying decorations for additional comfort. Keeps food fresh longer and provides comfort.,小物を収納したり、装飾品を飾ったりするのに有用。 食品の鮮度を長持ちさせ、快適さを提供する。
 Shelf_DismantleActions[0].ActionName,Dismantle,Dismantle
 Stool_CardName,Rustic Stool,Rustic Stool
 Stool_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
@@ -9720,18 +9720,18 @@ ImmuneSystem_Statuses[3].GameName,Normal Immune System,Normal Immune System
 ImmuneSystem_Statuses[4].GameName,Strong Immune System,Strong Immune System
 ImmuneSystem_Statuses[5].GameName,Very Strong Immune System,Very Strong Immune System
 ImmuneSystem_Statuses[6].GameName,Artificially Strong Immune System,Artificially Strong Immune System
-BacteriaDiarrhoea_GameName,Gastrointentinal Infection,Gastrointentinal Infection
-Infection_Gastrointestinal_Description,"A common disease of the intestinal tracts. Symptoms include diarrhoea, nausea, vomiting  and abdominal pain.","A common disease of the intestinal tracts. Symptoms include diarrhoea, nausea, vomiting  and abdominal pain."
-BacteriaDiarrhoea_Statuses[3].GameName,Gastrointentinal Infection,Gastrointentinal Infection
-BacteriaDiarrhoea_Statuses[4].GameName,Gastrointentinal Infection,Gastrointentinal Infection
-BacteriaDiarrhoea_Statuses[5].GameName,Gastrointentinal Infection,Gastrointentinal Infection
-BacteriaDiarrhoea_Statuses[6].GameName,Gastrointentinal Infection,Gastrointentinal Infection
-Infection_LowerRespiratory_GameName,Lower Respiratory Infection,Lower Respiratory Infection
-Infection_LowerRespiratory_Description,"A disease of the lungs. Symptoms include persisting coughing, shortness of breath and chest pain.","A disease of the lungs. Symptoms include persisting coughing, shortness of breath and chest pain."
-Infection_LowerRespiratory_Statuses[3].GameName,Lower Respiratory Infection,Lower Respiratory Infection
-Infection_LowerRespiratory_Statuses[4].GameName,Lower Respiratory Infection,Lower Respiratory Infection
-Infection_LowerRespiratory_Statuses[5].GameName,Lower Respiratory Infection,Lower Respiratory Infection
-Infection_LowerRespiratory_Statuses[6].GameName,Lower Respiratory Infection,Lower Respiratory Infection
+BacteriaDiarrhoea_GameName,Gastrointentinal Infection,胃腸感染
+Infection_Gastrointestinal_Description,"A common disease of the intestinal tracts. Symptoms include diarrhoea, nausea, vomiting  and abdominal pain.",腸管の一般的な疾患。 症状は下痢、吐き気、嘔吐、腹痛など。
+BacteriaDiarrhoea_Statuses[3].GameName,Gastrointentinal Infection,胃腸感染
+BacteriaDiarrhoea_Statuses[4].GameName,Gastrointentinal Infection,胃腸感染
+BacteriaDiarrhoea_Statuses[5].GameName,Gastrointentinal Infection,胃腸感染
+BacteriaDiarrhoea_Statuses[6].GameName,Gastrointentinal Infection,胃腸感染
+Infection_LowerRespiratory_GameName,Lower Respiratory Infection,下気道感染症
+Infection_LowerRespiratory_Description,"A disease of the lungs. Symptoms include persisting coughing, shortness of breath and chest pain.",肺の病気。 咳、息切れ、胸痛などの症状が続く。
+Infection_LowerRespiratory_Statuses[3].GameName,Lower Respiratory Infection,下気道感染症
+Infection_LowerRespiratory_Statuses[4].GameName,Lower Respiratory Infection,下気道感染症
+Infection_LowerRespiratory_Statuses[5].GameName,Lower Respiratory Infection,下気道感染症
+Infection_LowerRespiratory_Statuses[6].GameName,Lower Respiratory Infection,下気道感染症
 Infection_Systemic_GameName,Systemic Infection,Systemic Infection
 Infection_Systemic_Description,"An ailment that arises when bacteria enter the system in large numbers, often through infected wounds. Symptoms include fever and fatigue.\nIf left untreated it can lead to sepsis and death.","An ailment that arises when bacteria enter the system in large numbers, often through infected wounds. Symptoms include fever and fatigue.\nIf left untreated it can lead to sepsis and death."
 Infection_Systemic_Statuses[3].GameName,Systemic Infection,Systemic Infection
@@ -9740,12 +9740,12 @@ Infection_Systemic_Statuses[5].GameName,Systemic Infection,Systemic Infection
 Infection_Systemic_Statuses[6].GameName,Sepsis,Sepsis
 Infection_Systemic_Statuses[7].GameName,Severe Sepsis,Severe Sepsis
 Infection_Systemic_Statuses[8].GameName,Septic Shock,Septic Shock
-Infection_UpperRespiratory_GameName,Upper Respiratory Infection,Upper Respiratory Infection
-Infection_UpperRespiratory_Description,"A common disease affecting the nose and throat. Symptoms include a sore throat, nasal congestion and coughing fits.","A common disease affecting the nose and throat. Symptoms include a sore throat, nasal congestion and coughing fits."
-Infection_UpperRespiratory_Statuses[3].GameName,Upper Respiratory Infection,Upper Respiratory Infection
-Infection_UpperRespiratory_Statuses[4].GameName,Upper Respiratory Infection,Upper Respiratory Infection
-Infection_UpperRespiratory_Statuses[5].GameName,Upper Respiratory Infection,Upper Respiratory Infection
-Infection_UpperRespiratory_Statuses[6].GameName,Upper Respiratory Infection,Upper Respiratory Infection
+Infection_UpperRespiratory_GameName,Upper Respiratory Infection,上気道感染症
+Infection_UpperRespiratory_Description,"A common disease affecting the nose and throat. Symptoms include a sore throat, nasal congestion and coughing fits.",鼻とのどを侵す一般的な病気。 のどの痛み、鼻づまり、咳などの症状が現れる。
+Infection_UpperRespiratory_Statuses[3].GameName,Upper Respiratory Infection,上気道感染症
+Infection_UpperRespiratory_Statuses[4].GameName,Upper Respiratory Infection,上気道感染症
+Infection_UpperRespiratory_Statuses[5].GameName,Upper Respiratory Infection,上気道感染症
+Infection_UpperRespiratory_Statuses[6].GameName,Upper Respiratory Infection,上気道感染症
 Lungrot_GameName,Lungrot,Lungrot
 Lungrot_Statuses[0].GameName,Minor Lungrot Infection,Minor Lungrot Infection
 Lungrot_Statuses[1].GameName,Moderate Lungrot Infection,Moderate Lungrot Infection
@@ -9862,7 +9862,7 @@ Testosterone_Statuses[0].GameName,Minimal Testosterone,Minimal Testosterone
 Testosterone_Statuses[1].GameName,Low Testosterone,Low Testosterone
 Testosterone_Statuses[2].GameName,Moderate Testosterone,Moderate Testosterone
 Testosterone_Statuses[3].GameName,High Testosterone,High Testosterone
-BodyTemperature_GameName,Body Temperature,Body Temperature
+BodyTemperature_GameName,Body Temperature,体温
 BodyTemperature_Description,"Your body's internal temperature. When high, you risk dehydration and heat stroke, when low, you risk frostbite or hypothermia, and have a higher chance to catch a cold.",あなたの体内温度。高いと脱水症や熱射病のリスクがあり、低いと凍傷や低体温症のリスクがあり、高確率で風邪をひく。
 BodyTemperature_DefaultStatusName,Comfortable,Comfortable
 BodyTemperature_Statuses[0].GameName,Overheated to Death,Overheated to Death
@@ -10984,7 +10984,7 @@ SeasonsSettings_Seasons[2].SeasonClockName,Aut.,Aut.
 SeasonsSettings_Seasons[3].SeasonFullName,Winter,Winter
 SeasonsSettings_Seasons[3].SeasonClockName,Win.,Win.
 Stone_CardName,Stone,Stone
-Stone_CardDescription,"Can be used as a hammer, sharpened on a heavy stone, or fired on a kiln to make quicklime.","Can be used as a hammer, sharpened on a heavy stone, or fired on a kiln to make quicklime."
+Stone_CardDescription,"Can be used as a hammer, sharpened on a heavy stone, or fired on a kiln to make quicklime.",ハンマーとして使ったり、重い石で研いだり、窯で焼いて生石灰を作ったりできる。
 Stone_SpecialDurability2.CardStatName,Quality,Quality
 Stone_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 Stone_DismantleActions[0].ActionName,Practice Rock Throwing,Practice Rock Throwing
