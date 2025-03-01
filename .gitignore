@@ -637,6 +637,7 @@ FodyWeavers.xsd
 ####################
 ### This project ###
 ####################
+csff_Localization
 Ja.edit.po
 Ja.pot
 Ja.mo
