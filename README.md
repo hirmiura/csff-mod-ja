@@ -8,7 +8,7 @@
 1. [Ja.csv](
 https://raw.githubusercontent.com/hirmiura/csff-mod-ja/main/Jp.csv) をダウンロードし  
 `Card Survival Fantasy Forest/Card Survival - Fantasy Forest_Data/StreamingAssets/Localization/Cn.csv` に上書きコピーする。
-2. ゲームを起動し、言語設定を**簡体字**に変更する
+2. ゲームを起動し、言語設定を**簡体中文**に変更する
 3. ゲームを再起動する
 
 ## 翻訳手順忘備録
