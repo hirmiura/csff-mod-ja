@@ -134,3 +134,9 @@ clean: clean-backup
 
 clean-backup:
 	rm -f *~
+
+clean-pot:
+	rm -f Ja.pot
+
+clean-po:
+	rm -f Ja.po
