@@ -637,7 +637,10 @@ FodyWeavers.xsd
 ####################
 ### This project ###
 ####################
+# 作業用リンク
 csff_Localization
+Desktop
+# gettext周り
 Ja.edit.po
 Ja.pot
 Ja.mo
