@@ -4036,38 +4036,38 @@ SmokehouseExtinguished__CardInteractions[0].ActionName,Feed Firewood,Feed Firewo
 Smokehouse__CardInteractions[0].ActionName,Feed Firewood,Feed Firewood
 SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
 SpiritShrine_Fire_RitualPyre_CardInteractions[1].ActionName,Feed Firewood,Feed Firewood
-CampfireExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-CampfireExtinguished_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-Campfire_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-Campfire_CardInteractions[4].ActionName,Feed Fuel,Feed Fuel
-FireplaceExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-FireplaceExtinguished_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-Fireplace_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-Fireplace_CardInteractions[4].ActionName,Feed Fuel,Feed Fuel
-HearthAwakenedExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-HearthAwakenedExtinguished_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-HearthAwakened_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-HearthAwakened_CardInteractions[4].ActionName,Feed Fuel,Feed Fuel
-HearthExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-HearthExtinguished_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-Hearth_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-Hearth_CardInteractions[4].ActionName,Feed Fuel,Feed Fuel
-KilnExtinguished_CardInteractions[1].ActionName,Feed Fuel,Feed Fuel
-KilnExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-Kiln_CardInteractions[1].ActionName,Feed Fuel,Feed Fuel
-Kiln_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-OvenExtinguished_CardInteractions[1].ActionName,Feed Fuel,Feed Fuel
-OvenExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-Oven_CardInteractions[1].ActionName,Feed Fuel,Feed Fuel
-Oven_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-SmokehouseExtinguished__CardInteractions[1].ActionName,Feed Fuel,Feed Fuel
-SmokehouseExtinguished__CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-Smokehouse__CardInteractions[1].ActionName,Feed Fuel,Feed Fuel
-Smokehouse__CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
-SpiritShrine_Fire_RitualPyre_CardInteractions[2].ActionName,Feed Fuel,Feed Fuel
-SpiritShrine_Fire_RitualPyre_CardInteractions[3].ActionName,Feed Fuel,Feed Fuel
+CampfireExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+CampfireExtinguished_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+Campfire_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+Campfire_CardInteractions[4].ActionName,Feed Fuel,燃料を補給
+FireplaceExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+FireplaceExtinguished_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+Fireplace_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+Fireplace_CardInteractions[4].ActionName,Feed Fuel,燃料を補給
+HearthAwakenedExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+HearthAwakenedExtinguished_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+HearthAwakened_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+HearthAwakened_CardInteractions[4].ActionName,Feed Fuel,燃料を補給
+HearthExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+HearthExtinguished_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+Hearth_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+Hearth_CardInteractions[4].ActionName,Feed Fuel,燃料を補給
+KilnExtinguished_CardInteractions[1].ActionName,Feed Fuel,燃料を補給
+KilnExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+Kiln_CardInteractions[1].ActionName,Feed Fuel,燃料を補給
+Kiln_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+OvenExtinguished_CardInteractions[1].ActionName,Feed Fuel,燃料を補給
+OvenExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+Oven_CardInteractions[1].ActionName,Feed Fuel,燃料を補給
+Oven_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+SmokehouseExtinguished__CardInteractions[1].ActionName,Feed Fuel,燃料を補給
+SmokehouseExtinguished__CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+Smokehouse__CardInteractions[1].ActionName,Feed Fuel,燃料を補給
+Smokehouse__CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
+SpiritShrine_Fire_RitualPyre_CardInteractions[2].ActionName,Feed Fuel,燃料を補給
+SpiritShrine_Fire_RitualPyre_CardInteractions[3].ActionName,Feed Fuel,燃料を補給
 CampfireExtinguished_CardInteractions[7].ActionName,Feed Husk,Feed Husk
 FireplaceExtinguished_CardInteractions[7].ActionName,Feed Husk,Feed Husk
 HearthAwakenedExtinguished_CardInteractions[7].ActionName,Feed Husk,Feed Husk
@@ -8337,9 +8337,9 @@ RESOLUTION,Resolution,解像度
 ChairPlaced_DismantleActions[0].ActionName,Rest,休憩
 OakLogPiecePlacedStool_DismantleActions[0].ActionName,Rest,休憩
 PineLogPiecePlacedStool_DismantleActions[0].ActionName,Rest,休憩
-Stamina_StatActions[0].ActionName,Rest,Rest
-StoolPlaced_DismantleActions[0].ActionName,Rest,Rest
-TimeSkipOptions_Actions[0].ActionName,Rest,Rest
+Stamina_StatActions[0].ActionName,Rest,休憩
+StoolPlaced_DismantleActions[0].ActionName,Rest,休憩
+TimeSkipOptions_Actions[0].ActionName,Rest,休憩
 LAST_DAY_CHECKPOINT,Restart day,1日をやり直す
 CHECKPOINT_CONFIRM,Restart from the start of this day?,Restart from the start of this day?
 LAST_SEASON_CHECKPOINT,Restart season,季節をやり直す

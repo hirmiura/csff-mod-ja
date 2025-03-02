@@ -16834,131 +16834,131 @@ msgstr ""
 
 msgctxt "CampfireExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "CampfireExtinguished_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Campfire_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Campfire_CardInteractions[4].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "FireplaceExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "FireplaceExtinguished_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Fireplace_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Fireplace_CardInteractions[4].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "HearthAwakenedExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "HearthAwakenedExtinguished_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "HearthAwakened_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "HearthAwakened_CardInteractions[4].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "HearthExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "HearthExtinguished_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Hearth_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Hearth_CardInteractions[4].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "KilnExtinguished_CardInteractions[1].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "KilnExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Kiln_CardInteractions[1].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Kiln_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "OvenExtinguished_CardInteractions[1].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "OvenExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Oven_CardInteractions[1].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Oven_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "SmokehouseExtinguished__CardInteractions[1].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "SmokehouseExtinguished__CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Smokehouse__CardInteractions[1].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "Smokehouse__CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "SpiritShrine_Fire_RitualPyre_CardInteractions[2].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "SpiritShrine_Fire_RitualPyre_CardInteractions[3].ActionName"
 msgid "Feed Fuel"
-msgstr ""
+msgstr "燃料を補給"
 
 msgctxt "CampfireExtinguished_CardInteractions[7].ActionName"
 msgid "Feed Husk"
@@ -34404,15 +34404,15 @@ msgstr "休憩"
 
 msgctxt "Stamina_StatActions[0].ActionName"
 msgid "Rest"
-msgstr ""
+msgstr "休憩"
 
 msgctxt "StoolPlaced_DismantleActions[0].ActionName"
 msgid "Rest"
-msgstr ""
+msgstr "休憩"
 
 msgctxt "TimeSkipOptions_Actions[0].ActionName"
 msgid "Rest"
-msgstr ""
+msgstr "休憩"
 
 msgctxt "LAST_DAY_CHECKPOINT"
 msgid "Restart day"
