@@ -63,7 +63,7 @@ Ja.pot: En.csv
 merge-pot: ## Ja.potをJa.poにマージする
 merge-pot: Ja.po Ja.pot
 	msgmerge --no-fuzzy-matching --backup=t -U $^
-	$(MAKE) slim
+	@$(MAKE) slim
 
 
 #==============================================================================
@@ -72,7 +72,7 @@ merge-pot: Ja.po Ja.pot
 .PHONY: merge-editpo
 merge-editpo: ## Ja.edit.poをJa.poにマージする
 merge-editpo: Ja.po
-	$(MAKE) slim
+	@$(MAKE) slim
 
 Ja.po: Ja.edit.po
 	msgcat --use-first --no-location --no-wrap -o $@ $< $@
