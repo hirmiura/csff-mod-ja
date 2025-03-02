@@ -50,6 +50,8 @@ def main() -> int:
     pofile = polib.pofile(args.i, encoding="utf-8-sig")
     writer = csv.writer(args.o)
 
+    # poファイルのエントリーをソートする
+    pofile.sort(key=lambda e: e.msgid)
     # poファイルのエントリーをまわす
     try:
         for entry in pofile:
