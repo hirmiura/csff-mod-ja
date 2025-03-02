@@ -7095,10 +7095,10 @@ RyeFieldMature_CardInteractions[3].ActionName,Neutralize,Neutralize
 TilledField_CardInteractions[3].ActionName,Neutralize,Neutralize
 TurnrootFieldGrowing_CardInteractions[3].ActionName,Neutralize,Neutralize
 TurnrootFieldMature_CardInteractions[3].ActionName,Neutralize,Neutralize
-NEW_BLUEPRINT,New Blueprint,New Blueprint
-BLUEPRINT_UNLOCKED,New Blueprint Unlocked!,New Blueprint Unlocked!
-WoodcuttingBasics_Completed_Event_CardDescription,New Blueprints and Tasks Available.,New Blueprints and Tasks Available.
-WoodcuttingBasics_Completed_Event_CardDescription*,New Blueprints and Tasks Available.,New Blueprints and Tasks Available.
+NEW_BLUEPRINT,New Blueprint,新しい設計図
+BLUEPRINT_UNLOCKED,New Blueprint Unlocked!,新しい設計図がアンロックされた！
+WoodcuttingBasics_Completed_Event_CardDescription,New Blueprints and Tasks Available.,新しい設計図とタスクが利用可能
+WoodcuttingBasics_Completed_Event_CardDescription*,New Blueprints and Tasks Available.,新しい設計図とタスクが利用可能
 Imp_MudHutConstructionLocationCellarDown_CardName,New Cellar,New Cellar
 Imp_MudHutConstructionLocationCellarEast_CardName,New Cellar (East),New Cellar (East)
 Imp_MudHutConstructionLocationCellarNorth_CardName,New Cellar (North),New Cellar (North)
