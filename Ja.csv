@@ -1755,7 +1755,7 @@ ChasingAid_Statuses[4].GameName,Chasing Aid,Chasing Aid
 ChasingAid_Statuses[5].GameName,Chasing Aid,Chasing Aid
 LQ_SpiritWolf_DismantleActions[1].ActionName,Chasing Aid,Chasing Aid
 Event_WillOWisp_Grove2_CardName,Chasing the Wisp,Chasing the Wisp
-CHECKPOINT_MODE,Checkpoint Mode,<size=70%>チェックポイントモード
+CHECKPOINT_MODE,Checkpoint Mode,<size=70%>チェックポイント モード
 SAFE_MODE_DESC,Checkpoint mode + you can manually save at any point.,チェックポイントモードに加え、手動セーブも可能。
 Chemical_TabName,Chemical,Chemical
 ChickenFemale_CardName,Chicken,Chicken
@@ -4669,8 +4669,8 @@ BoarTiedFemale_DismantleActions[0].ActionName,Free,Free
 BoarTiedMale_DismantleActions[0].ActionName,Free,Free
 PartridgeFemaleTied_DismantleActions[0].ActionName,Free,Free
 PartridgeMaleTied_DismantleActions[0].ActionName,Free,Free
-FREE_MODE,Free Mode,Free Mode
-FREE_MODE_DESC,"Free experience. All blueprints start unlocked, no quests or objectives to follow.","Free experience. All blueprints start unlocked, no quests or objectives to follow."
+FREE_MODE,Free Mode,フリー モード
+FREE_MODE_DESC,"Free experience. All blueprints start unlocked, no quests or objectives to follow.",自由な体験。すべての設計図がアンロックされた状態でスタートし、クエストや目標はない。
 River_OnStatsChangeActions[0].ActionName,Freeze,Freeze
 TemperatureAlert_Statuses[2].GameName,Freezing,Freezing
 TemperaturePerceived_Statuses[9].GameName,Freezing,Freezing
@@ -8110,8 +8110,8 @@ WoodenPlate_SpecialDurability2.CardStatName,Quality,品質
 YarnFiber_SpecialDurability2.CardStatName,Quality,品質
 GpTag_FeedBirdMedium_TabName,Quality Bird Feed ,Quality Bird Feed 
 LIQUID_DEFAULT_NAME,Quantity,Quantity
-QUEST_MODE,Quest Mode,Quest Mode
-QUEST_MODE_DESC,Quest-driven progression. Blueprints are unlocked by completing Quests.,Quest-driven progression. Blueprints are unlocked by completing Quests.
+QUEST_MODE,Quest Mode,クエスト モード
+QUEST_MODE_DESC,Quest-driven progression. Blueprints are unlocked by completing Quests.,クエスト主体の進行。設計図はクエストをクリアすることでアンロックされる。
 Quicklime_CardName,Quicklime,Quicklime
 Quinine_GameName,Quinine,Quinine
 Quinine_Statuses[3].GameName,Quinine Overdose,Quinine Overdose
@@ -8196,7 +8196,7 @@ Spindle_Progress.OnFull.ActionName,Ready,Ready
 COOKING_TIME_TEXT,Ready in {0},Ready in {0}
 StoneBurnt_CardDescription,Ready to be ground into quicklime.,Ready to be ground into quicklime.
 StoneHeavyBurnt_CardDescription,Ready to be ground into quicklime.,Ready to be ground into quicklime.
-REALISTIC_MODE,Realistic Mode,<size=70%>リアリスティックモード
+REALISTIC_MODE,Realistic Mode,<size=60%>リアリスティック モード
 Derealization_Statuses[1].Description,Reality doesn't feel real,Reality doesn't feel real
 Derealization_Statuses[2].Description,Reality isn't real,Reality isn't real
 DeadfallTrapTriggered_DismantleActions[0].ActionName,Rearm Trap,Rearm Trap
@@ -8513,21 +8513,21 @@ RyeFlourRaw_CardName,Rye Flour,Rye Flour
 RyeGrains_CardName,Rye Grains,Rye Grains
 RyePatch_CardName,Rye Patch,Rye Patch
 RyeStalksFresh_SpoilageTime.OnZero.ActionDescription,Rye Stalks dried!,Rye Stalks dried!
-SELECT_A_PERK,SELECT A PERK,SELECT A PERK
-SELECT_CHARACTER,SELECT CHARACTER,SELECT CHARACTER
+SELECT_A_PERK,SELECT A PERK,パーク選択
+SELECT_CHARACTER,SELECT CHARACTER,キャラクター選択
 SELECT_GAME,SELECT GAME,SELECT GAME
 START_GAME_BUTTON,START GAME,開始する
 STATS_TITLE,STATS,STATS
 SURVIVAL_CODEX,SURVIVAL GUIDE,SURVIVAL GUIDE
-Bp_Sack_CardName,Sack,Sack
-Sack_CardName,Sack,Sack
+Bp_Sack_CardName,Sack,スタック
+Sack_CardName,Sack,スタック
 SpiritShrine_Earth_SpiritMound_CardName,Sacred Oak,Sacred Oak
 SpiritShrine_Water_SpiritPool_CardName,Sacred Spring,Sacred Spring
 LQ_BlessedWater_CardName,Sacred Water,Sacred Water
 tag_SacredWaterPreserver_InGameName,Sacred Water Preserver,Sacred Water Preserver
 Event_FluteTunes1_DismantleActions[2].ActionName,Sad Tune,Sad Tune
 Event_NewTuneSad_CardName,Sad Tune,Sad Tune
-SAFE_MODE,Safe Mode,セーフモード
+SAFE_MODE,Safe Mode,セーフ モード
 tag_FloodSafe_InGameName,Safe from Floods,Safe from Floods
 SAFETY_MODE_TITLE,Safety Mode,Safety Mode
 Sailed_GameName,Sailed,Sailed
