@@ -1,5 +1,5 @@
 ﻿FlintVein_CardDescription,\n,\n
-PartridgeChickDead_CardDescription, Could be used as trap bait., Could be used as trap bait.
+PartridgeChickDead_CardDescription, Could be used as trap bait., 罠の餌として使えるかもしれない。
 MudWorkingTools_Obj3_CraftAMudBrickMold_ObjectiveDescription, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 MudWorkingTools_Sub3_CraftAMudBrickMold_QuestTitle, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 BodyTemperature_Statuses[7].GameName, Hypothermia, 低体温症 (7)
@@ -88,18 +88,18 @@ SpiritMushroomsPlantedDormant_CardHelpSection,"<b>Found:</b> Oak clearings.\n\n<
 SpiritMushroomsPlantedMature_CardHelpSection,"<b>Found:</b> Oak clearings.\n\n<b>Growth Needs:</b> High Acidity, Hydration and Nutrients.\n\n<b>Benefits:</b> Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
 SpiritMushroomsPlanted_CardHelpSection,"<b>Found:</b> Oak clearings.\n\n<b>Growth Needs:</b> High Acidity, Hydration and Nutrients.\n\n<b>Benefits:</b> Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
 SpiritMushroomsPowder_CardHelpSection,"<b>Found:</b> Oak clearings.\n\n<b>Growth Needs:</b> High Acidity, Hydration and Nutrients.\n\n<b>Benefits:</b> Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
-FairyWeedPlantedDormant_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
-FairyWeedPlantedGrowing_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
-FairyweedDried_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
-FairyweedFresh_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
-FairyweedPlantedMature_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
-FairyweedPowder_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
-LQ_FairyweedTea_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.","<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive."
+FairyWeedPlantedDormant_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの木立\n\n<b>生育要件:</b> 中酸性、中水分、中～高養分\n\n<b>用途:</b> 鎮痛薬、解熱薬、鎮静薬、抗不安薬、精神賦活
+FairyWeedPlantedGrowing_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
+FairyweedDried_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
+FairyweedFresh_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
+FairyweedPlantedMature_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
+FairyweedPowder_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
+LQ_FairyweedTea_CardHelpSection,"<b>Found:</b> Oaken Groves.\n\n<b>Growth Needs:</b> Mid Acidity, Mid Hydration, Mid to High Nutrients.\n\n<b>Benefits:</b> Analgesic, Antipyretic, Sedative, Anxiolytic, Psychoactive.",<b>生息地:</b> オークの開墾地\n\n<b>生育要件:</b> 高酸性、高水分、高養分\n\n<b>用途:</b> 精神賦活
 HAND_ROW_HELP,<b>Hand Row</b>\n<size=80%>Items you are carrying.\nThey come with you when you travel and affect your encumbrance.</size>,<b>Hand Row</b>\n<size=80%>Items you are carrying.\nThey come with you when you travel and affect your encumbrance.</size>
 HOLD_SWAP,<b>Hold top/bottom</b> of cards to move stacks.,<b>Hold top/bottom</b> of cards to move stacks.
 DEMO_SAVEWRITING_WARNING,"<b>IMPORTANT NOTE:</b>\nYOUR PROGRESS WILL NOT BE SAVED\n\n""The First Days"" cannot store progress on saves created by the full game.","<b>IMPORTANT NOTE:</b>\nYOUR PROGRESS WILL NOT BE SAVED\n\n""The First Days"" cannot store progress on saves created by the full game."
 LOCATION_ROW_HELP,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>
-Amulet_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>
+Amulet_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>機能するには装備スロットに装備されていなければならない</b>
 GreenwardPouch_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>
 PINS_HELP,<b>Pin</b> cards to save their position.,<b>Pin</b> cards to save their position.
 RIGHT_CLICK,<b>Right click</b> to swap between hand and base row.,<b>Right click</b> to swap between hand and base row.
@@ -313,7 +313,7 @@ AcornDoughRaw_CardName,Acorn Dough,Acorn Dough
 AcornFlatBread_CardName,Acorn FlatBread,Acorn FlatBread
 AcornFlourRaw_CardName,Acorn Flour,Acorn Flour
 Stamina_Statuses[2].GameName,Active,アクティブ (2)
-WinterStormPackage_Statuses[0].GameName,Active,Active
+WinterStormPackage_Statuses[0].GameName,Active,アクティブ
 Pk_2_5_ActiveBowels_PerkName,Active Bowels,Active Bowels
 LQ_Fairybrew_SpecialDurability2.CardStatName,Activity,Activity
 LQ_Fairybrew_SpecialDurability4.CardStatName,Activity,Activity
@@ -582,7 +582,7 @@ AppleWeedPowder_CardName,Appleweed Powder,Appleweed Powder
 LQ_AppleweedTea_CardName,Appleweed Tea,Appleweed Tea
 AppleweedFresh_UsageDurability.OnFull.ActionDescription,Appleweed dried!,Appleweed dried!
 APPLY,Apply,適用する
-SoothingPaste_DismantleActions[0].ActionName,Apply,Apply
+SoothingPaste_DismantleActions[0].ActionName,Apply,適用する
 GardenPlot_CardInteractions[2].ActionName,Apply Fungicide,Apply Fungicide
 MushroomBed_CardInteractions[2].ActionName,Apply Fungicide,Apply Fungicide
 BasicWoundTreatment_Obj2_EquipLichenInAWound_ObjectiveDescription,Apply Healer's Moss to a Wound,Apply Healer's Moss to a Wound
@@ -672,7 +672,7 @@ Skill_AxeFighting_GameName,Axe Fighting,Axe Fighting
 BLUEPRINT_RESEARCHED_TITLE,BLUEPRINT RESEARCHED,BLUEPRINT RESEARCHED
 BLUEPRINT_MODELS,BLUEPRINTS,設計図
 BACK,Back,戻る
-eTag_Backpack_InGameName,Back,Back
+eTag_Backpack_InGameName,Back,戻る
 tag_Backpack_InGameName,Backpack,Backpack
 Wellbeing_Statuses[3].GameName,Bad Wellbeing,少し不幸 (3)
 Discomfort_Description,"Bad smells, unsightly things and general filth. Lowers comfort and wellbeing, increases nausea and stress.","Bad smells, unsightly things and general filth. Lowers comfort and wellbeing, increases nausea and stress."
@@ -1497,7 +1497,7 @@ LQ_RottenStew_SpecialDurability1.CardStatName,Calories,カロリー
 LQ_StewWater_SpecialDurability1.CardStatName,Calories,カロリー
 LQ_Water_SpecialDurability1.CardStatName,Calories,カロリー
 Filter_Camp_GameName,Camp,キャンプ
-Tab_Base_Camp_TabName,Camp,Camp
+Tab_Base_Camp_TabName,Camp,キャンプ
 Bp_Campfire_CardName,Campfire,Campfire
 CampfireExtinguished_CardName,Campfire,Campfire
 Campfire_CardName,Campfire,Campfire
@@ -1749,7 +1749,7 @@ ChasingAid_Statuses[4].GameName,Chasing Aid,Chasing Aid
 ChasingAid_Statuses[5].GameName,Chasing Aid,Chasing Aid
 LQ_SpiritWolf_DismantleActions[1].ActionName,Chasing Aid,Chasing Aid
 Event_WillOWisp_Grove2_CardName,Chasing the Wisp,Chasing the Wisp
-CHECKPOINT_MODE,Checkpoint Mode,チェックポイントモード
+CHECKPOINT_MODE,Checkpoint Mode,<size=70%>チェックポイントモード
 SAFE_MODE_DESC,Checkpoint mode + you can manually save at any point.,チェックポイントモードに加え、手動セーブも可能。
 Chemical_TabName,Chemical,Chemical
 ChickenFemale_CardName,Chicken,Chicken
@@ -2116,7 +2116,7 @@ FireBasics_Sub3_CombineASharpenedStoneWithTwigs_QuestTitle,Combine a Sharpened S
 Comfort_GameName,Comfort,Comfort
 BodyTemperature_DefaultStatusName,Comfortable,快適
 BodyTemperature_Statuses[4].GameName,Comfortable,快適 (4)
-TemperaturePerceived_Statuses[4].GameName,Comfortable,Comfortable
+TemperaturePerceived_Statuses[4].GameName,Comfortable,快適
 ClearingOak_GreenGlade_SpecialDurability1.OnFull.ActionName,Common,Common
 ClearingOak_MossyClearing_SpecialDurability1.OnFull.ActionName,Common,Common
 ClearingPine_FlowerGlade_SpecialDurability1.OnFull.ActionName,Common,Common
@@ -2151,229 +2151,229 @@ SpiritShrine_Earth_SacredOak_DismantleActions[0].ActionName,Commune,Commune
 COMPLETE,Complete,完了
 AdvancedMagic_Obj2_CompleteAFamiliarRitual_ObjectiveDescription,Complete a Summoning Ritual,Complete a Summoning Ritual
 AdvancedMagic_Sub2_CompleteAFamiliarRitual_QuestTitle,Complete a Summoning Ritual,Complete a Summoning Ritual
-AdvancedMagic_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-AdvancedMagic_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-AdvancedPottery_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-AdvancedPottery_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-AdvancedPottery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-AdvancedPottery_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-AnimalHusbandry_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-AnimalHusbandry_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicArchery_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicArchery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicBaking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicBaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicBrewing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicBrewing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicCarpentry_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicCarpentry_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicCarpentry_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicCarpentry_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicClothing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicCooking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicCooking_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicCooking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicCooking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicFarming_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicFarming_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicFarming_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicFarming_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicFishing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicFishing_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicFishing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicFishing_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicFurnitureMaking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicFurnitureMaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicGardening_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicGardening_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicGardening_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicGardening_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicHerbalism_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicHerbalism_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicHerbalism_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicHerbalism_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicHunting_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicHunting_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicHunting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicHunting_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicLeatherClothing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicLeatherClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicLeatherCrafts_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicLeatherCrafts_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicLeatherWorking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicLeatherWorking_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicLeatherworking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicLeatherworking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicMagic_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicMagic_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicNeeds_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicNeeds_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicNeeds_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicNeeds_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicPlantwear_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicPlantwear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicPottery_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicPottery_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicPottery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicPottery_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicSpearfighting_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicSpearfighting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicSurvivalGear_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicSurvivalGear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicSurvival_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicSurvival_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTailoring_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTailoring_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTanning_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTanning_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTrapping_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTrapping_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicTrapping_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTrapping_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicTravelingGear_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicTravelingGear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWeaving_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWeaving_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicWeaving_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWeaving_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicWoodworking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWoodworking_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicWoodworking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWoodworking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicWoundTreatment_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWoundTreatment_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-BasicWoundTreatment_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-BasicWoundTreatment_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-BeastAffinity_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-BeastAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
+AdvancedMagic_Completed_OnCompleteActions[0].ActionName,Completed,完了
+AdvancedMagic_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+AdvancedPottery_Completed_OnCompleteActions[0].ActionName,Completed,完了
+AdvancedPottery_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+AdvancedPottery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+AdvancedPottery_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+AnimalHusbandry_Completed_OnCompleteActions[0].ActionName,Completed,完了
+AnimalHusbandry_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicArchery_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicArchery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicBaking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicBaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicBrewing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicBrewing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicCarpentry_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicCarpentry_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicCarpentry_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicCarpentry_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicClothing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicCooking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicCooking_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicCooking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicCooking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicFarming_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicFarming_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicFarming_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicFarming_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicFishing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicFishing_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicFishing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicFishing_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicFurnitureMaking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicFurnitureMaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicGardening_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicGardening_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicGardening_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicGardening_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicHerbalism_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicHerbalism_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicHerbalism_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicHerbalism_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicHunting_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicHunting_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicHunting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicHunting_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicLeatherClothing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicLeatherClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicLeatherCrafts_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicLeatherCrafts_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicLeatherWorking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicLeatherWorking_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicLeatherworking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicLeatherworking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicMagic_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicMagic_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicNeeds_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicNeeds_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicNeeds_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicNeeds_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicPlantwear_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicPlantwear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicPottery_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicPottery_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicPottery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicPottery_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicSpearfighting_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicSpearfighting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicSurvivalGear_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicSurvivalGear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicSurvival_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicSurvival_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicTailoring_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicTailoring_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicTanning_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicTanning_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicTrapping_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicTrapping_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicTrapping_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicTrapping_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicTravelingGear_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicTravelingGear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicWeaving_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicWeaving_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicWeaving_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicWeaving_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicWoodworking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicWoodworking_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicWoodworking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicWoodworking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BasicWoundTreatment_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BasicWoundTreatment_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+BasicWoundTreatment_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+BasicWoundTreatment_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+BeastAffinity_Completed_OnCompleteActions[0].ActionName,Completed,完了
+BeastAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
 COMPLETED_QUESTS,Completed,完了済み
-ChickenHusbandry_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-ChickenHusbandry_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Drying_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Drying_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-EarthAffinity_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-EarthAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-ExploreTheFairyHole_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-ExploreTheFairyHole_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-FireAffinity_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-FireAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-FireBasics_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-FireBasics_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-FireBasics_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-FireBasics_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-FoodPreservation_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-FoodPreservation_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-FractureAndSprainTreatment_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-FractureAndSprainTreatment_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-FurClothing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-FurClothing_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-FurClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-FurClothing_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-Hearth_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Hearth_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-HomeImprovements_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-HomeImprovements_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-HouseBuilding_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-HouseBuilding_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-ImprovisedShelter_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-ImprovisedShelter_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateArchery_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateArchery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateBaking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateBaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateCooking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateCooking_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateCooking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateCooking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateCraftmanship_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateCraftmanship_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateFishing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateFishing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateFurnitureMaking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateFurnitureMaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateGardening_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateGardening_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateHerbalism_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateHerbalism_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateHunting_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateHunting_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateHunting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateHunting_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateLeatherWorking_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateLeatherworking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateMagic_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateMagic_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediatePlantwear_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediatePlantwear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediatePottery_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediatePottery_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediatePottery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediatePottery_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateTailoring_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateTailoring_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateTrapping_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateTrapping_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateTrapping_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateTrapping_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-IntermediateTravelingGear_Completed_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateTravelingGear_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateWeaving_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-IntermediateWeaving_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Knapping_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Knapping_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-LeatherArmor_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-LeatherArmor_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-LeatherClothing_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-LeatherClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-MudHutImprovements_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-MudHutImprovements_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-MudHut_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-MudHut_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-MudWorkingTools_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-MudWorkingTools_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Number1_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Number1_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Number2_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Number2_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-PoultryFarming_Completed_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-PoultryFarming_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-PoultryFarming_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-PoultryFarming_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Repairs_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Repairs_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Resting_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Resting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-SettlingDown_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-SettlingDown_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-ShelteredSleep_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Skinning_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Skinning_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-Skinning_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Skinning_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-StayingWarm_Completed_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-StayingWarm_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-SurvivingTheNight_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-SurvivingTheNight_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-SurvivingTheNight_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-SurvivingTheNight_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-TQT_IntermediateGardening_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-TQT_IntermediateGardening_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-WaterAffinity_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-WaterAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-WillOWisp_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-WillOWisp_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-WillOWisp_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-WinterSurvival_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-WinterSurvival_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Woodcarving_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-Woodcarving_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-Woodcarving_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-Woodcarving_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
-WoodcuttingBasics_Completed_OnCompleteActions[0].ActionName,Completed,Completed
-WoodcuttingBasics_Completed_OnCompleteActions[0].ActionName*,Completed,Completed
-WoodcuttingBasics_DisplayConditions_OnCompleteActions[0].ActionName,Completed,Completed
-WoodcuttingBasics_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,Completed
+ChickenHusbandry_Completed_OnCompleteActions[0].ActionName,Completed,完了
+ChickenHusbandry_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Drying_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Drying_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+EarthAffinity_Completed_OnCompleteActions[0].ActionName,Completed,完了
+EarthAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+ExploreTheFairyHole_Completed_OnCompleteActions[0].ActionName,Completed,完了
+ExploreTheFairyHole_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+FireAffinity_Completed_OnCompleteActions[0].ActionName,Completed,完了
+FireAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+FireBasics_Completed_OnCompleteActions[0].ActionName,Completed,完了
+FireBasics_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+FireBasics_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+FireBasics_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+FoodPreservation_Completed_OnCompleteActions[0].ActionName,Completed,完了
+FoodPreservation_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+FractureAndSprainTreatment_Completed_OnCompleteActions[0].ActionName,Completed,完了
+FractureAndSprainTreatment_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+FurClothing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+FurClothing_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+FurClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+FurClothing_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+Hearth_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Hearth_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+HomeImprovements_Completed_OnCompleteActions[0].ActionName,Completed,完了
+HomeImprovements_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+HouseBuilding_Completed_OnCompleteActions[0].ActionName,Completed,完了
+HouseBuilding_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+ImprovisedShelter_Completed_OnCompleteActions[0].ActionName,Completed,完了
+ImprovisedShelter_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateArchery_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateArchery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateBaking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateBaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateCooking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateCooking_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateCooking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateCooking_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateCraftmanship_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateCraftmanship_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateFishing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateFishing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateFurnitureMaking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateFurnitureMaking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateGardening_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateGardening_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateHerbalism_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateHerbalism_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateHunting_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateHunting_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateHunting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateHunting_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateLeatherWorking_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateLeatherworking_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateMagic_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateMagic_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediatePlantwear_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediatePlantwear_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediatePottery_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediatePottery_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediatePottery_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediatePottery_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateTailoring_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateTailoring_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateTrapping_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateTrapping_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateTrapping_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateTrapping_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+IntermediateTravelingGear_Completed_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateTravelingGear_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateWeaving_Completed_OnCompleteActions[0].ActionName,Completed,完了
+IntermediateWeaving_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Knapping_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Knapping_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+LeatherArmor_Completed_OnCompleteActions[0].ActionName,Completed,完了
+LeatherArmor_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+LeatherClothing_Completed_OnCompleteActions[0].ActionName,Completed,完了
+LeatherClothing_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+MudHutImprovements_Completed_OnCompleteActions[0].ActionName,Completed,完了
+MudHutImprovements_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+MudHut_Completed_OnCompleteActions[0].ActionName,Completed,完了
+MudHut_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+MudWorkingTools_Completed_OnCompleteActions[0].ActionName,Completed,完了
+MudWorkingTools_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Number1_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Number1_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Number2_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Number2_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+PoultryFarming_Completed_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+PoultryFarming_Completed_OnCompleteActions[0].ActionName,Completed,完了
+PoultryFarming_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+PoultryFarming_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Repairs_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Repairs_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Resting_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Resting_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+SettlingDown_Completed_OnCompleteActions[0].ActionName,Completed,完了
+SettlingDown_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+ShelteredSleep_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Skinning_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Skinning_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+Skinning_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Skinning_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+StayingWarm_Completed_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+StayingWarm_Completed_OnCompleteActions[0].ActionName,Completed,完了
+SurvivingTheNight_Completed_OnCompleteActions[0].ActionName,Completed,完了
+SurvivingTheNight_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+SurvivingTheNight_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+SurvivingTheNight_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+TQT_IntermediateGardening_Completed_OnCompleteActions[0].ActionName,Completed,完了
+TQT_IntermediateGardening_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+WaterAffinity_Completed_OnCompleteActions[0].ActionName,Completed,完了
+WaterAffinity_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+WillOWisp_Completed_OnCompleteActions[0].ActionName,Completed,完了
+WillOWisp_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+WillOWisp_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+WinterSurvival_Completed_OnCompleteActions[0].ActionName,Completed,完了
+WinterSurvival_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Woodcarving_Completed_OnCompleteActions[0].ActionName,Completed,完了
+Woodcarving_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+Woodcarving_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+Woodcarving_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
+WoodcuttingBasics_Completed_OnCompleteActions[0].ActionName,Completed,完了
+WoodcuttingBasics_Completed_OnCompleteActions[0].ActionName*,Completed,完了
+WoodcuttingBasics_DisplayConditions_OnCompleteActions[0].ActionName,Completed,完了
+WoodcuttingBasics_DisplayConditions_OnCompleteActions[0].ActionName*,Completed,完了
 Event_FluteTunes2_DismantleActions[2].ActionDescription,Complex and Rewarding.,Complex and Rewarding.
 FluteWooden_DismantleActions[1].ActionName,Compose,Compose
 Event_NewTuneNothing_CardName,Composition Failed,Composition Failed
@@ -2381,7 +2381,7 @@ Bp_CompostBin_CardName,Compost Bin,Compost Bin
 CompostBin_CardName,Compost Bin,Compost Bin
 ImmuneSystem_Statuses[1].GameName,Compromised Immune System,Compromised Immune System
 LungCapacity_Statuses[2].GameName,Compromised Lung Capacity,Compromised Lung Capacity
-CONFIRM,Confirm,Confirm
+CONFIRM,Confirm,確認
 CONFIRM_QUESTION,Confirm?,Confirm?
 BUY_TO_CONTINUE,Congratulations on surviving for {0} days!,Congratulations on surviving for {0} days!
 Imp_MudHutConstructionDoorConnectionDown_CardDescription,Connects two rooms in your hut.,Connects two rooms in your hut.
@@ -2845,7 +2845,7 @@ BasicArchery_Sub1_CraftSimpleArrows_QuestTitle,Craft simple Arrows,Craft simple 
 BasicHerbalism_Obj3_CraftSomeSoothingPaste_ObjectiveDescription,Craft some Soothing Ointment,Craft some Soothing Ointment
 BasicHerbalism_Sub3_CraftSomeSoothingPaste_QuestTitle,Craft some Soothing Ointment,Craft some Soothing Ointment
 Filter_Crafting_GameName,Crafting,クラフト
-Skill_Crafting_GameName,Crafting,Crafting
+Skill_Crafting_GameName,Crafting,クラフト
 OakTreeLarge_UsageDurability.CardStatName,Create BrushWood,Create BrushWood
 PineTreeLarge_UsageDurability.CardStatName,Create BrushWood,Create BrushWood
 ChickenNestBox_CookingRecipes[0].ActionName,Create Chicken,Create Chicken
@@ -3162,16 +3162,16 @@ ClayBarrow_CardInteractions[0].ActionName,Dig Up Clay,Dig Up Clay
 FrozenRiver_CardInteractions[0].ActionName,Dig Up Dirt,Dig Up Dirt
 Puddle_CardInteractions[1].ActionName,Dig Up Dirt,Dig Up Dirt
 StreamBed_CardInteractions[1].ActionName,Dig Up Dirt,Dig Up Dirt
-Puddle_CardInteractions[0].ActionName,Dig Up Mud,Dig Up Mud
+Puddle_CardInteractions[0].ActionName,Dig Up Mud,泥を掘る
 River_CardInteractions[0].ActionName,Dig Up Mud,泥を掘る
-StreamBed_CardInteractions[0].ActionName,Dig Up Mud,Dig Up Mud
+StreamBed_CardInteractions[0].ActionName,Dig Up Mud,泥を掘る
 ClayBarrow_DismantleActions[0].ActionName,Dig up Clay,Dig up Clay
 FrozenRiver_DismantleActions[0].ActionName,Dig up Dirt,Dig up Dirt
 Puddle_DismantleActions[1].ActionName,Dig up Dirt,Dig up Dirt
 StreamBed_DismantleActions[1].ActionName,Dig up Dirt,Dig up Dirt
-Puddle_DismantleActions[0].ActionName,Dig up Mud,Dig up Mud
+Puddle_DismantleActions[0].ActionName,Dig up Mud,泥を掘る
 River_DismantleActions[3].ActionName,Dig up Mud,泥を掘る
-StreamBed_DismantleActions[0].ActionName,Dig up Mud,Dig up Mud
+StreamBed_DismantleActions[0].ActionName,Dig up Mud,泥を掘る
 Calories_Intestines_Statuses[0].GameName,Digestion,Digestion
 Calories_Intestines_Statuses[1].GameName,Digestion,Digestion
 Calories_Intestines_Statuses[2].GameName,Digestion,Digestion
@@ -3367,24 +3367,24 @@ WildGarlicDried_CardName,Dried Wild Garlic,Dried Wild Garlic
 DriedOutWell_CardName,Dried out well,Dried out well
 tag_DoesNotBurnOnCampfire_InGameName,Dries Quickly,Dries Quickly
 tag_QuickDryable_InGameName,Dries Quickly,Dries Quickly
-IceHole_DismantleActions[0].ActionName,Drink,Drink
-LQ_AppleweedTea_DismantleActions[0].ActionName,Drink,Drink
-LQ_Beer_DismantleActions[0].ActionName,Drink,Drink
-LQ_BlessedWater_DismantleActions[0].ActionName,Drink,Drink
-LQ_FairyBrewCooked_DismantleActions[0].ActionName,Drink,Drink
-LQ_Fairybrew_DismantleActions[0].ActionName,Drink,Drink
-LQ_FairyweedTea_DismantleActions[0].ActionName,Drink,Drink
-LQ_FireBrewCooked_DismantleActions[0].ActionName,Drink,Drink
-LQ_FireBrewSuperCooked_DismantleActions[0].ActionName,Drink,Drink
-LQ_Firebrew_DismantleActions[0].ActionName,Drink,Drink
-LQ_Firewater_DismantleActions[0].ActionName,Drink,Drink
-LQ_FrostleafTea_DismantleActions[0].ActionName,Drink,Drink
-LQ_GarlicWater_DismantleActions[0].ActionName,Drink,Drink
-LQ_Oil_DismantleActions[0].ActionName,Drink,Drink
-LQ_SpiritTea_DismantleActions[0].ActionName,Drink,Drink
-LQ_StewWater_DismantleActions[0].ActionName,Drink,Drink
-LQ_WaterUnsafe_DismantleActions[0].ActionName,Drink,Drink
-LQ_Water_DismantleActions[0].ActionName,Drink,Drink
+IceHole_DismantleActions[0].ActionName,Drink,飲む
+LQ_AppleweedTea_DismantleActions[0].ActionName,Drink,飲む
+LQ_Beer_DismantleActions[0].ActionName,Drink,飲む
+LQ_BlessedWater_DismantleActions[0].ActionName,Drink,飲む
+LQ_FairyBrewCooked_DismantleActions[0].ActionName,Drink,飲む
+LQ_Fairybrew_DismantleActions[0].ActionName,Drink,飲む
+LQ_FairyweedTea_DismantleActions[0].ActionName,Drink,飲む
+LQ_FireBrewCooked_DismantleActions[0].ActionName,Drink,飲む
+LQ_FireBrewSuperCooked_DismantleActions[0].ActionName,Drink,飲む
+LQ_Firebrew_DismantleActions[0].ActionName,Drink,飲む
+LQ_Firewater_DismantleActions[0].ActionName,Drink,飲む
+LQ_FrostleafTea_DismantleActions[0].ActionName,Drink,飲む
+LQ_GarlicWater_DismantleActions[0].ActionName,Drink,飲む
+LQ_Oil_DismantleActions[0].ActionName,Drink,飲む
+LQ_SpiritTea_DismantleActions[0].ActionName,Drink,飲む
+LQ_StewWater_DismantleActions[0].ActionName,Drink,飲む
+LQ_WaterUnsafe_DismantleActions[0].ActionName,Drink,飲む
+LQ_Water_DismantleActions[0].ActionName,Drink,飲む
 River_DismantleActions[0].ActionName,Drink,飲む
 BasicHerbalism_Obj3_DrinkAppleweedTeaByCombiningtheHerbWithHotWater_ObjectiveDescription,Drink Appleweed Tea by combining Herb with hot Water,Drink Appleweed Tea by combining Herb with hot Water
 BasicHerbalism_Sub3_DrinkAppleweedTeaByCombiningtheHerbWithHotWater_QuestTitle,Drink Appleweed Tea by combining Herb with hot Water,Drink Appleweed Tea by combining Herb with hot Water
@@ -4457,10 +4457,10 @@ tag_Flower_InGameName,Flower,Flower
 ClearingPine_FlowerGlade_CardName,Flower Glade,Flower Glade
 Env_ClearingPine_FlowerGlade_CardName,Flower Glade,Flower Glade
 Event_DrumMenu_DismantleActions[1].ActionName,Flowing Rythm,Flowing Rythm
-Amulet_DismantleActions[0].ActionName,Focus,Focus
+Amulet_DismantleActions[0].ActionName,Focus,集中力
 Event_WillOWisp_RiverClearing_DismantleActions[0].ActionName,Focus,集中する
 Focus_GameName,Focus,集中力
-GreenwardPouch_DismantleActions[0].ActionName,Focus,Focus
+GreenwardPouch_DismantleActions[0].ActionName,Focus,集中力
 Tab_Spirits_FocusItems_TabName,Focus Items,Focus Items
 Focus_Statuses[2].GameName,Focused,集中した (2)
 Path_RiverClearingFromWillOWispGrove2_DismantleActions[0].ActionName,Follow,追いかける
@@ -4477,8 +4477,8 @@ Path_RiverClearingFromWillOWispGrove2_DismantleActions[0].FadeMessage,Following 
 Path_WillOWispGrove2FromWillOWispGrove1_DismantleActions[0].FadeMessage,Following the Wisp.,Following the Wisp.
 FONT_STYLE,Font Style,フォントスタイル
 Filter_Food_GameName,Food,食料
-PartridgeFeederEmpty_FuelCapacity.CardStatName,Food,Food
-PartridgeFeeder_FuelCapacity.CardStatName,Food,Food
+PartridgeFeederEmpty_FuelCapacity.CardStatName,Food,食料
+PartridgeFeeder_FuelCapacity.CardStatName,Food,食料
 FoodPoisoning_GameName,Food Poisoning,Food Poisoning
 FoodPreservation_Completed_ObjectiveDescription,Food Preservation,Food Preservation
 FoodPreservation_Main_QuestTitle,Food Preservation,Food Preservation
@@ -4814,10 +4814,10 @@ BasicPottery_Sub1_GatherMud_QuestTitle,Gather Mud,Gather Mud
 BasicPottery_Sub1_GatherMud_QuestTitle*,Gather Mud,Gather Mud
 WinterSurvival_Obj1_GatherSomeSnow_ObjectiveDescription,Gather some Snow,Gather some Snow
 WinterSurvival_Sub1_GatherSomeSnow_QuestTitle,Gather some Snow,Gather some Snow
-FrozenRiver_DismantleActions[1].ActionName,Gaze at Water,Gaze at Water
-IceHole_DismantleActions[2].ActionName,Gaze at Water,Gaze at Water
+FrozenRiver_DismantleActions[1].ActionName,Gaze at Water,流れを見つめる
+IceHole_DismantleActions[2].ActionName,Gaze at Water,流れを見つめる
 River_DismantleActions[4].ActionName,Gaze at Water,流れを見つめる
-SpiritShrine_Water_SacredSpring_DismantleActions[2].ActionName,Gaze at Water,Gaze at Water
+SpiritShrine_Water_SacredSpring_DismantleActions[2].ActionName,Gaze at Water,流れを見つめる
 HearthAwakened_DismantleActions[4].ActionName,Gaze into Fire,Gaze into Fire
 Hearth_DismantleActions[3].ActionName,Gaze into Fire,Gaze into Fire
 SpiritShrine_Fire_RitualPyre_DismantleActions[2].ActionName,Gaze into Fire,Gaze into Fire
@@ -5447,7 +5447,7 @@ HeatedTar_CardName,Heated Tar,Heated Tar
 Heavy_CategoryName,Heavy,Heavy
 tag_Heavy_InGameName,Heavy,Heavy
 RainProtection_Statuses[2].GameName,Heavy Protection,Heavy Protection
-RainExposure_Statuses[2].GameName,Heavy Rain,Heavy Rain
+RainExposure_Statuses[2].GameName,Heavy Rain,大雨 (4)
 Weather_4_HeavyRain_CardName,Heavy Rain,大雨 (4)
 Weather_4_HeavySnow_CardName,Heavy Snow,大雪 (4)
 StoneHeavy_CardName,Heavy Stone,Heavy Stone
@@ -5455,7 +5455,7 @@ Pkg_Height_GroupName,Height,Height
 NewsEARelease1_Sections[0].Entries[0].Content,"Hello everyone!\n<b>Card Survival: Fantasy Forest</b> is finally here.\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\n\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\n\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!","Hello everyone!\n<b>Card Survival: Fantasy Forest</b> is finally here.\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\n\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\n\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!"
 HELP,Help,ヘルプ
 HELP_TAB,Help,ヘルプ
-SuccessChanceLabels_ContributionLabels[1].LabelText,Helps,Helps
+SuccessChanceLabels_ContributionLabels[1].LabelText,Helps,ヘルプ
 Food_TagTooltip,Helps Avoid Starvation,Helps Avoid Starvation
 Medicine_TagTooltip,Helps Survive Ailments.,Helps Survive Ailments.
 Winter_TagTooltip,Helps Survive the Cold,Helps Survive the Cold
@@ -5498,7 +5498,7 @@ Fitness_Statuses[1].GameName,High Fitness,High Fitness
 LungrotSpores_Statuses[2].GameName,High Lungrot Exposure,High Lungrot Exposure
 MuscleMass_Statuses[1].GameName,High Muscle Mass,High Muscle Mass
 WaterLevelVisible_Statuses[3].GameName,High Overflow,大きな氾濫
-WaterLevel_Statuses[3].GameName,High Overflow,High Overflow
+WaterLevel_Statuses[3].GameName,High Overflow,大きな氾濫
 BugProtection_Statuses[1].GameName,High Protection,High Protection
 Quinine_Statuses[2].GameName,High Quinine Dose,High Quinine Dose
 RectalPressure_Statuses[1].GameName,High Rectal Pressure,High Rectal Pressure
@@ -5512,7 +5512,7 @@ Testosterone_Statuses[3].GameName,High Testosterone,高テストステロン
 Pk_2_6_HighThirst_PerkName,High Thirst,High Thirst
 VesicalPressure_Statuses[1].GameName,High Vesical Pressure,High Vesical Pressure
 WaterLevelVisible_Statuses[1].GameName,High Water Level,高い水位
-WaterLevel_Statuses[1].GameName,High Water Level,High Water Level
+WaterLevel_Statuses[1].GameName,High Water Level,高い水位
 Pk_5_Overweight_PerkName,High Weight,High Weight
 Bark_CardDescription,High in tannins. Can be used to make tanning liquor and process skin into leather.,タンニンが多い。 なめし酒や皮革加工に使用される。
 HIGH_PRIO_STATUSES,High priority statuses,High priority statuses
@@ -5785,7 +5785,7 @@ TimeSkipOptions_Actions[4].StatInterruptions[5].Notification,I'm not feeling wel
 TimeSkipOptions_Actions[4].StatInterruptions[6].Notification,I'm not feeling well...,体調が悪い...
 TimeSkipOptions_Actions[5].StatInterruptions[5].Notification,I'm not feeling well...,体調が悪い...
 TimeSkipOptions_Actions[5].StatInterruptions[6].Notification,I'm not feeling well...,体調が悪い...
-Hydration_Statuses[3].Description,I'm seriously dehydrated,I'm seriously dehydrated
+Hydration_Statuses[3].Description,I'm seriously dehydrated,脱水症状がひどい
 Thirst_Statuses[5].Description,I'm seriously dehydrated,脱水症状がひどい
 SaturationBird_Statuses[1].GameName,I'm so sick of eating Birds...,I'm so sick of eating Birds...
 SaturationEggs_Statuses[1].GameName,I'm so sick of eating Eggs...,I'm so sick of eating Eggs...
@@ -5905,14 +5905,14 @@ Bp_Chair_CardDescription,Increases comfort and helps you with crafting.,快適�
 Bp_RusticStool_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Bp_RusticTable_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Bp_Table_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
-ChairPlaced_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-Chair_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-RusticTableDismantled_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-RusticTable_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-StoolPlaced_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-Stool_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-TableDismantled_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
-Table_CardDescription,Increases comfort and helps you with crafting.,Increases comfort and helps you with crafting.
+ChairPlaced_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+Chair_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+RusticTableDismantled_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+RusticTable_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+StoolPlaced_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+Stool_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+TableDismantled_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
+Table_CardDescription,Increases comfort and helps you with crafting.,快適さが増し、工作にも役立つ。
 Imp_Door_CardDescription,"Increases comfort and insulation, and stops animals from entering or leaving the place.","Increases comfort and insulation, and stops animals from entering or leaving the place."
 Imp_EarthenFloors_CardDescription,Increases comfort and insulation.,Increases comfort and insulation.
 Imp_PlasteredWalls_CardDescription,Increases comfort and insulation.,Increases comfort and insulation.
@@ -6342,13 +6342,13 @@ SmokehouseExtinguished__CardInteractions[5].ActionName,Light Fire,Light Fire
 SpiritShrine_Fire_RitualPyreExtinguished_CardInteractions[8].ActionName,Light Fire,Light Fire
 LeavesDry_DismantleActions[0].ActionName,Light Fire (spirit),Light Fire (spirit)
 Pk_3_5_LightHair_PerkName,Light Hair,Light Hair
-RainExposure_Statuses[0].GameName,Light Rain,Light Rain
-RainValue_Statuses[0].GameName,Light Rain,Light Rain
-RainValue_Statuses[1].GameName,Light Rain,Light Rain
-RainValue_Statuses[2].GameName,Light Rain,Light Rain
+RainExposure_Statuses[0].GameName,Light Rain,小雨
+RainValue_Statuses[0].GameName,Light Rain,小雨
+RainValue_Statuses[1].GameName,Light Rain,小雨
+RainValue_Statuses[2].GameName,Light Rain,小雨
 Weather_2_LightRain_CardName,Light Rain,小雨 (2)
 Pk_3_4_LightSkin_PerkName,Light Skin,Light Skin
-Snow_Statuses[0].GameName,Light Snow,Light Snow
+Snow_Statuses[0].GameName,Light Snow,小雪
 Weather_2_LightSnow_CardName,Light Snow,小雪 (2)
 ThawingFactor_Statuses[0].GameName,Light Thawing,Light Thawing
 Campfire_CardInteractions[6].ActionName,Light Tinder,Light Tinder
@@ -6382,7 +6382,7 @@ WoodShavings_CardInteractions[0].ActionName,Light with Hand Drill,Light with Han
 MinnowCooked_CardDescription,"Lightly cooked, offering a crispy, mild taste that can be a quick, simple meal.","Lightly cooked, offering a crispy, mild taste that can be a quick, simple meal."
 TinderLit_CardName,Lit Tinder,Lit Tinder
 NOT_USED_Bp_LitTinders_CardName,Lit Tinders,Lit Tinders
-LOAD,Load,Load
+LOAD,Load,ロード
 LOAD_CUSTOM_CHECKPOINT,Load,ロード
 LOAD_CHECKPOINT,Load Checkpoint,チェックポイントに戻る
 GpTag_Log_TabName,Log,Log
@@ -6830,13 +6830,13 @@ Lungrot_Statuses[1].GameName,Moderate Lungrot Infection,Moderate Lungrot Infecti
 MuscleMass_Statuses[2].GameName,Moderate Muscle Mass,Moderate Muscle Mass
 WindNorth_Statuses[1].GameName,Moderate North,Moderate North
 WaterLevelVisible_Statuses[2].GameName,Moderate Overflow,中程度の氾濫
-WaterLevel_Statuses[2].GameName,Moderate Overflow,Moderate Overflow
+WaterLevel_Statuses[2].GameName,Moderate Overflow,中程度の氾濫
 Pain_Statuses[1].GameName,Moderate Pain,Moderate Pain
 BugProtection_Statuses[0].GameName,Moderate Protection,Moderate Protection
 Quinine_Statuses[1].GameName,Moderate Quinine Dose,Moderate Quinine Dose
-RainValue_Statuses[3].GameName,Moderate Rain,Moderate Rain
+RainValue_Statuses[3].GameName,Moderate Rain,雨
 Weather_3_ModerateRain_CardName,Moderate Rain,雨 (3)
-Snow_Statuses[1].GameName,Moderate Snow,Moderate Snow
+Snow_Statuses[1].GameName,Moderate Snow,雪
 Weather_3_ModerateSnow_CardName,Moderate Snow,雪 (3)
 WindSouth_Statuses[1].GameName,Moderate South,Moderate South
 SpiderLilyEffect_Statuses[0].GameName,Moderate Spider Lily Effect,Moderate Spider Lily Effect
@@ -7150,7 +7150,7 @@ NormalGuy_CharacterName,Normal Guy,Normal Guy
 ImmuneSystem_Statuses[3].GameName,Normal Immune System,Normal Immune System
 AlteredMindstate_Statuses[0].GameName,Normal Mind State,Normal Mind State
 WaterLevelVisible_Statuses[0].GameName,Normal Water Level,通常の水位
-WaterLevel_Statuses[0].GameName,Normal Water Level,Normal Water Level
+WaterLevel_Statuses[0].GameName,Normal Water Level,通常の水位
 Weight_Statuses[3].GameName,Normal Weight,標準体重 (3)
 Weight_Statuses[4].GameName,Normal Weight,標準体重 (4)
 Weight_Statuses[5].GameName,Normal Weight,標準体重 (5)
@@ -7199,8 +7199,8 @@ Kiln_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Oven_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Smokehouse__CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Satiation_Statuses[3].GameName,Not Hungry,空腹ではない (3)
-Hydration_DefaultStatusName,Not Thirsty,Not Thirsty
-Thirst_DefaultStatusName,Not Thirsty,Not Thirsty
+Hydration_DefaultStatusName,Not Thirsty,喉は渇いていない
+Thirst_DefaultStatusName,Not Thirsty,喉は渇いていない
 Thirst_Statuses[0].GameName,Not Thirsty,喉は渇いていない (0)
 SuccessChanceLabels_SuccessLabels[0].LabelText,Not a chance,Not a chance
 BeastAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
@@ -7644,9 +7644,9 @@ MushroomBed_SpecialDurability1.CardStatName,Pesticide - Mites,Pesticide - Mites
 SpiritShrine_Earth_SacredOak_SpecialDurability1.CardStatName,Pesticide - Mites,Pesticide - Mites
 SpiritShrine_Water_SacredSpring_SpecialDurability1.CardStatName,Pesticide - Mites,Pesticide - Mites
 eTag_Pet_InGameName,Pet Item,Pet Item
-Physical_TabName,Physical,Physical
+Physical_TabName,Physical,フィジカル
 PkTab2_Traits_TabName,Physical,フィジカル
-Pk_4_6_Physical_PerkName,Physical,Physical
+Pk_4_6_Physical_PerkName,Physical,フィジカル
 PkTab1_Conditions_TabName,Physiological,生理的
 BasketPlaced_DismantleActions[0].ActionName,Pick Up,Pick Up
 CagePlaced_DismantleActions[0].ActionName,Pick Up,Pick Up
@@ -8184,7 +8184,7 @@ Spindle_Progress.OnFull.ActionName,Ready,Ready
 COOKING_TIME_TEXT,Ready in {0},Ready in {0}
 StoneBurnt_CardDescription,Ready to be ground into quicklime.,Ready to be ground into quicklime.
 StoneHeavyBurnt_CardDescription,Ready to be ground into quicklime.,Ready to be ground into quicklime.
-REALISTIC_MODE,Realistic Mode,リアリスティックモード
+REALISTIC_MODE,Realistic Mode,<size=70%>リアリスティックモード
 Derealization_Statuses[1].Description,Reality doesn't feel real,Reality doesn't feel real
 Derealization_Statuses[2].Description,Reality isn't real,Reality isn't real
 DeadfallTrapTriggered_DismantleActions[0].ActionName,Rearm Trap,Rearm Trap
@@ -8265,8 +8265,8 @@ RelationalLayer_GameName,Relational Layer,Relational Layer
 OakLogPiecePlacedStool_DismantleActions[1].ActionName,Relax,リラックス
 PineLogPiecePlacedStool_DismantleActions[1].ActionName,Relax,リラックス
 TimeSkipOptions_Actions[1].ActionName,Relax,リラックス
-CharacterGlobalInfo_DifficultyRatings[0].Label,Relaxed,Relaxed
-Stress_Statuses[0].GameName,Relaxed,Relaxed
+CharacterGlobalInfo_DifficultyRatings[0].Label,Relaxed,リラックス
+Stress_Statuses[0].GameName,Relaxed,リラックス
 JasmineEffect_Description,"Relaxes you, lowering your stress and making you sleepy.","Relaxes you, lowering your stress and making you sleepy."
 OakLogPiecePlacedStool_DismantleActions[1].FadeMessage,Relaxing...,Relaxing...
 PineLogPiecePlacedStool_DismantleActions[1].FadeMessage,Relaxing...,Relaxing...
@@ -8345,8 +8345,8 @@ CHECKPOINT_CONFIRM,Restart from the start of this day?,Restart from the start of
 LAST_SEASON_CHECKPOINT,Restart season,季節をやり直す
 LAST_WEEK_CHECKPOINT,Restart week,週をやり直す
 LAST_YEAR_CHECKPOINT,Restart year,1年をやり直す
-Resting_Completed_ObjectiveDescription,Resting,Resting
-Resting_Main_QuestTitle,Resting,Resting
+Resting_Completed_ObjectiveDescription,Resting,休憩
+Resting_Main_QuestTitle,Resting,休憩
 Stamina_Statuses[3].GameName,Resting,休憩 (3)
 Resting_Completed_Event_CardName,Resting Complete,Resting Complete
 TimeSkipOptions_Description,Resting Options,休養します
@@ -8531,7 +8531,7 @@ Satiation_GameName,Satiation,満腹度
 LQ_Fairybrew_Progress.CardStatName,Saturation,Saturation
 LQ_Firebrew_Progress.CardStatName,Saturation,Saturation
 Saturation_TabName,Saturation,Saturation
-SAVE,Save,Save
+SAVE,Save,セーブ
 SAVE_CUSTOM_CHECKPOINT,Save,セーブ
 SAVE_NEW_GAME,Save New Custom Checkpoint,Save New Custom Checkpoint
 SAVE_AND_QUIT,Save and Quit,保存して終了
@@ -8607,12 +8607,12 @@ Fear_Statuses[1].GameName,Shaken ,Shaken 
 tag_ShallowWater_InGameName,Shallow Water,Shallow Water
 GpTag_SharpAxe_TabName,Sharp Axe,Sharp Axe
 GpTag_SharpKnife_TabName,Sharp Knife,Sharp Knife
-Axe_Flint_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.","Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood."
+Axe_Flint_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.",木を切り倒すのに十分な鋭さで、雑木林の伐採や木材の生産に最適。
 Bp_Flint_Axe_CardDescription,"Sharp enough to cut down trees, ideal for clearing overgrowth and producing wood.",木を切り倒すのに充分な鋭さで、雑木林の伐採や木材の生産に最適。
 Arrow_Flint_CardDescription,Sharp enough to pierce through the hides of larger animal.,Sharp enough to pierce through the hides of larger animal.
 Bp_Flint_Arrows_CardDescription,Sharp enough to pierce through the hides of larger animal.,Sharp enough to pierce through the hides of larger animal.
 Bp_Knife_Flint_CardDescription,Sharp enough to work wood and leather.,木材や皮革を加工するのに充分な切れ味。
-Knife_Flint_CardDescription,Sharp enough to work wood and leather.,Sharp enough to work wood and leather.
+Knife_Flint_CardDescription,Sharp enough to work wood and leather.,木材や皮革を加工するのに十分な切れ味。
 StoneHeavy_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 Stone_CardInteractions[0].ActionName,Sharpen Stone,Sharpen Stone
 FireBasics_Obj1_SharpenStone_ObjectiveDescription,Sharpen a Stone on a Heavy Stone,Sharpen a Stone on a Heavy Stone
@@ -9093,9 +9093,9 @@ Event_FlintclawSpiritLeft_CardDescription,Spirit is not impressed. It leaves. ,S
 Event_FoxSpiritLeft_CardDescription,Spirit is not impressed. It leaves. ,Spirit is not impressed. It leaves. 
 Event_WolfSpiritLeft_CardDescription,Spirit is not impressed. It leaves. ,Spirit is not impressed. It leaves. 
 Bp_Spiritbrew_CardName,Spiritbrew,Spiritbrew
-DMG_Spiritual_Name,Spiritual,Spiritual
+DMG_Spiritual_Name,Spiritual,スピリチュアル
 Pk_4_2_Spiritual_PerkName,Spiritual,スピリチュアル
-Spiritual_TabName,Spiritual,Spiritual
+Spiritual_TabName,Spiritual,スピリチュアル
 eTag_WSpiritual_InGameName,Spiritual Wound,Spiritual Wound
 DMG_Spit_Name,Spit,Spit
 Bp_Splint_CardName,Splint,Splint
@@ -9942,9 +9942,9 @@ TO_UNLOCK,To unlock: ,To unlock:
 Encumbrance_Statuses[3].GameName,Too encumbered to move,Too encumbered to move
 Encumbrance_Statuses[3].EffectsOnActions[0].ActionBlockMessage,Too heavy to move...,Too heavy to move...
 Skill_Swimming_TooMuchText,Too much skill!,Too much skill!
-Hydration_Statuses[3].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
-Hydration_Statuses[4].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
-Hydration_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
+Hydration_Statuses[3].PreventingActionMessage,Too thirsty to perform this action.,喉が渇きすぎて、この行動をできない。
+Hydration_Statuses[4].PreventingActionMessage,Too thirsty to perform this action.,喉が渇きすぎて、この行動をできない。
+Hydration_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,喉が渇きすぎて、この行動をできない。
 Thirst_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,喉が渇きすぎて、この行動をできない。
 Tab_4_Tailoring_Subtab_6_Tools_TabName,Tools,Tools
 Tab_5_MetalAndClay_Subtab_2_Tools_TabName,Tools,Tools
@@ -10334,7 +10334,7 @@ Treenail_CardDescription,Used for complex furniture or construction.,Used for co
 Bp_Twine_CardDescription,Used for construction and crafts.,建築や工芸に使用される。
 Twine_CardDescription,Used for construction and crafts.,建築や工芸に使用される。
 LQ_Water_CardDescription,"Used for drinking, cooking, and cleaning. Crucial for survival.",飲料、調理、洗浄に使用される。 サバイバルには欠かせない。
-Bp_Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.","Used for drying, baking, or firing pottery at controlled temperatures."
+Bp_Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.",制御された温度で陶器を乾燥、焼成、焼成するために使用される。
 Oven_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.",制御された温度で陶器を乾燥、焼成、焼成するために使用される。
 OvenExtinguished_CardDescription,"Used for drying, baking, or firing pottery at controlled temperatures.\n\nCan be lit with tinder, provided it has enough fuel.",陶器の乾燥、焼成、焼成に使用する。\n\n充分な燃料があれば、火口で点火できる。
 Bp_Kiln_CardDescription,Used for firing pottery at high temperatures and extracting tar out of softwoods.,Used for firing pottery at high temperatures and extracting tar out of softwoods.
@@ -10513,27 +10513,27 @@ LQ_RottenStew_SpecialDurability4.CardStatName,Waste,Waste
 LQ_StewWater_SpecialDurability4.CardStatName,Waste,Waste
 LQ_Water_SpecialDurability4.CardStatName,Waste,Waste
 AlertnessAid_GameName,Watcher's Grace,Watcher's Grace
-CloverFieldGrowing_CardInteractions[1].ActionName,Water,Water
-CloverFieldMature_CardInteractions[2].ActionName,Water,Water
-FallowField_CardInteractions[1].ActionName,Water,Water
+CloverFieldGrowing_CardInteractions[1].ActionName,Water,水
+CloverFieldMature_CardInteractions[2].ActionName,Water,水
+FallowField_CardInteractions[1].ActionName,Water,水
 Filter_Water_GameName,Water,水
-GardenPlot_CardInteractions[0].ActionName,Water,Water
-GpTag_MilkBase_TabName,Water,Water
-GpTag_WaterAny_TabName,Water,Water
-GpTag_WaterCooking_TabName,Water,Water
-LQ_StewWater_CardName,Water,Water
-LQ_Water_CardName,Water,Water
-MeadowgrassFieldGrowing_CardInteractions[1].ActionName,Water,Water
-MeadowgrassFieldMature_CardInteractions[2].ActionName,Water,Water
-MushroomBed_CardInteractions[0].ActionName,Water,Water
-PeaFieldGrowing_CardInteractions[1].ActionName,Water,Water
-PeaFieldMature_CardInteractions[1].ActionName,Water,Water
-RyeFieldGrowing_CardInteractions[1].ActionName,Water,Water
-RyeFieldMature_CardInteractions[1].ActionName,Water,Water
-TilledField_CardInteractions[1].ActionName,Water,Water
-TurnrootFieldGrowing_CardInteractions[1].ActionName,Water,Water
-TurnrootFieldMature_CardInteractions[1].ActionName,Water,Water
-tag_WaterAny_InGameName,Water,Water
+GardenPlot_CardInteractions[0].ActionName,Water,水
+GpTag_MilkBase_TabName,Water,水
+GpTag_WaterAny_TabName,Water,水
+GpTag_WaterCooking_TabName,Water,水
+LQ_StewWater_CardName,Water,水
+LQ_Water_CardName,Water,水
+MeadowgrassFieldGrowing_CardInteractions[1].ActionName,Water,水
+MeadowgrassFieldMature_CardInteractions[2].ActionName,Water,水
+MushroomBed_CardInteractions[0].ActionName,Water,水
+PeaFieldGrowing_CardInteractions[1].ActionName,Water,水
+PeaFieldMature_CardInteractions[1].ActionName,Water,水
+RyeFieldGrowing_CardInteractions[1].ActionName,Water,水
+RyeFieldMature_CardInteractions[1].ActionName,Water,水
+TilledField_CardInteractions[1].ActionName,Water,水
+TurnrootFieldGrowing_CardInteractions[1].ActionName,Water,水
+TurnrootFieldMature_CardInteractions[1].ActionName,Water,水
+tag_WaterAny_InGameName,Water,水
 WaterAffinity_Completed_ObjectiveDescription,Water Affinity,Water Affinity
 WaterAffinity_GameName,Water Affinity,Water Affinity
 WaterAffinity_Main_QuestTitle,Water Affinity,Water Affinity
@@ -11076,7 +11076,7 @@ Combat_EncounterBadger_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.Lo
 Combat_EncounterFox_EnemyActions[2].PlayerWounds.MinorWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
 Combat_EncounterFox_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
 Combat_EncounterFox_EnemyActions[2].PlayerWounds.MediumWounds[3].WoundLog.LogText,You got a painful abrasion from the fox's claws.,You got a painful abrasion from the fox's claws.
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite!,You got a pretty ugly bite!
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite!,あなたはかなりひどい噛み傷を負った！
 Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite!,あなたはかなりひどい噛み傷を負った！
 Combat_EncounterBoar_EnemyActions[0].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
 Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
