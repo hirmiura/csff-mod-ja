@@ -4843,62 +4843,62 @@ GingerEffect_GameName,Ginger,Ginger
 GIVE_CHASE,Give chase,Give chase
 Pk_99_Brave_PerkDescription,"Gives you courage, allowing you to perform scary actions and remain in combat for longer, but making you easier to surprise.",勇気を与え、怖いアクションができるようになり、戦闘に長くとどまることができるが、奇襲を受けやすくなる。
 Pregnancy_Description,"Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement.","Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement."
-ClearingOak_GreenGlade_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ClearingOak_GreenGlade_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ClearingOak_MossyClearing_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ClearingOak_MossyClearing_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ClearingPine_FlowerGlade_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ClearingPine_FlowerGlade_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_GreatOak_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_GreatOak_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_GreenGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_GreenGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_MossyGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_MossyGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_MossyStone_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_MossyStone_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_MuddyGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_MuddyGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_OakenGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_OakenGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_OldStump_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_OldStump_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_SecretGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_SecretGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_ShadyGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GroveOak_ShadyGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GrovePine_DeerGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GrovePine_DeerGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ClearingOak_RiverClearing_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ClearingOak_RiverClearing_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_GroveOak_FloodedGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_GroveOak_FloodedGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_GroveOak_Greenfalls_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_GroveOak_Greenfalls_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_GroveOak_MossyBank_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_GroveOak_MossyBank_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ThicketOak_MuddyBank_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ThicketOak_MuddyBank_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ThicketOak_RiverConfluence_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ThicketOak_RiverConfluence_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ThicketOak_ShadyBank_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-River_ThicketOak_ShadyBank_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_GreenTangle_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_GreenTangle_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_LostWoods_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_LostWoods_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_MuddyThicket_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_MuddyThicket_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_MuddyWay_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_MuddyWay_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_WhisperingThicket_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_WhisperingThicket_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_WildThicket_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-ThicketOak_WildThicket_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
-GrovePine_RockyGrove_DismantleActions[1].ActionDescription,"Gives you wood, leaves and stones.","Gives you wood, leaves and stones."
-GrovePine_RockyGrove_DismantleActions[2].ActionDescription,"Gives you wood, leaves and stones.","Gives you wood, leaves and stones."
-GrovePine_SlopedGrove_DismantleActions[1].ActionDescription,"Gives you wood, leaves and stones.","Gives you wood, leaves and stones."
-GrovePine_SlopedGrove_DismantleActions[2].ActionDescription,"Gives you wood, leaves and stones.","Gives you wood, leaves and stones."
+ClearingOak_GreenGlade_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ClearingOak_GreenGlade_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ClearingOak_MossyClearing_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ClearingOak_MossyClearing_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ClearingPine_FlowerGlade_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ClearingPine_FlowerGlade_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_GreatOak_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_GreatOak_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_GreenGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_GreenGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_MossyGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_MossyGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_MossyStone_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_MossyStone_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_MuddyGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_MuddyGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_OakenGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_OakenGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_OldStump_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_OldStump_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_SecretGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_SecretGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_ShadyGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GroveOak_ShadyGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GrovePine_DeerGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GrovePine_DeerGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ClearingOak_RiverClearing_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ClearingOak_RiverClearing_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_GroveOak_FloodedGrove_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_GroveOak_FloodedGrove_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_GroveOak_Greenfalls_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_GroveOak_Greenfalls_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_GroveOak_MossyBank_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_GroveOak_MossyBank_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ThicketOak_MuddyBank_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ThicketOak_MuddyBank_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ThicketOak_RiverConfluence_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ThicketOak_RiverConfluence_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ThicketOak_ShadyBank_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+River_ThicketOak_ShadyBank_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_GreenTangle_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_GreenTangle_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_LostWoods_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_LostWoods_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_MuddyThicket_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_MuddyThicket_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_MuddyWay_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_MuddyWay_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_WhisperingThicket_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_WhisperingThicket_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_WildThicket_DismantleActions[1].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+ThicketOak_WildThicket_DismantleActions[2].ActionDescription,Gives you wood and leaves.,木と葉を得られる。
+GrovePine_RockyGrove_DismantleActions[1].ActionDescription,"Gives you wood, leaves and stones.",木と葉と石を得られる。
+GrovePine_RockyGrove_DismantleActions[2].ActionDescription,"Gives you wood, leaves and stones.",木と葉と石を得られる。
+GrovePine_SlopedGrove_DismantleActions[1].ActionDescription,"Gives you wood, leaves and stones.",木と葉と石を得られる。
+GrovePine_SlopedGrove_DismantleActions[2].ActionDescription,"Gives you wood, leaves and stones.",木と葉と石を得られる。
 eTag_Glasses_InGameName,Glasses,Glasses
 tag_Glasses_InGameName,Glasses,Glasses
 tag_Glazed_InGameName,Glazed,Glazed
