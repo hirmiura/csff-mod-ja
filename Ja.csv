@@ -1514,7 +1514,7 @@ Bp_TanningWater_CardDescription,"Can be boiled into tanning liquor, which is use
 LQ_TanningWater_CardDescription,"Can be boiled into tanning liquor, which is used in the leathermaking process.","Can be boiled into tanning liquor, which is used in the leathermaking process."
 Bones_CardDescription,"Can be carved into tools or decorations, used in broths or crushed into smaller parts to craft hooks and needles or use as fertilizer.",道具や装飾品に刻んだり、スープに入れたり、細かく砕いてフックや針を作ったり、肥料にしたりできる。
 Headache_Description,Can be caused by dehydration or poisoning. Produces pain.,Can be caused by dehydration or poisoning. Produces pain.
-Fibers_CardDescription,Can be combined with additional fiber to make twine.\n\nCan increase its quality with a comb or use it as tinder.,Can be combined with additional fiber to make twine.\n\nCan increase its quality with a comb or use it as tinder.
+Fibers_CardDescription,Can be combined with additional fiber to make twine.\n\nCan increase its quality with a comb or use it as tinder.,追加の繊維と組み合わせて紐を作ることができる。\n\n櫛を使って品質を高めたり、火種として使うこともできる。
 DirtPile_CardDescription,Can be crushed to make clay or moistened to create mud.,砕いて粘土を作ったり、湿らせて泥を作ったりできる。
 Bp_FishingBait_CardDescription,Can be equipped to a fishing line to substantially increase your chances of catching fish.,Can be equipped to a fishing line to substantially increase your chances of catching fish.
 FishBaitScraps_CardDescription,Can be equipped to a fishing line to substantially increase your chances of catching fish.,Can be equipped to a fishing line to substantially increase your chances of catching fish.
@@ -3413,7 +3413,7 @@ Weather_1_Drizzle_CardName,Drizzle,霧雨 (1)
 BloodPressure_Description,Drops when you are losing blood and kills you when it reaches 0. Use Tourniquets and dressings to help recover pressure.,Drops when you are losing blood and kills you when it reaches 0. Use Tourniquets and dressings to help recover pressure.
 Event_DrumMenu_CardName,Drum,Drum
 AlcoholEffect_Statuses[1].GameName,Drunk,Drunk
-Humidity_Statuses[0].GameName,Dry,乾燥している
+Humidity_Statuses[0].GameName,Dry,濡れていない
 Wetness_Statuses[0].GameName,Dry,濡れていない
 AppleWeedDried_CardName,Dry Appleweed,Dry Appleweed
 HearthAwakened_CookingRecipes[3].ActionName,Dry Appleweed,Dry Appleweed
@@ -3627,11 +3627,11 @@ TurnrootRoasted_DismantleActions[0].ActionName,Eat,食べる
 WildGarlicCooked_DismantleActions[0].ActionName,Eat,食べる
 WildGarlicDried_DismantleActions[0].ActionName,Eat,食べる
 WildGarlicFresh_DismantleActions[0].ActionName,Eat,食べる
-AcornFlatBread_GroupInventoryActions[0].ActionName,Eat All,Eat All
-ClayBowl_GroupInventoryActions[0].ActionName,Eat All,Eat All
-ClayPlate_GroupInventoryActions[0].ActionName,Eat All,Eat All
-RyeFlatBread_GroupInventoryActions[0].ActionName,Eat All,Eat All
-WoodenPlate_GroupInventoryActions[0].ActionName,Eat All,Eat All
+AcornFlatBread_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
+ClayBowl_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
+ClayPlate_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
+RyeFlatBread_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
+WoodenPlate_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
 CharredRemains_DismantleActions[0].ActionName,Eat Charred Remains,Eat Charred Remains
 FishScrapsCooked_DismantleActions[0].ActionName,Eat Scraps,Eat Scraps
 FishScraps_DismantleActions[0].ActionName,Eat Scraps,Eat Scraps
@@ -3685,7 +3685,7 @@ SaturationEggs_GameName,Eggs Saturation,Eggs Saturation
 Weight_Statuses[7].GameName,Emaciated,痩せ細った (7)
 Embers_CardName,Embers,Embers
 WoodBurning_CardDescription,Embers are carving a hole on this piece of wood.,Embers are carving a hole on this piece of wood.
-EMPTY,Empty,Empty
+EMPTY,Empty,空にする
 IntermediateMagic_Obj3_EnchantAnItem_ObjectiveDescription,Enchant an Item,Enchant an Item
 IntermediateMagic_Sub3_EnchantAnItem_QuestTitle,Enchant an Item,Enchant an Item
 GpTag_Enchantable_TabName,Enchantable,Enchantable
@@ -6503,7 +6503,7 @@ MAIN_HAND,Main Hand,Main Hand
 Workplace_Statuses[2].Description,Major Effect,Major Effect
 Psylocibin_Statuses[1].GameName,Major Psylocibin Dose,Major Psylocibin Dose
 RiceEffect_Statuses[1].GameName,Major Rice Effect,Major Rice Effect
-SleepDeprivationEffects_Statuses[2].GameName,Major Sleep Deprivation,Major Sleep Deprivation
+SleepDeprivationEffects_Statuses[2].GameName,Major Sleep Deprivation,重度の睡眠不足
 BasicHunting_Obj1_MakeARusticSpear_ObjectiveDescription,Make A Rustic Spear,Make A Rustic Spear
 BasicHunting_Obj1_MakeARusticSpear_ObjectiveDescription*,Make A Rustic Spear,Make A Rustic Spear
 BasicHunting_Sub1_MakeARusticSpear_QuestTitle,Make A Rustic Spear,Make A Rustic Spear
@@ -6750,7 +6750,7 @@ Psylocibin_Statuses[0].GameName,Minor Psylocibin Dose,Minor Psylocibin Dose
 Rash_Statuses[0].GameName,Minor Rash,軽度の発疹
 SeaSicknessResistance_Statuses[1].GameName,Minor Resistance,Minor Resistance
 RiceEffect_Statuses[0].GameName,Minor Rice Effect,Minor Rice Effect
-SleepDeprivationEffects_Statuses[0].GameName,Minor Sleep Deprivation,Minor Sleep Deprivation
+SleepDeprivationEffects_Statuses[0].GameName,Minor Sleep Deprivation,軽度の睡眠不足
 eTag_WMinorWound_InGameName,Minor Wound,Minor Wound
 Wounds_Statuses[1].GameName,Minor Wounds,Minor Wounds
 Tab_Tools_Misc_TabName,Miscellaneous,Miscellaneous
@@ -8580,7 +8580,7 @@ Morale_Statuses[6].GameName,Self Destructive,Self Destructive
 Infection_Systemic_Statuses[6].GameName,Sepsis,Sepsis
 Infection_Systemic_Statuses[8].GameName,Septic Shock,Septic Shock
 CabinFever_Statuses[4].GameName,Serious Cabin Fever,Serious Cabin Fever
-SleepDeprivationEffects_Statuses[3].GameName,Serious Sleep Deprivation,Serious Sleep Deprivation
+SleepDeprivationEffects_Statuses[3].GameName,Serious Sleep Deprivation,深刻な睡眠不足
 Wounds_Statuses[3].GameName,Serious Wounds,Serious Wounds
 Bruising_Statuses[1].GameName,Seriously Bruised,Seriously Bruised
 Morale_Statuses[5].GameName,Seriously Depressed,Seriously Depressed
@@ -8828,7 +8828,7 @@ ImprovisedBed_DismantleActions[1].ActionName,Sleep,睡眠
 ImprovisedShelter_DismantleActions[1].ActionName,Sleep,睡眠
 TimeSkipOptions_Actions[5].ActionName,Sleep,睡眠
 SleepClock_GameName,Sleep Clock,Sleep Clock
-SleepDeprivationEffects_Statuses[1].GameName,Sleep Deprivation,Sleep Deprivation
+SleepDeprivationEffects_Statuses[1].GameName,Sleep Deprivation,睡眠不足
 SleepInterrupt_GameName,Sleep Interrupt,Sleep Interrupt
 ShelteredSleep_Obj1_SleepInTheImprovisedShelterDuringTheNight_ObjectiveDescription,Sleep in The Improvised Shelter During the Night,Sleep in The Improvised Shelter During the Night
 ShelteredSleep_Sub1_SleepInTheImprovisedShelterDuringTheNight_QuestTitle,Sleep in The Improvised Shelter During the Night,Sleep in The Improvised Shelter During the Night
@@ -9753,7 +9753,7 @@ Combat_EncounterPartridge_EnemyActions[1].ActionLog.LogText,The partridge flaps 
 Combat_EncounterPartridge_EnemyActions[2].ActionLog.LogText,The partridge flaps its wings in panic and tries to escape...,The partridge flaps its wings in panic and tries to escape...
 Combat_EncounterPartridge_EnemyDefeatedEffects.ResultLog.LogText,The partridge is dead.,The partridge is dead.
 Combat_EncounterPartridge_EnemyGettingCloseLog.LogText,The partridge moves in closer...,The partridge moves in closer...
-SleepDeprivationEffects_Description,"The result of not sleeping enough. Can alter your mindstate, increase your stress and make you sleepier faster.","The result of not sleeping enough. Can alter your mindstate, increase your stress and make you sleepier faster."
+SleepDeprivationEffects_Description,"The result of not sleeping enough. Can alter your mindstate, increase your stress and make you sleepier faster.",睡眠不足の結果。 精神状態を変容させ、ストレスを増大させ、眠りを浅くする。
 WaterLevelVisible_Statuses[2].Description,The river is spilling into the area.,川はこの地域に漏れ出している。
 Cabin_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
 Caves_FlintMotherLode_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
