@@ -3050,10 +3050,10 @@ Debris_FrontDoor_UsageDurability.OnZero.ActionDescription,Debris Cleared!,Debris
 Debris_Knife_UsageDurability.OnZero.ActionDescription,Debris Cleared!,Debris Cleared!
 Debris_TrapDoor_UsageDurability.OnZero.ActionDescription,Debris Cleared!,Debris Cleared!
 Debris_Workshop_UsageDurability.OnZero.ActionDescription,Debris Cleared!,Debris Cleared!
-Cage_DismantleActions[1].ActionName,Deconstruct,Deconstruct
-Hideout_DismantleActions[0].ActionName,Deconstruct,Deconstruct
-ImprovisedShelter_DismantleActions[2].ActionName,Deconstruct,Deconstruct
-tag_Decoration_InGameName,Decoration,Decoration
+Cage_DismantleActions[1].ActionName,Deconstruct,解体
+Hideout_DismantleActions[0].ActionName,Deconstruct,解体
+ImprovisedShelter_DismantleActions[2].ActionName,Deconstruct,解体
+tag_Decoration_InGameName,Decoration,装飾
 Hydration_Description,"Decreases if you're thirsty, recovers on its own if you're not. At low levels it can cause headaches and increase fatigue. Prolonged dehydration can lead to lowered blood pressure, altered mind states and eventual death.","Decreases if you're thirsty, recovers on its own if you're not. At low levels it can cause headaches and increase fatigue. Prolonged dehydration can lead to lowered blood pressure, altered mind states and eventual death."
 Pk_4_Short_PerkDescription,"Decreases your size and combat reach, decreases caloric needs and enhances stealth capabilities.","Decreases your size and combat reach, decreases caloric needs and enhances stealth capabilities."
 tag_ContainerOpenDeep_InGameName,Deep Open Container,Deep Open Container
@@ -3655,14 +3655,14 @@ ForestCapsDried_CardDescription,Edible mushroom. Dried to last.,Edible mushroom.
 SpiritMushroomsPowder_CardDescription,Edible mushrooms capable of inducing altered mind states.,Edible mushrooms capable of inducing altered mind states.
 SpiritMushroomsFresh_CardDescription,Edible mushrooms capable of inducing altered mind states.\n\nCan be dried to enhance its effects.,Edible mushrooms capable of inducing altered mind states.\n\nCan be dried to enhance its effects.
 SpiritMushroomsDried_CardDescription,Edible mushrooms capable of inducing altered mind states.\n\nCan be ground to enhance its effects.,Edible mushrooms capable of inducing altered mind states.\n\nCan be ground to enhance its effects.
-WildGarlicCooked_CardDescription,Edible plant with an intense flavour. Great for enhancing meals.,Edible plant with an intense flavour. Great for enhancing meals.
-WildGarlicFresh_CardDescription,"Edible plant with an intense flavour. Great for enhancing meals.\n\nCan be dried to last longer, intensify its flavour and be used as a spice.","Edible plant with an intense flavour. Great for enhancing meals.\n\nCan be dried to last longer, intensify its flavour and be used as a spice."
-WildGarlicDried_CardDescription,Edible plant with an intense flavour. Great for enhancing meals.\n\nCan be ground to increase its effects.,Edible plant with an intense flavour. Great for enhancing meals.\n\nCan be ground to increase its effects.
-WildGarlicPowder_CardDescription,Edible powder with an intense flavour and immune system boosting properties.\n\nCan be used to flavour meals.,Edible powder with an intense flavour and immune system boosting properties.\n\nCan be used to flavour meals.
-TurnrootBoiled_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
-TurnrootDried_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
-TurnrootMashedBoiled_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
-TurnrootRoasted_CardDescription,Edible root with versatile culinary uses.,Edible root with versatile culinary uses.
+WildGarlicCooked_CardDescription,Edible plant with an intense flavour. Great for enhancing meals.,強烈な風味の食用植物。 料理の強化に最適。
+WildGarlicFresh_CardDescription,"Edible plant with an intense flavour. Great for enhancing meals.\n\nCan be dried to last longer, intensify its flavour and be used as a spice.",強烈な風味の食用植物。 料理の強化に最適。\n\n乾燥させることで風味が増し、スパイスとしても使える。
+WildGarlicDried_CardDescription,Edible plant with an intense flavour. Great for enhancing meals.\n\nCan be ground to increase its effects.,強烈な風味の食用植物。 料理の強化に最適。\n\n挽くと効果が増す。
+WildGarlicPowder_CardDescription,Edible powder with an intense flavour and immune system boosting properties.\n\nCan be used to flavour meals.,強烈な風味と免疫系を高める効果を持つ食用パウダー。\n\n食事の風味付けに使用できる。
+TurnrootBoiled_CardDescription,Edible root with versatile culinary uses.,食用の根で、様々な料理に利用できる。
+TurnrootDried_CardDescription,Edible root with versatile culinary uses.,食用の根で、様々な料理に利用できる。
+TurnrootMashedBoiled_CardDescription,Edible root with versatile culinary uses.,食用の根で、様々な料理に利用できる。
+TurnrootRoasted_CardDescription,Edible root with versatile culinary uses.,食用の根で、様々な料理に利用できる。
 TurnrootFresh_CardDescription,Edible root with versatile culinary uses. \n\nCan be dried to last longer.,Edible root with versatile culinary uses. \n\nCan be dried to last longer.
 TurnrootSeeds_CardDescription,Edible root with versatile culinary uses. Can be planted in a garden or as a field crop.,Edible root with versatile culinary uses. Can be planted in a garden or as a field crop.
 EggChickenRaw_CardDescription,"Edible, would taste better cooked.","Edible, would taste better cooked."
@@ -11649,7 +11649,7 @@ EncounterWindow_EnemyVulnerableLog.LogText,{0} is off balance and vulnerable!,{0
 FINISHED_COOKING_EMPTY,{0} is ready,{0} is ready
 KnifeJab_ActionFailureLog.LogText,{0} manages to dodge your jab...,{0} manages to dodge your jab...
 IMPROVEMENT_DESC,{0} on a card for info,{0} on a card for info
-FUEL_ZERO,{0} ran out of fuel,{0} ran out of fuel
+FUEL_ZERO,{0} ran out of fuel,{0} の燃料が切れた
 PROGRESS_ZERO,{0} ran out of uses,{0} ran out of uses
 SPOILAGE_ZERO,{0} spoiled,{0} spoiled
 BLUEPRINT_FULL,{1} already has enough of {0},{1} already has enough of {0}
