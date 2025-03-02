@@ -136,7 +136,7 @@ Bp_CookingPot_CardDescription,A cooking pot for preparing more advanced meals. N
 Fireplace_CardDescription,A cozy fireplace. Perfect for cooking food and warming yourself up.,A cozy fireplace. Perfect for cooking food and warming yourself up.
 Campfire_CardDescription,A crackling campfire. Good for cooking food and warming yourself up.,パチパチと燃えるキャンプファイヤー。 料理を作ったり、体を温めたりするのに適している。
 Path_FmTheShaftFromRockyGrove_CardDescription,A dark and mysterious hole.,A dark and mysterious hole.
-Fish_Trout_CardDescription,"A delicious fish that prefers cold, well-oxygenated waters.\n\nNeeds to be gutted first.","A delicious fish that prefers cold, well-oxygenated waters.\n\nNeeds to be gutted first."
+Fish_Trout_CardDescription,"A delicious fish that prefers cold, well-oxygenated waters.\n\nNeeds to be gutted first.",冷たく、酸素の豊富な水域を好む美味しい魚。\n\nまず内臓を取り除く必要がある。
 Bp_Travois_CardDescription,A device for carrying heavy things.,A device for carrying heavy things.
 Travois_CardDescription,A device for carrying heavy things.,A device for carrying heavy things.
 Bp_PartridgeFeeder_CardDescription,A device to feed partridges with minimal work.,A device to feed partridges with minimal work.
@@ -1540,8 +1540,8 @@ ClayBowl_CardDescription,"Can be used as a drinking cup, an eating bowl, or to p
 Stone_CardDescription,"Can be used as a hammer, sharpened on a heavy stone, or fired on a kiln to make quicklime.",ハンマーとして使ったり、重い石で研いだり、窯で焼いて生石灰を作ったりできる。
 CloverRaw_CardDescription,"Can be used as bedding material, animal feed or human food.","Can be used as bedding material, animal feed or human food."
 MeadowgrassGrass_CardDescription,"Can be used as bedding material, roofing or animal feed. ","Can be used as bedding material, roofing or animal feed. "
-ExcrementHuman_CardDescription,Can be used as fertilizer or compost. Should handle it with care due to health risks.,Can be used as fertilizer or compost. Should handle it with care due to health risks.
-RottenRemains_CardDescription,"Can be used as fertilizer, compost or trap bait.","Can be used as fertilizer, compost or trap bait."
+ExcrementHuman_CardDescription,Can be used as fertilizer or compost. Should handle it with care due to health risks.,肥料や堆肥として利用できる。 健康上のリスクがあるため、取り扱いには注意が必要。
+RottenRemains_CardDescription,"Can be used as fertilizer, compost or trap bait.",肥料、堆肥、罠の餌として利用できる。
 Straw_CardDescription,Can be used as fuel or animal feed.,燃料や飼料として利用できる。
 Charcoal_CardDescription,"Can be used as fuel, crushed into ashes or eaten to treat diarrhoea.",燃料にしたり、砕いて灰にしたり、下痢の治療に食べたりする。
 LeavesDry_CardDescription,"Can be used as tinder by dragging a fire starter to it, or used as compost or soil acidifier.",火おこし器で火種にしたり、堆肥や土壌の酸性化剤として使用することもできる。
@@ -3633,8 +3633,8 @@ ClayPlate_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
 RyeFlatBread_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
 WoodenPlate_GroupInventoryActions[0].ActionName,Eat All,すべて食べる
 CharredRemains_DismantleActions[0].ActionName,Eat Charred Remains,Eat Charred Remains
-FishScrapsCooked_DismantleActions[0].ActionName,Eat Scraps,Eat Scraps
-FishScraps_DismantleActions[0].ActionName,Eat Scraps,Eat Scraps
+FishScrapsCooked_DismantleActions[0].ActionName,Eat Scraps,屑を食べる
+FishScraps_DismantleActions[0].ActionName,Eat Scraps,屑を食べる
 BasicCooking_Obj2_EatFromAClayBowlUsingTheEatAllAction_ObjectiveDescription,Eat from a Clay Bowl using the Eat All Action,Eat from a Clay Bowl using the Eat All Action
 BasicCooking_Obj2_EatFromAClayBowl_ObjectiveDescription,Eat from a Clay Bowl using the Eat All Action,Eat from a Clay Bowl using the Eat All Action
 BasicCooking_Sub2_EatFromAClayBowlUsingTheEatAllAction_QuestTitle,Eat from a Clay Bowl using the Eat All Action,Eat from a Clay Bowl using the Eat All Action
@@ -5275,11 +5275,11 @@ ThicketOak_MuddyThicket_DismantleActions[0].ActionDescription,Has a chance to gi
 ThicketOak_MuddyWay_DismantleActions[0].ActionDescription,Has a chance to give you food and herbs.,食べ物やハーブを得ることがある。
 ThicketOak_WhisperingThicket_DismantleActions[0].ActionDescription,Has a chance to give you food and herbs.,食べ物やハーブを得ることがある。
 ThicketOak_WildThicket_DismantleActions[0].ActionDescription,Has a chance to give you food and herbs.,食べ物やハーブを得ることがある。
-FrostleafFresh_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.
-LQ_FrostleafTea_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. 
-FrostleafDried_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be ground to enhance its effects.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be ground to enhance its effects.
-FrostleafPowder_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be used to flavour meals.,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be used to flavour meals.
-SunlightExposure_Description,Has a negative effect on your immune system and mood if it gets too low. Increases by spending time under the sun.,Has a negative effect on your immune system and mood if it gets too low. Increases by spending time under the sun.
+FrostleafFresh_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches.\n\nCan be dried to enhance its effects.,清涼感のある香りを持つ。 炎症を和らげ、痛みや頭痛を和らげる。\n\n乾燥させると効果が高まる。
+LQ_FrostleafTea_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,清涼感のある香りを持つ。 炎症を和らげ、痛みや頭痛を和らげる。
+FrostleafDried_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be ground to enhance its effects.,清涼感のある香りを持つ。 炎症を和らげ、痛みや頭痛を和らげる。\n\n挽いて使用するとより効果的。
+FrostleafPowder_CardDescription,Has a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. \n\nCan be used to flavour meals.,清涼感のある香りを持つ。 炎症を和らげ、痛みや頭痛を和らげる。\n\n料理の風味付けにも使える。
+SunlightExposure_Description,Has a negative effect on your immune system and mood if it gets too low. Increases by spending time under the sun.,あまりに低いと、免疫系や気分に悪影響を及ぼす。 太陽の下で過ごすことで増加する。
 EggChickenRaw_Progress.CardStatName,Hatch Progress,Hatch Progress
 EggPartridgeRaw_Progress.CardStatName,Hatch Progress,Hatch Progress
 ChickenHusbandry_Obj3_HatchAChickenEgg_ObjectiveDescription,Hatch a Chicken Egg,Hatch a Chicken Egg
@@ -7057,12 +7057,12 @@ MushroomBed_CookingRecipes[1].CannotCookText,Needs Care,Needs Care
 LQ_FairyBrewUncooked_CardDescription,Needs to be cooked on a fire.,Needs to be cooked on a fire.
 LQ_FireBrewUncooked_CardDescription,Needs to be cooked on a fire.,Needs to be cooked on a fire.
 FatChunk_CardDescription,Needs to be cut it into smaller pieces before using it.,Needs to be cut it into smaller pieces before using it.
-ClayBowlUnfired_CardDescription,"Needs to be fired in a campfire, oven or kiln to become usable.","Needs to be fired in a campfire, oven or kiln to become usable."
-ClayCauldronUnfired_CardDescription,Needs to be fired in a kiln to become usable.,Needs to be fired in a kiln to become usable.
-ClayStoragePotUnfired_CardDescription,Needs to be fired in a kiln to become usable.,Needs to be fired in a kiln to become usable.
-ClayVaseUnfired_CardDescription,Needs to be fired in a kiln to become usable.,Needs to be fired in a kiln to become usable.
-ClayJarUnfired_CardDescription,Needs to be fired in an oven or kiln to become usable.,Needs to be fired in an oven or kiln to become usable.
-ClayPlateUnfired_CardDescription,Needs to be fired in an oven or kiln.,Needs to be fired in an oven or kiln.
+ClayBowlUnfired_CardDescription,"Needs to be fired in a campfire, oven or kiln to become usable.",キャンプファイヤーやオーブン、窯で焼かないと使えない。
+ClayCauldronUnfired_CardDescription,Needs to be fired in a kiln to become usable.,窯で焼かないと使えない。
+ClayStoragePotUnfired_CardDescription,Needs to be fired in a kiln to become usable.,窯で焼かないと使えない。
+ClayVaseUnfired_CardDescription,Needs to be fired in a kiln to become usable.,窯で焼かないと使えない。
+ClayJarUnfired_CardDescription,Needs to be fired in an oven or kiln to become usable.,オーブンか窯で焼かないと使えない。
+ClayPlateUnfired_CardDescription,Needs to be fired in an oven or kiln.,オーブンか窯で焼く必要がある。
 DeadfallTrapTriggered_CardDescription,Needs to be rearmed before I can be used again.,Needs to be rearmed before I can be used again.
 LogTrapTriggered_CardDescription,Needs to be rearmed before I can be used again.,Needs to be rearmed before I can be used again.
 SnareTrapTriggered_CardDescription,Needs to be rearmed before I can be used again.,Needs to be rearmed before I can be used again.
@@ -8300,7 +8300,7 @@ Carcass_DoeCarcass_DismantleActions[0].ActionName,Release the Spirit,Release the
 Carcass_FoxCarcassWinter_DismantleActions[0].ActionName,Release the Spirit,Release the Spirit
 Carcass_StagCarcass_DismantleActions[0].ActionName,Release the Spirit,Release the Spirit
 Carcass_WolfCarcass_DismantleActions[0].ActionName,Release the Spirit,Release the Spirit
-FishScraps_CardDescription,"Remnants of fish processing, useful as bait or fertilizer.","Remnants of fish processing, useful as bait or fertilizer."
+FishScraps_CardDescription,"Remnants of fish processing, useful as bait or fertilizer.",餌や肥料として有用な魚の加工残渣。
 BoneNeedleThreaded_DismantleActions[0].ActionName,Remove Cord,Remove Cord
 LQ_SpiritEarth_CardInteractions[2].ActionName,Remove Overgrowth,Remove Overgrowth
 RENAME_CARD,Rename Card,Rename Card
@@ -9439,12 +9439,12 @@ BillberriesFresh_CardDescription,Tasty and nutritious berries.\n\nCan be dried o
 BillberriesFermented_CardDescription,Tasty and nutritious berry spread.,Tasty and nutritious berry spread.
 SpringberriesFermented_CardDescription,Tasty and nutritious berry spread.,Tasty and nutritious berry spread.
 PeasCooked_CardDescription,"Tasty and nutritious, perfect for enriching a meal.","Tasty and nutritious, perfect for enriching a meal."
-BirdMeatCooked_CardDescription,Tasty and nutritious.,Tasty and nutritious.
-BirdMeatDried_CardDescription,Tasty and nutritious.,Tasty and nutritious.
-FishMeatDried_CardDescription,Tasty and nutritious.,Tasty and nutritious.
-MeatDried_CardDescription,Tasty and nutritious.,Tasty and nutritious.
-FishMeatCooked_CardDescription,Tasty and nutritious.\n\nCan be dried to last longer.,Tasty and nutritious.\n\nCan be dried to last longer.
-MeatCooked_CardDescription,Tasty and nutritious.\n\nCan be dried to last longer.,Tasty and nutritious.\n\nCan be dried to last longer.
+BirdMeatCooked_CardDescription,Tasty and nutritious.,美味しくて栄養価が高い。
+BirdMeatDried_CardDescription,Tasty and nutritious.,美味しくて栄養価が高い。
+FishMeatDried_CardDescription,Tasty and nutritious.,美味しくて栄養価が高い。
+MeatDried_CardDescription,Tasty and nutritious.,美味しくて栄養価が高い。
+FishMeatCooked_CardDescription,Tasty and nutritious.\n\nCan be dried to last longer.,美味しくて栄養価が高い。\n\n乾燥させると長持ちする。
+MeatCooked_CardDescription,Tasty and nutritious.\n\nCan be dried to last longer.,美味しくて栄養価が高い。\n\n乾燥させると長持ちする。
 GpTag_Temper_TabName,Temper,Temper
 tag_Temper_InGameName,Temper,Temper
 AcornDoughRaw_FuelCapacity.CardStatName,Temperature,温度
@@ -10362,8 +10362,8 @@ Bp_Loom_CardDescription,Used for weaving cloth of different sizes.,さまざま�
 Loom_CardDescription,Used for weaving cloth of different sizes.,さまざまなサイズの布を織るのに使われる。
 ReedsFresh_CardDescription,Used mostly for roofing and bedding. Can be soaked and dried to increase their quality.,主に屋根や寝具に使われる。 水に浸して乾燥させると品質が向上する。
 LeavesFresh_CardDescription,"Useful as bedding material, animal fodder or compost.",敷料、家畜の飼料、堆肥として有用。
-HealersMoss_CardDescription,Useful as dressing and edible if boiled.,Useful as dressing and edible if boiled.
-OLD_HealersMoss_OldHealingFactors_CardDescription,Useful as dressing and edible if boiled.,Useful as dressing and edible if boiled.
+HealersMoss_CardDescription,Useful as dressing and edible if boiled.,包帯に有用で、茹でれば食用になる。
+OLD_HealersMoss_OldHealingFactors_CardDescription,Useful as dressing and edible if boiled.,包帯に有用で、茹でれば食用になる。
 LogTrap_CardDescription,Useful for catching large prey. Needs bait to work.\n\n<b>(changing bait resets trap)</b>,Useful for catching large prey. Needs bait to work.\n\n<b>(changing bait resets trap)</b>
 SnareTrap_CardDescription,Useful for catching medium-sized prey. Needs bait to work.\n\n<b>(changing bait resets trap)</b>,Useful for catching medium-sized prey. Needs bait to work.\n\n<b>(changing bait resets trap)</b>
 Bp_DeadfallTrap_CardDescription,Useful for catching small prey. Needs bait to work.,Useful for catching small prey. Needs bait to work.
