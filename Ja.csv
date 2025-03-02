@@ -10250,56 +10250,56 @@ CookingPotUnfired_CardName,Unfired Cooking Pot,Unfired Cooking Pot
 FermentationBinUnfired_CardName,Unfired Fermentation Bin,Unfired Fermentation Bin
 ClayStoragePotUnfired_CardName,Unfired Storage Pot,Unfired Storage Pot
 Focus_Statuses[1].GameName,Unfocused,Unfocused
-Combat_ BTBadger_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBadger_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBadger_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBadger_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBadger_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBadger_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBoar_F_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBoar_F_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBoar_F_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBoar_F_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBoar_F_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTBoar_F_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTDoe_F_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTDoe_F_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTDoe_F_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTDoe_F_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTDoe_F_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTDoe_F_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFlintclaw_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFlintclaw_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFlintclaw_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFlintclaw_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFlintclaw_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFlintclaw_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFox_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFox_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFox_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFox_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFox_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTFox_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTPartridge_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTSquirrel_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTStag_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTStag_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTStag_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTStag_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTStag_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTStag_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolfPack_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolfPack_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolfPack_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolfPack_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolfPack_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolfPack_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolf_F_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolf_F_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolf_F_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolf_F_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolf_F_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
-Combat_ BTWolf_F_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.","Unfortunately, you didn't manage to harm {0}."
+Combat_ BTBadger_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBadger_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBadger_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBadger_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBadger_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBadger_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBoar_F_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBoar_F_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBoar_F_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBoar_F_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBoar_F_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTBoar_F_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTDoe_F_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTDoe_F_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTDoe_F_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTDoe_F_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTDoe_F_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTDoe_F_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFlintclaw_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFlintclaw_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFlintclaw_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFlintclaw_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFlintclaw_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFlintclaw_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFox_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFox_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFox_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFox_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFox_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTFox_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTPartridge_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTSquirrel_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTStag_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTStag_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTStag_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTStag_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTStag_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTStag_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolfPack_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolfPack_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolfPack_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolfPack_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolfPack_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolfPack_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolf_F_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolf_F_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolf_F_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolf_F_RArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolf_F_RLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
+Combat_ BTWolf_F_Torso.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
 UNKNOWN_CHARACTER,Unknown,Unknown
 ImprovisedShelter_DisplayConditions_OnCompleteActions[0].ActionName,Unlocked,Unlocked
 ImprovisedShelter_DisplayConditions_OnCompleteActions[0].ActionName*,Unlocked,Unlocked
@@ -10921,16 +10921,16 @@ Event_NewTuneSea_CardDescription,You composed a new tune!,You composed a new tun
 Event_NewTuneSimple_CardDescription,You composed a new tune!,You composed a new tune!
 Combat_EncounterPartridge_PlayerEscapedEffects.ResultLog.LogText,You continue on your way...,You continue on your way...
 Combat_EncounterSquirrel_EnemyEscapedEffects.ResultLog.LogText,You continue on your way...,You continue on your way...
-Combat_ BTStag_Head.SeriousWounds[0].CombatLog.LogText,"You cracked its skull, {0} is dead.","You cracked its skull, {0} is dead."
-Combat_ BTDoe_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked its skull, {0} is dead. ","You cracked its skull, {0} is dead. "
-Combat_ BTBadger_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.","You cracked {0}'s skull, it looks completely stunned."
-Combat_ BTBoar_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.","You cracked {0}'s skull, it looks completely stunned."
-Combat_ BTFlintclaw_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.","You cracked {0}'s skull, it looks completely stunned."
-Combat_ BTFox_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.","You cracked {0}'s skull, it looks completely stunned."
-Combat_ BTWolfPack_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.","You cracked {0}'s skull, it looks completely stunned."
-Combat_ BTWolf_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.","You cracked {0}'s skull, it looks completely stunned."
-Combat_ BTBadger_Torso.MediumWounds[1].CombatLog.LogText,You cut {0} on the torso.,You cut {0} on the torso.
-Combat_ BTFox_Torso.MediumWounds[1].CombatLog.LogText,You cut {0} on the torso.,You cut {0} on the torso.
+Combat_ BTStag_Head.SeriousWounds[0].CombatLog.LogText,"You cracked its skull, {0} is dead.",あなたがその頭蓋をかち割り、{0}は死んだ。
+Combat_ BTDoe_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked its skull, {0} is dead. ",あなたがその頭蓋をかち割り、{0}は死んだ。
+Combat_ BTBadger_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
+Combat_ BTBoar_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
+Combat_ BTFlintclaw_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
+Combat_ BTFox_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
+Combat_ BTWolfPack_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
+Combat_ BTWolf_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
+Combat_ BTBadger_Torso.MediumWounds[1].CombatLog.LogText,You cut {0} on the torso.,あなたは{0}の胴体を切りつけた。
+Combat_ BTFox_Torso.MediumWounds[1].CombatLog.LogText,You cut {0} on the torso.,あなたは{0}の胴体を切りつけた。
 BodyTemperature_Statuses[0].Description,You died of a heat stroke.,You died of a heat stroke.
 Hydration_Statuses[5].Description,You died of dehydration.,You died of dehydration.
 Weight_Statuses[9].Description,You died of starvation.,You died of starvation.
@@ -10940,41 +10940,41 @@ Combat_EncounterDoe_F_PlayerEscapedEffects.ResultLog.LogText,You disengage and r
 EncounterWindow_DropOnGroundLog.LogText,You drop your {0}.,You drop your {0}.
 MOONS_DESC,You earn one moon per 30 days of survival,You earn one moon per 30 days of survival
 SUNS_DESC,You earn one sun per day of survival,You earn one sun per day of survival
-Combat_EncounterBoar_EnemyActions[3].SuccessLog.LogText,You fail to avoid the attack...,You fail to avoid the attack...
-Combat_EncounterStag_EnemyActions[6].SuccessLog.LogText,You fail to avoid the attack...,You fail to avoid the attack...
-Combat_EncounterStag_EnemyActions[8].SuccessLog.LogText,You fail to avoid the attack...,You fail to avoid the attack...
-Combat_EncounterWolfPack_EnemyActions[7].SuccessLog.LogText,You fail to avoid the attack...,You fail to avoid the attack...
-Combat_EncounterWolf_EnemyActions[4].SuccessLog.LogText,You fail to avoid the attack...,You fail to avoid the attack...
-Combat_EncounterWolfPack_EnemyActions[0].SuccessLog.LogText*,You fail to dodge and the bite connects...,You fail to dodge and the bite connects...
-Combat_EncounterWolfPack_EnemyActions[5].SuccessLog.LogText,You fail to dodge and the bite connects...,You fail to dodge and the bite connects...
-Combat_EncounterWolf_EnemyActions[0].SuccessLog.LogText*,You fail to dodge and the bite connects...,You fail to dodge and the bite connects...
-Combat_EncounterWolf_EnemyActions[2].SuccessLog.LogText,You fail to dodge and the bite connects...,You fail to dodge and the bite connects...
-Combat_EncounterBadger_EnemyActions[1].SuccessLog.LogText,You fail to dodge its bite...,You fail to dodge its bite...
-Combat_EncounterFlintclaw_EnemyActions[1].SuccessLog.LogText,You fail to dodge its bite...,You fail to dodge its bite...
-Combat_EncounterFox_EnemyActions[1].SuccessLog.LogText,You fail to dodge its bite...,You fail to dodge its bite...
-Combat_EncounterBoar_EnemyActions[0].SuccessLog.LogText,You fail to dodge the attack...,You fail to dodge the attack...
-Combat_EncounterWolfPack_EnemyActions[4].SuccessLog.LogText,You fail to dodge the charge...,You fail to dodge the charge...
-Combat_EncounterWolf_EnemyActions[1].SuccessLog.LogText,You fail to dodge the charge...,You fail to dodge the charge...
-Combat_EncounterStag_EnemyActions[7].SuccessLog.LogText,You fail to dodge the kick...,You fail to dodge the kick...
-Combat_EncounterBadger_EnemyActions[2].SuccessLog.LogText,You fail to evade his claws...,You fail to evade his claws...
-Combat_EncounterFlintclaw_EnemyActions[2].SuccessLog.LogText,You fail to evade his claws...,You fail to evade his claws...
-Combat_EncounterFox_EnemyActions[2].SuccessLog.LogText,You fail to evade his claws...,You fail to evade his claws...
-Combat_EncounterStag_EnemyActions[3].SuccessLog.LogText,You feel intimidated!,You feel intimidated!
-Combat_EncounterStag_EnemyActions[5].SuccessLog.LogText,You feel intimidated!,You feel intimidated!
+Combat_EncounterBoar_EnemyActions[3].SuccessLog.LogText,You fail to avoid the attack...,あなたは攻撃を避けられなかった...
+Combat_EncounterStag_EnemyActions[6].SuccessLog.LogText,You fail to avoid the attack...,あなたは攻撃を避けられなかった...
+Combat_EncounterStag_EnemyActions[8].SuccessLog.LogText,You fail to avoid the attack...,あなたは攻撃を避けられなかった...
+Combat_EncounterWolfPack_EnemyActions[7].SuccessLog.LogText,You fail to avoid the attack...,あなたは攻撃を避けられなかった...
+Combat_EncounterWolf_EnemyActions[4].SuccessLog.LogText,You fail to avoid the attack...,あなたは攻撃を避けられなかった...
+Combat_EncounterWolfPack_EnemyActions[0].SuccessLog.LogText*,You fail to dodge and the bite connects...,避けるのに失敗し、噛みつかれる...
+Combat_EncounterWolfPack_EnemyActions[5].SuccessLog.LogText,You fail to dodge and the bite connects...,避けるのに失敗し、噛みつかれる...
+Combat_EncounterWolf_EnemyActions[0].SuccessLog.LogText*,You fail to dodge and the bite connects...,避けるのに失敗し、噛みつかれる...
+Combat_EncounterWolf_EnemyActions[2].SuccessLog.LogText,You fail to dodge and the bite connects...,避けるのに失敗し、噛みつかれる...
+Combat_EncounterBadger_EnemyActions[1].SuccessLog.LogText,You fail to dodge its bite...,噛まれるのを避けるのに失敗...
+Combat_EncounterFlintclaw_EnemyActions[1].SuccessLog.LogText,You fail to dodge its bite...,噛まれるのを避けるのに失敗...
+Combat_EncounterFox_EnemyActions[1].SuccessLog.LogText,You fail to dodge its bite...,噛まれるのを避けるのに失敗...
+Combat_EncounterBoar_EnemyActions[0].SuccessLog.LogText,You fail to dodge the attack...,攻撃をかわすのに失敗...
+Combat_EncounterWolfPack_EnemyActions[4].SuccessLog.LogText,You fail to dodge the charge...,突撃をかわすのに失敗...
+Combat_EncounterWolf_EnemyActions[1].SuccessLog.LogText,You fail to dodge the charge...,突撃をかわすのに失敗...
+Combat_EncounterStag_EnemyActions[7].SuccessLog.LogText,You fail to dodge the kick...,蹴りをかわし損ねた...
+Combat_EncounterBadger_EnemyActions[2].SuccessLog.LogText,You fail to evade his claws...,爪を避けられなかった...
+Combat_EncounterFlintclaw_EnemyActions[2].SuccessLog.LogText,You fail to evade his claws...,爪を避けられなかった...
+Combat_EncounterFox_EnemyActions[2].SuccessLog.LogText,You fail to evade his claws...,爪を避けられなかった...
+Combat_EncounterStag_EnemyActions[3].SuccessLog.LogText,You feel intimidated!,威圧感を感じる！
+Combat_EncounterStag_EnemyActions[5].SuccessLog.LogText,You feel intimidated!,威圧感を感じる！
 Event_FallFracture_CardDescription,You fell and got yourself a fracture... it really hurts.,You fell and got yourself a fracture... it really hurts.
 Event_FallSprains_CardDescription,You fell and got yourself a sprain... it hurts.,You fell and got yourself a sprain... it hurts.
 Event_FallLaceration_CardDescription,You fell and got yourself an ugly cut... it hurts.,You fell and got yourself an ugly cut... it hurts.
 Event_FallBruise_CardDescription,You fell and got yourself some ugly bruises...,You fell and got yourself some ugly bruises...
 Event_FallAbrasion_CardDescription,You fell and got yourself some ugly scrapes...,You fell and got yourself some ugly scrapes...
 Pk_4_3_Carefree_PerkDescription,"You find it harder to get stressed, but are also less alert, making you easier to surprise.","You find it harder to get stressed, but are also less alert, making you easier to surprise."
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[5].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[8].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[8].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,You fractured your rib!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You fractured your rib!,You fractured your rib!
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[5].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[8].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[8].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
 BodyTemperature_Statuses[8].Description,You froze to death.,You froze to death.
 Pk_4_9_MeatEater_PerkDescription,You gain additional wellbeing from eating savoury food.,You gain additional wellbeing from eating savoury food.
 Pk_4_9_SweetTooth_PerkDescription,You gain additional wellbeing from eating sweet food.,You gain additional wellbeing from eating sweet food.
@@ -10988,137 +10988,137 @@ Combat_EncounterFlintclaw_EnemyActions[1].PlayerWounds.MediumWounds[3].WoundLog.
 Combat_EncounterFlintclaw_EnemyActions[1].PlayerWounds.MinorWounds[3].WoundLog.LogText,You get an abrasion from the bite!,You get an abrasion from the bite!
 Combat_EncounterFlintclaw_EnemyActions[1].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You get an abrasion from the bite!,You get an abrasion from the bite!
 Combat_EncounterFlintclaw_EnemyActions[2].PlayerWounds.MinorWounds[1].WoundLog.LogText,You get some claw marks from the hit.,You get some claw marks from the hit.
-Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MediumWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,You got a bad bite mark from the attack!
-Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,You got a bad bite mark from the attack!
-Combat_EncounterBadger_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,You got a bad bite mark from the attack!
-Combat_EncounterFox_EnemyActions[1].PlayerWounds.MediumWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,You got a bad bite mark from the attack!
-Combat_EncounterFox_EnemyActions[1].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,You got a bad bite mark from the attack!
-Combat_EncounterFox_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,You got a bad bite mark from the attack!
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,You got a couple of ugly bites.
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,You got a couple of ugly bites.
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,You got a couple of ugly bites.
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,You got a couple of ugly bites.
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,You got a couple of ugly bites.
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,You got a couple of ugly bites.
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,You got a deep laceration on your arm!
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your left arm!,You got a deep laceration on your left arm!
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your left leg!,You got a deep laceration on your left leg!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,You got a deep laceration on your leg!
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your right arm!,You got a deep laceration on your right arm!
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your right leg!,You got a deep laceration on your right leg!
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,You got a nasty bruise.
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,You got a nasty bruise.
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,You got a nasty bruise.
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,You got a nasty bruise.
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,You got a nasty bruise.
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,You got a nasty bruise.
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MediumWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,You got a painful abrasion from the badger's claws.
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MinorWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,You got a painful abrasion from the badger's claws.
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,You got a painful abrasion from the badger's claws.
-Combat_EncounterFox_EnemyActions[2].PlayerWounds.MinorWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,You got a painful abrasion from the badger's claws.
-Combat_EncounterFox_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,You got a painful abrasion from the badger's claws.
+Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MediumWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,攻撃を受けてひどい噛み跡が残った！
+Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,攻撃を受けてひどい噛み跡が残った！
+Combat_EncounterBadger_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,攻撃を受けてひどい噛み跡が残った！
+Combat_EncounterFox_EnemyActions[1].PlayerWounds.MediumWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,攻撃を受けてひどい噛み跡が残った！
+Combat_EncounterFox_EnemyActions[1].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,攻撃を受けてひどい噛み跡が残った！
+Combat_EncounterFox_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a bad bite mark from the attack!,攻撃を受けてひどい噛み跡が残った！
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,あなたは醜い噛まれ方をした。
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,あなたは醜い噛まれ方をした。
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,あなたは醜い噛まれ方をした。
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,あなたは醜い噛まれ方をした。
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,あなたは醜い噛まれ方をした。
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a couple of ugly bites.,あなたは醜い噛まれ方をした。
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your arm!,あなたは腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your left arm!,あなたは左腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your left leg!,あなたは左脚に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your leg!,あなたは脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You got a deep laceration on your right arm!,あなたは右腕に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a deep laceration on your right leg!,あなたは右脚に深い裂傷を負った！
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,あなたはひどいアザを負った。
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,あなたはひどいアザを負った。
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,あなたはひどいアザを負った。
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,あなたはひどいアザを負った。
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,あなたはひどいアザを負った。
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a nasty bruise.,あなたはひどいアザを負った。
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MediumWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MinorWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
+Combat_EncounterFox_EnemyActions[2].PlayerWounds.MinorWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
+Combat_EncounterFox_EnemyActions[2].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got a painful abrasion from the badger's claws.,あなたはアナグマの爪で擦り傷を負った。
 Combat_EncounterFox_EnemyActions[2].PlayerWounds.MediumWounds[3].WoundLog.LogText,You got a painful abrasion from the fox's claws.,You got a painful abrasion from the fox's claws.
 Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite!,You got a pretty ugly bite!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite!,You got a pretty ugly bite!
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,You got a pretty ugly bite.
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite!,あなたはかなりひどい噛み傷を負った！
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.MediumWounds[0].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.MediumWounds[4].WoundLog.LogText,You got a pretty ugly bite.,あなたはかなりひどい噛み傷を負った。
 Combat_EncounterStag_EnemyActions[6].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a puncture wound!,You got a puncture wound!
 Combat_EncounterStag_EnemyActions[4].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a puncture wound.,You got a puncture wound.
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,You got a small bite!
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MediumWounds[2].WoundLog.LogText,You got a small cut from the claws.,You got a small cut from the claws.
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MinorWounds[2].WoundLog.LogText,You got a small cut from the claws.,You got a small cut from the claws.
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a small cut from the claws.,You got a small cut from the claws.
-Combat_EncounterFox_EnemyActions[2].PlayerWounds.MediumWounds[2].WoundLog.LogText,You got a small cut from the claws.,You got a small cut from the claws.
-Combat_EncounterFox_EnemyActions[2].PlayerWounds.MinorWounds[2].WoundLog.LogText,You got a small cut from the claws.,You got a small cut from the claws.
-Combat_EncounterFox_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a small cut from the claws.,You got a small cut from the claws.
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,You got a small laceration!
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small laceration.,You got a small laceration.
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration.,You got a small laceration.
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration.,You got a small laceration.
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small bite!,あなたは小さく噛まれた！
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MediumWounds[2].WoundLog.LogText,You got a small cut from the claws.,あなたは爪で小さな切り傷を負った。
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.MinorWounds[2].WoundLog.LogText,You got a small cut from the claws.,あなたは爪で小さな切り傷を負った。
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a small cut from the claws.,あなたは爪で小さな切り傷を負った。
+Combat_EncounterFox_EnemyActions[2].PlayerWounds.MediumWounds[2].WoundLog.LogText,You got a small cut from the claws.,あなたは爪で小さな切り傷を負った。
+Combat_EncounterFox_EnemyActions[2].PlayerWounds.MinorWounds[2].WoundLog.LogText,You got a small cut from the claws.,あなたは爪で小さな切り傷を負った。
+Combat_EncounterFox_EnemyActions[2].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You got a small cut from the claws.,あなたは爪で小さな切り傷を負った。
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration!,あなたは小さな裂傷を負った！
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.MinorWounds[1].WoundLog.LogText,You got a small laceration.,あなたは小さな裂傷を負った。
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration.,あなたは小さな裂傷を負った。
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.MinorWounds[0].WoundLog.LogText,You got a small laceration.,あなたは小さな裂傷を負った。
 Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MediumWounds[3].WoundLog.LogText,You got an abrasion from the bite!,You got an abrasion from the bite!
 Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MinorWounds[3].WoundLog.LogText,You got an abrasion from the bite!,You got an abrasion from the bite!
 Combat_EncounterBadger_EnemyActions[1].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You got an abrasion from the bite!,You got an abrasion from the bite!
