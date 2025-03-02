@@ -489,7 +489,7 @@ AlertnessAid_Statuses[4].GameName,Alertness Aid,Alertness Aid
 AlertnessAid_Statuses[5].GameName,Alertness Aid,Alertness Aid
 LQ_SpiritDeer_DismantleActions[0].ActionName,Alertness Aid,Alertness Aid
 FULL_GAME_FEATURES,"All Characters + Character Creator\nAll Island Environments, Animals, Crops and Blueprints","All Characters + Character Creator\nAll Island Environments, Animals, Crops and Blueprints"
-Pk_0_0_AllKnowing_PerkName,All Knowing,All Knowing
+Pk_0_0_AllKnowing_PerkName,All Knowing,全知
 Rash_Statuses[1].Description,All red and really itchy.,All red and really itchy.
 FrostleafEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,Alleviates inflamation and provides a mild numbing effect against pain and headaches. 
 FrostleafPasteEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain.,Alleviates inflamation and provides a mild numbing effect against pain.
@@ -571,7 +571,7 @@ AntibioticsEffect_GameName,Antibiotics,Antibiotics
 AntlerPick_CardName,Antler,Antler
 AnxietyCounter_GameName,Anxiety Counter,Anxiety Counter
 Event_AnxietyAttack_CardName,Anxiety is getting out of control!,Anxiety is getting out of control!
-Pk_4_3_Anxious_PerkName,Anxious,Anxious
+Pk_4_3_Anxious_PerkName,Anxious,心配性
 Appetite_GameName,Appetite,Appetite
 Pkg_Appetite_GroupName,Appetite,Appetite
 Appetite_Description,"Appetite governs the rate at which you get hungry. A higher appetite means you'll need to consume more food, making it easier to gain weight but also stressing you more if food is not available. Conversely, a low appetite will make it harder for you to gain weight but also put less pressure on you if food is scarce. \n\nRegular overeating can increase your appetite, while being very hungry can decrease it. ",食欲は空腹になる速度を支配する。 食欲が旺盛であれば、より多くの食物を摂取する必要があり、体重が増えやすくなるが、食物が手に入らなければストレスも大きくなる。 逆に、食欲が低いと体重は増えにくくなるが、食べ物が不足している場合のプレッシャーも少なくなる。\n\n慢性的な過食は食欲を増進させ、空腹は食欲を減退させる。
@@ -1162,9 +1162,9 @@ Bp_BoneKnife_UnlockConditionsDesc,Bones Needed,Bones Needed
 Bookshelf_CardName,Bookshelf,Bookshelf
 Bp_Bookshelf_CardName,Bookshelf,Bookshelf
 SpiderLilyEffect_Description,Boost your immune system.,Boost your immune system.
-Pk_1_FemaleOrgans_PerkDescription,Boosts estrogen levels and confers the capacity to conceive and bear children.,Boosts estrogen levels and confers the capacity to conceive and bear children.
+Pk_1_FemaleOrgans_PerkDescription,Boosts estrogen levels and confers the capacity to conceive and bear children.,エストロゲンレベルを高め、妊娠・出産能力を授ける。
 GarlicEffect_Description,Boosts immune system.,Boosts immune system.
-Pk_1_MaleOrgans_PerkDescription,Boosts testosterone levels and confers the ability to impregnate.,Boosts testosterone levels and confers the ability to impregnate.
+Pk_1_MaleOrgans_PerkDescription,Boosts testosterone levels and confers the ability to impregnate.,テストステロンレベルを高め、孕ませる能力を授ける。
 AppleWeedEffect_Description,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 AppleWeedPowder_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
 LQ_AppleweedTea_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
@@ -1192,7 +1192,7 @@ Event_FloodDamage_DismantleActions[0].ActionName,Brace Yourself!,Brace Yourself!
 Event_WinterStormWind_DismantleActions[0].ActionName,Brace yourself!,Brace yourself!
 eTag_Bracers_InGameName,Bracers,Bracers
 tag_Bracers_InGameName,Bracers,Bracers
-Pk_99_Brave_PerkName,Brave,Brave
+Pk_99_Brave_PerkName,Brave,勇敢
 Bp_BreadLoaf_CardName,Bread Loaf,Bread Loaf
 BreadLoafCooked_CardName,Bread Loaf,Bread Loaf
 Bones_CardInteractions[0].ActionName,Break,Break
@@ -1617,7 +1617,7 @@ RyeFieldMature_SpecialDurability4.CardStatName,Care,Care
 SpiritShrine_Water_SacredSpring_Progress.CardStatName,Care,Care
 TurnrootFieldGrowing_SpecialDurability4.CardStatName,Care,Care
 TurnrootFieldMature_SpecialDurability4.CardStatName,Care,Care
-Pk_4_3_Carefree_PerkName,Carefree,Carefree
+Pk_4_3_Carefree_PerkName,Carefree,のんき
 Pk_99_Carnivore_PerkName,Carnivore,Carnivore
 FluteWooden_Unfinished_CardInteractions[0].ActionName,Carve,Carve
 OakLogPiece_CardInteractions[0].ActionName*,Carve,Carve
@@ -3898,7 +3898,7 @@ MORE_THAN_STRONG_FLAVOUR,Extremely {0},Extremely {0}
 EyeDamage_GameName,Eye Damage,Eye Damage
 Pkg_EyeColour_GroupName,Eyes,Eyes
 Myopia_GameName,Eyesight,Eyesight
-Pk_4_4_Fainthearted_PerkName,Fainthearted,Fainthearted
+Pk_4_4_Fainthearted_PerkName,Fainthearted,意気地なし
 Bp_FairyBrew_CardName,Fairy Brew,Fairy Brew
 LQ_FairyBrewCooked_CardName,Fairy Brew,Fairy Brew
 Path_FmTheShaftFromRockyGrove_CardName,Fairy Hole,Fairy Hole
@@ -4119,7 +4119,7 @@ KnifeFeint_ActionName,Feint,Feint
 SpearFeint_ActionName,Feint,Feint
 LargeTreeFelled_CardName,Felled Large Tree,Felled Large Tree
 tag_FemaleBird_InGameName,Female Bird,Female Bird
-Pk_1_FemaleOrgans_PerkName,Female Organs,Female Organs
+Pk_1_FemaleOrgans_PerkName,Female Organs,女性の臓器
 FemaleTraits_GameName,Female Traits,Female Traits
 FEMALE_ORGANS,Female sexual organs.,Female sexual organs.
 Pk_99_Feral_PerkName,Feral,Feral
@@ -4841,7 +4841,7 @@ DEMO_GET_FULL_GAME,Get the full <b>GAME</b>,Get the full <b>GAME</b>
 ImmuneSystem_Description,Gets rid of the Bacteria and Parasites infecting your body.,Gets rid of the Bacteria and Parasites infecting your body.
 GingerEffect_GameName,Ginger,Ginger
 GIVE_CHASE,Give chase,Give chase
-Pk_99_Brave_PerkDescription,"Gives you courage, allowing you to perform scary actions and remain in combat for longer, but making you easier to surprise.","Gives you courage, allowing you to perform scary actions and remain in combat for longer, but making you easier to surprise."
+Pk_99_Brave_PerkDescription,"Gives you courage, allowing you to perform scary actions and remain in combat for longer, but making you easier to surprise.",勇気を与え、怖いアクションができるようになり、戦闘に長くとどまることができるが、奇襲を受けやすくなる。
 Pregnancy_Description,"Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement.","Gives you nausea at its earlier stages, then increases your appetite and finally gives you a penalty to movement."
 ClearingOak_GreenGlade_DismantleActions[1].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
 ClearingOak_GreenGlade_DismantleActions[2].ActionDescription,Gives you wood and leaves.,Gives you wood and leaves.
@@ -5490,7 +5490,7 @@ Courage_Statuses[2].GameName,High Courage,High Courage
 Discomfort_Statuses[3].GameName,High Discomfort,High Discomfort
 GingerEffect_Statuses[1].GameName,High Dose,High Dose
 Energy_Statuses[3].GameName,High Energy,High Energy
-Pk_2_HighEstrogen_PerkName,High Estrogen,High Estrogen
+Pk_2_HighEstrogen_PerkName,High Estrogen,高エストロゲン
 FairyweedEffect_Statuses[2].GameName,High Fairyweed Dose,High Fairyweed Dose
 Fever_Statuses[2].GameName,High Fever,High Fever
 FirerootToxicityEffect_Statuses[2].GameName,High Fireroot Toxicity,High Fireroot Toxicity
@@ -5507,8 +5507,8 @@ Sodium_Statuses[0].GameName,High Sodium Levels,High Sodium Levels
 SunStrength_Statuses[3].GameName,High Sun Strength,High Sun Strength
 OvenExtinguished_CookingRecipes[2].ActionName,High Temperature: Fast Burn Charables,High Temperature: Fast Burn Charables
 Oven_CookingRecipes[10].ActionName,High Temperature: Fast Burn Charables,High Temperature: Fast Burn Charables
-Pk_3_HighTestosterone_PerkName,High Testosterone,High Testosterone
-Testosterone_Statuses[3].GameName,High Testosterone,High Testosterone
+Pk_3_HighTestosterone_PerkName,High Testosterone,高テストステロン
+Testosterone_Statuses[3].GameName,High Testosterone,高テストステロン
 Pk_2_6_HighThirst_PerkName,High Thirst,High Thirst
 VesicalPressure_Statuses[1].GameName,High Vesical Pressure,High Vesical Pressure
 WaterLevelVisible_Statuses[1].GameName,High Water Level,High Water Level
@@ -5890,7 +5890,7 @@ InDarkPlace_GameName,In Dark Place,In Dark Place
 InDarkPlace_Statuses[0].GameName,In Darkness,In Darkness
 Focus_Statuses[3].GameName,In the Flow,In the Flow
 Kiln_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
-Pk_3_HighTestosterone_PerkDescription,"Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass.","Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass."
+Pk_3_HighTestosterone_PerkDescription,"Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass.",自己主張が強くなり、体毛が濃くなり、身長が伸び、筋肉量が増える。
 Bp_FireBrew_CardDescription,"Increases body temperature, boosts immune system, stamina and alertness.","Increases body temperature, boosts immune system, stamina and alertness."
 FirerootEffect_Description,"Increases body temperature, boosts immune system, stamina and alertness.","Increases body temperature, boosts immune system, stamina and alertness."
 LQ_FireBrewCooked_CardDescription,"Increases body temperature, boosts immune system, stamina and alertness.","Increases body temperature, boosts immune system, stamina and alertness."
@@ -5922,7 +5922,7 @@ Bp_BedLog_CardDescription,"Increases comfort, and raises wellbeing, focus and in
 Bp_BedWooden_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.",寝心地が向上し、その上で寝ている間の幸福感、集中力、断熱性が高まる。
 BedLog_CardDescription,"Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.\n\nAdd blankets, skins or bedding materials for an improved effect.","Increases comfort, and raises wellbeing, focus and insulation while sleeping on it.\n\nAdd blankets, skins or bedding materials for an improved effect."
 Imp_FirePlace_CardDescription,"Increases comfort, gives more warmth and provides more cooking space.","Increases comfort, gives more warmth and provides more cooking space."
-Pk_2_HighEstrogen_PerkDescription,"Increases empathy and female physical traits such breast size and hip width, increasing overall femininity.","Increases empathy and female physical traits such breast size and hip width, increasing overall femininity."
+Pk_2_HighEstrogen_PerkDescription,"Increases empathy and female physical traits such breast size and hip width, increasing overall femininity.",共感力を高め、バストサイズやヒップ幅といった女性の身体的特徴を増大させ、全体的な女性らしさを高める。
 Estrogen_Description,Increases female physical traits and empathy.,Increases female physical traits and empathy.
 Testosterone_Description,Increases male physical traits as well as assertiveness.,Increases male physical traits as well as assertiveness.
 Loneliness_Description,Increases over time. Lowers morale and mental structure.,時間とともに増加する。 士気や精神構造を低下させる。
@@ -5981,8 +5981,8 @@ W_MinorLaceration_UsageDurability.CardStatName,Infection,Infection
 W_Puncture_UsageDurability.CardStatName,Infection,Infection
 W_WolfBite_UsageDurability.CardStatName,Infection,Infection
 tag_EnvInfertile_InGameName,Infertile Environment,Infertile Environment
-Pk_2_7_InfiniteBladder_PerkName,Infinite Bladder,Infinite Bladder
-Pk_2_5_InfiniteBowels_PerkName,Infinite Bowels,Infinite Bowels
+Pk_2_7_InfiniteBladder_PerkName,Infinite Bladder,無限の膀胱
+Pk_2_5_InfiniteBowels_PerkName,Infinite Bowels,無限の腸
 STAT_INFLUENCES,Influenced by,Influenced by
 CARD_INFO,Info,Info
 InnerWarmth_GameName,Inner Warmth,Inner Warmth
@@ -6398,7 +6398,7 @@ Loneliness_Statuses[1].GameName,Lonely,Lonely
 Loneliness_Statuses[2].GameName,Lonely,Lonely
 Event_FluteTunes2_DismantleActions[0].ActionName,Lonely Tune,Lonely Tune
 Event_NewTuneLonely_CardName,Lonely Tune,Lonely Tune
-Pk_99_Loner_PerkName,Loner,Loner
+Pk_99_Loner_PerkName,Loner,一匹狼
 StickLong_CardName,Long Stick,Long Stick
 Bp_Splint_UnlockConditionsDesc,Long Stick Needed,Long Stick Needed
 StrangeLookingWall_CardDescription,"Looks fake, maybe I can break it down. ","Looks fake, maybe I can break it down. "
@@ -6429,8 +6429,8 @@ Comfort_Statuses[1].GameName,Low Comfort,Low Comfort
 Courage_Statuses[0].GameName,Low Courage,Low Courage
 Discomfort_Statuses[1].GameName,Low Discomfort,Low Discomfort
 Energy_Statuses[1].GameName,Low Energy,Low Energy
-Estrogen_Statuses[1].GameName,Low Estrogen,Low Estrogen
-Pk_2_LowEstrogen_PerkName,Low Estrogen,Low Estrogen
+Estrogen_Statuses[1].GameName,Low Estrogen,低エストロゲン
+Pk_2_LowEstrogen_PerkName,Low Estrogen,低エストロゲン
 Fitness_Statuses[3].GameName,Low Fitness,Low Fitness
 MuscleGrower_Statuses[0].GameName,Low Intensity,Low Intensity
 MuscleMass_Statuses[3].GameName,Low Muscle Mass,Low Muscle Mass
@@ -6442,8 +6442,8 @@ OvenExtinguished_CookingRecipes[5].ActionName,Low Temperature: Dry Fast Spoilabl
 SmokehouseExtinguished__CookingRecipes[0].ActionName,Low Temperature: Dry Fast Spoilables  (Quality  +2 ),Low Temperature: Dry Fast Spoilables  (Quality  +2 )
 OvenExtinguished_CookingRecipes[6].ActionName,Low Temperature: Dry QuickDryable and Dryable ( Quality + 0.3 ),Low Temperature: Dry QuickDryable and Dryable ( Quality + 0.3 )
 SmokehouseExtinguished__CookingRecipes[1].ActionName,Low Temperature: Dry QuickDryable and Dryable ( Quality + 0.3 ),Low Temperature: Dry QuickDryable and Dryable ( Quality + 0.3 )
-Pk_3_LowTestosterone_PerkName,Low Testosterone,Low Testosterone
-Testosterone_Statuses[1].GameName,Low Testosterone,Low Testosterone
+Pk_3_LowTestosterone_PerkName,Low Testosterone,低テストステロン
+Testosterone_Statuses[1].GameName,Low Testosterone,低テストステロン
 Pk_2_6_LowThirst_PerkName,Low Thirst,Low Thirst
 Vitamins_Statuses[0].GameName,Low Vitamins,Low Vitamins
 Pk_5_Underweight_PerkName,Low Weight,Low Weight
@@ -6564,10 +6564,10 @@ IntermediateTailoring_Obj1_MakeSomeYarnWithASpindle_ObjectiveDescription,Make so
 IntermediateTailoring_Sub1_MakeSomeYarnWithASpindle_QuestTitle,Make some Yarn with a Spindle,Make some Yarn with a Spindle
 GuideManager_AllTips[4],"Make sure to undress before washing yourself or going for a swim, you don't want to get your clothes wet.","Make sure to undress before washing yourself or going for a swim, you don't want to get your clothes wet."
 Pk_3_4_LightSkin_PerkDescription,"Makes it easier to get sunlight in cloudy weather, but makes you more susceptible to sun damage.","Makes it easier to get sunlight in cloudy weather, but makes you more susceptible to sun damage."
-Pk_99_Optimist_PerkDescription,Makes it easier to keep your morale high.,Makes it easier to keep your morale high.
+Pk_99_Optimist_PerkDescription,Makes it easier to keep your morale high.,士気を高く保ちやすくなる。
 Myopia_Description,Makes it harder to find useful things and avoid dangers.,役に立つものを見つけたり、危険を避けたりするのが難しくなる。
 Pk_3_4_DarkSkin_PerkDescription,"Makes it harder to get sunlight in conditions like cloudy weather, but makes you less susceptible to sun damage.","Makes it harder to get sunlight in conditions like cloudy weather, but makes you less susceptible to sun damage."
-Pk_99_Pessimistic_PerkDescription,Makes it harder to keep your morale high.,Makes it harder to keep your morale high.
+Pk_99_Pessimistic_PerkDescription,Makes it harder to keep your morale high.,士気を高く保つのが難しくなる。
 Pk_3_4_VeryLightSkin_PerkDescription,"Makes it significantly easier to get sunlight in cloudy weather, but makes you considerably more susceptible to sun damage.","Makes it significantly easier to get sunlight in cloudy weather, but makes you considerably more susceptible to sun damage."
 Pk_3_4_VeryDarkSkin_PerkDescription,"Makes it significantly harder to get sunlight in cloudy weather, but makes you considerably less susceptible to sun damage.","Makes it significantly harder to get sunlight in cloudy weather, but makes you considerably less susceptible to sun damage."
 Pk_3_5_LightHair_PerkDescription,"Makes it slightly easier to get sunlight in cloudy weather, but makes you more susceptible to sun damage.","Makes it slightly easier to get sunlight in cloudy weather, but makes you more susceptible to sun damage."
@@ -6593,7 +6593,7 @@ W_BarrenCurse_CardDescription,Makes your plants weaker.,Makes your plants weaker
 CompostBin_CookingRecipes[0].CustomCookingText,Making Fertilizer..,Making Fertilizer..
 tag_MaleBird_InGameName,Male Bird,Male Bird
 ChickenMale_CardName,Male Chicken,Male Chicken
-Pk_1_MaleOrgans_PerkName,Male Organs,Male Organs
+Pk_1_MaleOrgans_PerkName,Male Organs,男性の臓器
 PartridgeMaleFree_CardName,Male Partridge,Male Partridge
 PartridgeMaleTied_CardName,Male Partridge,Male Partridge
 MaleTraits_GameName,Male Traits,Male Traits
@@ -7456,7 +7456,7 @@ ONGOING_QUESTS,Ongoing,進行中
 tag_EnvOpen_InGameName,Open Environment,Open Environment
 tag_OpenSky_InGameName,Open Sky,Open Sky
 tag_OpenWound_InGameName,Open Wound,Open Wound
-Pk_99_Optimist_PerkName,Optimistic,Optimistic
+Pk_99_Optimist_PerkName,Optimistic,楽観的
 OPTIONS,Options,オプション
 CompostBin_CookingConditions.CookingPausedNotification,Organic waste needed!,Organic waste needed!
 PartridgeFeederEmpty_CookingConditions.CookingPausedNotification,Organic waste needed!,Organic waste needed!
@@ -7634,7 +7634,7 @@ Bp_Campfire_CardDescription,"Perfect for cooking, should provide me with warmth 
 Bp_FurMittens_CardDescription,Perfect for protecting my hands.,Perfect for protecting my hands.
 Bp_FishingRod_CardDescription,Perfect tool for fishing.,Perfect tool for fishing.
 DISCARD_ACTION_DESC,Permanently get rid of this object.,Permanently get rid of this object.
-Pk_99_Pessimistic_PerkName,Pessimistic,Pessimistic
+Pk_99_Pessimistic_PerkName,Pessimistic,悲観的
 GardenPlot_SpecialDurability2.CardStatName,Pesticide - Fungi,Pesticide - Fungi
 MushroomBed_SpecialDurability2.CardStatName,Pesticide - Fungi,Pesticide - Fungi
 SpiritShrine_Earth_SacredOak_SpecialDurability2.CardStatName,Pesticide - Fungi,Pesticide - Fungi
@@ -7645,9 +7645,9 @@ SpiritShrine_Earth_SacredOak_SpecialDurability1.CardStatName,Pesticide - Mites,P
 SpiritShrine_Water_SacredSpring_SpecialDurability1.CardStatName,Pesticide - Mites,Pesticide - Mites
 eTag_Pet_InGameName,Pet Item,Pet Item
 Physical_TabName,Physical,Physical
-PkTab2_Traits_TabName,Physical,Physical
+PkTab2_Traits_TabName,Physical,フィジカル
 Pk_4_6_Physical_PerkName,Physical,Physical
-PkTab1_Conditions_TabName,Physiological,Physiological
+PkTab1_Conditions_TabName,Physiological,生理的
 BasketPlaced_DismantleActions[0].ActionName,Pick Up,Pick Up
 CagePlaced_DismantleActions[0].ActionName,Pick Up,Pick Up
 ChairPlaced_DismantleActions[3].ActionName,Pick Up,Pick Up
@@ -7893,7 +7893,7 @@ Bp_HandBasket_CardDescription,Provides storage space and  preserves food longer.
 Basket_CardDescription,Provides storage space and preserves food longer.,収納スペースを確保し、食品を長持ちさせる。
 BasketPlaced_CardDescription,"Provides storage space, comfort and preserves food longer.",収納スペースと快適さを提供し、食品を長持ちさせる。
 Bp_Basket_CardDescription,"Provides storage space, comfort and preserves food longer.",収納スペースと快適さを提供し、食品を長持ちさせる。
-PkTab3_Background_TabName,Psychological,Psychological
+PkTab3_Background_TabName,Psychological,心理的
 Psylocibin_GameName,Psylocibin,Psylocibin
 W_Puncture_CardName,Puncture Wound,Puncture Wound
 W_Puncture_SpoilageTime.OnFull.ActionName,Puncture Wound,Puncture Wound
@@ -8238,8 +8238,8 @@ RectalPressure_GameName,Rectal Pressure,Rectal Pressure
 RectalPressure_Statuses[0].GameName,Rectal Pressure,Rectal Pressure
 LungCapacity_Statuses[0].GameName,Reduced Lung Capacity,Reduced Lung Capacity
 LungCapacity_Description,Reduced by lung damage and some diseases. Causes pain and reduces stamina and wellbeing.,Reduced by lung damage and some diseases. Causes pain and reduces stamina and wellbeing.
-Pk_2_LowEstrogen_PerkDescription,"Reduces female physical traits such as breast size and hip width, decreasing overall femininity.","Reduces female physical traits such as breast size and hip width, decreasing overall femininity."
-Pk_3_LowTestosterone_PerkDescription,"Reduces male physical traits, leading to a more youthful appearance, smaller stature, and less muscle mass.","Reduces male physical traits, leading to a more youthful appearance, smaller stature, and less muscle mass."
+Pk_2_LowEstrogen_PerkDescription,"Reduces female physical traits such as breast size and hip width, decreasing overall femininity.",バストサイズやヒップ幅といった女性の身体的特徴を減少させ、全体的な女性らしさを低下させる。
+Pk_3_LowTestosterone_PerkDescription,"Reduces male physical traits, leading to a more youthful appearance, smaller stature, and less muscle mass.",男性の身体的特徴を減少させ、より若々しい外見、より小さな身長、より少ない筋肉量に導く。
 AlcoholEffect_Description,"Reduces pain, stress and mental structure while increasing courage and morale. Causes dehydration and nausea when high.","Reduces pain, stress and mental structure while increasing courage and morale. Causes dehydration and nausea when high."
 BugRepellentApplied_Description,Reduces the amount of bugs around you (including mosquitoes).,Reduces the amount of bugs around you (including mosquitoes).
 Pk_5_Underweight_PerkDescription,"Reduces your body weight, lowering fat reserves and slightly impairing your immune system and thermal insulation.","Reduces your body weight, lowering fat reserves and slightly impairing your immune system and thermal insulation."
@@ -8595,7 +8595,7 @@ Sunburn_Statuses[1].GameName,Severe Sunburn,Severe Sunburn
 Hydration_Statuses[3].GameName,Severely Dehydrated,Severely Dehydrated
 Weight_Statuses[0].GameName,Severely Obese,Severely Obese
 Weight_Statuses[10].GameName,Severely Underweight,Severely Underweight
-PkTab0_All_TabName,Sex,Sex
+PkTab0_All_TabName,Sex,性別
 LQ_SpiritDarkness_DismantleActions[0].ActionName,Shadow Blessing,Shadow Blessing
 LQ_SpiritFlintclaw_DismantleActions[2].ActionName,Shadow Blessing,Shadow Blessing
 ShadowBlessing_GameName,Shadow Blessing,Shadow Blessing
@@ -8774,7 +8774,7 @@ Event_FluteTunes1_DismantleActions[0].ActionName,Simple Tune,Simple Tune
 Event_NewTuneSimple_CardName,Simple Tune,Simple Tune
 Bp_ReedSkirt_CardDescription,Simple clothing to cover your privates.,Simple clothing to cover your privates.
 tag_FishBaitSingle_InGameName,Single Fishing Bait,Single Fishing Bait
-Pk_4_3_SingularFocus_PerkName,Singular Focus,Singular Focus
+Pk_4_3_SingularFocus_PerkName,Singular Focus,並外れた集中力
 Size_GameName,Size,Size
 SKILLS,Skills,スキル
 Skills_TabName,Skills,スキル
@@ -9094,7 +9094,7 @@ Event_FoxSpiritLeft_CardDescription,Spirit is not impressed. It leaves. ,Spirit 
 Event_WolfSpiritLeft_CardDescription,Spirit is not impressed. It leaves. ,Spirit is not impressed. It leaves. 
 Bp_Spiritbrew_CardName,Spiritbrew,Spiritbrew
 DMG_Spiritual_Name,Spiritual,Spiritual
-Pk_4_2_Spiritual_PerkName,Spiritual,Spiritual
+Pk_4_2_Spiritual_PerkName,Spiritual,スピリチュアル
 Spiritual_TabName,Spiritual,Spiritual
 eTag_WSpiritual_InGameName,Spiritual Wound,Spiritual Wound
 DMG_Spit_Name,Spit,Spit
@@ -9165,7 +9165,7 @@ AmbushAid_GameName,Stalker's Favour,Stalker's Favour
 Stamina_GameName,Stamina,Stamina
 START,Start,Start
 START_BUILDING,Start the construction of ,Start the construction of 
-Pk_0_0_AllKnowing_PerkDescription,Start with all blueprints unlocked.,Start with all blueprints unlocked.
+Pk_0_0_AllKnowing_PerkDescription,Start with all blueprints unlocked.,すべての設計図がアンロックされた状態でスタートする。
 STARTING_CONDITIONS,Starting Conditions,Starting Conditions
 TickCounter_Statuses[0].GameName,Starting Morale Counter,Starting Morale Counter
 tag_Static_InGameName,Static,Static
@@ -10457,7 +10457,7 @@ StoolPlaced_DismantleActions[0].FadeMessage,Waiting...,Waiting...
 TimeSkipOptions_Actions[0].FadeMessage,Waiting...,Waiting...
 Wakefulness_GameName,Wakefulness,Wakefulness
 Event_WillOWisp_Grove1_DismantleActions[0].ActionName,Walk towards it,それに向かって進む
-Pk_4_3_WanderingFocus_PerkName,Wandering Focus,Wandering Focus
+Pk_4_3_WanderingFocus_PerkName,Wandering Focus,散漫な集中力
 MsStandardExperience_CharacterDescription,Want to jump straight into the game without having to create a character?\n\nGive this one a try for the standard experience. ,Want to jump straight into the game without having to create a character?\n\nGive this one a try for the standard experience. 
 tag_WardingCharm_InGameName,Warding Charm,Warding Charm
 Spirit_Badger_SpecialDurability1.CardStatName,Warm Effect,Warm Effect
@@ -10877,12 +10877,12 @@ Tgr_Pee_Actions[0].ActionName,You Peed Yourself,You Peed Yourself
 Tgr_Poop_Actions[0].ActionName,You Pooped Yourself,You Pooped Yourself
 EncounterWindow_PlayerStealthAttackLog.LogText,You approach silently...,You approach silently...
 Combat_EncounterFox_EnemyActions[0].SuccessLog.LogText,You are intimidated by the hiss...,You are intimidated by the hiss...
-Pk_4_4_Fainthearted_PerkDescription,"You are less able to perform scary actions and have trouble remaining in combat, but are harder to surprise.","You are less able to perform scary actions and have trouble remaining in combat, but are harder to surprise."
+Pk_4_4_Fainthearted_PerkDescription,"You are less able to perform scary actions and have trouble remaining in combat, but are harder to surprise.",怖ろしい行動ができなくなり、戦闘にとどまることが難しくなるが、奇襲は受けにくくなる。
 BloodLoss_Statuses[1].Description,You are losing blood. ,You are losing blood. 
 BloodLoss_Statuses[2].Description,You are losing blood. ,You are losing blood. 
 BloodLoss_Statuses[3].Description,You are losing lots of blood. ,You are losing lots of blood. 
 BloodLoss_Statuses[4].Description,You are losing lots of blood. ,You are losing lots of blood. 
-Pk_4_3_SingularFocus_PerkDescription,"You are more likely to stay focused, even on repetitive tasks, but are less socially adept.","You are more likely to stay focused, even on repetitive tasks, but are less socially adept."
+Pk_4_3_SingularFocus_PerkDescription,"You are more likely to stay focused, even on repetitive tasks, but are less socially adept.",繰り返し作業でも集中力を維持しやすいが、社交性は低い。
 Pk_4_7_Trusting_PerkDescription,"You are more trusting of others, making it easier to get along with them, at the cost of some autonomy.","You are more trusting of others, making it easier to get along with them, at the cost of some autonomy."
 Mourning_Statuses[0].Description,You are mourning the death of a loved one.,You are mourning the death of a loved one.
 Mourning_Description,You are mourning the death of a loved one. Lowers your morale and mental structure.,You are mourning the death of a loved one. Lowers your morale and mental structure.
@@ -10966,7 +10966,7 @@ Event_FallSprains_CardDescription,You fell and got yourself a sprain... it hurts
 Event_FallLaceration_CardDescription,You fell and got yourself an ugly cut... it hurts.,You fell and got yourself an ugly cut... it hurts.
 Event_FallBruise_CardDescription,You fell and got yourself some ugly bruises...,You fell and got yourself some ugly bruises...
 Event_FallAbrasion_CardDescription,You fell and got yourself some ugly scrapes...,You fell and got yourself some ugly scrapes...
-Pk_4_3_Carefree_PerkDescription,"You find it harder to get stressed, but are also less alert, making you easier to surprise.","You find it harder to get stressed, but are also less alert, making you easier to surprise."
+Pk_4_3_Carefree_PerkDescription,"You find it harder to get stressed, but are also less alert, making you easier to surprise.",ストレスを感じにくくなるが、警戒心も薄れ、奇襲を受けやすくなる。
 Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[5].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
 Combat_EncounterStag_EnemyActions[4].PlayerWounds.SeriousWounds[8].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
 Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
@@ -11149,7 +11149,7 @@ Combat_EncounterFox_EnemyActions[2].PlayerWounds.MinorWounds[1].WoundLog.LogText
 Combat_EncounterFox_EnemyActions[2].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You got some claw marks from the hit.,You got some claw marks from the hit.
 Pk_4_7_Resolute_PerkDescription,"You have a strong will, but are less trusting as a result and have more trouble getting along with others.","You have a strong will, but are less trusting as a result and have more trouble getting along with others."
 CombatMorale_Statuses[0].Description,You have recently run away from a fight.,You have recently run away from a fight.
-Pk_4_3_WanderingFocus_PerkDescription,You have trouble staying focused if you're not engaged but are more creative and get extra focus when working on interesting things.,You have trouble staying focused if you're not engaged but are more creative and get extra focus when working on interesting things.
+Pk_4_3_WanderingFocus_PerkDescription,You have trouble staying focused if you're not engaged but are more creative and get extra focus when working on interesting things.,集中力を持続させるのは難しいが、楽しいことに取り組むと創造性が高まり、集中力が増す。
 Combat_ BTWolfPack_Head.MediumWounds[1].CombatLog.LogText,You hit {0} hard on the nose. It whimpers in pain!,You hit {0} hard on the nose. It whimpers in pain!
 Combat_ BTWolf_F_Head.MediumWounds[1].CombatLog.LogText,You hit {0} hard on the nose. It whimpers in pain!,You hit {0} hard on the nose. It whimpers in pain!
 Combat_ BTBoar_F_Head.MediumWounds[1].CombatLog.LogText,You hit {0} hard on the snout. It squeals in pain!,You hit {0} hard on the snout. It squeals in pain!
@@ -11411,10 +11411,10 @@ Event_FireSpiritFamiliarGranted_CardDescription,You sucessfully completed the ri
 Event_FoxSpiritFamiliarGranted_CardDescription,You sucessfully completed the ritual. The Fox spirit is now a part of you.,You sucessfully completed the ritual. The Fox spirit is now a part of you.
 Event_WaterSpiritFamiliarGranted_CardDescription,You sucessfully completed the ritual. The Water spirit is now a part of you.,You sucessfully completed the ritual. The Water spirit is now a part of you.
 Event_WolfSpiritFamiliarGranted_CardDescription,You sucessfully completed the ritual. The Wolf spirit is now a part of you.,You sucessfully completed the ritual. The Wolf spirit is now a part of you.
-Pk_99_Loner_PerkDescription,"You suffer less from the effects of loneliness, but get less value from interacting with others.","You suffer less from the effects of loneliness, but get less value from interacting with others."
+Pk_99_Loner_PerkDescription,"You suffer less from the effects of loneliness, but get less value from interacting with others.",孤独の影響は少ないが、他者との交流から得られるものは少ない。
 Pk_4_5_Social_PerkDescription,"You suffer more from the effects of loneliness, but get additional value from interacting with others.","You suffer more from the effects of loneliness, but get additional value from interacting with others."
 DAYS_SURVIVED,You survived for {0} days.,You survived for {0} days.
-Pk_4_3_Anxious_PerkDescription,"You tend to get stressed more easily, but are also more alert, making you harder to surprise.","You tend to get stressed more easily, but are also more alert, making you harder to surprise."
+Pk_4_3_Anxious_PerkDescription,"You tend to get stressed more easily, but are also more alert, making you harder to surprise.",ストレスがたまりやすいが、警戒心が強く、奇襲されにくい。
 Event_Vomit_CardDescription,You threw up!,You threw up!
 BloodPressure_Statuses[3].Description,You went into shock.,You went into shock.
 Combat_ BTBadger_LArm.MinorWounds[0].CombatLog.LogText,You were able to graze one of {0}'s arms.,You were able to graze one of {0}'s arms.
@@ -11478,14 +11478,14 @@ BodyTemperature_Statuses[7].Description,You'll die if you don't warm up...,You'l
 BodyTemperature_Statuses[5].Description,You're cold...,You're cold...
 Pk_2_7_SmallBladder_PerkDescription,"Your bladder has decreased urine capacity, requiring you to urinate more often.","Your bladder has decreased urine capacity, requiring you to urinate more often."
 Pk_2_7_LargeBladder_PerkDescription,"Your bladder has increased urine capacity, requiring you to urinate less often.","Your bladder has increased urine capacity, requiring you to urinate less often."
-Pk_2_7_InfiniteBladder_PerkDescription,"Your bladder leads straight into the void, relieving you from the mundane vulgarities of passing urine.","Your bladder leads straight into the void, relieving you from the mundane vulgarities of passing urine."
+Pk_2_7_InfiniteBladder_PerkDescription,"Your bladder leads straight into the void, relieving you from the mundane vulgarities of passing urine.",膀胱はそのまま虚空へとつながり、尿を出すという俗世間の下品な行為から解放される。
 Energy_Statuses[3].Description,Your body has a good amount of energy,Your body has a good amount of energy
 Energy_Statuses[2].Description,Your body has enough energy,Your body has enough energy
 Energy_Statuses[4].Description,Your body is full of energy,Your body is full of energy
 Energy_Statuses[1].Description,"Your body is low on energy, you should rest","Your body is low on energy, you should rest"
 Weight_Description,"Your body's fat reserves, determining how long you can survive without food. If your weight gets too low your immune system and stamina will gradually suffer, and you'll eventually die of organ failure. If it gets too high it will impact your mobility and stamina recovery.",体脂肪の留保、食べ物なしでどれだけ生き残れるかを決める。体重が低すぎると免疫系とスタミナが悪化し、最終的には臓器不全で死ぬ。高すぎると機動性とスタミナに影響する。
 BodyTemperature_Description,"Your body's internal temperature. When high, you risk dehydration and heat stroke, when low, you risk frostbite or hypothermia, and have a higher chance to catch a cold.",あなたの体内温度。高いと脱水症や熱射病のリスクがあり、低いと凍傷や低体温症のリスクがあり、高確率で風邪をひく。
-Pk_2_5_InfiniteBowels_PerkDescription,"Your bowels lead straight into the void, relieving you from the mundane vulgarities of passing stools.","Your bowels lead straight into the void, relieving you from the mundane vulgarities of passing stools."
+Pk_2_5_InfiniteBowels_PerkDescription,"Your bowels lead straight into the void, relieving you from the mundane vulgarities of passing stools.",腸はそのまま虚空へとつながり、便を出すという俗世間の下品な行為から解放される。
 Pk_2_5_ActiveBowels_PerkDescription,"Your bowels produce waste faster, requiring you to pass stools more often.","Your bowels produce waste faster, requiring you to pass stools more often."
 Pk_2_5_SlowBowels_PerkDescription,"Your bowels take longer to produce waste, requiring you to pass stools less often.","Your bowels take longer to produce waste, requiring you to pass stools less often."
 CHARACTER_CREATION_CONFIRM,Your character will have the following reproductive organs:,Your character will have the following reproductive organs:
@@ -11513,7 +11513,7 @@ Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MediumWounds[2].WoundLog.LogTe
 Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MediumWounds[2].WoundLog.LogText,Your left leg was hit and is now throbbing in pain.,Your left leg was hit and is now throbbing in pain.
 Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MediumWounds[2].WoundLog.LogText,Your left leg was hit and is now throbbing in pain.,Your left leg was hit and is now throbbing in pain.
 Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[2].WoundLog.LogText,Your left leg was hit and is now throbbing in pain.,Your left leg was hit and is now throbbing in pain.
-Pk_4_2_Spiritual_PerkDescription,Your open minded and sensitive nature makes it easier for you to reach altered mind states. ,Your open minded and sensitive nature makes it easier for you to reach altered mind states. 
+Pk_4_2_Spiritual_PerkDescription,Your open minded and sensitive nature makes it easier for you to reach altered mind states. ,あなたの広い心と繊細な性質は、変容した精神状態に到達しやすくする。
 Combat_EncounterBoar_EnemyActions[0].PlayerWounds.SeriousWounds[6].WoundLog.LogText,Your right arm is broken! It hurts!,Your right arm is broken! It hurts!
 Combat_EncounterBoar_EnemyActions[1].PlayerWounds.SeriousWounds[6].WoundLog.LogText,Your right arm is broken! It hurts!,Your right arm is broken! It hurts!
 Combat_EncounterBoar_EnemyActions[2].PlayerWounds.SeriousWounds[6].WoundLog.LogText,Your right arm is broken! It hurts!,Your right arm is broken! It hurts!
@@ -11538,7 +11538,7 @@ Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MediumWounds[3].WoundLog.LogTe
 Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MediumWounds[3].WoundLog.LogText,Your right leg was hit and is now throbbing in pain.,Your right leg was hit and is now throbbing in pain.
 Combat_EncounterBoar_EnemyActions[3].PlayerWounds.MediumWounds[3].WoundLog.LogText,Your right leg was hit and is now throbbing in pain.,Your right leg was hit and is now throbbing in pain.
 Combat_EncounterStag_EnemyActions[4].PlayerWounds.MediumWounds[3].WoundLog.LogText,Your right leg was hit and is now throbbing in pain.,Your right leg was hit and is now throbbing in pain.
-Pk_99_DownToEarth_PerkDescription,"Your robust, firm worldview makes you resistant to altered mind states. ","Your robust, firm worldview makes you resistant to altered mind states. "
+Pk_99_DownToEarth_PerkDescription,"Your robust, firm worldview makes you resistant to altered mind states. ",あなたの強固で確固たる世界観が、心の状態の変容に対する抵抗力を高めている。
 Combat_EncounterBoar_EnemyActions[0].PlayerWounds.MinorWounds[1].WoundLog.LogText,"Your skin was pierced, causing a minor laceration.","Your skin was pierced, causing a minor laceration."
 Combat_EncounterBoar_EnemyActions[1].PlayerWounds.MinorWounds[1].WoundLog.LogText,"Your skin was pierced, causing a minor laceration.","Your skin was pierced, causing a minor laceration."
 Combat_EncounterBoar_EnemyActions[2].PlayerWounds.MinorWounds[1].WoundLog.LogText,"Your skin was pierced, causing a minor laceration.","Your skin was pierced, causing a minor laceration."
