@@ -4571,30 +4571,30 @@ ForestCapsPlantedMature_CardName,Forest Caps,Forest Caps
 GpTag_ForestCaps_TabName,Forest Caps,Forest Caps
 ForestCapsCooked_UsageDurability.OnFull.ActionDescription,Forest Caps dried!,Forest Caps dried!
 ForestCapsFresh_UsageDurability.OnFull.ActionDescription,Forest Caps dried!,Forest Caps dried!
-Combat_EncounterBadger_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterBadger_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterBoar_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterBoar_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterBoar_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterBoar_EnemyActions[3].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterFlintclaw_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterFlintclaw_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterFox_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterFox_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterStag_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolf_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolf_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolf_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
-Combat_EncounterWolf_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.","Fortunately, the attack wasn't enough to hurt you."
+Combat_EncounterBadger_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterBadger_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterBoar_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterBoar_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterBoar_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterBoar_EnemyActions[3].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterFlintclaw_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterFlintclaw_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterFox_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterFox_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterStag_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolfPack_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolfPack_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolfPack_EnemyActions[5].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolfPack_EnemyActions[7].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolf_EnemyActions[0].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolf_EnemyActions[1].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolf_EnemyActions[2].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
+Combat_EncounterWolf_EnemyActions[4].PlayerWounds.UnharmedResults[0].WoundLog.LogText,"Fortunately, the attack wasn't enough to hurt you.",幸いなことに、その攻撃はあなたを傷つけるほどではなかった。
 FirerootPlantedGrowing_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic."
 FirerootPlantedMature_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration.\n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic."
 FirerootPlantedDormant_CardDescription,"Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration. \n\nWill grow when conditions are right.","Found in areas that are not excesively humid; requires medium acidity, nutrients, and medium to low hydration. \n\nWill grow when conditions are right."
@@ -5583,51 +5583,51 @@ Wounds_Statuses[3].Description,Hurts so much!,Hurts so much!
 Bruising_Statuses[1].Description,Hurts...,Hurts...
 Hydration_Statuses[0].GameName,Hydrated,Hydrated
 SkinHumidity_Statuses[0].GameName,Hydrated Skin,Hydrated Skin
-AppleweedPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-BillberriesPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-Brushwood_rename_FuelCapacity.CardStatName,Hydration,Hydration
-ClearingOak_GreenGlade_FuelCapacity.CardStatName,Hydration,Hydration
-ClearingPine_FlowerGlade_FuelCapacity.CardStatName,Hydration,Hydration
-CloverFieldGrowing_FuelCapacity.CardStatName,Hydration,Hydration
-CloverFieldMature_FuelCapacity.CardStatName,Hydration,Hydration
-CloverPatch_FuelCapacity.CardStatName,Hydration,Hydration
-DoughStarterYeast_FuelCapacity.CardStatName,Hydration,Hydration
-DoughStarter_FuelCapacity.CardStatName,Hydration,Hydration
-FairyweedPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-FallowFieldInvisible_FuelCapacity.CardStatName,Hydration,Hydration
-FallowField_FuelCapacity.CardStatName,Hydration,Hydration
-FirerootPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-ForestCapsPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-FrostleafPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-GardenPlot_FuelCapacity.CardStatName,Hydration,Hydration
-GrovePine_RockyGrove_FuelCapacity.CardStatName,Hydration,Hydration
-GrovePine_SlopedGrove_FuelCapacity.CardStatName,Hydration,Hydration
-InvisibleLocationEnricher_FuelCapacity.CardStatName,Hydration,Hydration
-MaltedRyeCrushed_FuelCapacity.CardStatName,Hydration,Hydration
-MaltedRyeExtracted_FuelCapacity.CardStatName,Hydration,Hydration
-MaltingRyeClayVase_FuelCapacity.CardStatName,Hydration,Hydration
-MeadowgrassFieldGrowing_FuelCapacity.CardStatName,Hydration,Hydration
-MeadowgrassFieldMature_FuelCapacity.CardStatName,Hydration,Hydration
-MushroomBed_FuelCapacity.CardStatName,Hydration,Hydration
-NettlePatchWild_FuelCapacity.CardStatName,Hydration,Hydration
-NettleStemsPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-PeaFieldGrowing_FuelCapacity.CardStatName,Hydration,Hydration
-PeaFieldMature_FuelCapacity.CardStatName,Hydration,Hydration
-PeasPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-ReedPatch_FuelCapacity.CardStatName,Hydration,Hydration
-RiverFishermanWest_FuelCapacity.CardStatName,Hydration,Hydration
-RyeFieldGrowing_FuelCapacity.CardStatName,Hydration,Hydration
-RyeFieldMature_FuelCapacity.CardStatName,Hydration,Hydration
-RyePlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-SpiritMushroomsPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-SpiritShrine_Earth_SacredOak_FuelCapacity.CardStatName,Hydration,Hydration
-SpiritShrine_Water_SacredSpring_FuelCapacity.CardStatName,Hydration,Hydration
-SpringBerriesPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-TilledField_FuelCapacity.CardStatName,Hydration,Hydration
-TurnrootFieldGrowing_FuelCapacity.CardStatName,Hydration,Hydration
-TurnrootFieldMature_FuelCapacity.CardStatName,Hydration,Hydration
-TurnrootPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
-WildGarlicPlantedMature_FuelCapacity.CardStatName,Hydration,Hydration
+AppleweedPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+BillberriesPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+Brushwood_rename_FuelCapacity.CardStatName,Hydration,水分
+ClearingOak_GreenGlade_FuelCapacity.CardStatName,Hydration,水分
+ClearingPine_FlowerGlade_FuelCapacity.CardStatName,Hydration,水分
+CloverFieldGrowing_FuelCapacity.CardStatName,Hydration,水分
+CloverFieldMature_FuelCapacity.CardStatName,Hydration,水分
+CloverPatch_FuelCapacity.CardStatName,Hydration,水分
+DoughStarterYeast_FuelCapacity.CardStatName,Hydration,水分
+DoughStarter_FuelCapacity.CardStatName,Hydration,水分
+FairyweedPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+FallowFieldInvisible_FuelCapacity.CardStatName,Hydration,水分
+FallowField_FuelCapacity.CardStatName,Hydration,水分
+FirerootPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+ForestCapsPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+FrostleafPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+GardenPlot_FuelCapacity.CardStatName,Hydration,水分
+GrovePine_RockyGrove_FuelCapacity.CardStatName,Hydration,水分
+GrovePine_SlopedGrove_FuelCapacity.CardStatName,Hydration,水分
+InvisibleLocationEnricher_FuelCapacity.CardStatName,Hydration,水分
+MaltedRyeCrushed_FuelCapacity.CardStatName,Hydration,水分
+MaltedRyeExtracted_FuelCapacity.CardStatName,Hydration,水分
+MaltingRyeClayVase_FuelCapacity.CardStatName,Hydration,水分
+MeadowgrassFieldGrowing_FuelCapacity.CardStatName,Hydration,水分
+MeadowgrassFieldMature_FuelCapacity.CardStatName,Hydration,水分
+MushroomBed_FuelCapacity.CardStatName,Hydration,水分
+NettlePatchWild_FuelCapacity.CardStatName,Hydration,水分
+NettleStemsPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+PeaFieldGrowing_FuelCapacity.CardStatName,Hydration,水分
+PeaFieldMature_FuelCapacity.CardStatName,Hydration,水分
+PeasPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+ReedPatch_FuelCapacity.CardStatName,Hydration,水分
+RiverFishermanWest_FuelCapacity.CardStatName,Hydration,水分
+RyeFieldGrowing_FuelCapacity.CardStatName,Hydration,水分
+RyeFieldMature_FuelCapacity.CardStatName,Hydration,水分
+RyePlantedMature_FuelCapacity.CardStatName,Hydration,水分
+SpiritMushroomsPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+SpiritShrine_Earth_SacredOak_FuelCapacity.CardStatName,Hydration,水分
+SpiritShrine_Water_SacredSpring_FuelCapacity.CardStatName,Hydration,水分
+SpringBerriesPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+TilledField_FuelCapacity.CardStatName,Hydration,水分
+TurnrootFieldGrowing_FuelCapacity.CardStatName,Hydration,水分
+TurnrootFieldMature_FuelCapacity.CardStatName,Hydration,水分
+TurnrootPlantedMature_FuelCapacity.CardStatName,Hydration,水分
+WildGarlicPlantedMature_FuelCapacity.CardStatName,Hydration,水分
 Hydration_GameName,Hydration ,Hydration 
 DMG_Hydrodynamic_Name,Hydrodynamic,Hydrodynamic
 BodyTemperature_Statuses[1].GameName,Hyperthermia,Hyperthermia
@@ -6104,16 +6104,16 @@ SAVING_ERROR_TEXT,"It seems there was an error while attempting to write the sav
 Event_NewTuneNothing_CardDescription,It seems you're not feeling inspired.,It seems you're not feeling inspired.
 Combat_EncounterPartridge_EnemyActions[1].SuccessLog.LogText,It starts fleeing...,It starts fleeing...
 Combat_EncounterPartridge_EnemyActions[2].SuccessLog.LogText,It starts fleeing...,It starts fleeing...
-Combat_EncounterBoar_EnemyActions[4].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterBoar_EnemyActions[5].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterDoe_F_EnemyActions[1].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterDoe_F_EnemyActions[2].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterStag_EnemyActions[1].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterStag_EnemyActions[2].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterWolfPack_EnemyActions[8].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterWolfPack_EnemyActions[9].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterWolf_EnemyActions[5].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
-Combat_EncounterWolf_EnemyActions[6].ActionLog.LogText,It turns around and tries to escape...,It turns around and tries to escape...
+Combat_EncounterBoar_EnemyActions[4].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterBoar_EnemyActions[5].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterDoe_F_EnemyActions[1].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterDoe_F_EnemyActions[2].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterStag_EnemyActions[1].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterStag_EnemyActions[2].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterWolfPack_EnemyActions[8].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterWolfPack_EnemyActions[9].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterWolf_EnemyActions[5].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
+Combat_EncounterWolf_EnemyActions[6].ActionLog.LogText,It turns around and tries to escape...,振り返って逃げようとしている...
 TIME_IS_BETWEEN,It's between {0} and {1},It's between {0} and {1}
 BaseTemperature_DefaultStatusDescription,It's comfortable,It's comfortable
 TemperaturePerceived_DefaultStatusDescription,It's comfortable,It's comfortable
@@ -9743,30 +9743,30 @@ Combat_EncounterPartridge_EnemyDefeatedEffects.ResultLog.LogText,The partridge i
 Combat_EncounterPartridge_EnemyGettingCloseLog.LogText,The partridge moves in closer...,The partridge moves in closer...
 SleepDeprivationEffects_Description,"The result of not sleeping enough. Can alter your mindstate, increase your stress and make you sleepier faster.","The result of not sleeping enough. Can alter your mindstate, increase your stress and make you sleepier faster."
 WaterLevelVisible_Statuses[2].Description,The river is spilling into the area.,The river is spilling into the area.
-Cabin_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FlintMotherLode_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmClearedTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmCollapsedTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmDarkTunnelNorthEast_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmDarkTunnelNorthWest_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmDarkTunnelSouthEast_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmDarkTunnelSouthWest_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmDarkTunnelWest_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmFlintclawsChamber_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmFloodedTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmNorthernChamber_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmNorthernTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmOminousTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmOvergrownTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmSouthernTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_FmTheShaft_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Caves_WaterfallCaves_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-Coop_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-MudHutConstructionLocationRoom_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-MudHutConstructionStartingPointMudHut_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-MudHutExpansionLeft_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-MudHutExpansionRight_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
-MudHut_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,The roof collapsed!
+Cabin_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FlintMotherLode_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmClearedTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmCollapsedTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmDarkTunnelNorthEast_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmDarkTunnelNorthWest_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmDarkTunnelSouthEast_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmDarkTunnelSouthWest_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmDarkTunnelWest_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmFlintclawsChamber_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmFloodedTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmNorthernChamber_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmNorthernTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmOminousTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmOvergrownTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmSouthernTunnel_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_FmTheShaft_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Caves_WaterfallCaves_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+Coop_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+MudHutConstructionLocationRoom_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+MudHutConstructionStartingPointMudHut_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+MudHutExpansionLeft_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+MudHutExpansionRight_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
+MudHut_SpecialDurability2.OnFull.ActionDescription,The roof collapsed!,屋根が崩れた！
 Combat_EncounterSquirrel_EnemyName,The squirrel,The squirrel
 Combat_EncounterSquirrel_EnemyDefeatedEffects.ResultLog.LogText,The squirrel lies dead on the ground. ,The squirrel lies dead on the ground. 
 Combat_EncounterSquirrel_EnemyActions[0].ActionLog.LogText,The squirrel notices you...,The squirrel notices you...
@@ -10892,18 +10892,18 @@ Pk_2_6_LowThirst_PerkDescription,"You are slower to get thirsty and dehydrated, 
 EncounterWindow_DefaultEnemyDefeatedEncounterLog.LogText,You are victorious!,You are victorious!
 Satiation_Statuses[0].Description,You ate too much and are feeling sick.,You ate too much and are feeling sick.
 CharacterList_ModeDescription,You awaken lost and alone in a mysterious forest...,You awaken lost and alone in a mysterious forest...
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You broke your arm!,You broke your arm!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[5].WoundLog.LogText,You broke your arm!,You broke your arm!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You broke your arm!,You broke your arm!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You broke your arm!,You broke your arm!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You broke your arm!,You broke your arm!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You broke your arm!,You broke your arm!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[6].WoundLog.LogText,You broke your leg!,You broke your leg!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[7].WoundLog.LogText,You broke your leg!,You broke your leg!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You broke your leg!,You broke your leg!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You broke your leg!,You broke your leg!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You broke your leg!,You broke your leg!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You broke your leg!,You broke your leg!
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[5].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[0].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[1].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[6].WoundLog.LogText,You broke your leg!,あなたは足を骨折した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[7].WoundLog.LogText,You broke your leg!,あなたは足を骨折した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You broke your leg!,あなたは足を骨折した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You broke your leg!,あなたは足を骨折した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[2].WoundLog.LogText,You broke your leg!,あなたは足を骨折した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[3].WoundLog.LogText,You broke your leg!,あなたは足を骨折した！
 GuideManager_AllTips[0],You can bookmark cards from their description windows so you can quickly jump to them.,You can bookmark cards from their description windows so you can quickly jump to them.
 GuideManager_AllTips[2],You can move stacks from one row to another by holding left-click on the top or bottom of a card.,You can move stacks from one row to another by holding left-click on the top or bottom of a card.
 GuideManager_AllTips[1],You can right-click on cards to make them quickly jump from one row to another.,You can right-click on cards to make them quickly jump from one row to another.
@@ -11296,38 +11296,38 @@ Combat_EventStag_1_Explore_CardName,You see a Stag,You see a Stag
 Combat_EventWolfPack_1_Explore_F_CardName,You see a Wolf Pack!,You see a Wolf Pack!
 Combat_EventWolf_1_Explore_F_CardName,You see a Wolf!,You see a Wolf!
 Combat_EventPixie_1_Explore_F_CardName,You see a group of Pixies!,You see a group of Pixies!
-Combat_ BTFox_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0} legs!,You seriously damaged one of {0} legs!
-Combat_ BTBadger_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,You seriously damaged one of {0}'s arms!
-Combat_ BTBadger_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,You seriously damaged one of {0}'s arms!
-Combat_ BTFlintclaw_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,You seriously damaged one of {0}'s arms!
-Combat_ BTFlintclaw_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,You seriously damaged one of {0}'s arms!
-Combat_ BTBadger_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTBadger_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTBoar_F_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTBoar_F_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTBoar_F_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTBoar_F_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTDoe_F_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTDoe_F_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTDoe_F_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTDoe_F_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTFlintclaw_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTFlintclaw_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTFox_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTFox_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTFox_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTStag_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTStag_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTStag_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTStag_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolfPack_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolfPack_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolfPack_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolfPack_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolf_F_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolf_F_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolf_F_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
-Combat_ BTWolf_F_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,You seriously damaged one of {0}'s legs!
+Combat_ BTFox_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0} legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTBadger_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,あなたは{0}の腕に深刻なダメージを与えた！
+Combat_ BTBadger_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,あなたは{0}の腕に深刻なダメージを与えた！
+Combat_ BTFlintclaw_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,あなたは{0}の腕に深刻なダメージを与えた！
+Combat_ BTFlintclaw_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s arms!,あなたは{0}の腕に深刻なダメージを与えた！
+Combat_ BTBadger_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTBadger_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTBoar_F_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTBoar_F_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTBoar_F_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTBoar_F_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTDoe_F_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTDoe_F_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTDoe_F_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTDoe_F_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTFlintclaw_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTFlintclaw_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTFox_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTFox_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTFox_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTStag_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTStag_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTStag_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTStag_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolfPack_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolfPack_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolfPack_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolfPack_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolf_F_LArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolf_F_LLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolf_F_RArm.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
+Combat_ BTWolf_F_RLeg.SeriousWounds[0].CombatLog.LogText,You seriously damaged one of {0}'s legs!,あなたは{0}の脚に深刻なダメージを与えた！
 EncounterWindow_SheatheLog.LogText,You sheathe away your {0}.,You sheathe away your {0}.
 Energy_Statuses[0].Description,You should rest and let your body recover,You should rest and let your body recover
 Combat_ BTWolfPack_Head.SeriousWounds[2].CombatLog.LogText,You slashed a deep cut across {0}'s face.,You slashed a deep cut across {0}'s face.
@@ -11337,26 +11337,26 @@ Combat_ BTFox_Head.MediumWounds[1].CombatLog.LogText,You slashed {0} across the 
 Combat_ BTBoar_F_Head.MediumWounds[4].CombatLog.LogText,You slashed {0} across the face. It squeals in pain!,You slashed {0} across the face. It squeals in pain!
 Combat_ BTWolfPack_Head.MediumWounds[4].CombatLog.LogText,You slashed {0}'s nose. It whimpers in pain!,You slashed {0}'s nose. It whimpers in pain!
 Combat_ BTWolf_F_Head.MediumWounds[4].CombatLog.LogText,You slashed {0}'s nose. It whimpers in pain!,You slashed {0}'s nose. It whimpers in pain!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,You sprained your arm!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,You sprained your leg!
-Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,You sprained your leg!
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[0].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[1].WoundLog.LogText,You sprained your arm!,腕を捻挫した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterStag_EnemyActions[6].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterWolfPack_EnemyActions[6].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[2].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
+Combat_EncounterWolf_EnemyActions[3].PlayerWounds.MediumWounds[3].WoundLog.LogText,You sprained your leg!,脚を捻挫した！
 Pk_3_3_Fit_PerkDescription,"You start with high fitness levels, increasing your stamina and energy levels.","You start with high fitness levels, increasing your stamina and energy levels."
 Pk_3_3_Sedentary_PerkDescription,"You start with low fitness levels, decreasing your stamina and energy levels.","You start with low fitness levels, decreasing your stamina and energy levels."
 Pk_3_3_Athletic_PerkDescription,"You start with very high fitness levels, dramatically increasing your stamina and energy levels.","You start with very high fitness levels, dramatically increasing your stamina and energy levels."
