@@ -2148,7 +2148,7 @@ ThicketOak_MuddyWay_SpecialDurability1.OnFull.ActionName,Common,Common
 ThicketOak_WhisperingThicket_SpecialDurability1.OnFull.ActionName,Common,Common
 ThicketOak_WildThicket_SpecialDurability1.OnFull.ActionName,Common,Common
 SpiritShrine_Earth_SacredOak_DismantleActions[0].ActionName,Commune,Commune
-COMPLETE,Complete,Complete
+COMPLETE,Complete,完了
 AdvancedMagic_Obj2_CompleteAFamiliarRitual_ObjectiveDescription,Complete a Summoning Ritual,Complete a Summoning Ritual
 AdvancedMagic_Sub2_CompleteAFamiliarRitual_QuestTitle,Complete a Summoning Ritual,Complete a Summoning Ritual
 AdvancedMagic_Completed_OnCompleteActions[0].ActionName,Completed,Completed
@@ -7417,7 +7417,7 @@ FishMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer
 MeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,栄養価が高い。\n\n調理したり乾燥させるこで長持ちする。
 SaturationNuts_GameName,Nuts Saturation,Nuts Saturation
 Nutty_FlavourName,Nutty,Nutty
-OBJECTIVE_COMPLETE,OBJECTIVE COMPLETE,OBJECTIVE COMPLETE
+OBJECTIVE_COMPLETE,OBJECTIVE COMPLETE,目標達成
 OPTIONS_MENU_TITLE,OPTIONS,オプション
 Bark_CardName,Oak Bark,Oak Bark
 OakLog_CardName,Oak Log,Oak Log
