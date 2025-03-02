@@ -2941,14 +2941,14 @@ PartridgeFemaleTied_CardInteractions[2].ActionName,Cut Open,Cut Open
 PartridgeMaleFree_CardInteractions[2].ActionName,Cut Open,Cut Open
 PartridgeMaleTied_CardInteractions[2].ActionName,Cut Open,Cut Open
 Wood_CardInteractions[0].ActionName,Cut Shavings,Cut Shavings
-OakTreeLarge_CardInteractions[0].ActionName,Cut Tree,Cut Tree
-OakTreeLarge_CardInteractions[1].ActionName,Cut Tree,Cut Tree
-OakTreeSmall_CardInteractions[0].ActionName,Cut Tree,Cut Tree
-PineTreeLarge_CardInteractions[0].ActionName,Cut Tree,Cut Tree
-PineTreeLarge_CardInteractions[1].ActionName,Cut Tree,Cut Tree
-PineTreeSmall_CardInteractions[0].ActionName,Cut Tree,Cut Tree
-SpiritShrine_Earth_SacredOak_CardInteractions[0].ActionName,Cut Tree,Cut Tree
-SpiritShrine_Earth_SacredOak_CardInteractions[1].ActionName,Cut Tree,Cut Tree
+OakTreeLarge_CardInteractions[0].ActionName,Cut Tree,木を切る
+OakTreeLarge_CardInteractions[1].ActionName,Cut Tree,木を切る
+OakTreeSmall_CardInteractions[0].ActionName,Cut Tree,木を切る
+PineTreeLarge_CardInteractions[0].ActionName,Cut Tree,木を切る
+PineTreeLarge_CardInteractions[1].ActionName,Cut Tree,木を切る
+PineTreeSmall_CardInteractions[0].ActionName,Cut Tree,木を切る
+SpiritShrine_Earth_SacredOak_CardInteractions[0].ActionName,Cut Tree,木を切る
+SpiritShrine_Earth_SacredOak_CardInteractions[1].ActionName,Cut Tree,木を切る
 WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription,Cut down a Small Tree,小さな木を切り倒す
 WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription*,Cut down a Small Tree,小さな木を切り倒す
 WoodcuttingBasics_Sub5_CutDownASmallTree_QuestTitle,Cut down a Small Tree,小さな木を切り倒す
@@ -2957,7 +2957,7 @@ OakLogPiece_CardInteractions[0].ActionName,Cut into Wood,Cut into Wood
 OakLogPiece_CardInteractions[1].ActionName,Cut into Wood,Cut into Wood
 PineLogPiece_CardInteractions[0].ActionName,Cut into Wood,Cut into Wood
 PineLogPiece_CardInteractions[1].ActionName,Cut into Wood,Cut into Wood
-OakTreeSmall_CardDescription,Cut it down to get a long stick along with some twigs and leaves.,切りた倒すことで、小枝や葉っぱ、長い棒を得る。
+OakTreeSmall_CardDescription,Cut it down to get a long stick along with some twigs and leaves.,切り倒すことで、小枝や葉っぱ、長い棒を得る。
 tag_Cutter_InGameName,Cutter,Cutter
 DMG_Cutting_Name,Cutting,Cutting
 GpTag_CuttingTool_TabName,Cutting Tool,Cutting Tool
