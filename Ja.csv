@@ -496,7 +496,7 @@ AlertnessAid_Statuses[5].GameName,Alertness Aid,Alertness Aid
 LQ_SpiritDeer_DismantleActions[0].ActionName,Alertness Aid,Alertness Aid
 FULL_GAME_FEATURES,"All Characters + Character Creator\nAll Island Environments, Animals, Crops and Blueprints","All Characters + Character Creator\nAll Island Environments, Animals, Crops and Blueprints"
 Pk_0_0_AllKnowing_PerkName,All Knowing,全知
-Rash_Statuses[1].Description,All red and really itchy.,All red and really itchy.
+Rash_Statuses[1].Description,All red and really itchy.,真っ赤になって、かゆくてたまらない。
 FrostleafEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,Alleviates inflamation and provides a mild numbing effect against pain and headaches. 
 FrostleafPasteEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain.,Alleviates inflamation and provides a mild numbing effect against pain.
 Bp_SoothingPaste_CardDescription,"Alleviates inflamation, rashes and burns. Numbs pain and is ideal for treating foot and hand damage.","Alleviates inflamation, rashes and burns. Numbs pain and is ideal for treating foot and hand damage."
@@ -1133,15 +1133,15 @@ GpTag_BoarsFavorite_TabName,Boars Favorite,Boars Favorite
 BodyTemperature_GameName,Body Temperature,体温
 BodyTemperature_TooMuchText,Body temperature too high. ,Body temperature too high. 
 BodyTemperature_NotEnoughText,Body temperature too low. ,体温が低すぎる。
-AcornsPoisonRaw_SpecialDurability4.CardStatName,Boil,Boil
-AcornsSpiritRaw_SpecialDurability4.CardStatName,Boil,Boil
-ClayBowl_CookingRecipes[1].ActionName,Boil,Boil
-CookingPot_CookingRecipes[1].ActionName,Boil,Boil
-FirerootCutFresh_SpecialDurability4.CardStatName,Boil,Boil
-HealersMoss_SpecialDurability4.CardStatName*,Boil,Boil
-NettleLeavesDried_SpecialDurability4.CardStatName,Boil,Boil
-NettleLeavesRaw_SpecialDurability4.CardStatName,Boil,Boil
-TurnrootFresh_SpecialDurability4.CardStatName,Boil,Boil
+AcornsPoisonRaw_SpecialDurability4.CardStatName,Boil,煮る
+AcornsSpiritRaw_SpecialDurability4.CardStatName,Boil,煮る
+ClayBowl_CookingRecipes[1].ActionName,Boil,煮る
+CookingPot_CookingRecipes[1].ActionName,Boil,煮る
+FirerootCutFresh_SpecialDurability4.CardStatName,Boil,煮る
+HealersMoss_SpecialDurability4.CardStatName*,Boil,煮る
+NettleLeavesDried_SpecialDurability4.CardStatName,Boil,煮る
+NettleLeavesRaw_SpecialDurability4.CardStatName,Boil,煮る
+TurnrootFresh_SpecialDurability4.CardStatName,Boil,煮る
 BasicBaking_Obj1_BoilOrLeechSomeAcorns_ObjectiveDescription,Boil or Leech some Acorns,Boil or Leech some Acorns
 BasicBaking_Sub1_BoilOrLeechSomeAcorns_QuestTitle,Boil or Leech some Acorns,Boil or Leech some Acorns
 BasicCooking_Obj1_BoilSomeNettleLeaves_ObjectiveDescription,Boil some Nettle Leaves,Boil some Nettle Leaves
@@ -1555,7 +1555,7 @@ Fat_CardDescription,Can be used to flavour and enrich food when heated up.,Can b
 NettlePatchWild_CardDescription,Can be used to make twine and cloth and for its edible leaves. Should handle it with caution due to its stinging hairs.,紐や布の材料になり、葉は食用になる。 刺毛があるので取り扱いには注意が必要。
 Bp_ClayCauldron_CardDescription,Can be used to prepare broths and stews.,Can be used to prepare broths and stews.
 ClayCauldron_CardDescription,Can be used to prepare broths and stews.,Can be used to prepare broths and stews.
-NettleStems_CardDescription,"Can break them into fibers to make twine, or soak and dry them to increase their quality.","Can break them into fibers to make twine, or soak and dry them to increase their quality."
+NettleStems_CardDescription,"Can break them into fibers to make twine, or soak and dry them to increase their quality.",繊維をほぐして紐を作れる。水に浸して乾燥させれば品質が向上する。
 RyeDoughRaw_CardDescription,Can cook it in a fire or oven to make flatbread. Can also knead it to increase its quality and mix it with yeast to bake it into proper bread.,Can cook it in a fire or oven to make flatbread. Can also knead it to increase its quality and mix it with yeast to bake it into proper bread.
 AcornDoughRaw_CardDescription,Can cook it in a fire or oven to make flatbread. Can also knead it to increase its quality.,Can cook it in a fire or oven to make flatbread. Can also knead it to increase its quality.
 CookingPot_CardDescription,Can cook multiple things on it.,Can cook multiple things on it.
@@ -1669,10 +1669,10 @@ IntermediateFishing_Obj4_CatchASturgeon_ObjectiveDescription,Catch a Sturgeon,Ca
 IntermediateFishing_Sub4_CatchASturgeon_QuestTitle,Catch a Sturgeon,Catch a Sturgeon
 IntermediateFishing_Obj2_CatchATrout_ObjectiveDescription,Catch a Trout,Catch a Trout
 IntermediateFishing_Sub2_CatchATrout_QuestTitle,Catch a Trout,Catch a Trout
-Fever_Description,"Caused by Bacteria. Lowers your hydration, morale, stamina and mental structure. ","Caused by Bacteria. Lowers your hydration, morale, stamina and mental structure. "
+Fever_Description,"Caused by Bacteria. Lowers your hydration, morale, stamina and mental structure. ",バクテリアによるもの。 水分補給、士気、スタミナ、精神構造を低下させる。
 BloodLoss_Description,"Caused by bleeding wounds, use Tourniquets and Dressings to lower it.","Caused by bleeding wounds, use Tourniquets and Dressings to lower it."
 FoodPoisoning_Description,"Caused by eating something bad. Causes nausea, pain and diarrhoea.","Caused by eating something bad. Causes nausea, pain and diarrhoea."
-Sunburn_Description,Caused by exposing your skin to the sun for too long. Can cause burns if it gets too high.,Caused by exposing your skin to the sun for too long. Can cause burns if it gets too high.
+Sunburn_Description,Caused by exposing your skin to the sun for too long. Can cause burns if it gets too high.,日光に長時間肌をさらすことが原因。 高すぎると火傷の原因になる。
 Bruising_Description,"Caused by hard impacts, produces pain.","Caused by hard impacts, produces pain."
 Burns_Description,Caused by over-exposure to the sun or by coming in contact with fire.,Caused by over-exposure to the sun or by coming in contact with fire.
 BugBites_Description,Caused by spending time in areas with high bug populations. They give pain and increase chances of catching diseases.,Caused by spending time in areas with high bug populations. They give pain and increase chances of catching diseases.
@@ -2700,8 +2700,8 @@ FishingRod_CardDescription,Could use this for fishing. Adding some bait should i
 Counter_GameName,Counter,Counter
 FirstMonthCounter_Statuses[1].GameName,Counter Ready,Counter Ready
 Courage_GameName,Courage,Courage
-NettleLeavesDried_CardDescription,Covered in fine stinging hairs. Can be boiled to make them safe.,Covered in fine stinging hairs. Can be boiled to make them safe.
-NettleLeavesRaw_CardDescription,Covered in fine stinging hairs. Can be boiled to make them safe.,Covered in fine stinging hairs. Can be boiled to make them safe.
+NettleLeavesDried_CardDescription,Covered in fine stinging hairs. Can be boiled to make them safe.,細かい刺毛に覆われている。 茹でると安全。
+NettleLeavesRaw_CardDescription,Covered in fine stinging hairs. Can be boiled to make them safe.,細かい刺毛に覆われている。 茹でると安全。
 SkinHumidity_Statuses[3].GameName,Cracking Skin,Cracking Skin
 BasicPottery_Obj3_CraftAClayBowl_ObjectiveDescription,Craft A Clay Bowl,Craft A Clay Bowl
 BasicPottery_Obj3_CraftAClayBowl_ObjectiveDescription*,Craft A Clay Bowl,Craft A Clay Bowl
@@ -3413,8 +3413,8 @@ Weather_1_Drizzle_CardName,Drizzle,霧雨 (1)
 BloodPressure_Description,Drops when you are losing blood and kills you when it reaches 0. Use Tourniquets and dressings to help recover pressure.,Drops when you are losing blood and kills you when it reaches 0. Use Tourniquets and dressings to help recover pressure.
 Event_DrumMenu_CardName,Drum,Drum
 AlcoholEffect_Statuses[1].GameName,Drunk,Drunk
-Humidity_Statuses[0].GameName,Dry,Dry
-Wetness_Statuses[0].GameName,Dry,Dry
+Humidity_Statuses[0].GameName,Dry,乾燥している
+Wetness_Statuses[0].GameName,Dry,濡れていない
 AppleWeedDried_CardName,Dry Appleweed,Dry Appleweed
 HearthAwakened_CookingRecipes[3].ActionName,Dry Appleweed,Dry Appleweed
 Hearth_CookingRecipes[3].ActionName,Dry Appleweed,Dry Appleweed
@@ -3876,10 +3876,10 @@ IntermediatePottery_Obj1_ExtractCoalFromAFire_ObjectiveDescription,Extract Coal 
 IntermediatePottery_Obj1_ExtractCoalFromAFire_ObjectiveDescription*,Extract Coal from a Fire,Extract Coal from a Fire
 IntermediatePottery_Sub1_ExtractCoalFromAFire_QuestTitle,Extract Coal from a Fire,Extract Coal from a Fire
 IntermediatePottery_Sub1_ExtractCoalFromAFire_QuestTitle*,Extract Coal from a Fire,Extract Coal from a Fire
-NettleStemsPlantedDormant_DismantleActions[0].ActionName,Extract Fibers,Extract Fibers
-NettleStemsPlantedGrowing_DismantleActions[0].ActionName,Extract Fibers,Extract Fibers
-NettleStems_DismantleActions[0].ActionName,Extract Fibers,Extract Fibers
-NettleStems_DismantleActions[1].ActionName,Extract Fibers,Extract Fibers
+NettleStemsPlantedDormant_DismantleActions[0].ActionName,Extract Fibers,繊維の抽出
+NettleStemsPlantedGrowing_DismantleActions[0].ActionName,Extract Fibers,繊維の抽出
+NettleStems_DismantleActions[0].ActionName,Extract Fibers,繊維の抽出
+NettleStems_DismantleActions[1].ActionName,Extract Fibers,繊維の抽出
 Appetite_Statuses[5].GameName,Extreme,Extreme
 Blindness_Statuses[3].GameName,Extreme Blidness,Extreme Blidness
 BugDamage_Statuses[3].GameName,Extreme Bug Damage,Extreme Bug Damage
@@ -4162,9 +4162,9 @@ FertilityBoon_Statuses[5].GameName,Fertility Boon,Fertility Boon
 Fertilizer_CardName,Fertilizer,Fertilizer
 GpTag_Fertilizer_TabName,Fertilizer,Fertilizer
 tag_Fertilizer_InGameName,Fertilizer,Fertilizer
-Fever_GameName,Fever,Fever
-Fever_Statuses[0].GameName,Fever,Fever
-Fever_Statuses[1].GameName,Fever,Fever
+Fever_GameName,Fever,発熱
+Fever_Statuses[0].GameName,Fever,発熱
+Fever_Statuses[1].GameName,Fever,発熱
 Fibers_CardName,Fibers,Fibers
 FallowField_SpecialDurability1.CardStatName,Field Status,Field Status
 TilledField_SpecialDurability1.CardStatName,Field Status,Field Status
@@ -5501,7 +5501,7 @@ GingerEffect_Statuses[1].GameName,High Dose,High Dose
 Energy_Statuses[3].GameName,High Energy,High Energy
 Pk_2_HighEstrogen_PerkName,High Estrogen,高エストロゲン
 FairyweedEffect_Statuses[2].GameName,High Fairyweed Dose,High Fairyweed Dose
-Fever_Statuses[2].GameName,High Fever,High Fever
+Fever_Statuses[2].GameName,High Fever,高い発熱
 FirerootToxicityEffect_Statuses[2].GameName,High Fireroot Toxicity,High Fireroot Toxicity
 Fitness_Statuses[1].GameName,High Fitness,High Fitness
 LungrotSpores_Statuses[2].GameName,High Lungrot Exposure,High Lungrot Exposure
@@ -5553,7 +5553,7 @@ Structure_Description,How predictable and stable your worldview feels. Stresses 
 BugProtection_Description,How protected you are against bug bites.,How protected you are against bug bites.
 RainProtection_Description,How protected you are from the rain.,How protected you are from the rain.
 Comfort_Description,"How safe, meaningful and comfortable a place feels. Lowers stress and increases wellbeing and mental structure.\n\nAdd furniture, improvements and decorations to increase it.",その場所がいかに安全で、有意義で、心地よく感じられるか。 ストレスを軽減し、幸福度と精神構造を高める。\n\n家具や設備、装飾を追加すると高まる。
-RainValue_Description,How strong the rain is.,How strong the rain is.
+RainValue_Description,How strong the rain is.,雨の強さ
 Appetite_Statuses[4].GameName,Huge,Huge
 ExcrementHuman_CardName,Human Excrement,Human Excrement
 tag_HumanFood_InGameName,Human Food,Human Food
@@ -5846,8 +5846,8 @@ ImprovisedShelter_DismantleActions[0].StatInterruptions[1].Notification,I'm too 
 ImprovisedShelter_DismantleActions[1].StatInterruptions[1].Notification,I'm too thirsty to sleep...,喉が渇いて眠れない...
 TimeSkipOptions_Actions[4].StatInterruptions[1].Notification,I'm too thirsty to sleep...,喉が渇いて眠れない...
 TimeSkipOptions_Actions[5].StatInterruptions[1].Notification,I'm too thirsty to sleep...,喉が渇いて眠れない...
-Energy_NotEnoughText,I'm too tired for this action...,I'm too tired for this action...
-Stamina_NotEnoughText,I'm too tired for this action...,I'm too tired for this action...
+Energy_NotEnoughText,I'm too tired for this action...,この行動をするには疲れすぎている...
+Stamina_NotEnoughText,I'm too tired for this action...,この行動をするには疲れすぎている...
 Morale_Statuses[0].Description,I'm very happy with life,I'm very happy with life
 Morale_Statuses[1].Description,I'm very happy with life,I'm very happy with life
 AlcoholEffect_Statuses[2].Description,I'm... hic*... really... hic*... druuunk...,I'm... hic*... really... hic*... druuunk...
@@ -6152,8 +6152,8 @@ Grove_WillOWispGrove2_CardDescription,It's too dark to see anything.,暗すぎ�
 Light_Statuses[0].Description,It's too dark to see.,暗すぎて見えない。
 MouseDamageCounter_NotEnoughText,It's too stormy to sleep!,It's too stormy to sleep!
 WaveCounter_NotEnoughText,It's too stormy to sleep!,It's too stormy to sleep!
-BugBites_Statuses[0].Description,Itches...,Itches...
-Rash_Statuses[0].Description,Itches...,Itches...
+BugBites_Statuses[0].Description,Itches...,かゆい...
+Rash_Statuses[0].Description,Itches...,かゆい...
 BedImprovised_DismantleActions[0].StatInterruptions[0].Notification,Its flooding!,Its flooding!
 BedImprovised_DismantleActions[1].StatInterruptions[0].Notification,Its flooding!,Its flooding!
 BedLog_DismantleActions[0].StatInterruptions[0].Notification,Its flooding!,Its flooding!
@@ -6692,7 +6692,7 @@ Pop_Wolf_Statuses[1].GameName,Medium Population,Medium Population
 tag_ProcessedMedium_InGameName,Medium Processed,Medium Processed
 RainProtection_Statuses[1].GameName,Medium Protection,Medium Protection
 tag_ProteinsMedium_InGameName,Medium Proteins,Medium Proteins
-RainExposure_Statuses[1].GameName,Medium Rain,Medium Rain
+RainExposure_Statuses[1].GameName,Medium Rain,雨
 SeaSicknessResistance_Statuses[2].GameName,Medium Resistance,Medium Resistance
 tag_SugarsMedium_InGameName,Medium Sugars,Medium Sugars
 OvenExtinguished_CookingRecipes[4].ActionName,"Medium Temperature: Cook ( Fresh, Raw, etc. ) and Dry","Medium Temperature: Cook ( Fresh, Raw, etc. ) and Dry"
@@ -6747,7 +6747,7 @@ Lungrot_Statuses[0].GameName,Minor Lungrot Infection,Minor Lungrot Infection
 Pain_Statuses[0].GameName,Minor Pain,Minor Pain
 RainProtection_Statuses[0].GameName,Minor Protection,Minor Protection
 Psylocibin_Statuses[0].GameName,Minor Psylocibin Dose,Minor Psylocibin Dose
-Rash_Statuses[0].GameName,Minor Rash,Minor Rash
+Rash_Statuses[0].GameName,Minor Rash,軽度の発疹
 SeaSicknessResistance_Statuses[1].GameName,Minor Resistance,Minor Resistance
 RiceEffect_Statuses[0].GameName,Minor Rice Effect,Minor Rice Effect
 SleepDeprivationEffects_Statuses[0].GameName,Minor Sleep Deprivation,Minor Sleep Deprivation
@@ -7142,7 +7142,7 @@ ImmuneSystem_Statuses[0].GameName,No Immune System,No Immune System
 NO_IMPROVEMENTS,No Improvements Unlocked,アンロックされた改良なし
 IfKidneys_Statuses[0].GameName,No Kidneys,No Kidneys
 Structure_Statuses[0].GameName,No Mental Structure,No Mental Structure
-RainValue_Statuses[5].GameName,No Rain,No Rain
+RainValue_Statuses[5].GameName,No Rain,雨なし
 SeaSicknessResistance_Statuses[0].GameName,No Resistance,No Resistance
 SunExposure_Statuses[0].GameName,No Sun Exposure,No Sun Exposure
 SunStrength_Statuses[0].GameName,No Sun Strength,No Sun Strength
@@ -7635,7 +7635,7 @@ PeasCooked_UsageDurability.OnFull.ActionDescription,Peas dried!,Peas dried!
 PeasFresh_UsageDurability.OnFull.ActionDescription,Peas dried!,Peas dried!
 FirerootFresh_CardInteractions[0].ActionName,Peel & Cut ,Peel & Cut 
 FurLeather_CardName,Pelt,Pelt
-TemperaturePerceived_GameName,Perceived Temperature,Perceived Temperature
+TemperaturePerceived_GameName,Perceived Temperature,体感温度
 Fish_Perch_CardName,Perch,Perch
 Skill_Percussion_GameName,Percussion,Percussion
 HearthAwakened_CardDescription,Perfect for cooking food and warming yourself up.,Perfect for cooking food and warming yourself up.
@@ -8122,7 +8122,7 @@ RainExposure_GameName,Rain Exposure,Rain Exposure
 RainKiller_GameName,Rain Killer,Rain Killer
 RainProtection_GameName,Rain Protection,Rain Protection
 tag_RainSource_InGameName,Rain Source,Rain Source
-RainValue_GameName,Rain Value,Rain Value
+RainValue_GameName,Rain Value,雨値
 NoRainCounter_Description,Rain counter,Rain counter
 QualityOfLife_TagTooltip,Raises your Quality of Life,Raises your Quality of Life
 BadgerUrge_Description,"Raises your stress levels if not satisfied.\nCan be satisfied by foraging, digging and spending time underground.","Raises your stress levels if not satisfied.\nCan be satisfied by foraging, digging and spending time underground."
@@ -8169,8 +8169,8 @@ ThicketOak_MuddyThicket_SpecialDurability3.OnFull.ActionName,Rare,Rare
 ThicketOak_MuddyWay_SpecialDurability3.OnFull.ActionName,Rare,Rare
 ThicketOak_WhisperingThicket_SpecialDurability3.OnFull.ActionName,Rare,Rare
 ThicketOak_WildThicket_SpecialDurability3.OnFull.ActionName,Rare,Rare
-Rash_GameName,Rash,Rash
-Rash_Statuses[1].GameName,Rash,Rash
+Rash_GameName,Rash,発疹
+Rash_Statuses[1].GameName,Rash,発疹
 Satiation_Statuses[7].GameName,Ravenous,飢えている (7)
 AcornsPoisonRaw_CardName,Raw Acorns,Raw Acorns
 BreadLoafRaw_CardName,Raw Bread Loaf,Raw Bread Loaf
@@ -8600,7 +8600,7 @@ HandDamage_Statuses[1].GameName,Severe Hand Damage,Severe Hand Damage
 Headache_Statuses[2].GameName,Severe Headache,Severe Headache
 LungDamage_Statuses[2].GameName,Severe Lung Damage,Severe Lung Damage
 Lungrot_Statuses[2].GameName,Severe Lungrot Infection,Severe Lungrot Infection
-Rash_Statuses[2].GameName,Severe Rash,Severe Rash
+Rash_Statuses[2].GameName,Severe Rash,重度の発疹
 Infection_Systemic_Statuses[7].GameName,Severe Sepsis,Severe Sepsis
 SunAllergy_Statuses[1].GameName,Severe Sun Damage,Severe Sun Damage
 Sunburn_Statuses[1].GameName,Severe Sunburn,Severe Sunburn
@@ -8768,7 +8768,7 @@ SaturationNuts_Description,Shows how tired you are of eating nuts. Lowers your w
 SaturationStew_Description,Shows how tired you are of eating stew. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating stew. Lowers your wellbeing and gets you nauseous if it gets too high.
 SaturationSugar_Description,Shows how tired you are of eating sugar. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating sugar. Lowers your wellbeing and gets you nauseous if it gets too high.
 SaturationVegetables_Description,Shows how tired you are of eating vegetables. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating vegetables. Lowers your wellbeing and gets you nauseous if it gets too high.
-Wetness_Description,Shows how wet you are. Lowers your temperature and fever.,Shows how wet you are. Lowers your temperature and fever.
+Wetness_Description,Shows how wet you are. Lowers your temperature and fever.,どれだけ濡れているか表す。 体温と熱を下げる。
 SunStrength_Description,Shows strong the sun is.,Shows strong the sun is.
 Sodium_Description,Shows the level of sodium in your body. Will dehydrate you and make you nauseous when high.,Shows the level of sodium in your body. Will dehydrate you and make you nauseous when high.
 Sheltered_Description,"Shows whether you're protected from the elements, such as wind and rain.",風や雨などの要素から保護されているかどうかを表す。
@@ -8800,7 +8800,7 @@ SkinFleshed_FuelCapacity.OnZero.ActionName,Skin Cured!,Skin Cured!
 SkinFleshed_SpoilageTime.OnFull.ActionDescription,Skin Cured!,Skin Cured!
 SkinFleshed_SpoilageTime.OnZero.ActionName,Skin Cured!,Skin Cured!
 SkinLeather_SpoilageTime.OnZero.ActionName,Skin Cured!,Skin Cured!
-SkinHumidity_GameName,Skin Humidity,Skin Humidity
+SkinHumidity_GameName,Skin Humidity,皮膚の湿度
 SkinIntegrity_GameName,Skin Integrity,Skin Integrity
 SkinIntegrity_Statuses[0].GameName,Skin Integrity,Skin Integrity
 SkinIntegrity_Statuses[1].GameName,Skin Integrity,Skin Integrity
@@ -8920,7 +8920,7 @@ BasicWeaving_Sub1_SoakReedsToIncreaseTheirQuality_QuestTitle*,Soak and Dry Reeds
 BasicWeaving_Obj1_SoakReedsToIncreaseTheirQuality_ObjectiveDescription,Soak and dry Reeds to increase their Quality,Soak and dry Reeds to increase their Quality
 BasicWeaving_Obj1_SoakReedsToIncreaseTheirQuality_ObjectiveDescription*,Soak and dry Reeds to increase their Quality,Soak and dry Reeds to increase their Quality
 LQ_SoakedRye_CardName,Soaked Rye,Soaked Rye
-Wetness_Statuses[2].GameName,Soaked Wet,Soaked Wet
+Wetness_Statuses[2].GameName,Soaked Wet,びしょ濡れ
 NettleStemsLocation_CardName,Soaking Nettle Stems,Soaking Nettle Stems
 ReedsFreshLocation_CardName,Soaking Reeds,Soaking Reeds
 NettleStemsLocation_CardDescription,Soaking up on water to increase their quality.,Soaking up on water to increase their quality.
@@ -9175,7 +9175,7 @@ Agent_StagExists_GameName,Stag Exists,Stag Exists
 MudHutConstructionDoorConnectionUp_CardName,Stairs (Up),Stairs (Up)
 AmbushAid_GameName,Stalker's Favour,Stalker's Favour
 Stamina_GameName,Stamina,スタミナ
-START,Start,Start
+START,Start,開始
 START_BUILDING,Start the construction of ,Start the construction of 
 Pk_0_0_AllKnowing_PerkDescription,Start with all blueprints unlocked.,すべての設計図がアンロックされた状態でスタートする。
 STARTING_CONDITIONS,Starting Conditions,Starting Conditions
@@ -9229,7 +9229,7 @@ ClayStoragePot_CardName,Storage Pot,Storage Pot
 ClayStoragePotUnfired_SpecialDurability1.OnFull.ActionDescription,Storage Pot fired.,Storage Pot fired.
 SnowPile_CardInteractions[0].ActionName,Store,Store
 INVENTORY_STORE,Store inside {0},Store inside {0}
-RainExposure_Statuses[3].GameName,Storm Rain,Storm Rain
+RainExposure_Statuses[3].GameName,Storm Rain,嵐
 SeaAgitation_Statuses[4].GameName,Storm Waters,Storm Waters
 StrangeLookingWall_CardName,Strange Looking Wall,Strange Looking Wall
 Event_FluteTunes3_DismantleActions[2].ActionDescription,Strange and Deep,Strange and Deep
@@ -9270,7 +9270,7 @@ Light_Statuses[3].GameName,Strong Light,Strong Light
 LandSickness_Statuses[2].GameName,Strong Nausea,Strong Nausea
 SeaSickness_Statuses[2].GameName,Strong Nausea,Strong Nausea
 WindNorth_Statuses[2].GameName,Strong North,Strong North
-RainValue_Statuses[4].GameName,Strong Rain,Strong Rain
+RainValue_Statuses[4].GameName,Strong Rain,大雨
 WindSouth_Statuses[2].GameName,Strong South,Strong South
 SpiderLilyEffect_Statuses[1].GameName,Strong Spider Lily Effect,Strong Spider Lily Effect
 SunExposure_Statuses[3].GameName,Strong Sun Exposure,Strong Sun Exposure
@@ -9337,8 +9337,8 @@ SunProtection_GameName,Sun Protection,Sun Protection
 SunScreenApplied_GameName,Sun Screen,Sun Screen
 SunScreenApplied_Statuses[0].GameName,Sun Screen Applied,Sun Screen Applied
 SunStrength_GameName,Sun Strength,Sun Strength
-Sunburn_GameName,Sunburn,Sunburn
-Sunburn_Statuses[0].GameName,Sunburn,Sunburn
+Sunburn_GameName,Sunburn,日焼け
+Sunburn_Statuses[0].GameName,Sunburn,日焼け
 SunlightExposure_Statuses[0].GameName,Sunlight Defficiency,Sunlight Defficiency
 SunlightExposure_GameName,Sunlight Exposure,Sunlight Exposure
 SUNS_TITLE,Suns,Suns
@@ -9619,7 +9619,7 @@ Event_WaterSpiritDead_CardDescription,The Spirit used all its power and is now l
 Event_WolfSpiritDead_CardDescription,The Spirit used all its power and is now leaving you. ,The Spirit used all its power and is now leaving you. 
 BugDamage_Description,The amount of bug bites (including mosquitoes) you are getting.,The amount of bug bites (including mosquitoes) you are getting.
 BugPopulation_Description,The amount of bugs (including mosquitoes) that can be found in a given area.,The amount of bugs (including mosquitoes) that can be found in a given area.
-TemperaturePerceived_Description,"The approximate temperature your body is perceiving. Can be increased by staying in more sheltered areas, by wearing more clothes and by warming up by a fire.","The approximate temperature your body is perceiving. Can be increased by staying in more sheltered areas, by wearing more clothes and by warming up by a fire."
+TemperaturePerceived_Description,"The approximate temperature your body is perceiving. Can be increased by staying in more sheltered areas, by wearing more clothes and by warming up by a fire.",あなたの体が感知しているおおよその温度。 日当たりの良い場所に滞在したり、衣服を多く着たり、焚き火で暖をとったりすることで体感温度を上げることができる。
 Event_FloodDamage_CardDescription,The area is flooding! The water is threatening to take you away!,The area is flooding! The water is threatening to take you away!
 Combat_EncounterBadger_EnemyGettingCloseLog.LogText,The badger charges at you!,The badger charges at you!
 Combat_EncounterBadger_EnemyDefeatedEffects.ResultLog.LogText,The badger collapses on the floor.,The badger collapses on the floor.
@@ -10402,7 +10402,7 @@ BugDamage_Statuses[2].GameName,Very High Bug Damage,Very High Bug Damage
 BugPopulation_Statuses[2].GameName,Very High Bug Population,Very High Bug Population
 Courage_Statuses[3].GameName,Very High Courage,Very High Courage
 FairyweedEffect_Statuses[3].GameName,Very High Fairyweed Dose,Very High Fairyweed Dose
-Fever_Statuses[3].GameName,Very High Fever,Very High Fever
+Fever_Statuses[3].GameName,Very High Fever,とても高い発熱
 Fitness_Statuses[0].GameName,Very High Fitness,Very High Fitness
 MuscleMass_Statuses[0].GameName,Very High Muscle Mass,Very High Muscle Mass
 BugProtection_Statuses[2].GameName,Very High Protection,Very High Protection
@@ -10436,7 +10436,7 @@ ImmuneSystem_Statuses[5].GameName,Very Strong Immune System,Very Strong Immune S
 Pk_4_VeryTall_PerkName,Very Tall Stature,Very Tall Stature
 Thirst_Statuses[3].GameName,Very Thirsty,とてものどが渇いている (3)
 Focus_Statuses[0].GameName,Very Unfocused,まるで集中できない (0)
-Rash_Statuses[2].Description,Very red and so itchy it's hard to think.,Very red and so itchy it's hard to think.
+Rash_Statuses[2].Description,Very red and so itchy it's hard to think.,とても赤くて、考えられない程かゆい。
 STRONG_FLAVOUR,Very {0},とても{0}
 VesicalPressure_GameName,Vesical Pressure,膀胱圧
 VesicalPressure_Statuses[0].GameName,Vesical Pressure,膀胱圧
@@ -10452,11 +10452,11 @@ VoidInsight_GameName,Void Insight,Void Insight
 VomitCounter_GameName,Vomit Counter,Vomit Counter
 Event_Vomit_CardName,Vomit!,Vomit!
 TimeSkipOptions_SetName,WAITING,待機
-Campfire_DismantleActions[3].ActionName,Wait by Fire,Wait by Fire
-Fireplace_DismantleActions[3].ActionName,Wait by Fire,Wait by Fire
-Kiln_DismantleActions[1].ActionName,Wait by Fire,Wait by Fire
-Oven_DismantleActions[1].ActionName,Wait by Fire,Wait by Fire
-Smokehouse__DismantleActions[1].ActionName,Wait by Fire,Wait by Fire
+Campfire_DismantleActions[3].ActionName,Wait by Fire,火を待つ
+Fireplace_DismantleActions[3].ActionName,Wait by Fire,火を待つ
+Kiln_DismantleActions[1].ActionName,Wait by Fire,火を待つ
+Oven_DismantleActions[1].ActionName,Wait by Fire,火を待つ
+Smokehouse__DismantleActions[1].ActionName,Wait by Fire,火を待つ
 Skinning_Obj2_WaitForAFleshedSkinToCure_ObjectiveDescription,Wait for a Fleshed Skin to Cure,Wait for a Fleshed Skin to Cure
 Skinning_Obj2_WaitForAFleshedSkinToCure_ObjectiveDescription*,Wait for a Fleshed Skin to Cure,Wait for a Fleshed Skin to Cure
 Skinning_Sub2_WaitForAFleshedSkinToCure_QuestTitle,Wait for a Fleshed Skin to Cure,Wait for a Fleshed Skin to Cure
@@ -10662,8 +10662,8 @@ ThicketOak_MuddyWay_DismantleActions[3].ActionName,West,西
 ThicketOak_WildThicket_DismantleActions[3].ActionName,West,西
 WEST,West,西
 WindWest_GameName,West Wind,West Wind
-OLD_HealersMoss_OldHealingFactors_CardInteractions[0].ActionName,Wet,Wet
-Wetness_Statuses[1].GameName,Wet,Wet
+OLD_HealersMoss_OldHealingFactors_CardInteractions[0].ActionName,Wet,濡れている
+Wetness_Statuses[1].GameName,Wet,濡れている
 ClothSmall_FuelCapacity.CardStatName,Wetness,濡れ
 FurBoots_FuelCapacity.CardStatName,Wetness,濡れ
 FurCoat_FuelCapacity.CardStatName,Wetness,濡れ
@@ -10691,7 +10691,7 @@ ReedsFresh_FuelCapacity.CardStatName,Wetness,水分
 ReedsFresh_SpoilageTime.CardStatName,Wetness,水分
 ShirtCloth_FuelCapacity.CardStatName,Wetness,濡れ
 Splint_FuelCapacity.CardStatName,Wetness,濡れ
-Wetness_GameName,Wetness,濡れ
+Wetness_GameName,Wetness,濡れ具合
 Dmg_RoofCollapsed_CardDescription,What a mess...,What a mess...
 SuccessChanceLabels_ModifiedSuccessLabels[1].LabelText,What could go wrong?,What could go wrong?
 Morale_Statuses[5].Description,What is the point...,What is the point...
