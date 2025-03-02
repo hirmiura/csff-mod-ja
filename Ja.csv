@@ -8,7 +8,7 @@ LQ_SpiritBadger_LiquidSuffixName,(Badger),(Badger)
 LQ_SpiritBoar_LiquidSuffixName,(Boar),(Boar)
 LQ_SpiritDarkness_LiquidSuffixName,(Darkness),(Darkness)
 LQ_SpiritDeer_LiquidSuffixName,(Deer),(Deer)
-DRAG_TO_BUILD,(Drag here to build),(Drag here to build)
+DRAG_TO_BUILD,(Drag here to build),(ここにドラッグして建てる)
 LQ_SpiritEarth_LiquidSuffixName,(Earth),(Earth)
 LQ_SpiritFear_LiquidSuffixName,(Fear),(Fear)
 LQ_SpiritFire_LiquidSuffixName,(Fire),(Fire)
@@ -265,7 +265,7 @@ WoodCarving_Unfinished_CardDescription,A work in progress. Should continue worki
 WoodenPlate_Unfinished_CardDescription,A work in progress. Should continue working on it with a knife.,A work in progress. Should continue working on it with a knife.
 JohnDoe_CharacterDescription,"A young man, average in everything.","A young man, average in everything."
 JaneDoe_CharacterDescription,"A young woman, average in everything.","A young woman, average in everything."
-AUTOFILL,AUTO-FILL,AUTO-FILL
+AUTOFILL,AUTO-FILL,自動補充
 W_Abrasion_CardName,Abrasion,Abrasion
 W_Abrasion_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
 W_BarrenCurse_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
@@ -312,7 +312,7 @@ TurnrootFieldMature_UsageDurability.CardStatName,Acidity,酸性度
 AcornDoughRaw_CardName,Acorn Dough,Acorn Dough
 AcornFlatBread_CardName,Acorn FlatBread,Acorn FlatBread
 AcornFlourRaw_CardName,Acorn Flour,Acorn Flour
-Stamina_Statuses[2].GameName,Active,Active
+Stamina_Statuses[2].GameName,Active,アクティブ (2)
 WinterStormPackage_Statuses[0].GameName,Active,Active
 Pk_2_5_ActiveBowels_PerkName,Active Bowels,Active Bowels
 LQ_Fairybrew_SpecialDurability2.CardStatName,Activity,Activity
@@ -670,7 +670,7 @@ HearthAwakened_CardName,Awakened Hearth,Awakened Hearth
 tag_Axe_InGameName,Axe,Axe
 Skill_AxeFighting_GameName,Axe Fighting,Axe Fighting
 BLUEPRINT_RESEARCHED_TITLE,BLUEPRINT RESEARCHED,BLUEPRINT RESEARCHED
-BLUEPRINT_MODELS,BLUEPRINTS,青写真
+BLUEPRINT_MODELS,BLUEPRINTS,設計図
 BACK,Back,戻る
 eTag_Backpack_InGameName,Back,Back
 tag_Backpack_InGameName,Backpack,Backpack
@@ -980,122 +980,122 @@ Event_WaterSpiritBlessingGranted_CardName,Blessing,Blessing
 Event_WolfSpiritBlessingGranted_CardName,Blessing,Blessing
 Blindness_GameName,Blidness,Blidness
 DarknessSpirit_WeaponMove_Blindness_ActionName,Blindness,Blindness
-Weather_5_Blizzard_CardName,Blizzard,Blizzard
+Weather_5_Blizzard_CardName,Blizzard,ブリザード (5)
 SpearBlock_ActionName,Block,Block
 BloodLoss_GameName,Blood Loss,Blood Loss
 BloodPressure_GameName,Blood Pressure,Blood Pressure
 BloodSpilled_GameName,Blood Spilled,Blood Spilled
-BLUEPRINT,Blueprint,青写真
-BLUEPRINTS,Blueprints,青写真
-AdvancedMagic_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-AdvancedPottery_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-AdvancedPottery_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-AnimalHusbandry_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicArchery_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicBaking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicBrewing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicCarpentry_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicCarpentry_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicCooking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicCooking_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicFarming_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicFarming_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicFishing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicFishing_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicFurnitureMaking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicGardening_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicGardening_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicHerbalism_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicHerbalism_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicHunting_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicHunting_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicLeatherClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicLeatherCrafts_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicLeatherworking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicLeatherworking_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicMagic_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicPlantwear_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicPottery_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicPottery_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicSpearfighting_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicSurvivalGear_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicSurvival_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicTailoring_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicTanning_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicTrapping_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicTrapping_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicTravelingGear_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicWeaving_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicWeaving_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicWoodworking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicWoodworking_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicWoundTreatment_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-BasicWoundTreatment_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-BeastAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-ChickenHusbandry_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Drying_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-EarthAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-ExploreTheFairyHole_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-FireAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-FireBasics_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-FireBasics_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-FoodPreservation_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-FractureAndSprainTreatment_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-FurClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-FurClothing_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-Hearth_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-HomeImprovements_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-HouseBuilding_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-ImprovisedShelter_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-ImprovisedShelter_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateArchery_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateBaking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateCooking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateCooking_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateCraftmanship_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateFishing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateFurnitureMaking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateGardening_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateHerbalism_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateHunting_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateHunting_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateLeatherworking_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateMagic_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediatePlantwear_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediatePottery_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediatePottery_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateTailoring_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateTrapping_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateTrapping_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateTravelingGear_Completed_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-IntermediateWeaving_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Knapping_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-LeatherArmor_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-LeatherClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-MudHutImprovements_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-MudHut_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-MudWorkingTools_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Number1_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Number2_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-PoultryFarming_Completed_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-PoultryFarming_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Repairs_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Resting_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-SettlingDown_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-ShelteredSleep_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Skinning_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Skinning_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-StayingWarm_Completed_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-SurvivingTheNight_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-SurvivingTheNight_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-TQT_IntermediateGardening_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-WaterAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-WillOWisp_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-WillOWisp_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
-WinterSurvival_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Woodcarving_Completed_Event_CardDescription,Blueprints and Tasks Available,青写真とタスクが利用可能
-Woodcarving_Completed_Event_CardDescription*,Blueprints and Tasks Available,青写真とタスクが利用可能
+BLUEPRINT,Blueprint,設計図
+BLUEPRINTS,Blueprints,設計図
+AdvancedMagic_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+AdvancedPottery_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+AdvancedPottery_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+AnimalHusbandry_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicArchery_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicBaking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicBrewing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicCarpentry_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicCarpentry_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicCooking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicCooking_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicFarming_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicFarming_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicFishing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicFishing_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicFurnitureMaking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicGardening_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicGardening_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicHerbalism_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicHerbalism_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicHunting_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicHunting_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicLeatherClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicLeatherCrafts_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicLeatherworking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicLeatherworking_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicMagic_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicPlantwear_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicPottery_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicPottery_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicSpearfighting_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicSurvivalGear_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicSurvival_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicTailoring_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicTanning_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicTrapping_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicTrapping_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicTravelingGear_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicWeaving_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicWeaving_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicWoodworking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicWoodworking_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicWoundTreatment_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+BasicWoundTreatment_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+BeastAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+ChickenHusbandry_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Drying_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+EarthAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+ExploreTheFairyHole_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+FireAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+FireBasics_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+FireBasics_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+FoodPreservation_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+FractureAndSprainTreatment_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+FurClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+FurClothing_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+Hearth_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+HomeImprovements_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+HouseBuilding_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+ImprovisedShelter_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+ImprovisedShelter_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateArchery_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateBaking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateCooking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateCooking_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateCraftmanship_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateFishing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateFurnitureMaking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateGardening_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateHerbalism_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateHunting_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateHunting_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateLeatherworking_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateMagic_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediatePlantwear_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediatePottery_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediatePottery_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateTailoring_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateTrapping_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateTrapping_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateTravelingGear_Completed_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+IntermediateWeaving_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Knapping_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+LeatherArmor_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+LeatherClothing_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+MudHutImprovements_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+MudHut_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+MudWorkingTools_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Number1_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Number2_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+PoultryFarming_Completed_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+PoultryFarming_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Repairs_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Resting_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+SettlingDown_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+ShelteredSleep_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Skinning_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Skinning_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+StayingWarm_Completed_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+SurvivingTheNight_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+SurvivingTheNight_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+TQT_IntermediateGardening_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+WaterAffinity_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+WillOWisp_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+WillOWisp_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
+WinterSurvival_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Woodcarving_Completed_Event_CardDescription,Blueprints and Tasks Available,設計図とタスクが利用可能
+Woodcarving_Completed_Event_CardDescription*,Blueprints and Tasks Available,設計図とタスクが利用可能
 DMG_Blunt_Name,Blunt,Blunt
 DMG_Fire_Name,Blunt,Blunt
 Agent_Boar_AgentName,Boar,Boar
@@ -1473,7 +1473,7 @@ BY_AUTHOR,By {0},By {0}
 WoodShavings_CardDescription,"Byproduct of woodwork, useful as tinder.",木工の副産物で、火種として役立つ。
 CANCEL_ACTION,CANCEL,キャンセル
 CARD_SURVIVAL_TITLE,CARD SURVIVAL,CARD SURVIVAL
-CHARACTERS,CHARACTERS,CHARACTERS
+CHARACTERS,CHARACTERS,キャラクター
 EMPTY_RECIPE_SLOT,COME BACK LATER,COME BACK LATER
 CONFIRM_CAPS,CONFIRM,CONFIRM
 CREATE_NEW_CHARACTER,CREATE NEW CHARACTER,キャラクターを作成
@@ -1496,7 +1496,7 @@ Refreshment_Statuses[0].GameName,Calming Flow,Calming Flow
 LQ_RottenStew_SpecialDurability1.CardStatName,Calories,カロリー
 LQ_StewWater_SpecialDurability1.CardStatName,Calories,カロリー
 LQ_Water_SpecialDurability1.CardStatName,Calories,カロリー
-Filter_Camp_GameName,Camp,Camp
+Filter_Camp_GameName,Camp,キャンプ
 Tab_Base_Camp_TabName,Camp,Camp
 Bp_Campfire_CardName,Campfire,Campfire
 CampfireExtinguished_CardName,Campfire,Campfire
@@ -1947,77 +1947,77 @@ SettlingDown_Obj6_CleanYourHut_ObjectiveDescription,Clean your Hut,Clean your Hu
 SettlingDown_Sub6_CleanYourHut_QuestTitle,Clean your Hut,Clean your Hut
 tag_CleanableWound_InGameName,Cleanable Wound,Cleanable Wound
 Imp_StitchedHideFloor_CardDescription,Cleaner and nicer.,Cleaner and nicer.
-ClearingOak_GreenGlade_DismantleActions[1].ActionName,Clear,Clear
-ClearingOak_GreenGlade_DismantleActions[2].ActionName,Clear,Clear
-ClearingOak_MossyClearing_DismantleActions[1].ActionName,Clear,Clear
-ClearingOak_MossyClearing_DismantleActions[2].ActionName,Clear,Clear
-ClearingPine_FlowerGlade_DismantleActions[1].ActionName,Clear,Clear
-ClearingPine_FlowerGlade_DismantleActions[2].ActionName,Clear,Clear
-CloverPatch_CardInteractions[1].ActionName,Clear,Clear
-Debris_BackDoor_DismantleActions[0].ActionName,Clear,Clear
-Debris_Fireplace_DismantleActions[0].ActionName,Clear,Clear
-Debris_FrontDoor_DismantleActions[0].ActionName,Clear,Clear
-Debris_Knife_DismantleActions[0].ActionName,Clear,Clear
-Debris_TrapDoor_DismantleActions[0].ActionName,Clear,Clear
-Debris_Workshop_DismantleActions[0].ActionName,Clear,Clear
-GroveOak_GreatOak_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_GreatOak_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_GreenGrove_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_GreenGrove_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_MossyGrove_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_MossyGrove_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_MossyStone_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_MossyStone_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_MuddyGrove_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_MuddyGrove_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_OakenGrove_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_OakenGrove_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_OldStump_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_OldStump_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_SecretGrove_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_SecretGrove_DismantleActions[2].ActionName,Clear,Clear
-GroveOak_ShadyGrove_DismantleActions[1].ActionName,Clear,Clear
-GroveOak_ShadyGrove_DismantleActions[2].ActionName,Clear,Clear
-GrovePine_DeerGrove_DismantleActions[1].ActionName,Clear,Clear
-GrovePine_DeerGrove_DismantleActions[2].ActionName,Clear,Clear
-GrovePine_RockyGrove_DismantleActions[1].ActionName,Clear,Clear
-GrovePine_RockyGrove_DismantleActions[2].ActionName,Clear,Clear
-GrovePine_SlopedGrove_DismantleActions[1].ActionName,Clear,Clear
-GrovePine_SlopedGrove_DismantleActions[2].ActionName,Clear,Clear
-MeadowgrassPatch_CardInteractions[1].ActionName,Clear,Clear
-MudHutConstructionLocationEnclosure_DismantleActions[0].ActionName,Clear,Clear
-MudHutConstructionLocationEnclosure_DismantleActions[1].ActionName,Clear,Clear
-MudHutEnclosure_DismantleActions[0].ActionName,Clear,Clear
-MudHutEnclosure_DismantleActions[1].ActionName,Clear,Clear
-ReedPatch_CardInteractions[1].ActionName,Clear,Clear
-River_ClearingOak_RiverClearing_DismantleActions[1].ActionName,Clear,Clear
-River_ClearingOak_RiverClearing_DismantleActions[2].ActionName,Clear,Clear
-River_GroveOak_FloodedGrove_DismantleActions[1].ActionName,Clear,Clear
-River_GroveOak_FloodedGrove_DismantleActions[2].ActionName,Clear,Clear
-River_GroveOak_Greenfalls_DismantleActions[1].ActionName,Clear,Clear
-River_GroveOak_Greenfalls_DismantleActions[2].ActionName,Clear,Clear
-River_GroveOak_MossyBank_DismantleActions[1].ActionName,Clear,Clear
-River_GroveOak_MossyBank_DismantleActions[2].ActionName,Clear,Clear
-River_ThicketOak_MuddyBank_DismantleActions[1].ActionName,Clear,Clear
-River_ThicketOak_MuddyBank_DismantleActions[2].ActionName,Clear,Clear
-River_ThicketOak_RiverConfluence_DismantleActions[1].ActionName,Clear,Clear
-River_ThicketOak_RiverConfluence_DismantleActions[2].ActionName,Clear,Clear
-River_ThicketOak_ShadyBank_DismantleActions[1].ActionName,Clear,Clear
-River_ThicketOak_ShadyBank_DismantleActions[2].ActionName,Clear,Clear
-ThicketOak_GreenTangle_DismantleActions[1].ActionName,Clear,Clear
-ThicketOak_GreenTangle_DismantleActions[2].ActionName,Clear,Clear
-ThicketOak_LostWoods_DismantleActions[1].ActionName,Clear,Clear
-ThicketOak_LostWoods_DismantleActions[2].ActionName,Clear,Clear
-ThicketOak_MuddyThicket_DismantleActions[1].ActionName,Clear,Clear
-ThicketOak_MuddyThicket_DismantleActions[2].ActionName,Clear,Clear
-ThicketOak_MuddyWay_DismantleActions[1].ActionName,Clear,Clear
-ThicketOak_MuddyWay_DismantleActions[2].ActionName,Clear,Clear
-ThicketOak_WhisperingThicket_DismantleActions[1].ActionName,Clear,Clear
-ThicketOak_WhisperingThicket_DismantleActions[2].ActionName,Clear,Clear
-ThicketOak_WildThicket_DismantleActions[1].ActionName,Clear,Clear
-ThicketOak_WildThicket_DismantleActions[2].ActionName,Clear,Clear
-Weather_0_Clear_CardName,Clear,Clear
-CLEAR_CARD_FILTERS,Clear Filters,Clear Filters
+ClearingOak_GreenGlade_DismantleActions[1].ActionName,Clear,開墾
+ClearingOak_GreenGlade_DismantleActions[2].ActionName,Clear,開墾
+ClearingOak_MossyClearing_DismantleActions[1].ActionName,Clear,開墾
+ClearingOak_MossyClearing_DismantleActions[2].ActionName,Clear,開墾
+ClearingPine_FlowerGlade_DismantleActions[1].ActionName,Clear,開墾
+ClearingPine_FlowerGlade_DismantleActions[2].ActionName,Clear,開墾
+CloverPatch_CardInteractions[1].ActionName,Clear,開墾
+Debris_BackDoor_DismantleActions[0].ActionName,Clear,開墾
+Debris_Fireplace_DismantleActions[0].ActionName,Clear,開墾
+Debris_FrontDoor_DismantleActions[0].ActionName,Clear,開墾
+Debris_Knife_DismantleActions[0].ActionName,Clear,開墾
+Debris_TrapDoor_DismantleActions[0].ActionName,Clear,開墾
+Debris_Workshop_DismantleActions[0].ActionName,Clear,開墾
+GroveOak_GreatOak_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_GreatOak_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_GreenGrove_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_GreenGrove_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_MossyGrove_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_MossyGrove_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_MossyStone_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_MossyStone_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_MuddyGrove_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_MuddyGrove_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_OakenGrove_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_OakenGrove_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_OldStump_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_OldStump_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_SecretGrove_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_SecretGrove_DismantleActions[2].ActionName,Clear,開墾
+GroveOak_ShadyGrove_DismantleActions[1].ActionName,Clear,開墾
+GroveOak_ShadyGrove_DismantleActions[2].ActionName,Clear,開墾
+GrovePine_DeerGrove_DismantleActions[1].ActionName,Clear,開墾
+GrovePine_DeerGrove_DismantleActions[2].ActionName,Clear,開墾
+GrovePine_RockyGrove_DismantleActions[1].ActionName,Clear,開墾
+GrovePine_RockyGrove_DismantleActions[2].ActionName,Clear,開墾
+GrovePine_SlopedGrove_DismantleActions[1].ActionName,Clear,開墾
+GrovePine_SlopedGrove_DismantleActions[2].ActionName,Clear,開墾
+MeadowgrassPatch_CardInteractions[1].ActionName,Clear,開墾
+MudHutConstructionLocationEnclosure_DismantleActions[0].ActionName,Clear,開墾
+MudHutConstructionLocationEnclosure_DismantleActions[1].ActionName,Clear,開墾
+MudHutEnclosure_DismantleActions[0].ActionName,Clear,開墾
+MudHutEnclosure_DismantleActions[1].ActionName,Clear,開墾
+ReedPatch_CardInteractions[1].ActionName,Clear,開墾
+River_ClearingOak_RiverClearing_DismantleActions[1].ActionName,Clear,開墾
+River_ClearingOak_RiverClearing_DismantleActions[2].ActionName,Clear,開墾
+River_GroveOak_FloodedGrove_DismantleActions[1].ActionName,Clear,開墾
+River_GroveOak_FloodedGrove_DismantleActions[2].ActionName,Clear,開墾
+River_GroveOak_Greenfalls_DismantleActions[1].ActionName,Clear,開墾
+River_GroveOak_Greenfalls_DismantleActions[2].ActionName,Clear,開墾
+River_GroveOak_MossyBank_DismantleActions[1].ActionName,Clear,開墾
+River_GroveOak_MossyBank_DismantleActions[2].ActionName,Clear,開墾
+River_ThicketOak_MuddyBank_DismantleActions[1].ActionName,Clear,開墾
+River_ThicketOak_MuddyBank_DismantleActions[2].ActionName,Clear,開墾
+River_ThicketOak_RiverConfluence_DismantleActions[1].ActionName,Clear,開墾
+River_ThicketOak_RiverConfluence_DismantleActions[2].ActionName,Clear,開墾
+River_ThicketOak_ShadyBank_DismantleActions[1].ActionName,Clear,開墾
+River_ThicketOak_ShadyBank_DismantleActions[2].ActionName,Clear,開墾
+ThicketOak_GreenTangle_DismantleActions[1].ActionName,Clear,開墾
+ThicketOak_GreenTangle_DismantleActions[2].ActionName,Clear,開墾
+ThicketOak_LostWoods_DismantleActions[1].ActionName,Clear,開墾
+ThicketOak_LostWoods_DismantleActions[2].ActionName,Clear,開墾
+ThicketOak_MuddyThicket_DismantleActions[1].ActionName,Clear,開墾
+ThicketOak_MuddyThicket_DismantleActions[2].ActionName,Clear,開墾
+ThicketOak_MuddyWay_DismantleActions[1].ActionName,Clear,開墾
+ThicketOak_MuddyWay_DismantleActions[2].ActionName,Clear,開墾
+ThicketOak_WhisperingThicket_DismantleActions[1].ActionName,Clear,開墾
+ThicketOak_WhisperingThicket_DismantleActions[2].ActionName,Clear,開墾
+ThicketOak_WildThicket_DismantleActions[1].ActionName,Clear,開墾
+ThicketOak_WildThicket_DismantleActions[2].ActionName,Clear,開墾
+Weather_0_Clear_CardName,Clear,晴れ (0)
+CLEAR_CARD_FILTERS,Clear Filters,フィルター解除
 WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
 WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription*,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
 WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
@@ -2046,7 +2046,7 @@ Skill_Climbing_GameName,Climbing,Climbing
 Path_FmTheShaftFromRockyGrove_DismantleActions[0].FadeMessage,Climbing down into The Shaft,Climbing down into The Shaft
 Caves_FmTheShaft_DismantleActions[0].FadeMessage*,Climbing up into the Rocky Grove,Climbing up into the Rocky Grove
 Path_RockyGroveFromFmTheShaft_DismantleActions[0].FadeMessage,Climbing up into the Rocky Grove,Climbing up into the Rocky Grove
-SEASON_AND_TIME,"Clock and Resting\n<b>(Rest, Relax, Nap, Sleep)</b>","時刻と休息\n<b>(Rest, Relax, Nap, Sleep)</b>"
+SEASON_AND_TIME,"Clock and Resting\n<b>(Rest, Relax, Nap, Sleep)</b>","時刻と休息\n<b>(休憩, リラックス, 仮眠, 睡眠)</b>"
 CLOSE,Close,閉じる
 Tab_3_Hunting_Subtab_3_CloseCombat_TabName,Close Combat,Close Combat
 Bp_ClothMedium_CardName,Cloth,Cloth
@@ -2057,7 +2057,7 @@ HearthAwakened_CookingRecipes[4].ActionName,Clothes,Clothes
 Hearth_CookingRecipes[4].ActionName,Clothes,Clothes
 tag_Clothing_InGameName,Clothing,Clothing
 Clouds_GameName,Clouds,Clouds
-Weather_0_Cloudy_CardName,Cloudy,Cloudy
+Weather_0_Cloudy_CardName,Cloudy,曇り (0)
 CloverRaw_CardName,Clover,Clover
 Bp_CloverField_CardName,Clover Field,Clover Field
 CloverFieldMature_CardName,Clover Field,Clover Field
@@ -2098,8 +2098,8 @@ ClayJar_DismantleActions[0].ActionName,Collect Rain,Collect Rain
 ClayJar_Fermenter_DismantleActions[0].ActionName,Collect Rain,Collect Rain
 Waterskin_DismantleActions[0].ActionName,Collect Rain,Collect Rain
 StonePile_DismantleActions[0].ActionName,Collect Stones,Collect Stones
-DISMANTLE_DESC_FIRST_STEP,Collect all items and destroy building.,Collect all items and destroy building.
-DISMANTLE_DESC,Collect all items and revert to previous building stage.,Collect all items and revert to previous building stage.
+DISMANTLE_DESC_FIRST_STEP,Collect all items and destroy building.,すべてのアイテムを集め、建物を破壊する。
+DISMANTLE_DESC,Collect all items and revert to previous building stage.,すべてのアイテムを集め、前の建築ステージに戻る。
 Bp_Comb_CardName,Comb,Comb
 Comb_CardName,Comb,Comb
 Fibers_CardInteractions[3].ActionName,Comb,Comb
@@ -2844,7 +2844,7 @@ BasicArchery_Obj1_CraftSimpleArrows_ObjectiveDescription,Craft simple Arrows,Cra
 BasicArchery_Sub1_CraftSimpleArrows_QuestTitle,Craft simple Arrows,Craft simple Arrows
 BasicHerbalism_Obj3_CraftSomeSoothingPaste_ObjectiveDescription,Craft some Soothing Ointment,Craft some Soothing Ointment
 BasicHerbalism_Sub3_CraftSomeSoothingPaste_QuestTitle,Craft some Soothing Ointment,Craft some Soothing Ointment
-Filter_Crafting_GameName,Crafting,Crafting
+Filter_Crafting_GameName,Crafting,クラフト
 Skill_Crafting_GameName,Crafting,Crafting
 OakTreeLarge_UsageDurability.CardStatName,Create BrushWood,Create BrushWood
 PineTreeLarge_UsageDurability.CardStatName,Create BrushWood,Create BrushWood
@@ -3256,45 +3256,45 @@ W_MinorLaceration_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfecta
 W_Puncture_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
 W_RibFracture_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
 W_WolfBite_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-BarkSandals_DismantleActions[0].ActionName,Dismantle,Dismantle
-BedLog_DismantleActions[2].ActionName,Dismantle,Dismantle
-BedRoll_DismantleActions[2].ActionName,Dismantle,Dismantle
-Bookshelf_DismantleActions[0].ActionName,Dismantle,Dismantle
-Broom_DismantleActions[1].ActionName,Dismantle,Dismantle
-CampfireExtinguished_DismantleActions[1].ActionName,Dismantle,Dismantle
-CompostBin_DismantleActions[0].ActionName,Dismantle,Dismantle
-FishingLine_Rustic_DismantleActions[0].ActionName,Dismantle,Dismantle
-FurBlanket_DismantleActions[0].ActionName,Dismantle,Dismantle
-FurBoots_DismantleActions[0].ActionName,Dismantle,Dismantle
-FurCoat_DismantleActions[0].ActionName,Dismantle,Dismantle
-FurHat_DismantleActions[0].ActionName,Dismantle,Dismantle
-FurTrousers_DismantleActions[0].ActionName,Dismantle,Dismantle
-HearthAwakenedExtinguished_DismantleActions[1].ActionName,Dismantle,Dismantle
-HearthAwakened_DismantleActions[5].ActionName,Dismantle,Dismantle
-HearthExtinguished_DismantleActions[1].ActionName,Dismantle,Dismantle
-Hearth_DismantleActions[4].ActionName,Dismantle,Dismantle
-ImprovisedBed_DismantleActions[2].ActionName,Dismantle,Dismantle
-LeatherBlanket_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherBoots_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherCoat_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherCuirass_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherHelmet_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherSatchel_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherShoes_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherTrousers_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherTunic_DismantleActions[0].ActionName,Dismantle,Dismantle
-LeatherVest_DismantleActions[0].ActionName,Dismantle,Dismantle
-PartridgeFeederEmpty_DismantleActions[0].ActionName,Dismantle,Dismantle
-PartridgeFeeder_DismantleActions[0].ActionName,Dismantle,Dismantle
-ReedCoat_DismantleActions[0].ActionName,Dismantle,Dismantle
-ReedSkirt_DismantleActions[0].ActionName,Dismantle,Dismantle
-ReedTunic_DismantleActions[0].ActionName,Dismantle,Dismantle
-Shelf_DismantleActions[0].ActionName,Dismantle,Dismantle
-SimpleBow_DismantleActions[1].ActionName,Dismantle,Dismantle
-Spear_Flint_DismantleActions[1].ActionName,Dismantle,Dismantle
-Splint_DismantleActions[0].ActionName,Dismantle,Dismantle
-Tourniquet_DismantleActions[0].ActionName,Dismantle,Dismantle
-Travois_DismantleActions[0].ActionName,Dismantle,Dismantle
+BarkSandals_DismantleActions[0].ActionName,Dismantle,解体する
+BedLog_DismantleActions[2].ActionName,Dismantle,解体する
+BedRoll_DismantleActions[2].ActionName,Dismantle,解体する
+Bookshelf_DismantleActions[0].ActionName,Dismantle,解体する
+Broom_DismantleActions[1].ActionName,Dismantle,解体する
+CampfireExtinguished_DismantleActions[1].ActionName,Dismantle,解体する
+CompostBin_DismantleActions[0].ActionName,Dismantle,解体する
+FishingLine_Rustic_DismantleActions[0].ActionName,Dismantle,解体する
+FurBlanket_DismantleActions[0].ActionName,Dismantle,解体する
+FurBoots_DismantleActions[0].ActionName,Dismantle,解体する
+FurCoat_DismantleActions[0].ActionName,Dismantle,解体する
+FurHat_DismantleActions[0].ActionName,Dismantle,解体する
+FurTrousers_DismantleActions[0].ActionName,Dismantle,解体する
+HearthAwakenedExtinguished_DismantleActions[1].ActionName,Dismantle,解体する
+HearthAwakened_DismantleActions[5].ActionName,Dismantle,解体する
+HearthExtinguished_DismantleActions[1].ActionName,Dismantle,解体する
+Hearth_DismantleActions[4].ActionName,Dismantle,解体する
+ImprovisedBed_DismantleActions[2].ActionName,Dismantle,解体する
+LeatherBlanket_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherBoots_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherCoat_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherCuirass_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherHelmet_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherSatchel_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherShoes_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherTrousers_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherTunic_DismantleActions[0].ActionName,Dismantle,解体する
+LeatherVest_DismantleActions[0].ActionName,Dismantle,解体する
+PartridgeFeederEmpty_DismantleActions[0].ActionName,Dismantle,解体する
+PartridgeFeeder_DismantleActions[0].ActionName,Dismantle,解体する
+ReedCoat_DismantleActions[0].ActionName,Dismantle,解体する
+ReedSkirt_DismantleActions[0].ActionName,Dismantle,解体する
+ReedTunic_DismantleActions[0].ActionName,Dismantle,解体する
+Shelf_DismantleActions[0].ActionName,Dismantle,解体する
+SimpleBow_DismantleActions[1].ActionName,Dismantle,解体する
+Spear_Flint_DismantleActions[1].ActionName,Dismantle,解体する
+Splint_DismantleActions[0].ActionName,Dismantle,解体する
+Tourniquet_DismantleActions[0].ActionName,Dismantle,解体する
+Travois_DismantleActions[0].ActionName,Dismantle,解体する
 BookShelfDismantled_CardName,Dismantled BookShelf,Dismantled BookShelf
 RusticTableDismantled_CardName,Dismantled Rustic Table,Dismantled Rustic Table
 TableDismantled_CardName,Dismantled Table,Dismantled Table
@@ -3314,7 +3314,7 @@ Agent_DoeExists_GameName,Doe Exists,Doe Exists
 tag_DoeHabitat_InGameName,Doe Habitat,Doe Habitat
 _FlavourSystem_Rules.FlavourScoreFeedback[2].Feedback,Doesn't taste so good...,Doesn't taste so good...
 SuccessChanceLabels_ModifiedSuccessLabels[4].LabelText,Don't see how this could fail!,Don't see how this could fail!
-DONT_SHOW_STARTUP,Don't show this on start up.,Don't show this on start up.
+DONT_SHOW_STARTUP,Don't show this on start up.,起動時にこれを表示しない。
 COOKING_READY,Done,Done
 Imp_Door_CardName,Door,Door
 AppleweedPlantedDormant_CardName,Dormant Appleweed,Dormant Appleweed
@@ -3403,7 +3403,7 @@ BasicNeeds_Sub2_DrinkRiverWater_QuestTitle*,Drink river Water,Drink river Water
 FractureAndSprainTreatment_Obj3_DrinkSomeFairyTea_ObjectiveDescription,Drink some Fairy Tea,Drink some Fairy Tea
 FractureAndSprainTreatment_Sub3_DrinkSomeFairyTea_QuestTitle,Drink some Fairy Tea,Drink some Fairy Tea
 GpTag_Drinkable_TabName,Drinkable,Drinkable
-Weather_1_Drizzle_CardName,Drizzle,Drizzle
+Weather_1_Drizzle_CardName,Drizzle,霧雨 (1)
 BloodPressure_Description,Drops when you are losing blood and kills you when it reaches 0. Use Tourniquets and dressings to help recover pressure.,Drops when you are losing blood and kills you when it reaches 0. Use Tourniquets and dressings to help recover pressure.
 Event_DrumMenu_CardName,Drum,Drum
 AlcoholEffect_Statuses[1].GameName,Drunk,Drunk
@@ -3809,7 +3809,7 @@ Morale_Statuses[0].GameName,Euphoric,Euphoric
 AlteredMindstate_Statuses[3].Description,Everything feels different.,Everything feels different.
 Derealization_Statuses[0].Description,Everything feels distant and grey,Everything feels distant and grey
 AlteredMindstate_Statuses[0].Description,Everything seems normal,Everything seems normal
-Stamina_Statuses[0].GameName,Exhausted,Exhausted
+Stamina_Statuses[0].GameName,Exhausted,疲労困憊 (0)
 CabinExit_CardName,Exit,Exit
 CabinExit_DismantleActions[0].ActionName,Exit,Exit
 Caves_WaterfallCaves_DismantleActions[0].ActionName,Exit,Exit
@@ -4462,7 +4462,7 @@ Event_WillOWisp_RiverClearing_DismantleActions[0].ActionName,Focus,集中する
 Focus_GameName,Focus,集中力
 GreenwardPouch_DismantleActions[0].ActionName,Focus,Focus
 Tab_Spirits_FocusItems_TabName,Focus Items,Focus Items
-Focus_Statuses[2].GameName,Focused,Focused
+Focus_Statuses[2].GameName,Focused,集中した (2)
 Path_RiverClearingFromWillOWispGrove2_DismantleActions[0].ActionName,Follow,追いかける
 Path_WillOWispGrove2FromWillOWispGrove1_DismantleActions[0].ActionName,Follow,追いかける
 WillOWisp_Obj1_FollowTheWisp_ObjectiveDescription,Follow the Will O'Wisp,Follow the Will O'Wisp
@@ -4476,7 +4476,7 @@ WillOWisp_Completed_Event_CardName*,Follow the Wisp Completed,Follow the Wisp Co
 Path_RiverClearingFromWillOWispGrove2_DismantleActions[0].FadeMessage,Following the Wisp.,Following the Wisp.
 Path_WillOWispGrove2FromWillOWispGrove1_DismantleActions[0].FadeMessage,Following the Wisp.,Following the Wisp.
 FONT_STYLE,Font Style,フォントスタイル
-Filter_Food_GameName,Food,Food
+Filter_Food_GameName,Food,食料
 PartridgeFeederEmpty_FuelCapacity.CardStatName,Food,Food
 PartridgeFeeder_FuelCapacity.CardStatName,Food,Food
 FoodPoisoning_GameName,Food Poisoning,Food Poisoning
@@ -4496,66 +4496,66 @@ FootDamage_GameName,Foot Damage,Foot Damage
 FootHardness_GameName,Foot Hardness,Foot Hardness
 FootProtection_GameName,Foot Protection,Foot Protection
 FOR_THE_FULL_EXPERIENCE,For the full experience click on the image below:,For the full experience click on the image below:
-ClearingOak_GreenGlade_DismantleActions[0].ActionName,Forage,Forage
-ClearingOak_MossyClearing_DismantleActions[0].ActionName,Forage,Forage
-ClearingPine_FlowerGlade_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_GreatOak_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_GreenGrove_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_MossyGrove_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_MossyStone_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_MuddyGrove_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_OakenGrove_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_OldStump_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_SecretGrove_DismantleActions[0].ActionName,Forage,Forage
-GroveOak_ShadyGrove_DismantleActions[0].ActionName,Forage,Forage
-GrovePine_DeerGrove_DismantleActions[0].ActionName,Forage,Forage
-GrovePine_RockyGrove_DismantleActions[0].ActionName,Forage,Forage
-GrovePine_SlopedGrove_DismantleActions[0].ActionName,Forage,Forage
-River_ClearingOak_RiverClearing_DismantleActions[0].ActionName,Forage,Forage
-River_GroveOak_FloodedGrove_DismantleActions[0].ActionName,Forage,Forage
-River_GroveOak_Greenfalls_DismantleActions[0].ActionName,Forage,Forage
-River_GroveOak_MossyBank_DismantleActions[0].ActionName,Forage,Forage
-River_ThicketOak_MuddyBank_DismantleActions[0].ActionName,Forage,Forage
-River_ThicketOak_RiverConfluence_DismantleActions[0].ActionName,Forage,Forage
-River_ThicketOak_ShadyBank_DismantleActions[0].ActionName,Forage,Forage
-ThicketOak_GreenTangle_DismantleActions[0].ActionName,Forage,Forage
-ThicketOak_LostWoods_DismantleActions[0].ActionName,Forage,Forage
-ThicketOak_MuddyThicket_DismantleActions[0].ActionName,Forage,Forage
-ThicketOak_MuddyWay_DismantleActions[0].ActionName,Forage,Forage
-ThicketOak_WhisperingThicket_DismantleActions[0].ActionName,Forage,Forage
-ThicketOak_WildThicket_DismantleActions[0].ActionName,Forage,Forage
-ClearingOak_GreenGlade_SpecialDurability3.CardStatName,Foraging,Foraging
-ClearingOak_MossyClearing_SpecialDurability3.CardStatName,Foraging,Foraging
-ClearingPine_FlowerGlade_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_GreatOak_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_GreenGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_MossyGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_MossyStone_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_MuddyGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_OakenGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_OldStump_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_SecretGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GroveOak_ShadyGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GrovePine_DeerGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GrovePine_RockyGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-GrovePine_SlopedGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-Grove_WillOWispGrove1_SpecialDurability3.CardStatName,Foraging,Foraging
-Grove_WillOWispGrove2_SpecialDurability3.CardStatName,Foraging,Foraging
-MudHutConstructionLocationEnclosure_SpecialDurability3.CardStatName,Foraging,Foraging
-MudHutEnclosure_SpecialDurability3.CardStatName,Foraging,Foraging
-River_ClearingOak_RiverClearing_SpecialDurability3.CardStatName,Foraging,Foraging
-River_GroveOak_FloodedGrove_SpecialDurability3.CardStatName,Foraging,Foraging
-River_GroveOak_Greenfalls_SpecialDurability3.CardStatName,Foraging,Foraging
-River_GroveOak_MossyBank_SpecialDurability3.CardStatName,Foraging,Foraging
-River_ThicketOak_MuddyBank_SpecialDurability3.CardStatName,Foraging,Foraging
-River_ThicketOak_RiverConfluence_SpecialDurability3.CardStatName,Foraging,Foraging
-River_ThicketOak_ShadyBank_SpecialDurability3.CardStatName,Foraging,Foraging
-ThicketOak_GreenTangle_SpecialDurability3.CardStatName,Foraging,Foraging
-ThicketOak_LostWoods_SpecialDurability3.CardStatName,Foraging,Foraging
-ThicketOak_MuddyThicket_SpecialDurability3.CardStatName,Foraging,Foraging
-ThicketOak_MuddyWay_SpecialDurability3.CardStatName,Foraging,Foraging
-ThicketOak_WhisperingThicket_SpecialDurability3.CardStatName,Foraging,Foraging
-ThicketOak_WildThicket_SpecialDurability3.CardStatName,Foraging,Foraging
+ClearingOak_GreenGlade_DismantleActions[0].ActionName,Forage,採集
+ClearingOak_MossyClearing_DismantleActions[0].ActionName,Forage,採集
+ClearingPine_FlowerGlade_DismantleActions[0].ActionName,Forage,採集
+GroveOak_GreatOak_DismantleActions[0].ActionName,Forage,採集
+GroveOak_GreenGrove_DismantleActions[0].ActionName,Forage,採集
+GroveOak_MossyGrove_DismantleActions[0].ActionName,Forage,採集
+GroveOak_MossyStone_DismantleActions[0].ActionName,Forage,採集
+GroveOak_MuddyGrove_DismantleActions[0].ActionName,Forage,採集
+GroveOak_OakenGrove_DismantleActions[0].ActionName,Forage,採集
+GroveOak_OldStump_DismantleActions[0].ActionName,Forage,採集
+GroveOak_SecretGrove_DismantleActions[0].ActionName,Forage,採集
+GroveOak_ShadyGrove_DismantleActions[0].ActionName,Forage,採集
+GrovePine_DeerGrove_DismantleActions[0].ActionName,Forage,採集
+GrovePine_RockyGrove_DismantleActions[0].ActionName,Forage,採集
+GrovePine_SlopedGrove_DismantleActions[0].ActionName,Forage,採集
+River_ClearingOak_RiverClearing_DismantleActions[0].ActionName,Forage,採集
+River_GroveOak_FloodedGrove_DismantleActions[0].ActionName,Forage,採集
+River_GroveOak_Greenfalls_DismantleActions[0].ActionName,Forage,採集
+River_GroveOak_MossyBank_DismantleActions[0].ActionName,Forage,採集
+River_ThicketOak_MuddyBank_DismantleActions[0].ActionName,Forage,採集
+River_ThicketOak_RiverConfluence_DismantleActions[0].ActionName,Forage,採集
+River_ThicketOak_ShadyBank_DismantleActions[0].ActionName,Forage,採集
+ThicketOak_GreenTangle_DismantleActions[0].ActionName,Forage,採集
+ThicketOak_LostWoods_DismantleActions[0].ActionName,Forage,採集
+ThicketOak_MuddyThicket_DismantleActions[0].ActionName,Forage,採集
+ThicketOak_MuddyWay_DismantleActions[0].ActionName,Forage,採集
+ThicketOak_WhisperingThicket_DismantleActions[0].ActionName,Forage,採集
+ThicketOak_WildThicket_DismantleActions[0].ActionName,Forage,採集
+ClearingOak_GreenGlade_SpecialDurability3.CardStatName,Foraging,採集
+ClearingOak_MossyClearing_SpecialDurability3.CardStatName,Foraging,採集
+ClearingPine_FlowerGlade_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_GreatOak_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_GreenGrove_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_MossyGrove_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_MossyStone_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_MuddyGrove_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_OakenGrove_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_OldStump_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_SecretGrove_SpecialDurability3.CardStatName,Foraging,採集
+GroveOak_ShadyGrove_SpecialDurability3.CardStatName,Foraging,採集
+GrovePine_DeerGrove_SpecialDurability3.CardStatName,Foraging,採集
+GrovePine_RockyGrove_SpecialDurability3.CardStatName,Foraging,採集
+GrovePine_SlopedGrove_SpecialDurability3.CardStatName,Foraging,採集
+Grove_WillOWispGrove1_SpecialDurability3.CardStatName,Foraging,採集
+Grove_WillOWispGrove2_SpecialDurability3.CardStatName,Foraging,採集
+MudHutConstructionLocationEnclosure_SpecialDurability3.CardStatName,Foraging,採集
+MudHutEnclosure_SpecialDurability3.CardStatName,Foraging,採集
+River_ClearingOak_RiverClearing_SpecialDurability3.CardStatName,Foraging,採集
+River_GroveOak_FloodedGrove_SpecialDurability3.CardStatName,Foraging,採集
+River_GroveOak_Greenfalls_SpecialDurability3.CardStatName,Foraging,採集
+River_GroveOak_MossyBank_SpecialDurability3.CardStatName,Foraging,採集
+River_ThicketOak_MuddyBank_SpecialDurability3.CardStatName,Foraging,採集
+River_ThicketOak_RiverConfluence_SpecialDurability3.CardStatName,Foraging,採集
+River_ThicketOak_ShadyBank_SpecialDurability3.CardStatName,Foraging,採集
+ThicketOak_GreenTangle_SpecialDurability3.CardStatName,Foraging,採集
+ThicketOak_LostWoods_SpecialDurability3.CardStatName,Foraging,採集
+ThicketOak_MuddyThicket_SpecialDurability3.CardStatName,Foraging,採集
+ThicketOak_MuddyWay_SpecialDurability3.CardStatName,Foraging,採集
+ThicketOak_WhisperingThicket_SpecialDurability3.CardStatName,Foraging,採集
+ThicketOak_WildThicket_SpecialDurability3.CardStatName,Foraging,採集
 ForagingAid_GameName,Foraging Aid,Foraging Aid
 ForagingAid_Statuses[0].GameName,Foraging Aid,Foraging Aid
 ForagingAid_Statuses[1].GameName,Foraging Aid,Foraging Aid
@@ -5448,8 +5448,8 @@ Heavy_CategoryName,Heavy,Heavy
 tag_Heavy_InGameName,Heavy,Heavy
 RainProtection_Statuses[2].GameName,Heavy Protection,Heavy Protection
 RainExposure_Statuses[2].GameName,Heavy Rain,Heavy Rain
-Weather_4_HeavyRain_CardName,Heavy Rain,Heavy Rain
-Weather_4_HeavySnow_CardName,Heavy Snow,Heavy Snow
+Weather_4_HeavyRain_CardName,Heavy Rain,大雨 (4)
+Weather_4_HeavySnow_CardName,Heavy Snow,大雪 (4)
 StoneHeavy_CardName,Heavy Stone,Heavy Stone
 Pkg_Height_GroupName,Height,Height
 NewsEARelease1_Sections[0].Entries[0].Content,"Hello everyone!\n<b>Card Survival: Fantasy Forest</b> is finally here.\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\n\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\n\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!","Hello everyone!\n<b>Card Survival: Fantasy Forest</b> is finally here.\nWe want to give a very big thanks to all our returning players from Tropical Island, and to all the new ones that are willing to give Fantasy Forest a try!\n\nAs you know, this is an <b>Early Access</b> title, and is going to be so for some time. Probably <b>2 years or more</b>. This game is much bigger and complex than Tropical Island so it's going to take more time.\n\nAs was the case with our previous game, we hope you will enjoy the process and help us shape its content and experiences!\nAny <b>feedback </b>you have on things you like or not like is welcome, as well as any <b>suggestions </b>for the content you'd like to see next!"
@@ -5736,7 +5736,7 @@ BugBites_Statuses[1].Description,I'm covered in bug bites. They're eating me ali
 Filth_Statuses[0].Description,I'm covered in filth...,I'm covered in filth...
 Filth_Statuses[1].Description,I'm covered in filth...,I'm covered in filth...
 Event_AnxietyAttack_DismantleActions[0].StatInterruptions[0].Notification,I'm dying of thirst...,I'm dying of thirst...
-Stamina_Statuses[0].Description,"I'm exhausted, I should stop to rest.","I'm exhausted, I should stop to rest."
+Stamina_Statuses[0].Description,"I'm exhausted, I should stop to rest.",疲れ果ててしまった、休まないと。
 Loneliness_Statuses[0].Description,I'm feeling a bit lonely...,I'm feeling a bit lonely...
 Morale_Statuses[3].Description,I'm feeling a bit sad,I'm feeling a bit sad
 Morale_DefaultStatusDescription,I'm feeling fine.,I'm feeling fine.
@@ -5867,7 +5867,7 @@ LungCapacity_Statuses[1].GameName,Impaired Lung Capacity,Impaired Lung Capacity
 Tab_7_Magic_Subtab_2_Implements_TabName,Implements,Implements
 IMPORT_PORTRAIT,Import Custom Portrait,ポートレートをインポート
 Important_TagTooltip,Important Milestone,Important Milestone
-IMPROVEMENTS,Improvements,Improvements
+IMPROVEMENTS,Improvements,改良
 Pk_3_6_DarkEyes_PerkDescription,Improves your sight in bright light environments.,Improves your sight in bright light environments.
 Pk_3_6_LightEyes_PerkDescription,Improves your sight in low light conditions.,Improves your sight in low light conditions.
 Tab_4_Tailoring_Subtab_1_Improvised_TabName,Improvised,Improvised
@@ -5888,7 +5888,7 @@ Bp_TourniquetRustic_CardName,Improvised Tourniquet,Improvised Tourniquet
 TourniquetRustic_CardName,Improvised Tourniquet,Improvised Tourniquet
 InDarkPlace_GameName,In Dark Place,In Dark Place
 InDarkPlace_Statuses[0].GameName,In Darkness,In Darkness
-Focus_Statuses[3].GameName,In the Flow,In the Flow
+Focus_Statuses[3].GameName,In the Flow,流れのままに (3)
 Kiln_CardInteractions[7].ActionName,Increase Temperature,Increase Temperature
 Pk_3_HighTestosterone_PerkDescription,"Increases assertiveness and male physical traits such as body hair, larger stature and greater muscle mass.",自己主張が強くなり、体毛が濃くなり、身長が伸び、筋肉量が増える。
 Bp_FireBrew_CardDescription,"Increases body temperature, boosts immune system, stamina and alertness.","Increases body temperature, boosts immune system, stamina and alertness."
@@ -6006,7 +6006,7 @@ FluteWooden_CardDescription,Instrument for playing music and entertainment.,Inst
 LQ_Snow_SpoilageTime.CardStatName,Integrity,Integrity
 SnowPile_SpoilageTime.CardStatName,Integrity,Integrity
 Event_DrumMenu_DismantleActions[2].ActionName,Intense Rythm,Intense Rythm
-INTERACTION,Interaction,Interaction
+INTERACTION,Interaction,インタラクション
 IntermediateArchery_Completed_ObjectiveDescription,Intermediate Archery,Intermediate Archery
 IntermediateArchery_Main_QuestTitle,Intermediate Archery,Intermediate Archery
 IntermediateArchery_Completed_Event_CardName,Intermediate Archery Complete,Intermediate Archery Complete
@@ -6346,10 +6346,10 @@ RainExposure_Statuses[0].GameName,Light Rain,Light Rain
 RainValue_Statuses[0].GameName,Light Rain,Light Rain
 RainValue_Statuses[1].GameName,Light Rain,Light Rain
 RainValue_Statuses[2].GameName,Light Rain,Light Rain
-Weather_2_LightRain_CardName,Light Rain,Light Rain
+Weather_2_LightRain_CardName,Light Rain,小雨 (2)
 Pk_3_4_LightSkin_PerkName,Light Skin,Light Skin
 Snow_Statuses[0].GameName,Light Snow,Light Snow
-Weather_2_LightSnow_CardName,Light Snow,Light Snow
+Weather_2_LightSnow_CardName,Light Snow,小雪 (2)
 ThawingFactor_Statuses[0].GameName,Light Thawing,Light Thawing
 Campfire_CardInteractions[6].ActionName,Light Tinder,Light Tinder
 Embers_CardInteractions[0].ActionName,Light Tinder,Light Tinder
@@ -6835,9 +6835,9 @@ Pain_Statuses[1].GameName,Moderate Pain,Moderate Pain
 BugProtection_Statuses[0].GameName,Moderate Protection,Moderate Protection
 Quinine_Statuses[1].GameName,Moderate Quinine Dose,Moderate Quinine Dose
 RainValue_Statuses[3].GameName,Moderate Rain,Moderate Rain
-Weather_3_ModerateRain_CardName,Moderate Rain,Moderate Rain
+Weather_3_ModerateRain_CardName,Moderate Rain,雨 (3)
 Snow_Statuses[1].GameName,Moderate Snow,Moderate Snow
-Weather_3_ModerateSnow_CardName,Moderate Snow,Moderate Snow
+Weather_3_ModerateSnow_CardName,Moderate Snow,雪 (3)
 WindSouth_Statuses[1].GameName,Moderate South,Moderate South
 SpiderLilyEffect_Statuses[0].GameName,Moderate Spider Lily Effect,Moderate Spider Lily Effect
 SunExposure_Statuses[2].GameName,Moderate Sun Exposure,Moderate Sun Exposure
@@ -7005,13 +7005,13 @@ Sunburn_Statuses[2].Description,My skin is destroyed and hurts like hell.,My ski
 Event_FluteTunes3_DismantleActions[1].ActionDescription,Mysterious and Lively,Mysterious and Lively
 NEW_GAME,NEW GAME,NEW GAME
 SELECT_GAMEMODE,NEW GAME - SELECT GAMEMODE,NEW GAME - SELECT GAMEMODE
-NEXT,NEXT,NEXT
-BedLog_DismantleActions[0].ActionName,Nap,Nap
-BedRoll_DismantleActions[0].ActionName,Nap,Nap
-BedWooden_DismantleActions[0].ActionName,Nap,Nap
-ImprovisedBed_DismantleActions[0].ActionName,Nap,Nap
-ImprovisedShelter_DismantleActions[0].ActionName,Nap,Nap
-TimeSkipOptions_Actions[4].ActionName,Nap,Nap
+NEXT,NEXT,次へ
+BedLog_DismantleActions[0].ActionName,Nap,仮眠
+BedRoll_DismantleActions[0].ActionName,Nap,仮眠
+BedWooden_DismantleActions[0].ActionName,Nap,仮眠
+ImprovisedBed_DismantleActions[0].ActionName,Nap,仮眠
+ImprovisedShelter_DismantleActions[0].ActionName,Nap,仮眠
+TimeSkipOptions_Actions[4].ActionName,Nap,仮眠
 Event_AnxietyAttack_DismantleActions[0].FadeMessage,Napping...,Napping...
 TimeSkipOptions_Actions[4].FadeMessage,Napping...,Napping...
 LandSickness_Statuses[1].GameName,Nausea,Nausea
@@ -7130,7 +7130,7 @@ Event_Nightmare_CardName,Nightmare!,Nightmare!
 NO,No,いいえ
 NO_DAMAGES,No Damages To Repair,No Damages To Repair
 ImmuneSystem_Statuses[0].GameName,No Immune System,No Immune System
-NO_IMPROVEMENTS,No Improvements Unlocked,No Improvements Unlocked
+NO_IMPROVEMENTS,No Improvements Unlocked,アンロックされた改良なし
 IfKidneys_Statuses[0].GameName,No Kidneys,No Kidneys
 Structure_Statuses[0].GameName,No Mental Structure,No Mental Structure
 RainValue_Statuses[5].GameName,No Rain,No Rain
@@ -7211,7 +7211,7 @@ FearAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 FireAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 FlintAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 WaterAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
-Focus_NotEnoughText,Not enough focus.,Not enough focus.
+Focus_NotEnoughText,Not enough focus.,集中力が足りない。
 InDarkPlace_NotEnoughText,Not enough fuel to start.,Not enough fuel to start.
 Skill_Swimming_NotEnoughText,Not enough skill!,Not enough skill!
 Skill_Percussion_NotEnoughText,Not enough skill.,Not enough skill.
@@ -7463,7 +7463,7 @@ PartridgeFeederEmpty_CookingConditions.CookingPausedNotification,Organic waste n
 PartridgeFeeder_CookingConditions.CookingPausedNotification,Organic waste needed!,Organic waste needed!
 THANKS_FAMILIES,"Our Families\n<size=75%>For their trust, patience & love.</size>","Our Families\n<size=75%>For their trust, patience & love.</size>"
 OUR_CHINESE_VOLUNTEERS,Our chinese translation volunteers:,Our chinese translation volunteers:
-OUR_OTHER_GAMES,Our other games,Our other games
+OUR_OTHER_GAMES,Our other games,我々の他のゲーム
 OUR_PATRONS,Our supporters on Patreon:,Our supporters on Patreon:
 CellarExit_CardDescription,Out of the Cellar,Out of the Cellar
 EnclosureExit_CardDescription,Out of the Enclosure,Out of the Enclosure
@@ -7520,7 +7520,7 @@ BodyTemperature_Statuses[0].GameName,Overheated to Death,死への過熱 (0)
 BodyTemperature_Statuses[2].GameName,Overheating,オーバーヒート (2)
 Weight_Statuses[2].GameName,Overweight,Overweight
 CharacterGlobalInfo_DifficultyRatings[4].Label,Overwhelmed,Overwhelmed
-INFO_AND_NEWS,PATCH NOTES & NEWS,PATCH NOTES & NEWS
+INFO_AND_NEWS,PATCH NOTES & NEWS,パッチノート＆ニュース
 PERK_UNLOCKED,PERK UNLOCKED!,PERK UNLOCKED!
 CHECKPOINT_PICK_MODE,PICK A MODE,モードを選択
 CagePlaced_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
@@ -7561,7 +7561,7 @@ W_LegFractureR_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあて�
 W_LegSprainedL_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
 W_LegSprainedR_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
 W_RibFracture_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
-PREV,PREVIOUS,PREVIOUS
+PREV,PREVIOUS,前へ
 tag_Paddy_InGameName,Paddy,Paddy
 Event_FluteTunes1_CardName,Page 1,Page 1
 Event_FluteTunes2_CardName,Page 2,Page 2
@@ -8262,9 +8262,9 @@ BasicNeeds_Sub1_RefuelTheFire_QuestTitle,Refuel the Fire,Refuel the Fire
 BasicNeeds_Sub1_RefuelTheFire_QuestTitle*,Refuel the Fire,Refuel the Fire
 tag_ContainerOpenRegular_InGameName,Regular Open Container,Regular Open Container
 RelationalLayer_GameName,Relational Layer,Relational Layer
-OakLogPiecePlacedStool_DismantleActions[1].ActionName,Relax,Relax
-PineLogPiecePlacedStool_DismantleActions[1].ActionName,Relax,Relax
-TimeSkipOptions_Actions[1].ActionName,Relax,Relax
+OakLogPiecePlacedStool_DismantleActions[1].ActionName,Relax,リラックス
+PineLogPiecePlacedStool_DismantleActions[1].ActionName,Relax,リラックス
+TimeSkipOptions_Actions[1].ActionName,Relax,リラックス
 CharacterGlobalInfo_DifficultyRatings[0].Label,Relaxed,Relaxed
 Stress_Statuses[0].GameName,Relaxed,Relaxed
 JasmineEffect_Description,"Relaxes you, lowering your stress and making you sleepy.","Relaxes you, lowering your stress and making you sleepy."
@@ -8334,9 +8334,9 @@ LQ_SpiritDeer_DismantleActions[1].ActionName,Resilience,Resilience
 LQ_SpiritFlintclaw_DismantleActions[1].ActionName,Resilience,Resilience
 Pk_4_7_Resolute_PerkName,Resolute,Resolute
 RESOLUTION,Resolution,解像度
-ChairPlaced_DismantleActions[0].ActionName,Rest,Rest
-OakLogPiecePlacedStool_DismantleActions[0].ActionName,Rest,Rest
-PineLogPiecePlacedStool_DismantleActions[0].ActionName,Rest,Rest
+ChairPlaced_DismantleActions[0].ActionName,Rest,休憩
+OakLogPiecePlacedStool_DismantleActions[0].ActionName,Rest,休憩
+PineLogPiecePlacedStool_DismantleActions[0].ActionName,Rest,休憩
 Stamina_StatActions[0].ActionName,Rest,Rest
 StoolPlaced_DismantleActions[0].ActionName,Rest,Rest
 TimeSkipOptions_Actions[0].ActionName,Rest,Rest
@@ -8347,9 +8347,9 @@ LAST_WEEK_CHECKPOINT,Restart week,週をやり直す
 LAST_YEAR_CHECKPOINT,Restart year,1年をやり直す
 Resting_Completed_ObjectiveDescription,Resting,Resting
 Resting_Main_QuestTitle,Resting,Resting
-Stamina_Statuses[3].GameName,Resting,Resting
+Stamina_Statuses[3].GameName,Resting,休憩 (3)
 Resting_Completed_Event_CardName,Resting Complete,Resting Complete
-TimeSkipOptions_Description,Resting Options,Resting Options
+TimeSkipOptions_Description,Resting Options,休養します
 ChairPlaced_DismantleActions[1].FadeMessage,Resting...,Resting...
 ChairPlaced_DismantleActions[2].FadeMessage,Resting...,Resting...
 StoolPlaced_DismantleActions[1].FadeMessage,Resting...,Resting...
@@ -8809,12 +8809,12 @@ Skinning_Main_QuestTitle*,Skinning,Skinning
 Skinning_Completed_Event_CardName,Skinning Complete,Skinning Complete
 Skinning_Completed_Event_CardName*,Skinning Complete,Skinning Complete
 KnifeSlash_ActionName,Slash,Slash
-BedLog_DismantleActions[1].ActionName,Sleep,Sleep
-BedRoll_DismantleActions[1].ActionName,Sleep,Sleep
-BedWooden_DismantleActions[1].ActionName,Sleep,Sleep
-ImprovisedBed_DismantleActions[1].ActionName,Sleep,Sleep
-ImprovisedShelter_DismantleActions[1].ActionName,Sleep,Sleep
-TimeSkipOptions_Actions[5].ActionName,Sleep,Sleep
+BedLog_DismantleActions[1].ActionName,Sleep,睡眠
+BedRoll_DismantleActions[1].ActionName,Sleep,睡眠
+BedWooden_DismantleActions[1].ActionName,Sleep,睡眠
+ImprovisedBed_DismantleActions[1].ActionName,Sleep,睡眠
+ImprovisedShelter_DismantleActions[1].ActionName,Sleep,睡眠
+TimeSkipOptions_Actions[5].ActionName,Sleep,睡眠
 SleepClock_GameName,Sleep Clock,Sleep Clock
 SleepDeprivationEffects_Statuses[1].GameName,Sleep Deprivation,Sleep Deprivation
 SleepInterrupt_GameName,Sleep Interrupt,Sleep Interrupt
@@ -8878,7 +8878,7 @@ SnowPile_SpoilageTime.OnZero.ActionDescription,Snow Pile melted.,Snow Pile melte
 LQ_Snow_SpoilageTime.OnZero.ActionDescription,Snow melted.,Snow melted.
 Bp_SnowMan_CardName,Snowman,Snowman
 SnowMan_CardName,Snowman,Snowman
-Stamina_Statuses[1].Description,So much physical activity is getting me tired.,あまりにも多い身体活動で疲れてしまった。
+Stamina_Statuses[1].Description,So much physical activity is getting me tired.,身体活動が多すぎて疲れてしまった。
 AcornFlourRaw_CardInteractions[0].ActionName,Soak,Soak
 AppleWeedDried_CardInteractions[0].ActionName,Soak,Soak
 AppleWeedPowder_CardInteractions[0].ActionName,Soak,Soak
@@ -9368,24 +9368,24 @@ Table_CardName,Table,Table
 Skill_Tailoring_GameName,Tailoring,Tailoring
 Tab_Tailoring_TabName,Tailoring,Tailoring
 TAKE_OUT,Take,Take
-CampfireExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Take Charcoal and Ash
-FireplaceExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Take Charcoal and Ash
-HearthAwakenedExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Take Charcoal and Ash
-HearthExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Take Charcoal and Ash
-SpiritShrine_Fire_RitualPyreExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,Take Charcoal and Ash
-Campfire_DismantleActions[0].ActionName,Take Embers,Take Embers
-Fireplace_DismantleActions[0].ActionName,Take Embers,Take Embers
-HearthAwakened_DismantleActions[0].ActionName,Take Embers,Take Embers
-Hearth_DismantleActions[0].ActionName,Take Embers,Take Embers
-SpiritShrine_Fire_RitualPyre_DismantleActions[0].ActionName,Take Embers,Take Embers
-HearthAwakened_DismantleActions[1].ActionName,Take Hearth Embers,Take Hearth Embers
+CampfireExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,炭と灰を取り出す
+FireplaceExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,炭と灰を取り出す
+HearthAwakenedExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,炭と灰を取り出す
+HearthExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,炭と灰を取り出す
+SpiritShrine_Fire_RitualPyreExtinguished_DismantleActions[0].ActionName,Take Charcoal and Ash,炭と灰を取り出す
+Campfire_DismantleActions[0].ActionName,Take Embers,炭火を取り出す
+Fireplace_DismantleActions[0].ActionName,Take Embers,炭火を取り出す
+HearthAwakened_DismantleActions[0].ActionName,Take Embers,炭火を取り出す
+Hearth_DismantleActions[0].ActionName,Take Embers,炭火を取り出す
+SpiritShrine_Fire_RitualPyre_DismantleActions[0].ActionName,Take Embers,炭火を取り出す
+HearthAwakened_DismantleActions[1].ActionName,Take Hearth Embers,炭火を取り出す
 LQ_Snow_DismantleActions[0].ActionName,Take Out,Take Out
 BedWooden_DismantleActions[2].ActionName,Take apart and Pick Up,Take apart and Pick Up
 Bookshelf_DismantleActions[1].ActionName,Take apart and Pick Up,Take apart and Pick Up
 Table_DismantleActions[0].ActionName,Take apart and Pick Up,Take apart and Pick Up
 RusticTable_DismantleActions[0].ActionName,Take apart and pick up,Take apart and pick up
 CANNOT_INSPECT,Take item out of container to inspect.,Take item out of container to inspect.
-TAKE_OUT_ITEMS,Take out all items,Take out all items
+TAKE_OUT_ITEMS,Take out all items,すべてのアイテムを取り出す
 BedLog_DismantleActions[0].FadeMessage,Taking a nap...,Taking a nap...
 BedRoll_DismantleActions[0].FadeMessage,Taking a nap...,Taking a nap...
 BedWooden_DismantleActions[0].FadeMessage,Taking a nap...,Taking a nap...
@@ -9937,7 +9937,7 @@ tag_Tiny_InGameName,Tiny,Tiny
 tag_TinyAnimal_InGameName,Tiny Animal,Tiny Animal
 TIP,Tip,Tip
 AlcoholEffect_Statuses[0].GameName,Tipsy,Tipsy
-Stamina_Statuses[1].GameName,Tired,Tired
+Stamina_Statuses[1].GameName,Tired,疲れた (1)
 TO_UNLOCK,To unlock: ,To unlock: 
 Encumbrance_Statuses[3].GameName,Too encumbered to move,Too encumbered to move
 Encumbrance_Statuses[3].EffectsOnActions[0].ActionBlockMessage,Too heavy to move...,Too heavy to move...
@@ -9953,7 +9953,7 @@ TorchOff_CardName,Torch,Torch
 TorchOn_CardName,Torch,Torch
 TorchOff_FuelCapacity.OnZero.ActionDescription,Torch Finished,Torch Finished
 TorchOn_FuelCapacity.OnZero.ActionDescription,Torch Finished,Torch Finished
-Weather_5_TorrentialRain_CardName,Torrential Rain,Torrential Rain
+Weather_5_TorrentialRain_CardName,Torrential Rain,豪雨 (5)
 tag_InnerTorso_InGameName,Torso (Inner),Torso (Inner)
 tag_IntermTorso_InGameName,Torso (Intermediate),Torso (Intermediate)
 tag_Ears_InGameName,Torso (Outer),Torso (Outer)
@@ -10121,34 +10121,34 @@ Grove_WillOWispGrove1_SpecialDurability1.CardStatName,Tree Durability - 345600 i
 Grove_WillOWispGrove2_SpecialDurability1.CardStatName,Tree Durability - 345600 is 120 days of ticks for 30 trees,Tree Durability - 345600 is 120 days of ticks for 30 trees
 Treenail_CardName,Treenail,Treenail
 Bp_Treenails_CardName,Treenails,Treenails
-ClearingOak_GreenGlade_SpecialDurability1.CardStatName,Trees,Trees
-ClearingOak_MossyClearing_SpecialDurability1.CardStatName,Trees,Trees
-ClearingPine_FlowerGlade_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_GreatOak_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_GreenGrove_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_MossyGrove_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_MossyStone_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_MuddyGrove_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_OakenGrove_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_OldStump_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_SecretGrove_SpecialDurability1.CardStatName,Trees,Trees
-GroveOak_ShadyGrove_SpecialDurability1.CardStatName,Trees,Trees
-GrovePine_DeerGrove_SpecialDurability1.CardStatName,Trees,Trees
-GrovePine_RockyGrove_SpecialDurability1.CardStatName,Trees,Trees
-GrovePine_SlopedGrove_SpecialDurability1.CardStatName,Trees,Trees
-River_ClearingOak_RiverClearing_SpecialDurability1.CardStatName,Trees,Trees
-River_GroveOak_FloodedGrove_SpecialDurability1.CardStatName,Trees,Trees
-River_GroveOak_Greenfalls_SpecialDurability1.CardStatName,Trees,Trees
-River_GroveOak_MossyBank_SpecialDurability1.CardStatName,Trees,Trees
-River_ThicketOak_MuddyBank_SpecialDurability1.CardStatName,Trees,Trees
-River_ThicketOak_RiverConfluence_SpecialDurability1.CardStatName,Trees,Trees
-River_ThicketOak_ShadyBank_SpecialDurability1.CardStatName,Trees,Trees
-ThicketOak_GreenTangle_SpecialDurability1.CardStatName,Trees,Trees
-ThicketOak_LostWoods_SpecialDurability1.CardStatName,Trees,Trees
-ThicketOak_MuddyThicket_SpecialDurability1.CardStatName,Trees,Trees
-ThicketOak_MuddyWay_SpecialDurability1.CardStatName,Trees,Trees
-ThicketOak_WhisperingThicket_SpecialDurability1.CardStatName,Trees,Trees
-ThicketOak_WildThicket_SpecialDurability1.CardStatName,Trees,Trees
+ClearingOak_GreenGlade_SpecialDurability1.CardStatName,Trees,木
+ClearingOak_MossyClearing_SpecialDurability1.CardStatName,Trees,木
+ClearingPine_FlowerGlade_SpecialDurability1.CardStatName,Trees,木
+GroveOak_GreatOak_SpecialDurability1.CardStatName,Trees,木
+GroveOak_GreenGrove_SpecialDurability1.CardStatName,Trees,木
+GroveOak_MossyGrove_SpecialDurability1.CardStatName,Trees,木
+GroveOak_MossyStone_SpecialDurability1.CardStatName,Trees,木
+GroveOak_MuddyGrove_SpecialDurability1.CardStatName,Trees,木
+GroveOak_OakenGrove_SpecialDurability1.CardStatName,Trees,木
+GroveOak_OldStump_SpecialDurability1.CardStatName,Trees,木
+GroveOak_SecretGrove_SpecialDurability1.CardStatName,Trees,木
+GroveOak_ShadyGrove_SpecialDurability1.CardStatName,Trees,木
+GrovePine_DeerGrove_SpecialDurability1.CardStatName,Trees,木
+GrovePine_RockyGrove_SpecialDurability1.CardStatName,Trees,木
+GrovePine_SlopedGrove_SpecialDurability1.CardStatName,Trees,木
+River_ClearingOak_RiverClearing_SpecialDurability1.CardStatName,Trees,木
+River_GroveOak_FloodedGrove_SpecialDurability1.CardStatName,Trees,木
+River_GroveOak_Greenfalls_SpecialDurability1.CardStatName,Trees,木
+River_GroveOak_MossyBank_SpecialDurability1.CardStatName,Trees,木
+River_ThicketOak_MuddyBank_SpecialDurability1.CardStatName,Trees,木
+River_ThicketOak_RiverConfluence_SpecialDurability1.CardStatName,Trees,木
+River_ThicketOak_ShadyBank_SpecialDurability1.CardStatName,Trees,木
+ThicketOak_GreenTangle_SpecialDurability1.CardStatName,Trees,木
+ThicketOak_LostWoods_SpecialDurability1.CardStatName,Trees,木
+ThicketOak_MuddyThicket_SpecialDurability1.CardStatName,Trees,木
+ThicketOak_MuddyWay_SpecialDurability1.CardStatName,Trees,木
+ThicketOak_WhisperingThicket_SpecialDurability1.CardStatName,Trees,木
+ThicketOak_WildThicket_SpecialDurability1.CardStatName,Trees,木
 tag_TreesOvergrowthForage_InGameName,"Trees, Overgrowth and Forage","Trees, Overgrowth and Forage"
 SpearTrip_ActionName,Trip,Trip
 TROPICAL_ISLAND_SUBTITLE,Tropical Island,Tropical Island
@@ -10249,7 +10249,7 @@ ClayVaseUnfired_CardName,Unfired Clay Vase,Unfired Clay Vase
 CookingPotUnfired_CardName,Unfired Cooking Pot,Unfired Cooking Pot
 FermentationBinUnfired_CardName,Unfired Fermentation Bin,Unfired Fermentation Bin
 ClayStoragePotUnfired_CardName,Unfired Storage Pot,Unfired Storage Pot
-Focus_Statuses[1].GameName,Unfocused,Unfocused
+Focus_Statuses[1].GameName,Unfocused,集中できない (1)
 Combat_ BTBadger_Head.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
 Combat_ BTBadger_LArm.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
 Combat_ BTBadger_LLeg.UnharmedResults[0].CombatLog.LogText,"Unfortunately, you didn't manage to harm {0}.",残念ながら、あなたは{0}を傷つけることができなかった。
@@ -10422,7 +10422,7 @@ Wakefulness_Statuses[1].GameName,Very Sleepy,Very Sleepy
 ImmuneSystem_Statuses[5].GameName,Very Strong Immune System,Very Strong Immune System
 Pk_4_VeryTall_PerkName,Very Tall Stature,Very Tall Stature
 Thirst_Statuses[3].GameName,Very Thirsty,とてものどが渇いている (3)
-Focus_Statuses[0].GameName,Very Unfocused,Very Unfocused
+Focus_Statuses[0].GameName,Very Unfocused,まるで集中できない (0)
 Rash_Statuses[2].Description,Very red and so itchy it's hard to think.,Very red and so itchy it's hard to think.
 STRONG_FLAVOUR,Very {0},Very {0}
 VesicalPressure_GameName,Vesical Pressure,Vesical Pressure
@@ -10438,7 +10438,7 @@ Vitamins_GameName,Vitamins,Vitamins
 VoidInsight_GameName,Void Insight,Void Insight
 VomitCounter_GameName,Vomit Counter,Vomit Counter
 Event_Vomit_CardName,Vomit!,Vomit!
-TimeSkipOptions_SetName,WAITING,WAITING
+TimeSkipOptions_SetName,WAITING,待機
 Campfire_DismantleActions[3].ActionName,Wait by Fire,Wait by Fire
 Fireplace_DismantleActions[3].ActionName,Wait by Fire,Wait by Fire
 Kiln_DismantleActions[1].ActionName,Wait by Fire,Wait by Fire
@@ -10516,7 +10516,7 @@ AlertnessAid_GameName,Watcher's Grace,Watcher's Grace
 CloverFieldGrowing_CardInteractions[1].ActionName,Water,Water
 CloverFieldMature_CardInteractions[2].ActionName,Water,Water
 FallowField_CardInteractions[1].ActionName,Water,Water
-Filter_Water_GameName,Water,Water
+Filter_Water_GameName,Water,水
 GardenPlot_CardInteractions[0].ActionName,Water,Water
 GpTag_MilkBase_TabName,Water,Water
 GpTag_WaterAny_TabName,Water,Water
@@ -10581,9 +10581,9 @@ WindNorth_Statuses[0].GameName,Weak North,Weak North
 WindSouth_Statuses[0].GameName,Weak South,Weak South
 SunExposure_Statuses[1].GameName,Weak Sun Exposure,Weak Sun Exposure
 WindWest_Statuses[0].GameName,Weak West,Weak West
-tag_Weather_InGameName,Weather,Weather
+tag_Weather_InGameName,Weather,天候
 WEATHER_AND_TEMPERATURE,Weather and Temperature,天気と気温
-WEATHER_INDICATOR,Weather:,Weather:
+WEATHER_INDICATOR,Weather:,天候:
 BasicWeaving_Obj2_WeaveABasketToStoreYourFood_ObjectiveDescription,Weave a Basket to store your Food,Weave a Basket to store your Food
 BasicWeaving_Obj2_WeaveABasketToStoreYourFood_ObjectiveDescription*,Weave a Basket to store your Food,Weave a Basket to store your Food
 BasicWeaving_Sub2_WeaveABasketToStoreYourFood_QuestTitle,Weave a Basket to store your Food,Weave a Basket to store your Food
