@@ -4604,9 +4604,9 @@ AppleweedPlantedDormant_CardDescription,"Found in clearings; needs medium acidit
 Bp_TurnrootField_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中から低の酸性度、中程度の水分と養分、中から高のストラクチャーが必要。\n\n根は食用で、様々な料理に利用できる。
 TurnrootFieldGrowing_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中から低の酸性度、中程度の水分と養分、中から高のストラクチャーが必要。\n\n根は食用で、様々な料理に利用できる。
 TurnrootFieldMature_CardDescription,"Found in oak clearings and near rivers during spring and autumn. Needs medium to low acidity, medium hydration and nutrients, and medium to high structure. \n\nAn edible root with versatile culinary uses.",春から秋にかけて、オークの伐採地や河川の近くで見られる。 中から低の酸性度、中程度の水分と養分、中から高のストラクチャーが必要。\n\n根は食用で、様々な料理に利用できる。
-TurnrootPlantedGrowing_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、栄養分、水分が必要。\n\n根は食用で、様々な料理に利用できる。
-TurnrootPlantedMature_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、栄養分、水分が必要。\n\n根は食用で、様々な料理に利用できる。
-TurnrootPlantedDormant_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、栄養分、水分が必要。\n\n条件が整えば育つ。
+TurnrootPlantedGrowing_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、養分、水分が必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootPlantedMature_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nEdible root with versatile culinary uses.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、養分、水分が必要。\n\n根は食用で、様々な料理に利用できる。
+TurnrootPlantedDormant_CardDescription,"Found in oak clearings and near rivers, especially during spring and autumn. Needs medium acidity, nutrients, and hydration.\n\nWill grow when conditions are right.",オークの伐採地や河川の近く、特に春と秋に見られる。 中程度の酸度、養分、水分が必要。\n\n条件が整えば育つ。
 SpiritMushroomsPlantedMature_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states.",オークの伐採地で見られる。 高い酸度、水分、養分を必要とする。 秋に成長が早まる。\n\n精神状態を変容させる食用キノコ。
 SpiritMushroomsPlanted_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nEdible mushrooms capable of inducing altered mind states.",オークの伐採地で見られる。 高い酸度、水分、養分を必要とする。 秋に成長が早まる。\n\n精神状態を変容させる食用キノコ。
 SpiritMushroomsPlantedDormant_CardDescription,"Found in oak clearings. Needs high acidity, hydration and nutrients. Grows faster during autumn.\n\nWill grow when conditions are right.",オークの伐採地で見られる。 高い酸度、水分、養分を必要とする。 秋に成長が早まる。\n\n条件が整えば育つ。
@@ -7354,40 +7354,40 @@ Number2_Completed_ObjectiveDescription,Number 2,Number 2
 Number2_Main_QuestTitle,Number 2,Number 2
 Number2_Completed_Event_CardName,Number 2 Complete,Number 2 Complete
 tag_FishBaitNumerous_InGameName,Numerous Fishing Bait,Numerous Fishing Bait
-AppleweedPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-BillberriesPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-Brushwood_rename_UsageDurability.CardStatName,Nutrients,Nutrients
-CloverFieldGrowing_SpoilageTime.CardStatName,Nutrients,Nutrients
-CloverFieldMature_SpoilageTime.CardStatName,Nutrients,Nutrients
-CloverPatch_UsageDurability.CardStatName,Nutrients,Nutrients
-FairyweedPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-FallowFieldInvisible_SpoilageTime.CardStatName,Nutrients,Nutrients
-FallowField_SpoilageTime.CardStatName,Nutrients,Nutrients
-FirerootPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-ForestCapsPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-FrostleafPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-GardenPlot_SpoilageTime.CardStatName,Nutrients,Nutrients
-MeadowgrassFieldGrowing_SpoilageTime.CardStatName,Nutrients,Nutrients
-MeadowgrassFieldMature_SpoilageTime.CardStatName,Nutrients,Nutrients
-MushroomBed_SpoilageTime.CardStatName,Nutrients,Nutrients
-NettlePatchWild_UsageDurability.CardStatName,Nutrients,Nutrients
-NettleStemsPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-PeaFieldGrowing_SpoilageTime.CardStatName,Nutrients,Nutrients
-PeaFieldMature_SpoilageTime.CardStatName,Nutrients,Nutrients
-PeasPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-ReedPatch_UsageDurability.CardStatName,Nutrients,Nutrients
-RyeFieldGrowing_SpoilageTime.CardStatName,Nutrients,Nutrients
-RyeFieldMature_SpoilageTime.CardStatName,Nutrients,Nutrients
-RyePlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-SpiritMushroomsPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-SpiritShrine_Earth_SacredOak_SpoilageTime.CardStatName,Nutrients,Nutrients
-SpiritShrine_Water_SacredSpring_SpoilageTime.CardStatName,Nutrients,Nutrients
-SpringBerriesPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-TilledField_SpoilageTime.CardStatName,Nutrients,Nutrients
-TurnrootFieldGrowing_SpoilageTime.CardStatName,Nutrients,Nutrients
-TurnrootFieldMature_SpoilageTime.CardStatName,Nutrients,Nutrients
-TurnrootPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
-WildGarlicPlantedMature_UsageDurability.CardStatName,Nutrients,Nutrients
+AppleweedPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+BillberriesPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+Brushwood_rename_UsageDurability.CardStatName,Nutrients,養分
+CloverFieldGrowing_SpoilageTime.CardStatName,Nutrients,養分
+CloverFieldMature_SpoilageTime.CardStatName,Nutrients,養分
+CloverPatch_UsageDurability.CardStatName,Nutrients,養分
+FairyweedPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+FallowFieldInvisible_SpoilageTime.CardStatName,Nutrients,養分
+FallowField_SpoilageTime.CardStatName,Nutrients,養分
+FirerootPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+ForestCapsPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+FrostleafPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+GardenPlot_SpoilageTime.CardStatName,Nutrients,養分
+MeadowgrassFieldGrowing_SpoilageTime.CardStatName,Nutrients,養分
+MeadowgrassFieldMature_SpoilageTime.CardStatName,Nutrients,養分
+MushroomBed_SpoilageTime.CardStatName,Nutrients,養分
+NettlePatchWild_UsageDurability.CardStatName,Nutrients,養分
+NettleStemsPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+PeaFieldGrowing_SpoilageTime.CardStatName,Nutrients,養分
+PeaFieldMature_SpoilageTime.CardStatName,Nutrients,養分
+PeasPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+ReedPatch_UsageDurability.CardStatName,Nutrients,養分
+RyeFieldGrowing_SpoilageTime.CardStatName,Nutrients,養分
+RyeFieldMature_SpoilageTime.CardStatName,Nutrients,養分
+RyePlantedMature_UsageDurability.CardStatName,Nutrients,養分
+SpiritMushroomsPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+SpiritShrine_Earth_SacredOak_SpoilageTime.CardStatName,Nutrients,養分
+SpiritShrine_Water_SacredSpring_SpoilageTime.CardStatName,Nutrients,養分
+SpringBerriesPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+TilledField_SpoilageTime.CardStatName,Nutrients,養分
+TurnrootFieldGrowing_SpoilageTime.CardStatName,Nutrients,養分
+TurnrootFieldMature_SpoilageTime.CardStatName,Nutrients,養分
+TurnrootPlantedMature_UsageDurability.CardStatName,Nutrients,養分
+WildGarlicPlantedMature_UsageDurability.CardStatName,Nutrients,養分
 ClearingOak_GreenGlade_UsageDurability.CardStatName,Nutrition,Nutrition
 ClearingOak_MossyClearing_UsageDurability.CardStatName,Nutrition,Nutrition
 ClearingPine_FlowerGlade_UsageDurability.CardStatName,Nutrition,Nutrition
@@ -7411,10 +7411,10 @@ ThicketOak_MuddyThicket_UsageDurability.CardStatName,Nutrition,Nutrition
 ThicketOak_MuddyWay_UsageDurability.CardStatName,Nutrition,Nutrition
 ThicketOak_WhisperingThicket_UsageDurability.CardStatName,Nutrition,Nutrition
 ThicketOak_WildThicket_UsageDurability.CardStatName,Nutrition,Nutrition
-NettleLeavesBlanchedBoiled_CardDescription,Nutritious and safe to eat.,Nutritious and safe to eat.
-BirdMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,Nutritious.\n\nCan be cooked or dried to last longer.
-FishMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,Nutritious.\n\nCan be cooked or dried to last longer.
-MeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,Nutritious.\n\nCan be cooked or dried to last longer.
+NettleLeavesBlanchedBoiled_CardDescription,Nutritious and safe to eat.,栄養価が高く、安心して食べられる。
+BirdMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,栄養価が高い。\n\n調理したり乾燥させるこで長持ちする。
+FishMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,栄養価が高い。\n\n調理したり乾燥させるこで長持ちする。
+MeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,栄養価が高い。\n\n調理したり乾燥させるこで長持ちする。
 SaturationNuts_GameName,Nuts Saturation,Nuts Saturation
 Nutty_FlavourName,Nutty,Nutty
 OBJECTIVE_COMPLETE,OBJECTIVE COMPLETE,OBJECTIVE COMPLETE
@@ -7482,38 +7482,38 @@ Oven_AlternateNames[4].Name,Oven (firing),Oven (firing)
 Oven_AlternateNames[1].Name,Oven (warming),Oven (warming)
 Caves_FmOvergrownTunnel_CardName,Overgrown Tunnel,Overgrown Tunnel
 Env_FmOvergrownTunnel_CardName,Overgrown Tunnel,Overgrown Tunnel
-ClearingOak_GreenGlade_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ClearingOak_MossyClearing_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ClearingPine_FlowerGlade_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_GreatOak_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_GreenGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_MossyGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_MossyStone_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_MuddyGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_OakenGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_OldStump_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_SecretGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GroveOak_ShadyGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GrovePine_DeerGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GrovePine_RockyGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-GrovePine_SlopedGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-MudHutConstructionLocationEnclosure_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-MudHutConstructionLocationEnclosure_UsageDurability.CardStatName,Overgrowth,Overgrowth
-MudHutEnclosure_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-MudHutEnclosure_UsageDurability.CardStatName,Overgrowth,Overgrowth
-River_ClearingOak_RiverClearing_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-River_GroveOak_FloodedGrove_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-River_GroveOak_Greenfalls_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-River_GroveOak_MossyBank_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-River_ThicketOak_MuddyBank_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-River_ThicketOak_RiverConfluence_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-River_ThicketOak_ShadyBank_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ThicketOak_GreenTangle_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ThicketOak_LostWoods_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ThicketOak_MuddyThicket_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ThicketOak_MuddyWay_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ThicketOak_WhisperingThicket_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
-ThicketOak_WildThicket_SpecialDurability2.CardStatName,Overgrowth,Overgrowth
+ClearingOak_GreenGlade_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ClearingOak_MossyClearing_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ClearingPine_FlowerGlade_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_GreatOak_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_GreenGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_MossyGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_MossyStone_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_MuddyGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_OakenGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_OldStump_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_SecretGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GroveOak_ShadyGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GrovePine_DeerGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GrovePine_RockyGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+GrovePine_SlopedGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+MudHutConstructionLocationEnclosure_SpecialDurability2.CardStatName,Overgrowth,繁茂
+MudHutConstructionLocationEnclosure_UsageDurability.CardStatName,Overgrowth,繁茂
+MudHutEnclosure_SpecialDurability2.CardStatName,Overgrowth,繁茂
+MudHutEnclosure_UsageDurability.CardStatName,Overgrowth,繁茂
+River_ClearingOak_RiverClearing_SpecialDurability2.CardStatName,Overgrowth,繁茂
+River_GroveOak_FloodedGrove_SpecialDurability2.CardStatName,Overgrowth,繁茂
+River_GroveOak_Greenfalls_SpecialDurability2.CardStatName,Overgrowth,繁茂
+River_GroveOak_MossyBank_SpecialDurability2.CardStatName,Overgrowth,繁茂
+River_ThicketOak_MuddyBank_SpecialDurability2.CardStatName,Overgrowth,繁茂
+River_ThicketOak_RiverConfluence_SpecialDurability2.CardStatName,Overgrowth,繁茂
+River_ThicketOak_ShadyBank_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ThicketOak_GreenTangle_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ThicketOak_LostWoods_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ThicketOak_MuddyThicket_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ThicketOak_MuddyWay_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ThicketOak_WhisperingThicket_SpecialDurability2.CardStatName,Overgrowth,繁茂
+ThicketOak_WildThicket_SpecialDurability2.CardStatName,Overgrowth,繁茂
 Grove_WillOWispGrove1_SpecialDurability2.CardStatName,Overgrowth - 2880 is 30 days worth,Overgrowth - 2880 is 30 days worth
 Grove_WillOWispGrove2_SpecialDurability2.CardStatName,Overgrowth - 2880 is 30 days worth,Overgrowth - 2880 is 30 days worth
 BodyTemperature_Statuses[0].GameName,Overheated to Death,Overheated to Death
@@ -7523,44 +7523,44 @@ CharacterGlobalInfo_DifficultyRatings[4].Label,Overwhelmed,Overwhelmed
 INFO_AND_NEWS,PATCH NOTES & NEWS,PATCH NOTES & NEWS
 PERK_UNLOCKED,PERK UNLOCKED!,PERK UNLOCKED!
 CHECKPOINT_PICK_MODE,PICK A MODE,モードを選択
-CagePlaced_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-DeadfallTrapTriggered_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-DeadfallTrap_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-ImprovedSnareTrapTriggered_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-ImprovedSnareTrap_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-LogTrapTriggered_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-LogTrap_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-TrappingPitTriggered_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-TrappingPit_InventorySlotsText,PLACE BAIT HERE,PLACE BAIT HERE
-W_ArmLacerationLStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_ArmLacerationL_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_ArmLacerationRStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_ArmLacerationR_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_LegLacerationLStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_LegLacerationL_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_LegLacerationRStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_LegLacerationR_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,PLACE DRESSING / TOURNIQUET HERE
-W_Abrasion_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_BiteWound_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_Bruise_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_ClawMarks_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_FireBurn_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_Frostbite_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_Frostnip_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_MinorLacerationStitched_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_MinorLaceration_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_MudlingSpit_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_Puncture_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_WolfBite_InventorySlotsText,PLACE DRESSING HERE,PLACE DRESSING HERE
-W_ArmFractureL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_ArmFractureR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_ArmSprainedL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_ArmSprainedR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_LegFractureL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_LegFractureR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_LegSprainedL_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_LegSprainedR_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
-W_RibFracture_InventorySlotsText,PLACE SPLINT HERE,PLACE SPLINT HERE
+CagePlaced_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+DeadfallTrapTriggered_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+DeadfallTrap_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+ImprovedSnareTrapTriggered_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+ImprovedSnareTrap_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+LogTrapTriggered_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+LogTrap_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+TrappingPitTriggered_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+TrappingPit_InventorySlotsText,PLACE BAIT HERE,ここに餌を置く
+W_ArmLacerationLStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_ArmLacerationL_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_ArmLacerationRStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_ArmLacerationR_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_LegLacerationLStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_LegLacerationL_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_LegLacerationRStitched_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_LegLacerationR_InventorySlotsText,PLACE DRESSING / TOURNIQUET HERE,ここに手当て用品/止血帯を置く
+W_Abrasion_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_BiteWound_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_Bruise_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_ClawMarks_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_FireBurn_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_Frostbite_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_Frostnip_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_MinorLacerationStitched_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_MinorLaceration_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_MudlingSpit_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_Puncture_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_WolfBite_InventorySlotsText,PLACE DRESSING HERE,ここに手当て用品を置く
+W_ArmFractureL_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_ArmFractureR_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_ArmSprainedL_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_ArmSprainedR_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_LegFractureL_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_LegFractureR_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_LegSprainedL_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_LegSprainedR_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
+W_RibFracture_InventorySlotsText,PLACE SPLINT HERE,ここに添え木をあてる
 PREV,PREVIOUS,PREVIOUS
 tag_Paddy_InGameName,Paddy,Paddy
 Event_FluteTunes1_CardName,Page 1,Page 1
@@ -7711,8 +7711,8 @@ PeasPlantedGrowing_CardName,Planted Peas,Planted Peas
 RyePlantedGrowing_CardName,Planted Rye,Planted Rye
 Tab_Farming_Plants_TabName,Plants,Plants
 ThicketOak_LostWoods_SpoilageTime.CardStatName,Plants,Plants
-Bp_GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.",植物やキノコは、適切な酸性度、栄養、水分補給があれば、ここで育てられる。\n\n過度の肥料はダニの発生につながり、過度の水分補給はカビの発生につながる。庭をこまめに点検することで、植物を丈夫に育てることができる。
-GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.",植物やキノコは、適切な酸性度、栄養、水分補給があれば、ここで育てられる。\n\n過度の肥料はダニの発生につながり、過度の水分補給はカビの発生につながる。庭をこまめに点検することで、植物を丈夫に育てることができる。
+Bp_GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.",植物やキノコは、適切な酸性度、養分、水分補給があれば、ここで育てられる。\n\n過度の肥料はダニの発生につながり、過度の水分補給はカビの発生につながる。庭をこまめに点検することで、植物を丈夫に育てることができる。
+GardenPlot_CardDescription,"Plants and mushrooms can grow here, provided they have the right level of acidity, nutrition and hydration.\n\nExcessive fertilizing can lead to mites, and excessive hydration to fungus. Inspecting your gardens often can help your plants grow stronger.",植物やキノコは、適切な酸性度、養分、水分補給があれば、ここで育てられる。\n\n過度の肥料はダニの発生につながり、過度の水分補給はカビの発生につながる。庭をこまめに点検することで、植物を丈夫に育てることができる。
 Bp_Plaster_CardName,Plaster,Plaster
 Plaster_CardName,Plaster,Plaster
 Imp_PlasteredWalls_CardName,Plastered Walls,Plastered Walls
@@ -9224,18 +9224,18 @@ Event_FluteTunes3_DismantleActions[2].ActionDescription,Strange and Deep,Strange
 Event_FluteTunes2_DismantleActions[0].ActionDescription,Strangely Comforting,Strangely Comforting
 Straw_CardName,Straw,Straw
 StreamBed_CardName,Stream,Stream
-BoarFreeFemale_Progress.CardStatName,Stress,Stress
-BoarFreeMale_Progress.CardStatName,Stress,Stress
-BoarFreePiglet_Progress.CardStatName,Stress,Stress
-BoarTiedFemale_Progress.CardStatName,Stress,Stress
-BoarTiedMale_Progress.CardStatName,Stress,Stress
-ChickenChick_Progress.CardStatName,Stress,Stress
-PartridgeFreeChick_Progress.CardStatName,Stress,Stress
-PartridgeFreeFemale_Progress.CardStatName,Stress,Stress
-PartridgeFreeMale_Progress.CardStatName,Stress,Stress
-PartridgeTiedFemale_Progress.CardStatName,Stress,Stress
-PartridgeTiedMale_Progress.CardStatName,Stress,Stress
-Stress_GameName,Stress,Stress
+BoarFreeFemale_Progress.CardStatName,Stress,ストレス
+BoarFreeMale_Progress.CardStatName,Stress,ストレス
+BoarFreePiglet_Progress.CardStatName,Stress,ストレス
+BoarTiedFemale_Progress.CardStatName,Stress,ストレス
+BoarTiedMale_Progress.CardStatName,Stress,ストレス
+ChickenChick_Progress.CardStatName,Stress,ストレス
+PartridgeFreeChick_Progress.CardStatName,Stress,ストレス
+PartridgeFreeFemale_Progress.CardStatName,Stress,ストレス
+PartridgeFreeMale_Progress.CardStatName,Stress,ストレス
+PartridgeTiedFemale_Progress.CardStatName,Stress,ストレス
+PartridgeTiedMale_Progress.CardStatName,Stress,ストレス
+Stress_GameName,Stress,ストレス
 tag_StressSource_InGameName,Stress Source,Stress Source
 CharacterGlobalInfo_DifficultyRatings[3].Label,Stressed,Stressed
 Stress_Statuses[2].GameName,Stressed,Stressed
