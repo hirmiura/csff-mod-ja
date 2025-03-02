@@ -2,7 +2,7 @@
 PartridgeChickDead_CardDescription, Could be used as trap bait., Could be used as trap bait.
 MudWorkingTools_Obj3_CraftAMudBrickMold_ObjectiveDescription, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 MudWorkingTools_Sub3_CraftAMudBrickMold_QuestTitle, Craft a Mud Brick Mold, Craft a Mud Brick Mold
-BodyTemperature_Statuses[7].GameName, Hypothermia, Hypothermia
+BodyTemperature_Statuses[7].GameName, Hypothermia, 低体温症 (7)
 FirerootEffect_Statuses[2].GameName, Strong Firebrew Effect, Strong Firebrew Effect
 LQ_SpiritBadger_LiquidSuffixName,(Badger),(Badger)
 LQ_SpiritBoar_LiquidSuffixName,(Boar),(Boar)
@@ -661,7 +661,7 @@ SeasonsSettings_Seasons[2].SeasonClockName,Aut.,Aut.
 CHECKPOINT_MODE_DESC,Auto checkpoints that you can revert to at any point or on death.,いつでもチェックポイントに戻れる。
 SeasonsSettings_Seasons[2].SeasonFullName,Autumn,Autumn
 AVAILABLE,Available,利用可能
-Wellbeing_Statuses[2].GameName,Average Wellbeing,並な幸福
+Wellbeing_Statuses[2].GameName,Average Wellbeing,並な幸福 (2)
 Spirit_Fire_DismantleActions[0].ActionName,Awaken the Hearth,Awaken the Hearth
 Hearth_Obj3_AwakenYourHearth_ObjectiveDescription,Awaken your Hearth,Awaken your Hearth
 Hearth_Sub3_AwakenYourHearth_QuestTitle,Awaken your Hearth,Awaken your Hearth
@@ -674,7 +674,7 @@ BLUEPRINT_MODELS,BLUEPRINTS,青写真
 BACK,Back,戻る
 eTag_Backpack_InGameName,Back,Back
 tag_Backpack_InGameName,Backpack,Backpack
-Wellbeing_Statuses[3].GameName,Bad Wellbeing,少し不幸
+Wellbeing_Statuses[3].GameName,Bad Wellbeing,少し不幸 (3)
 Discomfort_Description,"Bad smells, unsightly things and general filth. Lowers comfort and wellbeing, increases nausea and stress.","Bad smells, unsightly things and general filth. Lowers comfort and wellbeing, increases nausea and stress."
 Agent_Badger_AgentName,Badger,Badger
 Carcass_BadgerCarcass_CardName,Badger Carcass,Badger Carcass
@@ -1126,7 +1126,7 @@ BoarFreeFemale_SpecialDurability4.OnFull.ActionDescription,Boar has given birth!
 GpTag_BoarsFavorite_TabName,Boars Favorite,Boars Favorite
 BodyTemperature_GameName,Body Temperature,体温
 BodyTemperature_TooMuchText,Body temperature too high. ,Body temperature too high. 
-BodyTemperature_NotEnoughText,Body temperature too low. ,Body temperature too low. 
+BodyTemperature_NotEnoughText,Body temperature too low. ,体温が低すぎる。
 AcornsPoisonRaw_SpecialDurability4.CardStatName,Boil,Boil
 AcornsSpiritRaw_SpecialDurability4.CardStatName,Boil,Boil
 ClayBowl_CookingRecipes[1].ActionName,Boil,Boil
@@ -2114,8 +2114,8 @@ FireBasics_Obj3_CombineASharpenedStoneWithSticks_ObjectiveDescription,Combine a 
 FireBasics_Obj3_CombineASharpenedStoneWithTwigs_ObjectiveDescription,Combine a Sharpened Stone with Twigs,Combine a Sharpened Stone with Twigs
 FireBasics_Sub3_CombineASharpenedStoneWithTwigs_QuestTitle,Combine a Sharpened Stone with Twigs,Combine a Sharpened Stone with Twigs
 Comfort_GameName,Comfort,Comfort
-BodyTemperature_DefaultStatusName,Comfortable,Comfortable
-BodyTemperature_Statuses[4].GameName,Comfortable,Comfortable
+BodyTemperature_DefaultStatusName,Comfortable,快適
+BodyTemperature_Statuses[4].GameName,Comfortable,快適 (4)
 TemperaturePerceived_Statuses[4].GameName,Comfortable,Comfortable
 ClearingOak_GreenGlade_SpecialDurability1.OnFull.ActionName,Common,Common
 ClearingOak_MossyClearing_SpecialDurability1.OnFull.ActionName,Common,Common
@@ -2682,7 +2682,7 @@ Bp_ReedSkirt_UnlockConditionsDesc,Cord Needed,Cord Needed
 OakTreeLarge_CardDescription,"Could chop it down for its hardwood, ideal for construction and crafts. Should produce acorns during autumn.",硬材のため切り倒すことができ、建築や工芸に最適。 秋にはドングリが実る。
 YarnFiber_CardDescription,Could combine it with more yarn to braid it into a rope or turn it into cloth with a loom.,Could combine it with more yarn to braid it into a rope or turn it into cloth with a loom.
 RectalPressure_Statuses[0].Description,Could defecate,Could defecate
-Thirst_Statuses[1].Description,Could have something to drink,Could have something to drink
+Thirst_Statuses[1].Description,Could have something to drink,何か飲み物を
 Quicklime_CardDescription,Could make mortar and other things with this.,Could make mortar and other things with this.
 ArrowBone_CardDescription,Could shoot it with a bow.,Could shoot it with a bow.
 BoarEnclosureMale_CardDescription,Could slaughter it for its meat and leather or let it impregnate the sows to breed more boars.,Could slaughter it for its meat and leather or let it impregnate the sows to breed more boars.
@@ -2909,7 +2909,7 @@ Bp_Waterskin_UnlockConditionsDesc,Cured Skin Needed,Cured Skin Needed
 FurFleshed_FuelCapacity.CardStatName,Curing,Curing
 SkinFleshed_FuelCapacity.CardStatName,Curing,Curing
 LOCATION_CARD,"Current Location\n<b>(Forage, Clear, Travel)</b>","現在地\n<b>(Forage, Clear, Travel)</b>"
-CURRENT_STATUS,Current Status,Current Status
+CURRENT_STATUS,Current Status,現在の状況
 CONFIRM_RESEARCH_SWITCH,Currently researching {0}.\nSwitch research to {1}?\n(You will keep research progress on {0}),Currently researching {0}.\nSwitch research to {1}?\n(You will keep research progress on {0})
 CUSTOM_CHARACTERS,Custom Characters,カスタムキャラクター
 CUSTOM_CHECKPOINT,Custom checkpoint,カスタムチェックポイント
@@ -4701,13 +4701,13 @@ Event_FrostNipAppeared_CardName,Frostnip,Frostnip
 W_Frostnip_CardName,Frostnip,Frostnip
 W_Frostnip_SpoilageTime.OnFull.ActionName,Frostnip,Frostnip
 FrozenRiver_CardName,Frozen River,Frozen River
-BodyTemperature_Statuses[8].GameName,Frozen to Death,Frozen to Death
+BodyTemperature_Statuses[8].GameName,Frozen to Death,凍死 (8)
 SaturationFruits_GameName,Fruits Saturation,Fruits Saturation
 Fruity_FlavourName,Fruity,Fruity
 FUEL_DEFAULT_NAME,Fuel,Fuel
 tag_Fuel_InGameName,Fuel,Fuel
 tag_FuelCapacity_InGameName,Fuel Capacity,Fuel Capacity
-Satiation_Statuses[2].GameName,Full,Full
+Satiation_Statuses[2].GameName,Full,満腹 (2)
 Energy_Statuses[4].GameName,Full Energy,Full Energy
 DEMO_UNAVAILABLE,Full Game Only,Full Game Only
 FULLSCREEN,Fullscreen,フルスクリーン
@@ -4945,7 +4945,7 @@ Caves_FmFloodedTunnel_DismantleActions[0].FadeMessage,Going West...,Going West..
 Caves_FmOminousTunnel_DismantleActions[0].FadeMessage,Going West...,Going West...
 Caves_FmOvergrownTunnel_DismantleActions[0].FadeMessage,Going West...,Going West...
 Caves_FmTheFlintMotherLode_DismantleActions[0].FadeMessage,Going West...,Going West...
-Wellbeing_Statuses[1].GameName,Good Wellbeing,少し幸福
+Wellbeing_Statuses[1].GameName,Good Wellbeing,少し幸福 (1)
 Feathers_CardDescription,"Good for crafting arrows, decorative uses, or as insulation filler.","Good for crafting arrows, decorative uses, or as insulation filler."
 AcornsPoisonRaw_CardDescription,"Good source of calories, should leech them in water first to make them edible.","Good source of calories, should leech them in water first to make them edible."
 AcornFlatBread_CardDescription,Good source of calories. Can also be used as a plate.,Good source of calories. Can also be used as a plate.
@@ -4961,7 +4961,7 @@ tag_SpiritBindingGranted_InGameName,Granted Spirit Binding,Granted Spirit Bindin
 tag_SpiritBlessingGranted_InGameName,Granted Spirit Blessing,Granted Spirit Blessing
 Grassy_FlavourName,Grassy,Grassy
 GroveOak_GreatOak_CardName,Great Oak,Great Oak
-Wellbeing_Statuses[0].GameName,Great Wellbeing,とても幸福
+Wellbeing_Statuses[0].GameName,Great Wellbeing,とても幸福 (0)
 GreaterMudling_CardDescription,Greater Mudling,Greater Mudling
 GreaterMudling_CardName,Greater Mudling,Greater Mudling
 Tgr_GreaterMudlingSpawn_Actions[0].ActionName,Greater Mudling Spawn,Greater Mudling Spawn
@@ -5561,7 +5561,7 @@ PartridgeFemaleFree_SpoilageTime.CardStatName,Hunger,Hunger
 PartridgeFemaleTied_SpoilageTime.CardStatName,Hunger,Hunger
 PartridgeMaleFree_SpoilageTime.CardStatName,Hunger,Hunger
 PartridgeMaleTied_SpoilageTime.CardStatName,Hunger,Hunger
-Satiation_Statuses[5].GameName,Hungry,Hungry
+Satiation_Statuses[5].GameName,Hungry,空腹 (5)
 Combat_EventBadger_1_Explore_F_DismantleActions[1].ActionName,Hunt It!,Hunt It!
 Combat_EventFox_1_Explore_DismantleActions[1].ActionName,Hunt It!,Hunt It!
 BasicHunting_Obj2_HuntABadgerOrTheFox_ObjectiveDescription,Hunt a Badger or Fox,Hunt a Badger or Fox
@@ -5630,7 +5630,7 @@ TurnrootPlantedMature_FuelCapacity.CardStatName,Hydration,水分
 WildGarlicPlantedMature_FuelCapacity.CardStatName,Hydration,水分
 Hydration_GameName,Hydration ,Hydration 
 DMG_Hydrodynamic_Name,Hydrodynamic,Hydrodynamic
-BodyTemperature_Statuses[1].GameName,Hyperthermia,Hyperthermia
+BodyTemperature_Statuses[1].GameName,Hyperthermia,高体温症 (1)
 Mania_Statuses[0].GameName,Hypomanic,Hypomanic
 VICTORY,I SURVIVED!,I SURVIVED!
 Quiver_CardDescription,I can carry my arrows here. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,I can carry my arrows here. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>
@@ -5668,8 +5668,8 @@ Courage_NotEnoughText,I haven't mustered enough courage yet...,I haven't mustere
 OnNotAxeAdv_NotEnoughText,I need a stronger axe for this,I need a stronger axe for this
 BedLog_DismantleActions[0].StatInterruptions[9].Notification,I need to Pee!,I need to Pee!
 ImprovisedBed_DismantleActions[0].StatInterruptions[9].Notification,I need to Pee!,I need to Pee!
-BodyTemperature_Statuses[2].Description,I need to cool down...,I need to cool down...
-Thirst_Statuses[3].Description,I need to drink something,I need to drink something
+BodyTemperature_Statuses[2].Description,I need to cool down...,体を冷やさないと...
+Thirst_Statuses[3].Description,I need to drink something,何か飲まなければ
 Dmg_RoofDamage_CardDescription,I need to fix it.,I need to fix it.
 Wakefulness_Statuses[1].Description,I need to sleep (click on clock or bed to sleep),I need to sleep (click on clock or bed to sleep)
 Event_AnxietyAttack_CardDescription,I need to stop. I feel like I'm going crazy.\n\nI need to stop and calm down.,I need to stop. I feel like I'm going crazy.\n\nI need to stop and calm down.
@@ -5694,7 +5694,7 @@ ImprovisedShelter_DismantleActions[0].StatInterruptions[8].Notification,I really
 ImprovisedShelter_DismantleActions[1].StatInterruptions[8].Notification,I really need to Poop!,I really need to Poop!
 TimeSkipOptions_Actions[4].StatInterruptions[9].Notification,I really need to Poop!,I really need to Poop!
 TimeSkipOptions_Actions[5].StatInterruptions[9].Notification,I really need to Poop!,I really need to Poop!
-Thirst_Statuses[4].Description,I really need to drink something,I really need to drink something
+Thirst_Statuses[4].Description,I really need to drink something,本当に何か飲まなければ
 HearthAwakenedExtinguished_CardDescription,I should be able to light it with some lit tinder.,I should be able to light it with some lit tinder.
 HearthExtinguished_CardDescription,I should be able to light it with some lit tinder.,I should be able to light it with some lit tinder.
 SpiritShrine_Fire_RitualPyreExtinguished_CardDescription,I should be able to light it with some lit tinder.,I should be able to light it with some lit tinder.
@@ -5715,7 +5715,7 @@ Fever_Statuses[1].Description,I think I have a fever,I think I have a fever
 AlcoholEffect_Statuses[1].Description,I think I'm drunk.,I think I'm drunk.
 Event_AnxietyAttack_DismantleActions[0].StatInterruptions[4].Notification,I think I'm dying of starvationl...,I think I'm dying of starvationl...
 BloodPressure_Statuses[2].Description,I think I'm going to faint...,I think I'm going to faint...
-Thirst_Statuses[2].Description,I want to drink something,I want to drink something
+Thirst_Statuses[2].Description,I want to drink something,何か飲みたい
 MouseCooked_CardDescription,I wish it had a bit more meat.,I wish it had a bit more meat.
 SquirrelCooked_CardDescription,I wish it had a bit more meat.,I wish it had a bit more meat.
 Hydration_Statuses[4].Description,I won't make it for much longer,I won't make it for much longer
@@ -5743,7 +5743,7 @@ Morale_DefaultStatusDescription,I'm feeling fine.,I'm feeling fine.
 Loneliness_Statuses[1].Description,I'm feeling lonely...,I'm feeling lonely...
 Loneliness_Statuses[2].Description,I'm feeling so lonely...,I'm feeling so lonely...
 Wakefulness_Statuses[0].Description,I'm getting sleepy (click on clock or bed to sleep),I'm getting sleepy (click on clock or bed to sleep)
-BodyTemperature_Statuses[1].Description,I'm going to die if I don't cool down...,I'm going to die if I don't cool down...
+BodyTemperature_Statuses[1].Description,I'm going to die if I don't cool down...,冷やさないとと死んでしまう...
 Nausea_Statuses[2].Description,I'm going to throw up!,I'm going to throw up!
 Pain_Statuses[1].Description,I'm in pain.,I'm in pain.
 Pain_Statuses[2].Description,I'm in serious pain.,I'm in serious pain.
@@ -5786,7 +5786,7 @@ TimeSkipOptions_Actions[4].StatInterruptions[6].Notification,I'm not feeling wel
 TimeSkipOptions_Actions[5].StatInterruptions[5].Notification,I'm not feeling well...,I'm not feeling well...
 TimeSkipOptions_Actions[5].StatInterruptions[6].Notification,I'm not feeling well...,I'm not feeling well...
 Hydration_Statuses[3].Description,I'm seriously dehydrated,I'm seriously dehydrated
-Thirst_Statuses[5].Description,I'm seriously dehydrated,I'm seriously dehydrated
+Thirst_Statuses[5].Description,I'm seriously dehydrated,脱水症状がひどい
 SaturationBird_Statuses[1].GameName,I'm so sick of eating Birds...,I'm so sick of eating Birds...
 SaturationEggs_Statuses[1].GameName,I'm so sick of eating Eggs...,I'm so sick of eating Eggs...
 SaturationFish_Statuses[1].GameName,I'm so sick of eating Fish...,I'm so sick of eating Fish...
@@ -5983,7 +5983,7 @@ W_WolfBite_UsageDurability.CardStatName,Infection,Infection
 tag_EnvInfertile_InGameName,Infertile Environment,Infertile Environment
 Pk_2_7_InfiniteBladder_PerkName,Infinite Bladder,無限の膀胱
 Pk_2_5_InfiniteBowels_PerkName,Infinite Bowels,無限の腸
-STAT_INFLUENCES,Influenced by,Influenced by
+STAT_INFLUENCES,Influenced by,影響を受けている
 CARD_INFO,Info,Info
 InnerWarmth_GameName,Inner Warmth,Inner Warmth
 InnerWarmth_Statuses[0].GameName,Inner Warmth,Inner Warmth
@@ -7198,10 +7198,10 @@ ThawingFactor_NotEnoughText,Not Enough Snow,Not Enough Snow
 Kiln_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Oven_CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
 Smokehouse__CookingConditions.CookingPausedNotification,Not Hot Enough,Not Hot Enough
-Satiation_Statuses[3].GameName,Not Hungry,Not Hungry
+Satiation_Statuses[3].GameName,Not Hungry,空腹ではない (3)
 Hydration_DefaultStatusName,Not Thirsty,Not Thirsty
 Thirst_DefaultStatusName,Not Thirsty,Not Thirsty
-Thirst_Statuses[0].GameName,Not Thirsty,Not Thirsty
+Thirst_Statuses[0].GameName,Not Thirsty,喉は渇いていない (0)
 SuccessChanceLabels_SuccessLabels[0].LabelText,Not a chance,Not a chance
 BeastAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 BirdAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
@@ -7346,7 +7346,7 @@ PartridgeFreeMale_CardInteractions[0].RequiredReceivingDurabilities.FailMessage,
 PartridgeTiedFemale_CardInteractions[0].RequiredReceivingDurabilities.FailMessage,Not hungry yet.,Not hungry yet.
 PartridgeTiedMale_CardInteractions[0].RequiredReceivingDurabilities.FailMessage,Not hungry yet.,Not hungry yet.
 Mistgate_NotEnoughText,Not ready for this yet...,Not ready for this yet...
-BodyTemperature_Statuses[6].GameName,Numb,Numb
+BodyTemperature_Statuses[6].GameName,Numb,凍えて麻痺する (6)
 Number1_Completed_ObjectiveDescription,Number 1,Number 1
 Number1_Main_QuestTitle,Number 1,Number 1
 Number1_Completed_Event_CardName,Number 1 Complete,Number 1 Complete
@@ -7516,8 +7516,8 @@ ThicketOak_WhisperingThicket_SpecialDurability2.CardStatName,Overgrowth,繁茂
 ThicketOak_WildThicket_SpecialDurability2.CardStatName,Overgrowth,繁茂
 Grove_WillOWispGrove1_SpecialDurability2.CardStatName,Overgrowth - 2880 is 30 days worth,Overgrowth - 2880 is 30 days worth
 Grove_WillOWispGrove2_SpecialDurability2.CardStatName,Overgrowth - 2880 is 30 days worth,Overgrowth - 2880 is 30 days worth
-BodyTemperature_Statuses[0].GameName,Overheated to Death,Overheated to Death
-BodyTemperature_Statuses[2].GameName,Overheating,Overheating
+BodyTemperature_Statuses[0].GameName,Overheated to Death,死への過熱 (0)
+BodyTemperature_Statuses[2].GameName,Overheating,オーバーヒート (2)
 Weight_Statuses[2].GameName,Overweight,Overweight
 CharacterGlobalInfo_DifficultyRatings[4].Label,Overwhelmed,Overwhelmed
 INFO_AND_NEWS,PATCH NOTES & NEWS,PATCH NOTES & NEWS
@@ -7604,7 +7604,7 @@ Parasites_Statuses[0].GameName,Parasitic Gut Infection,Parasitic Gut Infection
 Parasites_Statuses[1].GameName,Parasitic Gut Infection,Parasitic Gut Infection
 Parasites_Statuses[2].GameName,Parasitic Gut Infection,Parasitic Gut Infection
 Parasites_Statuses[3].GameName,Parasitic Gut Infection,Parasitic Gut Infection
-Thirst_Statuses[4].GameName,Parched,Parched
+Thirst_Statuses[4].GameName,Parched,カラカラ (4)
 Agent_Partridge_AgentName,Partridge,Partridge
 Combat_EncounterPartridge_EncounterTitle,Partridge,Partridge
 PartridgeFemaleFree_CardName,Partridge,Partridge
@@ -7731,7 +7731,7 @@ tag_FibersPoor_InGameName,Poor Fibers,Poor Fibers
 tag_ProcessedPoor_InGameName,Poor Processed,Poor Processed
 tag_ProteinsPoor_InGameName,Poor Proteins,Poor Proteins
 tag_SugarsPoor_InGameName,Poor Sugars,Poor Sugars
-Wellbeing_Statuses[4].GameName,Poor Wellbeing,とても不幸
+Wellbeing_Statuses[4].GameName,Poor Wellbeing,とても不幸 (4)
 Pop_Badger_GameName,Population Badger,Population Badger
 Pop_Boar_GameName,Population Boars,Population Boars
 Pop_Doe_GameName,Population Doe,Population Doe
@@ -8159,7 +8159,7 @@ ThicketOak_WhisperingThicket_SpecialDurability3.OnFull.ActionName,Rare,Rare
 ThicketOak_WildThicket_SpecialDurability3.OnFull.ActionName,Rare,Rare
 Rash_GameName,Rash,Rash
 Rash_Statuses[1].GameName,Rash,Rash
-Satiation_Statuses[7].GameName,Ravenous,Ravenous
+Satiation_Statuses[7].GameName,Ravenous,飢えている (7)
 AcornsPoisonRaw_CardName,Raw Acorns,Raw Acorns
 BreadLoafRaw_CardName,Raw Bread Loaf,Raw Bread Loaf
 tag_RawFish_InGameName,Raw Fish,Raw Fish
@@ -8573,7 +8573,7 @@ Wounds_Statuses[3].GameName,Serious Wounds,Serious Wounds
 Bruising_Statuses[1].GameName,Seriously Bruised,Seriously Bruised
 Morale_Statuses[5].GameName,Seriously Depressed,Seriously Depressed
 Encumbrance_Statuses[2].GameName,Seriously Encumbered,Seriously Encumbered
-Thirst_Statuses[5].GameName,Seriously Parched,Seriously Parched
+Thirst_Statuses[5].GameName,Seriously Parched,深刻な喉の渇き (5)
 Bp_ClayPlate_CardDescription,Serves as a basic dish for meals.,Serves as a basic dish for meals.
 ClayPlate_CardDescription,Serves as a basic dish for meals.,Serves as a basic dish for meals.
 SettlingDown_Completed_ObjectiveDescription,Settling Down,Settling Down
@@ -8637,7 +8637,7 @@ eTag_Shield_InGameName,Shield,Shield
 Bp_ShirtCloth_CardName,Shirt,Shirt
 ShirtCloth_CardName,Shirt,Shirt
 eTag_Shirt_InGameName,Shirt,Shirt
-BodyTemperature_Statuses[5].GameName,Shivering,Shivering
+BodyTemperature_Statuses[5].GameName,Shivering,震える (5)
 eTag_Shoes_InGameName,Shoes,Shoes
 BLUEPRINT_SHOP,Shop,Shop
 Pk_4_Short_PerkName,Short Stature,Short Stature
@@ -8762,7 +8762,7 @@ Sodium_Description,Shows the level of sodium in your body. Will dehydrate you an
 Sheltered_Description,"Shows whether you're protected from the elements, such as wind and rain.",風や雨などの要素から保護されているかどうかを表す。
 Morale_Description,Shows your general mood. Affects your immune system and can help trigger depressive and manic states at the extremes.,全般的な気分を示す。 免疫系に影響を与え、極端な場合は抑うつ状態や躁状態の引き金となる。
 Tab_7_Magic_Subtab_1_Shrines_TabName,Shrines,Shrines
-Satiation_Statuses[0].GameName,Sick,Sick
+Satiation_Statuses[0].GameName,Sick,過食 (0)
 Bp_Sieve_CardName,Sieve,Sieve
 Sieve_CardName,Sieve,Sieve
 Pk_5_Obese_PerkDescription,"Significantly increases your body weight, boosting fat reserves and insulation but reducing stamina and mobility.","Significantly increases your body weight, boosting fat reserves and insulation but reducing stamina and mobility."
@@ -8829,8 +8829,8 @@ ImprovisedShelter_DismantleActions[1].FadeMessage,Sleeping...,Sleeping...
 TimeSkipOptions_Actions[5].FadeMessage,Sleeping...,Sleeping...
 Wakefulness_Statuses[0].GameName,Sleepy,Sleepy
 AlteredMindstate_Statuses[1].GameName,Slightly Altered Mindstate,Slightly Altered Mindstate
-Satiation_Statuses[4].GameName,Slightly Hungry,Slightly Hungry
-Thirst_Statuses[1].GameName,Slightly Thirsty,Slightly Thirsty
+Satiation_Statuses[4].GameName,Slightly Hungry,やや空腹 (4)
+Thirst_Statuses[1].GameName,Slightly Thirsty,やや喉が渇いた (1)
 SUBTLE_FLAVOUR,Slightly {0},Slightly {0}
 Skill_Sling_GameName,Sling,Sling
 Env_GrovePine_SlopedGrove_CardName,Sloped Grove,Sloped Grove
@@ -9169,8 +9169,8 @@ Pk_0_0_AllKnowing_PerkDescription,Start with all blueprints unlocked.,すべて�
 STARTING_CONDITIONS,Starting Conditions,Starting Conditions
 TickCounter_Statuses[0].GameName,Starting Morale Counter,Starting Morale Counter
 tag_Static_InGameName,Static,Static
-STATS,Stats,Stats
-STAT_DETAILS_STATUS,Status:,Status:
+STATS,Stats,状態
+STAT_DETAILS_STATUS,Status:,状態:
 StayingWarm_Completed_Main_QuestTitle,Staying Warm,Staying Warm
 StayingWarm_Completed_ObjectiveDescription,Staying Warm,Staying Warm
 StayingWarm_Completed_Completed_Event_CardName,Staying Warm Complete,Staying Warm Complete
@@ -9345,7 +9345,7 @@ SurvivingTheNight_Main_QuestTitle,Surviving the Night,Surviving the Night
 SurvivingTheNight_Main_QuestTitle*,Surviving the Night,Surviving the Night
 SurvivingTheNight_Completed_Event_CardName,Surviving the Night Complete,Surviving the Night Complete
 SurvivingTheNight_Completed_Event_CardName*,Surviving the Night Complete,Surviving the Night Complete
-BodyTemperature_Statuses[3].GameName,Sweating,Sweating
+BodyTemperature_Statuses[3].GameName,Sweating,発汗 (3)
 Sweet_FlavourName,Sweet,Sweet
 Tab_Cooking_Sweet_TabName,Sweet,Sweet
 Pk_4_9_SweetTooth_PerkName,Sweet Tooth,Sweet Tooth
@@ -9849,7 +9849,7 @@ BoarTiedFemale_UsageDurability.CardStatName,Thirst,Thirst
 BoarTiedMale_UsageDurability.CardStatName,Thirst,Thirst
 Pkg_Thirst_GroupName,Thirst,Thirst
 Thirst_GameName,Thirst,Thirst
-Thirst_Statuses[2].GameName,Thirsty,Thirsty
+Thirst_Statuses[2].GameName,Thirsty,のどが渇いている (2)
 Event_FloodDamageAreWasFlooded_CardDescription,This area has been swept by floodwaters.,This area has been swept by floodwaters.
 AntibioticsEffect_Description,"This effect considerably boosts your immune system, helping you kill bacteria and parasites.","This effect considerably boosts your immune system, helping you kill bacteria and parasites."
 FallowFieldInvisible_CardDescription,This field is slowly recovering its structure and nutrients.,This field is slowly recovering its structure and nutrients.
@@ -9945,7 +9945,7 @@ Skill_Swimming_TooMuchText,Too much skill!,Too much skill!
 Hydration_Statuses[3].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
 Hydration_Statuses[4].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
 Hydration_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
-Thirst_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,Too thirsty to perform this action.
+Thirst_Statuses[5].PreventingActionMessage,Too thirsty to perform this action.,喉が渇きすぎて、この行動をできない。
 Tab_4_Tailoring_Subtab_6_Tools_TabName,Tools,Tools
 Tab_5_MetalAndClay_Subtab_2_Tools_TabName,Tools,Tools
 Bp_Torch_CardName,Torch,Torch
@@ -10383,7 +10383,7 @@ Filth_Statuses[2].GameName,Very Dirty,Very Dirty
 SkinHumidity_Statuses[2].GameName,Very Dry Skin,Very Dry Skin
 Encumbrance_Statuses[1].GameName,Very Encumbered,Very Encumbered
 Filth_Statuses[0].GameName,Very Filthy,Very Filthy
-Satiation_Statuses[1].GameName,Very Full,Very Full
+Satiation_Statuses[1].GameName,Very Full,非常に満腹 (1)
 Neoteny_Statuses[0].GameName,Very High,Very High
 BugDamage_Statuses[2].GameName,Very High Bug Damage,Very High Bug Damage
 BugPopulation_Statuses[2].GameName,Very High Bug Population,Very High Bug Population
@@ -10399,7 +10399,7 @@ VesicalPressure_Statuses[2].GameName,Very High Vesical Pressure,Very High Vesica
 Pk_5_Obese_PerkName,Very High Weight,Very High Weight
 TemperaturePerceived_Statuses[2].GameName,Very Hot,Very Hot
 Humidity_Statuses[3].GameName,Very Humid,Very Humid
-Satiation_Statuses[6].GameName,Very Hungry,Very Hungry
+Satiation_Statuses[6].GameName,Very Hungry,とても空腹 (6)
 ClothVeryLarge_CardName,Very Large Cloth,Very Large Cloth
 Pop_Badger_Statuses[3].GameName,Very Large Population,Very Large Population
 Pop_Boar_Statuses[3].GameName,Very Large Population,Very Large Population
@@ -10421,7 +10421,7 @@ Myopia_Statuses[1].GameName,Very Short-sighted,Very Short-sighted
 Wakefulness_Statuses[1].GameName,Very Sleepy,Very Sleepy
 ImmuneSystem_Statuses[5].GameName,Very Strong Immune System,Very Strong Immune System
 Pk_4_VeryTall_PerkName,Very Tall Stature,Very Tall Stature
-Thirst_Statuses[3].GameName,Very Thirsty,Very Thirsty
+Thirst_Statuses[3].GameName,Very Thirsty,とてものどが渇いている (3)
 Focus_Statuses[0].GameName,Very Unfocused,Very Unfocused
 Rash_Statuses[2].Description,Very red and so itchy it's hard to think.,Very red and so itchy it's hard to think.
 STRONG_FLAVOUR,Very {0},Very {0}
@@ -10890,7 +10890,7 @@ Sheltered_Statuses[1].Description,You are not protected from the weather.,天候
 Sheltered_Statuses[0].Description,You are protected from the weather.,天候から守られている
 Pk_2_6_LowThirst_PerkDescription,"You are slower to get thirsty and dehydrated, requiring you to drink less often.","You are slower to get thirsty and dehydrated, requiring you to drink less often."
 EncounterWindow_DefaultEnemyDefeatedEncounterLog.LogText,You are victorious!,You are victorious!
-Satiation_Statuses[0].Description,You ate too much and are feeling sick.,You ate too much and are feeling sick.
+Satiation_Statuses[0].Description,You ate too much and are feeling sick.,食べ過ぎて気持ち悪い。
 CharacterList_ModeDescription,You awaken lost and alone in a mysterious forest...,You awaken lost and alone in a mysterious forest...
 Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
 Combat_EncounterStag_EnemyActions[6].PlayerWounds.SeriousWounds[5].WoundLog.LogText,You broke your arm!,あなたは腕を骨折した！
@@ -10931,7 +10931,7 @@ Combat_ BTWolfPack_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s sk
 Combat_ BTWolf_F_Head.SeriousWounds[0].CombatLog.LogText,"You cracked {0}'s skull, it looks completely stunned.",あなたは{0}の頭蓋を割った。完全に気絶しているようだ。
 Combat_ BTBadger_Torso.MediumWounds[1].CombatLog.LogText,You cut {0} on the torso.,あなたは{0}の胴体を切りつけた。
 Combat_ BTFox_Torso.MediumWounds[1].CombatLog.LogText,You cut {0} on the torso.,あなたは{0}の胴体を切りつけた。
-BodyTemperature_Statuses[0].Description,You died of a heat stroke.,You died of a heat stroke.
+BodyTemperature_Statuses[0].Description,You died of a heat stroke.,あなたは熱中症で死んだ。
 Hydration_Statuses[5].Description,You died of dehydration.,You died of dehydration.
 Weight_Statuses[9].Description,You died of starvation.,You died of starvation.
 Combat_EncounterBadger_PlayerEscapedEffects.ResultLog.LogText,You disengage and escape from the badger...,You disengage and escape from the badger...
@@ -10975,7 +10975,7 @@ Combat_EncounterStag_EnemyActions[7].PlayerWounds.MediumWounds[4].WoundLog.LogTe
 Combat_EncounterStag_EnemyActions[7].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
 Combat_EncounterStag_EnemyActions[8].PlayerWounds.MediumWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
 Combat_EncounterStag_EnemyActions[8].PlayerWounds.SeriousWounds[4].WoundLog.LogText,You fractured your rib!,あなたは肋骨を骨折した！
-BodyTemperature_Statuses[8].Description,You froze to death.,You froze to death.
+BodyTemperature_Statuses[8].Description,You froze to death.,凍死する。
 Pk_4_9_MeatEater_PerkDescription,You gain additional wellbeing from eating savoury food.,You gain additional wellbeing from eating savoury food.
 Pk_4_9_SweetTooth_PerkDescription,You gain additional wellbeing from eating sweet food.,You gain additional wellbeing from eating sweet food.
 Pk_4_9_SaladLover_PerkDescription,You gain additional wellbeing from eating vegetables.,You gain additional wellbeing from eating vegetables.
@@ -11474,8 +11474,8 @@ Combat_ BTDoe_F_Head.MediumWounds[2].CombatLog.LogText,You wounded {0}'s head. I
 Combat_ BTStag_Head.MediumWounds[2].CombatLog.LogText,You wounded {0}'s head. It squeals in pain!,You wounded {0}'s head. It squeals in pain!
 Combat_ BTWolfPack_Head.MediumWounds[5].CombatLog.LogText,You wounded {0}'s head. It whimpers in pain!,You wounded {0}'s head. It whimpers in pain!
 Combat_ BTWolf_F_Head.MediumWounds[5].CombatLog.LogText,You wounded {0}'s head. It whimpers in pain!,You wounded {0}'s head. It whimpers in pain!
-BodyTemperature_Statuses[7].Description,You'll die if you don't warm up...,You'll die if you don't warm up...
-BodyTemperature_Statuses[5].Description,You're cold...,You're cold...
+BodyTemperature_Statuses[7].Description,You'll die if you don't warm up...,温まらないと死んでしまう...
+BodyTemperature_Statuses[5].Description,You're cold...,寒いな...
 Pk_2_7_SmallBladder_PerkDescription,"Your bladder has decreased urine capacity, requiring you to urinate more often.","Your bladder has decreased urine capacity, requiring you to urinate more often."
 Pk_2_7_LargeBladder_PerkDescription,"Your bladder has increased urine capacity, requiring you to urinate less often.","Your bladder has increased urine capacity, requiring you to urinate less often."
 Pk_2_7_InfiniteBladder_PerkDescription,"Your bladder leads straight into the void, relieving you from the mundane vulgarities of passing urine.",膀胱はそのまま虚空へとつながり、尿を出すという俗世間の下品な行為から解放される。
