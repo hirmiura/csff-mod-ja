@@ -2024,20 +2024,20 @@ ThicketOak_WildThicket_DismantleActions[1].ActionName,Clear,開墾
 ThicketOak_WildThicket_DismantleActions[2].ActionName,Clear,開墾
 Weather_0_Clear_CardName,Clear,晴れ (0)
 CLEAR_CARD_FILTERS,Clear Filters,フィルター解除
-WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
-WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription*,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
-WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
-WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle*,Clear the Area for Leaves & Firewood,Clear the Area for Leaves & Firewood
+WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription,Clear the Area for Leaves & Firewood,葉と薪のために開墾する
+WoodcuttingBasics_Obj1_ClearTheAreaForLeavesAndFirewood_ObjectiveDescription*,Clear the Area for Leaves & Firewood,葉と薪のために開墾する
+WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle,Clear the Area for Leaves & Firewood,葉と薪のために開墾する
+WoodcuttingBasics_Sub1_ClearTheAreaForLeavesAndFirewood_QuestTitle*,Clear the Area for Leaves & Firewood,葉と薪のために開墾する
 Caves_FmOvergrownTunnel_Progress.OnZero.ActionName,Cleared,Cleared
 Caves_FmClearedTunnel_CardName,Cleared Tunnel,Cleared Tunnel
 Event_WillOWisp_RiverClearing_CardName,Clearing by the River,Clearing by the River
 STATUS_INFO_CLICK,Click on a status for more <b>information</b> and special actions,ステータスをクリックすると、より詳しい<b>情報</b>や特別なアクションが表示されます
-Number2_Obj1_ClickOnYourRectalPressureStatAndClickOnTheDefecateButton_ObjectiveDescription,Click on your Rectal Pressure Stat and Click on the Defecate Button,Click on your Rectal Pressure Stat and Click on the Defecate Button
-Number2_Sub1_ClickOnYourRectalPressureStatAndClickOnTheDefecateButton_QuestTitle,Click on your Rectal Pressure Stat and Click on the Defecate Button,Click on your Rectal Pressure Stat and Click on the Defecate Button
-Resting_Obj1_ClickOnYourStaminaStatAndClickOnTheRestButton_ObjectiveDescription,Click on your Stamina Stat and click on the Rest Button,Click on your Stamina Stat and click on the Rest Button
-Resting_Sub1_ClickOnYourStaminaStatAndClickOnTheRestButton_QuestTitle,Click on your Stamina Stat and click on the Rest Button,Click on your Stamina Stat and click on the Rest Button
-Number1_Obj1_ClickOnYourVesicalPressureStatAndClickOnTheUrinateButton_ObjectiveDescription,Click on your Vesical Pressure Stat and Click on the Urinate Button,Click on your Vesical Pressure Stat and Click on the Urinate Button
-Number1_Sub1_ClickOnYourVesicalPressureStatAndClickOnTheUrinateButton_QuestTitle,Click on your Vesical Pressure Stat and Click on the Urinate Button,Click on your Vesical Pressure Stat and Click on the Urinate Button
+Number2_Obj1_ClickOnYourRectalPressureStatAndClickOnTheDefecateButton_ObjectiveDescription,Click on your Rectal Pressure Stat and Click on the Defecate Button,直腸圧をクリックし、排便ボタンをクリックする。
+Number2_Sub1_ClickOnYourRectalPressureStatAndClickOnTheDefecateButton_QuestTitle,Click on your Rectal Pressure Stat and Click on the Defecate Button,直腸圧をクリックし、排便ボタンをクリックする。
+Resting_Obj1_ClickOnYourStaminaStatAndClickOnTheRestButton_ObjectiveDescription,Click on your Stamina Stat and click on the Rest Button,スタミナをクリックし、休憩ボタンをクリックする
+Resting_Sub1_ClickOnYourStaminaStatAndClickOnTheRestButton_QuestTitle,Click on your Stamina Stat and click on the Rest Button,スタミナをクリックし、休憩ボタンをクリックする
+Number1_Obj1_ClickOnYourVesicalPressureStatAndClickOnTheUrinateButton_ObjectiveDescription,Click on your Vesical Pressure Stat and Click on the Urinate Button,膀胱圧をクリックし、排尿ボタンをクリックする
+Number1_Sub1_ClickOnYourVesicalPressureStatAndClickOnTheUrinateButton_QuestTitle,Click on your Vesical Pressure Stat and Click on the Urinate Button,膀胱圧をクリックし、排尿ボタンをクリックする
 STACKS_HELP,Click this icon to <b>toggle stacks</b>.,Click this icon to <b>toggle stacks</b>.
 Path_FmTheShaftFromRockyGrove_DismantleActions[0].ActionName,Climb Down,Climb Down
 ModifierClimb_GameName,Climb Modifier,Climb Modifier
@@ -2687,14 +2687,14 @@ tag_Cord_InGameName,Cord,Cord
 Bp_ReedSkirt_UnlockConditionsDesc,Cord Needed,Cord Needed
 OakTreeLarge_CardDescription,"Could chop it down for its hardwood, ideal for construction and crafts. Should produce acorns during autumn.",硬材のため切り倒すことができ、建築や工芸に最適。 秋にはドングリが実る。
 YarnFiber_CardDescription,Could combine it with more yarn to braid it into a rope or turn it into cloth with a loom.,Could combine it with more yarn to braid it into a rope or turn it into cloth with a loom.
-RectalPressure_Statuses[0].Description,Could defecate,Could defecate
+RectalPressure_Statuses[0].Description,Could defecate,排便可能
 Thirst_Statuses[1].Description,Could have something to drink,何か飲み物を
 Quicklime_CardDescription,Could make mortar and other things with this.,Could make mortar and other things with this.
 ArrowBone_CardDescription,Could shoot it with a bow.,Could shoot it with a bow.
 BoarEnclosureMale_CardDescription,Could slaughter it for its meat and leather or let it impregnate the sows to breed more boars.,Could slaughter it for its meat and leather or let it impregnate the sows to breed more boars.
 BoarEnclosurePiglet_CardDescription,Could slaughter it for its meat and leather or wait for it to grow into an adult.,Could slaughter it for its meat and leather or wait for it to grow into an adult.
 IceHole_CardDescription,Could try to get some fish with the right equipment.,Could try to get some fish with the right equipment.
-VesicalPressure_Statuses[0].Description,Could urinate,Could urinate
+VesicalPressure_Statuses[0].Description,Could urinate,排尿可能
 Ash_CardDescription,"Could use it to temper clay, lower soil acidity or for medicinal or hygienic purposes.",粘土を和らげたり、土壌の酸性度を下げたり、薬用や衛生目的にも使える。
 FishingRod_CardDescription,Could use this for fishing. Adding some bait should improve my chances.,Could use this for fishing. Adding some bait should improve my chances.
 Counter_GameName,Counter,Counter
@@ -2822,10 +2822,10 @@ IntermediateWeaving_Obj1_CraftASpindle_ObjectiveDescription,Craft a Spindle,Craf
 IntermediateWeaving_Sub1_CraftASpindle_QuestTitle,Craft a Spindle,Craft a Spindle
 FractureAndSprainTreatment_Obj1_CraftASplintAndEquipIt_ObjectiveDescription,Craft a Splint and Equip It,Craft a Splint and Equip It
 FractureAndSprainTreatment_Sub1_CraftASplintAndEquipIt_QuestTitle,Craft a Splint and Equip It,Craft a Splint and Equip It
-WoodcuttingBasics_Obj3_CraftAStoneAxe_ObjectiveDescription,Craft a Stone Axe,Craft a Stone Axe
-WoodcuttingBasics_Obj3_CraftAStoneAxe_ObjectiveDescription*,Craft a Stone Axe,Craft a Stone Axe
-WoodcuttingBasics_Sub3_CraftAStoneAxe_QuestTitle,Craft a Stone Axe,Craft a Stone Axe
-WoodcuttingBasics_Sub3_CraftAStoneAxe_QuestTitle*,Craft a Stone Axe,Craft a Stone Axe
+WoodcuttingBasics_Obj3_CraftAStoneAxe_ObjectiveDescription,Craft a Stone Axe,石斧を作る
+WoodcuttingBasics_Obj3_CraftAStoneAxe_ObjectiveDescription*,Craft a Stone Axe,石斧を作る
+WoodcuttingBasics_Sub3_CraftAStoneAxe_QuestTitle,Craft a Stone Axe,石斧を作る
+WoodcuttingBasics_Sub3_CraftAStoneAxe_QuestTitle*,Craft a Stone Axe,石斧を作る
 IntermediateHerbalism_Obj1_CraftAStoneMortarAndPestle_ObjectiveDescription,Craft a Stone Mortar and pestle,Craft a Stone Mortar and pestle
 IntermediateHerbalism_Sub1_CraftAStoneMortarAndPestle_QuestTitle,Craft a Stone Mortar and pestle,Craft a Stone Mortar and pestle
 BasicSurvival_Obj1_CraftATorch_ObjectiveDescription,Craft a Torch,Craft a Torch
@@ -2949,10 +2949,10 @@ PineTreeLarge_CardInteractions[1].ActionName,Cut Tree,Cut Tree
 PineTreeSmall_CardInteractions[0].ActionName,Cut Tree,Cut Tree
 SpiritShrine_Earth_SacredOak_CardInteractions[0].ActionName,Cut Tree,Cut Tree
 SpiritShrine_Earth_SacredOak_CardInteractions[1].ActionName,Cut Tree,Cut Tree
-WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription,Cut down a Small Tree,Cut down a Small Tree
-WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription*,Cut down a Small Tree,Cut down a Small Tree
-WoodcuttingBasics_Sub5_CutDownASmallTree_QuestTitle,Cut down a Small Tree,Cut down a Small Tree
-WoodcuttingBasics_Sub5_CutDownASmallTree_QuestTitle*,Cut down a Small Tree,Cut down a Small Tree
+WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription,Cut down a Small Tree,小さな木を切り倒す
+WoodcuttingBasics_Obj5_CutDownASmallTree_ObjectiveDescription*,Cut down a Small Tree,小さな木を切り倒す
+WoodcuttingBasics_Sub5_CutDownASmallTree_QuestTitle,Cut down a Small Tree,小さな木を切り倒す
+WoodcuttingBasics_Sub5_CutDownASmallTree_QuestTitle*,Cut down a Small Tree,小さな木を切り倒す
 OakLogPiece_CardInteractions[0].ActionName,Cut into Wood,Cut into Wood
 OakLogPiece_CardInteractions[1].ActionName,Cut into Wood,Cut into Wood
 PineLogPiece_CardInteractions[0].ActionName,Cut into Wood,Cut into Wood
@@ -2962,11 +2962,11 @@ tag_Cutter_InGameName,Cutter,Cutter
 DMG_Cutting_Name,Cutting,Cutting
 GpTag_CuttingTool_TabName,Cutting Tool,Cutting Tool
 DELETING_PORTRAIT,DELETING CUSTOM PORTRAIT...,DELETING CUSTOM PORTRAIT...
-CARD_INSPECTION_TITLE,DETAILS,DETAILS
-INSPECTION_TITLE,DETAILS,DETAILS
+CARD_INSPECTION_TITLE,DETAILS,詳細
+INSPECTION_TITLE,DETAILS,詳細
 DISPLAY,DISPLAY,ディスプレイ
 INVENTORY_SLOT,DRAG ITEMS HERE,DRAG ITEMS HERE
-COOKING_SLOT,DRAG ITEMS HERE TO COOK,DRAG ITEMS HERE TO COOK
+COOKING_SLOT,DRAG ITEMS HERE TO COOK,調理するアイテムをここにドラッグする
 SaturationDairy_GameName,Dairy Saturation,Dairy Saturation
 Damage_TabName,Damage,Damage
 DAMAGES,Damages,Damages
@@ -3075,8 +3075,8 @@ DeerUrge_Statuses[2].GameName,Deer Urge,Deer Urge
 DEFAULT,Default,デフォルト
 DEFAULT_CHARACTER,Default Character,Default Character
 CUSTOM_PORTRAIT_COUNT,Default portrait resolution is 344x446\n{0}/{1} portraits saved,Default portrait resolution is 344x446\n{0}/{1} portraits saved
-RectalPressure_StatActions[1].ActionName,Defecate,Defecate
-RectalPressure_StatActions[0].ActionName,Defecate (Diarrhoea),Defecate (Diarrhoea)
+RectalPressure_StatActions[1].ActionName,Defecate,排便
+RectalPressure_StatActions[0].ActionName,Defecate (Diarrhoea),排便（下痢）
 Hydration_Statuses[2].GameName,Dehydrated,Dehydrated
 River_ClearingOak_RiverClearing_Progress.OnFull.ActionName,Delay Squirrel,Delay Squirrel
 Pk_6_LowAppetite_PerkDescription,"Delays your hunger, making it harder to eat  and easier to get malnourished.","Delays your hunger, making it harder to eat  and easier to get malnourished."
@@ -3341,8 +3341,8 @@ DoughStarter_CardName,Dough Starter,Dough Starter
 DoughStarterYeast_CardName,Dough Yeast,Dough Yeast
 Pk_99_DownToEarth_PerkName,Down To Earth,Down To Earth
 TRADE_SLOT,Drag items here to trade,Drag items here to trade
-WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription*,Drag the Axe onto Location Card to chop some Wood,Drag the Axe onto Location Card to chop some Wood
-WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle*,Drag the Axe onto Location Card to chop some Wood,Drag the Axe onto Location Card to chop some Wood
+WoodcuttingBasics_Obj4_ChopSomeWoodWithTheAxe_ObjectiveDescription*,Drag the Axe onto Location Card to chop some Wood,斧をロケーションカードにドラッグして木をる
+WoodcuttingBasics_Sub4_ChopSomeWoodWithTheAxe_QuestTitle*,Drag the Axe onto Location Card to chop some Wood,斧をロケーションカードにドラッグして木をる
 TinderLit_CardDescription,Drag to a fire to start it.,Drag to a fire to start it.
 Pk_4_VeryShort_PerkDescription,"Dramatically decreases your size and combat reach, decreases caloric needs and enhances stealth capabilities.","Dramatically decreases your size and combat reach, decreases caloric needs and enhances stealth capabilities."
 Pk_4_VeryTall_PerkDescription,"Dramatically increases your size and combat reach, reduces stealth, and raises your caloric needs.","Dramatically increases your size and combat reach, reduces stealth, and raises your caloric needs."
@@ -4833,10 +4833,10 @@ Campfire_SpecialDurability1.OnFull.ActionName,Generate Ash,Generate Ash
 Fireplace_SpecialDurability1.OnFull.ActionName,Generate Ash,Generate Ash
 HearthAwakened_SpecialDurability1.OnFull.ActionName,Generate Ash,Generate Ash
 Hearth_SpecialDurability1.OnFull.ActionName,Generate Ash,Generate Ash
-WoodcuttingBasics_Obj2_GetEmbersFromALitFire_ObjectiveDescription,Get Embers from a Lit Fire,Get Embers from a Lit Fire
-WoodcuttingBasics_Obj2_GetEmbersFromALitFire_ObjectiveDescription*,Get Embers from a Lit Fire,Get Embers from a Lit Fire
-WoodcuttingBasics_Sub2_GetEmbersFromALitFire_QuestTitle,Get Embers from a Lit Fire,Get Embers from a Lit Fire
-WoodcuttingBasics_Sub2_GetEmbersFromALitFire_QuestTitle*,Get Embers from a Lit Fire,Get Embers from a Lit Fire
+WoodcuttingBasics_Obj2_GetEmbersFromALitFire_ObjectiveDescription,Get Embers from a Lit Fire,焚き火から炭火を取り出す
+WoodcuttingBasics_Obj2_GetEmbersFromALitFire_ObjectiveDescription*,Get Embers from a Lit Fire,焚き火から炭火を取り出す
+WoodcuttingBasics_Sub2_GetEmbersFromALitFire_QuestTitle,Get Embers from a Lit Fire,焚き火から炭火を取り出す
+WoodcuttingBasics_Sub2_GetEmbersFromALitFire_QuestTitle*,Get Embers from a Lit Fire,焚き火から炭火を取り出す
 IntermediateFishing_Obj1_GetAFishingRod_ObjectiveDescription,Get a Fishing Rod,Get a Fishing Rod
 IntermediateFishing_Sub1_GetAFishingRod_QuestTitle,Get a Fishing Rod,Get a Fishing Rod
 BasicMagic_Obj2_GetASpiritBlessing_ObjectiveDescription,Get a Spirit Blessing,Get a Spirit Blessing
@@ -5455,7 +5455,7 @@ HeatedTar_CardName,Heated Tar,Heated Tar
 Heavy_CategoryName,Heavy,Heavy
 tag_Heavy_InGameName,Heavy,Heavy
 RainProtection_Statuses[2].GameName,Heavy Protection,Heavy Protection
-RainExposure_Statuses[2].GameName,Heavy Rain,大雨 (4)
+RainExposure_Statuses[2].GameName,Heavy Rain,大雨
 Weather_4_HeavyRain_CardName,Heavy Rain,大雨 (4)
 Weather_4_HeavySnow_CardName,Heavy Snow,大雪 (4)
 StoneHeavy_CardName,Heavy Stone,Heavy Stone
@@ -5510,7 +5510,7 @@ WaterLevelVisible_Statuses[3].GameName,High Overflow,大きな氾濫
 WaterLevel_Statuses[3].GameName,High Overflow,大きな氾濫
 BugProtection_Statuses[1].GameName,High Protection,High Protection
 Quinine_Statuses[2].GameName,High Quinine Dose,High Quinine Dose
-RectalPressure_Statuses[1].GameName,High Rectal Pressure,High Rectal Pressure
+RectalPressure_Statuses[1].GameName,High Rectal Pressure,高い直腸圧
 SeaSicknessResistance_Statuses[3].GameName,High Resistance,High Resistance
 Sodium_Statuses[0].GameName,High Sodium Levels,High Sodium Levels
 SunStrength_Statuses[3].GameName,High Sun Strength,High Sun Strength
@@ -5519,7 +5519,7 @@ Oven_CookingRecipes[10].ActionName,High Temperature: Fast Burn Charables,High Te
 Pk_3_HighTestosterone_PerkName,High Testosterone,高テストステロン
 Testosterone_Statuses[3].GameName,High Testosterone,高テストステロン
 Pk_2_6_HighThirst_PerkName,High Thirst,High Thirst
-VesicalPressure_Statuses[1].GameName,High Vesical Pressure,High Vesical Pressure
+VesicalPressure_Statuses[1].GameName,High Vesical Pressure,高い膀胱圧
 WaterLevelVisible_Statuses[1].GameName,High Water Level,高い水位
 WaterLevel_Statuses[1].GameName,High Water Level,高い水位
 Pk_5_Overweight_PerkName,High Weight,High Weight
@@ -5641,7 +5641,7 @@ Hydration_GameName,Hydration ,Hydration
 DMG_Hydrodynamic_Name,Hydrodynamic,Hydrodynamic
 BodyTemperature_Statuses[1].GameName,Hyperthermia,高体温症 (1)
 Mania_Statuses[0].GameName,Hypomanic,Hypomanic
-VICTORY,I SURVIVED!,I SURVIVED!
+VICTORY,I SURVIVED!,私は生き残った！
 Quiver_CardDescription,I can carry my arrows here. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>,I can carry my arrows here. <b>CAN BE EQUIPPED ON EQUIPMENT SLOTS</b>
 Bp_DryingRack_CardDescription,I can hang vegetables and meat to dry here.,I can hang vegetables and meat to dry here.
 DryingRack_CardDescription,I can hang vegetables and meat to dry here.,I can hang vegetables and meat to dry here.
@@ -7039,12 +7039,12 @@ Carcass_FoxCarcassWinter_CardDescription,Need a knife to properly process it.,Ne
 Carcass_StagCarcass_CardDescription,Need a knife to properly process it.,Need a knife to properly process it.
 Carcass_WolfCarcass_CardDescription,Need a knife to properly process it.,Need a knife to properly process it.
 PartridgeCarcass_CardDescription,Need a knife to properly process it.,Need a knife to properly process it.
-VesicalPressure_Statuses[1].PreventingActionMessage,Need to Pee before doing this Action. ,Need to Pee before doing this Action. 
-VesicalPressure_Statuses[2].PreventingActionMessage,Need to Pee before doing this Action. ,Need to Pee before doing this Action. 
-RectalPressure_Statuses[1].PreventingActionMessage,Need to Poop before doing this Action. ,Need to Poop before doing this Action. 
-RectalPressure_Statuses[2].PreventingActionMessage,Need to Poop before doing this Action. ,Need to Poop before doing this Action. 
-RectalPressure_Statuses[1].Description,Need to defecate,Need to defecate
-VesicalPressure_Statuses[1].Description,Need to urinate,Need to urinate
+VesicalPressure_Statuses[1].PreventingActionMessage,Need to Pee before doing this Action. ,この行動をする前におしっこをする必要がある。
+VesicalPressure_Statuses[2].PreventingActionMessage,Need to Pee before doing this Action. ,この行動をする前におしっこをする必要がある。
+RectalPressure_Statuses[1].PreventingActionMessage,Need to Poop before doing this Action. ,この行動をする前にうんちをする必要がある。 
+RectalPressure_Statuses[2].PreventingActionMessage,Need to Poop before doing this Action. ,この行動をする前にうんちをする必要がある。 
+RectalPressure_Statuses[1].Description,Need to defecate,排便が必要
+VesicalPressure_Statuses[1].Description,Need to urinate,排尿が必要
 Stamina_Description,Needed for physical activities. Can be recovered by resting or engaging in less strenuous activities. Expending stamina increases your appetite and tires you out. Be cautious not to overexert yourself when food is limited.,身体活動に必要。休むか、あまり激しい運動をしないことで回復できる。スタミナを消費すると食欲が増し、疲れやすくなる。食料が制限されているときは、無理をしないように注意する。
 BoneNeedle_CardDescription,Needed to craft cloth and leather items.,Needed to craft cloth and leather items.
 BoneNeedleThreaded_CardDescription,Needed to craft more complex cloth and leather items.,Needed to craft more complex cloth and leather items.
@@ -8246,8 +8246,8 @@ W_Puncture_SpoilageTime.CardStatName,Recovery,Recovery
 W_RibFracture_SpoilageTime.CardStatName,Recovery,Recovery
 W_WolfBite_SpoilageTime.CardStatName,Recovery,Recovery
 WildGarlicPlantedDormant_UsageDurability.CardStatName,Recovery,Recovery
-RectalPressure_GameName,Rectal Pressure,Rectal Pressure
-RectalPressure_Statuses[0].GameName,Rectal Pressure,Rectal Pressure
+RectalPressure_GameName,Rectal Pressure,直腸圧
+RectalPressure_Statuses[0].GameName,Rectal Pressure,直腸圧
 LungCapacity_Statuses[0].GameName,Reduced Lung Capacity,Reduced Lung Capacity
 LungCapacity_Description,Reduced by lung damage and some diseases. Causes pain and reduces stamina and wellbeing.,Reduced by lung damage and some diseases. Causes pain and reduces stamina and wellbeing.
 Pk_2_LowEstrogen_PerkDescription,"Reduces female physical traits such as breast size and hip width, decreasing overall femininity.",バストサイズやヒップ幅といった女性の身体的特徴を減少させ、全体的な女性らしさを低下させる。
@@ -8515,7 +8515,7 @@ RyePatch_CardName,Rye Patch,Rye Patch
 RyeStalksFresh_SpoilageTime.OnZero.ActionDescription,Rye Stalks dried!,Rye Stalks dried!
 SELECT_A_PERK,SELECT A PERK,パーク選択
 SELECT_CHARACTER,SELECT CHARACTER,キャラクター選択
-SELECT_GAME,SELECT GAME,SELECT GAME
+SELECT_GAME,SELECT GAME,ゲーム選択
 START_GAME_BUTTON,START GAME,開始する
 STATS_TITLE,STATS,STATS
 SURVIVAL_CODEX,SURVIVAL GUIDE,SURVIVAL GUIDE
@@ -8739,7 +8739,7 @@ ThicketOak_WildThicket_CardInteractions[3].ActionName,Shovel Snow,Shovel Snow
 GpTag_WaterShower_TabName,Showering Water,Showering Water
 Wakefulness_Description,Shows how awake you are. Lack of sleep lowers your wellbeing and can alter your mind state.,覚醒度を表す。睡眠不足は幸福感を低下させ、精神状態を変容させる。
 Filth_Description,Shows how dirty you are and increases your chances of catching something.,どれだけ汚れているかを表し、何かをキャッチする可能性を高める。
-VesicalPressure_Description,Shows how full your bladder is. It stresses you and reduces your wellbeing. The rate at which your bladder fills up depends on your hydration level.,Shows how full your bladder is. It stresses you and reduces your wellbeing. The rate at which your bladder fills up depends on your hydration level.
+VesicalPressure_Description,Shows how full your bladder is. It stresses you and reduces your wellbeing. The rate at which your bladder fills up depends on your hydration level.,膀胱がどれくらい満たされているかを示す。 ストレスとなり、幸福度を低下させる。 膀胱が満タンになる速度は、水分補給レベルによって異なる。
 Skill_Cooking_Description,Shows how good you are at cooking. Unlocks new recipes as it gets higher.,Shows how good you are at cooking. Unlocks new recipes as it gets higher.
 Skill_Percussion_Description,Shows how good you are at playing percussive instruments. Unlocks new rhythms as it gets higher.,Shows how good you are at playing percussive instruments. Unlocks new rhythms as it gets higher.
 Skill_Swimming_Description,Shows how good you are at swimming. Increases your chances of reaching difficult places and finding good things when diving ,Shows how good you are at swimming. Increases your chances of reaching difficult places and finding good things when diving 
@@ -8754,7 +8754,7 @@ Workplace_Description,"Shows how good your workplace is. Gives you a bonus to cr
 Waste_Intestines_Description,Shows how much calories is currently in your intestines. Calories are gradually converted into body weight here.,Shows how much calories is currently in your intestines. Calories are gradually converted into body weight here.
 Calories_Intestines_Description,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.
 Fullness_Intestines_Description,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.
-RectalPressure_Description,"Shows how much waste is accumulated in your intestines. High levels can cause stress and decrease your wellbeing. This stat increases as you digest food, with less digestible foods (like those high in fiber) accelerating the increase.","Shows how much waste is accumulated in your intestines. High levels can cause stress and decrease your wellbeing. This stat increases as you digest food, with less digestible foods (like those high in fiber) accelerating the increase."
+RectalPressure_Description,"Shows how much waste is accumulated in your intestines. High levels can cause stress and decrease your wellbeing. This stat increases as you digest food, with less digestible foods (like those high in fiber) accelerating the increase.",腸内に蓄積された老廃物の量を示す。 高値はストレスの原因となり、健康状態を低下させる。 この統計は食べ物を消化するにつれて増加し、消化の悪い食べ物（食物繊維の多いものなど）は増加を加速させる。
 SunProtection_Description,Shows how protected from the sun you are.,Shows how protected from the sun you are.
 SaturationBird_Description,Shows how tired you are of eating bird meat. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating bird meat. Lowers your wellbeing and gets you nauseous if it gets too high.
 SaturationDairy_Description,Shows how tired you are of eating diary. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating diary. Lowers your wellbeing and gets you nauseous if it gets too high.
@@ -9174,7 +9174,7 @@ Carcass_StagCarcass_CardName,Stag Carcass,Stag Carcass
 Agent_StagExists_GameName,Stag Exists,Stag Exists
 MudHutConstructionDoorConnectionUp_CardName,Stairs (Up),Stairs (Up)
 AmbushAid_GameName,Stalker's Favour,Stalker's Favour
-Stamina_GameName,Stamina,Stamina
+Stamina_GameName,Stamina,スタミナ
 START,Start,Start
 START_BUILDING,Start the construction of ,Start the construction of 
 Pk_0_0_AllKnowing_PerkDescription,Start with all blueprints unlocked.,すべての設計図がアンロックされた状態でスタートする。
@@ -9359,7 +9359,7 @@ SurvivingTheNight_Completed_Event_CardName,Surviving the Night Complete,Survivin
 SurvivingTheNight_Completed_Event_CardName*,Surviving the Night Complete,Surviving the Night Complete
 BodyTemperature_Statuses[3].GameName,Sweating,発汗 (3)
 Sweet_FlavourName,Sweet,甘い
-Tab_Cooking_Sweet_TabName,Sweet,Sweet
+Tab_Cooking_Sweet_TabName,Sweet,甘味
 Pk_4_9_SweetTooth_PerkName,Sweet Tooth,Sweet Tooth
 GpTag_SweetWater_TabName,Sweet Water,Sweet Water
 GpTag_Sweetener_TabName,Sweetener,Sweetener
@@ -9867,8 +9867,8 @@ Event_FloodDamageAreWasFlooded_CardDescription,This area has been swept by flood
 AntibioticsEffect_Description,"This effect considerably boosts your immune system, helping you kill bacteria and parasites.","This effect considerably boosts your immune system, helping you kill bacteria and parasites."
 FallowFieldInvisible_CardDescription,This field is slowly recovering its structure and nutrients.,This field is slowly recovering its structure and nutrients.
 FallowField_CardDescription,This field is slowly recovering its structure and nutrients.,This field is slowly recovering its structure and nutrients.
-RectalPressure_Statuses[2].Description,This is a rectal emergency!,This is a rectal emergency!
-VesicalPressure_Statuses[2].Description,This is a urinary emergency!,This is a urinary emergency!
+RectalPressure_Statuses[2].Description,This is a rectal emergency!,これは直腸の緊急事態だ！
+VesicalPressure_Statuses[2].Description,This is a urinary emergency!,これは泌尿器系の緊急事態だ！
 PLAYER_CANNOT_CARRY,This is more than I can carry...,This is more than I can carry...
 TOO_INTENSE_TASTE,This is too {0}...,This is too {0}...
 PartridgeRotten_CardDescription,This partridge has been dead for some time.,This partridge has been dead for some time.
@@ -10329,7 +10329,7 @@ Infection_UpperRespiratory_Statuses[3].GameName,Upper Respiratory Infection,上�
 Infection_UpperRespiratory_Statuses[4].GameName,Upper Respiratory Infection,上気道感染症
 Infection_UpperRespiratory_Statuses[5].GameName,Upper Respiratory Infection,上気道感染症
 Infection_UpperRespiratory_Statuses[6].GameName,Upper Respiratory Infection,上気道感染症
-VesicalPressure_StatActions[0].ActionName,Urinate,Urinate
+VesicalPressure_StatActions[0].ActionName,Urinate,排尿
 ShirtCloth_SpoilageTime.CardStatName,Usage Durability,Usage Durability
 ShirtCloth_UsageDurability.CardStatName,Usage Durability,Usage Durability
 FILTERS_HELP,Use <b>filters</b> to hide irrelevant cards.,Use <b>filters</b> to hide irrelevant cards.
@@ -10406,9 +10406,9 @@ Fever_Statuses[3].GameName,Very High Fever,Very High Fever
 Fitness_Statuses[0].GameName,Very High Fitness,Very High Fitness
 MuscleMass_Statuses[0].GameName,Very High Muscle Mass,Very High Muscle Mass
 BugProtection_Statuses[2].GameName,Very High Protection,Very High Protection
-RectalPressure_Statuses[2].GameName,Very High Rectal Pressure,Very High Rectal Pressure
+RectalPressure_Statuses[2].GameName,Very High Rectal Pressure,非常に高い直腸圧
 Sodium_Statuses[1].GameName,Very High Sodium Levels,Very High Sodium Levels
-VesicalPressure_Statuses[2].GameName,Very High Vesical Pressure,Very High Vesical Pressure
+VesicalPressure_Statuses[2].GameName,Very High Vesical Pressure,非常に高い膀胱圧
 Pk_5_Obese_PerkName,Very High Weight,Very High Weight
 TemperaturePerceived_Statuses[2].GameName,Very Hot,Very Hot
 Humidity_Statuses[3].GameName,Very Humid,Very Humid
@@ -10438,8 +10438,8 @@ Thirst_Statuses[3].GameName,Very Thirsty,とてものどが渇いている (3)
 Focus_Statuses[0].GameName,Very Unfocused,まるで集中できない (0)
 Rash_Statuses[2].Description,Very red and so itchy it's hard to think.,Very red and so itchy it's hard to think.
 STRONG_FLAVOUR,Very {0},とても{0}
-VesicalPressure_GameName,Vesical Pressure,Vesical Pressure
-VesicalPressure_Statuses[0].GameName,Vesical Pressure,Vesical Pressure
+VesicalPressure_GameName,Vesical Pressure,膀胱圧
+VesicalPressure_Statuses[0].GameName,Vesical Pressure,膀胱圧
 VICTORY_BONUS,Victory Bonus,Victory Bonus
 VISUAL_EFFECTS,Visual effects,映像効果
 LQ_Fairybrew_UsageDurability.CardStatName,Vitamins,Vitamins
@@ -10627,8 +10627,8 @@ Pkg_Weight_GroupName,Weight,重さ
 Weight_GameName,Weight,体重
 Well_CardName,Well,Well
 Bp_ArrowBone_CardDescription,Well balanced arrows with bone arrowheads.,Well balanced arrows with bone arrowheads.
-BasicNeeds_Completed_Event_CardDescription,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n
-BasicNeeds_Completed_Event_CardDescription*,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n
+BasicNeeds_Completed_Event_CardDescription,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n,よくやった。マップ移動が可能になった。\n\n新しい設計図とタスクが利用可能になった。\n
+BasicNeeds_Completed_Event_CardDescription*,Well done. Travel is now possible. \n\nNew Blueprints and Tasks Available. \n,よくやった。マップ移動が可能になった。\n\n新しい設計図とタスクが利用可能になった。\n
 Wellbeing_GameName,Wellbeing,幸福度
 Caves_FmDarkTunnelNorthEast_DismantleActions[0].ActionName,West,西
 Caves_FmDarkTunnelSouthEast_DismantleActions[0].ActionName,West,西
@@ -11628,7 +11628,7 @@ EncounterWindow_EnemyHiddenPluralLog.LogText,{0} catch you off guard!,{0} catch 
 EncounterWindow_EnemyHiddenLog.LogText,{0} catches you off guard!,{0} catches you off guard!
 KnifeFeint_ActionFailureLog.LogText,{0} doesn't fall for your feint and dodges your attack...,{0} doesn't fall for your feint and dodges your attack...
 SpearFeint_ActionFailureLog.LogText,{0} doesn't fall for your feint and dodges your attack...,{0} doesn't fall for your feint and dodges your attack...
-INVENTORY_CANNOT_CARRY,{0} doesn't have room for this...,{0} doesn't have room for this...
+INVENTORY_CANNOT_CARRY,{0} doesn't have room for this...,{0} に、これを入れられない...
 KnifeStab_ActionFailureLog.LogText,{0} evades your stabbing attack...,{0} evades your stabbing attack...
 KnifeFeint_ActionSuccessLog.LogText,{0} falls for your feint and you land a hit with your {1}!,{0} falls for your feint and you land a hit with your {1}!
 SpearFeint_ActionSuccessLog.LogText,{0} falls for your feint and you land a hit with your {1}!,{0} falls for your feint and you land a hit with your {1}!
