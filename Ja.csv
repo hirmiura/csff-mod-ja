@@ -103,7 +103,7 @@ HOLD_SWAP,<b>Hold top/bottom</b> of cards to move stacks.,<b>Hold top/bottom</b>
 DEMO_SAVEWRITING_WARNING,"<b>IMPORTANT NOTE:</b>\nYOUR PROGRESS WILL NOT BE SAVED\n\n""The First Days"" cannot store progress on saves created by the full game.","<b>IMPORTANT NOTE:</b>\nYOUR PROGRESS WILL NOT BE SAVED\n\n""The First Days"" cannot store progress on saves created by the full game."
 LOCATION_ROW_HELP,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>
 Amulet_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>機能するには装備スロットに装備されていなければならない</b>
-GreenwardPouch_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>
+GreenwardPouch_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>機能するには装備スロットに装備されていなければならない</b>
 NewsEARelease2_Sections[0].Entries[1].Title,<b>Negative Reviews</b>,<b>Negative Reviews</b>
 NewsEARelease2_Sections[0].Entries[4].Title,<b>Official Patch Notes since release:</b>,<b>Official Patch Notes since release:</b>
 NewsEARelease2_Sections[0].Entries[3].Title,<b>Patch 0.03:</b>,<b>Patch 0.03:</b>
@@ -713,7 +713,7 @@ tag_Bakeable_InGameName,Bakeable,Bakeable
 FemaleTraits_Statuses[2].GameName,Balanced,Balanced
 MaleTraits_Statuses[2].GameName,Balanced,Balanced
 OLD_HealersMoss_OldHealingFactors_SpoilageTime.OnZero.ActionDescription,Bandage broke!,Bandage broke!
-LESS_THAN_SUBTLE_FLAVOUR,Barely {0},Barely {0}
+LESS_THAN_SUBTLE_FLAVOUR,Barely {0},かろうじて{0}
 OakTreeLarge_FuelCapacity.CardStatName,Bark,Bark
 BarkSandals_CardName,Bark Sandals,Bark Sandals
 Bp_BarkSandals_CardName,Bark Sandals,Bark Sandals
@@ -943,7 +943,7 @@ eTag_WBite_InGameName,Bite,Bite
 W_BiteWound_CardName,Bite Wound,Bite Wound
 W_BiteWound_SpoilageTime.OnFull.ActionName,Bite Wound,Bite Wound
 W_WolfBite_SpoilageTime.OnFull.ActionName,Bite Wound,Bite Wound
-Bitter_FlavourName,Bitter,Bitter
+Bitter_FlavourName,Bitter,苦い
 Pkg_Bladder_GroupName,Bladder,Bladder
 NettleLeavesBlanchedBoiled_CardName,Blanched Nettles,Blanched Nettles
 BloodLoss_Statuses[1].GameName,Bleeding,Bleeding
@@ -1472,7 +1472,7 @@ BasicHunting_Obj3_ButcherABadgerOrAFox_ObjectiveDescription,Butcher a Badger or 
 BasicHunting_Obj3_ButcherBadgerOrFox_ObjectiveDescription,Butcher a Badger or Fox,Butcher a Badger or Fox
 BasicHunting_Sub3_ButcherABadgerOrAFox_QuestTitle,Butcher a Badger or a Fox,Butcher a Badger or a Fox
 BasicHunting_Sub3_ButcherABadgerOrAFox_QuestTitle*,Butcher a Badger or a Fox,Butcher a Badger or a Fox
-Buttery_FlavourName,Buttery,Buttery
+Buttery_FlavourName,Buttery,脂っこい
 BUY,Buy,Buy
 GAME_BY,By WinterSpring Games:,By WinterSpring Games:
 BY_AUTHOR,By {0},By {0}
@@ -3522,7 +3522,7 @@ EarthUrge_Statuses[0].GameName,Earth Urge,Earth Urge
 EarthUrge_Statuses[1].GameName,Earth Urge,Earth Urge
 EarthUrge_Statuses[2].GameName,Earth Urge,Earth Urge
 Imp_EarthenFloors_CardName,Earthen Floors,Earthen Floors
-Earthy_FlavourName,Earthy,Earthy
+Earthy_FlavourName,Earthy,土っぽい
 Caves_FmDarkTunnelNorthEast_DismantleActions[1].ActionName,East,東
 Caves_FmDarkTunnelNorthWest_DismantleActions[0].ActionName,East,東
 Caves_FmDarkTunnelSouthEast_DismantleActions[1].ActionName,East,東
@@ -3556,77 +3556,77 @@ ThicketOak_WildThicket_DismantleActions[4].ActionName,East,東
 WindEast_GameName,East Wind,East Wind
 EASY_PACKAGE_TOGGLE,Easy Mode,Easy Mode
 EasyMode_PackageName,Easy Mode,Easy Mode
-AcornFlatBread_DismantleActions[0].ActionName,Eat,Eat
-AcornsEdibleRaw_DismantleActions[0].ActionName,Eat,Eat
-AcornsRoasted_DismantleActions[0].ActionName,Eat,Eat
-BillberriesDried_DismantleActions[0].ActionName,Eat,Eat
-BillberriesFermented_DismantleActions[0].ActionName,Eat,Eat
-BillberriesFermenting_DismantleActions[0].ActionName,Eat,Eat
-BillberriesFresh_DismantleActions[0].ActionName,Eat,Eat
-BillberriesRoasted_DismantleActions[0].ActionName,Eat,Eat
-BirdMeatCooked_DismantleActions[0].ActionName,Eat,Eat
-BirdMeatDried_DismantleActions[0].ActionName,Eat,Eat
-BirdMeatRaw_DismantleActions[0].ActionName,Eat,Eat
-BreadLoafCooked_DismantleActions[0].ActionName,Eat,Eat
-Bugs_DismantleActions[0].ActionName,Eat,Eat
-Charcoal_DismantleActions[0].ActionName,Eat,Eat
-CloverRaw_DismantleActions[0].ActionName,Eat,Eat
-EggBoiled_DismantleActions[0].ActionName,Eat,Eat
-EggChickenCooked_DismantleActions[0].ActionName,Eat,Eat
-EggChickenRaw_DismantleActions[0].ActionName,Eat,Eat
-EggPartridgeCooked_DismantleActions[0].ActionName,Eat,Eat
-EggPartridgeRaw_DismantleActions[0].ActionName,Eat,Eat
-Fat_DismantleActions[0].ActionName,Eat,Eat
-FirerootBoiled_DismantleActions[0].ActionName,Eat,Eat
-FirerootCutFresh_DismantleActions[0].ActionName,Eat,Eat
-FirerootDried_DismantleActions[0].ActionName,Eat,Eat
-FirerootRoasted_DismantleActions[0].ActionName,Eat,Eat
-FishMeatCooked_DismantleActions[0].ActionName,Eat,Eat
-FishMeatDried_DismantleActions[0].ActionName,Eat,Eat
-FishMeatRaw_DismantleActions[0].ActionName,Eat,Eat
-ForestCapsCooked_DismantleActions[0].ActionName,Eat,Eat
-ForestCapsDried_DismantleActions[0].ActionName,Eat,Eat
-ForestCapsFresh_DismantleActions[0].ActionName,Eat,Eat
-FrostleafDried_DismantleActions[0].ActionName,Eat,Eat
-FrostleafFresh_DismantleActions[0].ActionName,Eat,Eat
-HealersMoss_DismantleActions[0].ActionName,Eat,Eat
-LQ_PoridgeDone_DismantleActions[0].ActionName,Eat,Eat
-LQ_PoridgeFresh_DismantleActions[0].ActionName,Eat,Eat
-MeatCooked_DismantleActions[0].ActionName,Eat,Eat
-MeatDried_DismantleActions[0].ActionName,Eat,Eat
-MeatRaw_DismantleActions[0].ActionName,Eat,Eat
-MinnowCooked_DismantleActions[0].ActionName,Eat,Eat
-MinnowRaw_DismantleActions[0].ActionName,Eat,Eat
-MossBoiled_DismantleActions[0].ActionName,Eat,Eat
-MouseCooked_DismantleActions[0].ActionName,Eat,Eat
-MouseRaw_DismantleActions[0].ActionName,Eat,Eat
-NettleLeavesBlanchedBoiled_DismantleActions[0].ActionName,Eat,Eat
-NettleLeavesDried_DismantleActions[0].ActionName,Eat,Eat
-NettleLeavesRaw_DismantleActions[0].ActionName,Eat,Eat
-OLD_HealersMoss_OldHealingFactors_DismantleActions[0].ActionName,Eat,Eat
-PartridgeChickDead_DismantleActions[0].ActionName,Eat,Eat
-PeasCooked_DismantleActions[0].ActionName,Eat,Eat
-PeasDried_DismantleActions[0].ActionName,Eat,Eat
-PeasFresh_DismantleActions[0].ActionName,Eat,Eat
-RottenRemains_DismantleActions[0].ActionName,Eat,Eat
-RyeFlatBread_DismantleActions[0].ActionName,Eat,Eat
-SpiritMushroomsDried_DismantleActions[0].ActionName,Eat,Eat
-SpiritMushroomsFresh_DismantleActions[0].ActionName,Eat,Eat
-SpringberriesDried_DismantleActions[0].ActionName,Eat,Eat
-SpringberriesFermented_DismantleActions[0].ActionName,Eat,Eat
-SpringberriesFermenting_DismantleActions[0].ActionName,Eat,Eat
-SpringberriesFresh_DismantleActions[0].ActionName,Eat,Eat
-SpringberriesRoasted_DismantleActions[0].ActionName,Eat,Eat
-SquirrelCooked_DismantleActions[0].ActionName,Eat,Eat
-SquirrelRaw_DismantleActions[0].ActionName,Eat,Eat
-TurnrootBoiled_DismantleActions[0].ActionName,Eat,Eat
-TurnrootDried_DismantleActions[0].ActionName,Eat,Eat
-TurnrootFresh_DismantleActions[0].ActionName,Eat,Eat
-TurnrootMashedBoiled_DismantleActions[0].ActionName,Eat,Eat
-TurnrootRoasted_DismantleActions[0].ActionName,Eat,Eat
-WildGarlicCooked_DismantleActions[0].ActionName,Eat,Eat
-WildGarlicDried_DismantleActions[0].ActionName,Eat,Eat
-WildGarlicFresh_DismantleActions[0].ActionName,Eat,Eat
+AcornFlatBread_DismantleActions[0].ActionName,Eat,食べる
+AcornsEdibleRaw_DismantleActions[0].ActionName,Eat,食べる
+AcornsRoasted_DismantleActions[0].ActionName,Eat,食べる
+BillberriesDried_DismantleActions[0].ActionName,Eat,食べる
+BillberriesFermented_DismantleActions[0].ActionName,Eat,食べる
+BillberriesFermenting_DismantleActions[0].ActionName,Eat,食べる
+BillberriesFresh_DismantleActions[0].ActionName,Eat,食べる
+BillberriesRoasted_DismantleActions[0].ActionName,Eat,食べる
+BirdMeatCooked_DismantleActions[0].ActionName,Eat,食べる
+BirdMeatDried_DismantleActions[0].ActionName,Eat,食べる
+BirdMeatRaw_DismantleActions[0].ActionName,Eat,食べる
+BreadLoafCooked_DismantleActions[0].ActionName,Eat,食べる
+Bugs_DismantleActions[0].ActionName,Eat,食べる
+Charcoal_DismantleActions[0].ActionName,Eat,食べる
+CloverRaw_DismantleActions[0].ActionName,Eat,食べる
+EggBoiled_DismantleActions[0].ActionName,Eat,食べる
+EggChickenCooked_DismantleActions[0].ActionName,Eat,食べる
+EggChickenRaw_DismantleActions[0].ActionName,Eat,食べる
+EggPartridgeCooked_DismantleActions[0].ActionName,Eat,食べる
+EggPartridgeRaw_DismantleActions[0].ActionName,Eat,食べる
+Fat_DismantleActions[0].ActionName,Eat,食べる
+FirerootBoiled_DismantleActions[0].ActionName,Eat,食べる
+FirerootCutFresh_DismantleActions[0].ActionName,Eat,食べる
+FirerootDried_DismantleActions[0].ActionName,Eat,食べる
+FirerootRoasted_DismantleActions[0].ActionName,Eat,食べる
+FishMeatCooked_DismantleActions[0].ActionName,Eat,食べる
+FishMeatDried_DismantleActions[0].ActionName,Eat,食べる
+FishMeatRaw_DismantleActions[0].ActionName,Eat,食べる
+ForestCapsCooked_DismantleActions[0].ActionName,Eat,食べる
+ForestCapsDried_DismantleActions[0].ActionName,Eat,食べる
+ForestCapsFresh_DismantleActions[0].ActionName,Eat,食べる
+FrostleafDried_DismantleActions[0].ActionName,Eat,食べる
+FrostleafFresh_DismantleActions[0].ActionName,Eat,食べる
+HealersMoss_DismantleActions[0].ActionName,Eat,食べる
+LQ_PoridgeDone_DismantleActions[0].ActionName,Eat,食べる
+LQ_PoridgeFresh_DismantleActions[0].ActionName,Eat,食べる
+MeatCooked_DismantleActions[0].ActionName,Eat,食べる
+MeatDried_DismantleActions[0].ActionName,Eat,食べる
+MeatRaw_DismantleActions[0].ActionName,Eat,食べる
+MinnowCooked_DismantleActions[0].ActionName,Eat,食べる
+MinnowRaw_DismantleActions[0].ActionName,Eat,食べる
+MossBoiled_DismantleActions[0].ActionName,Eat,食べる
+MouseCooked_DismantleActions[0].ActionName,Eat,食べる
+MouseRaw_DismantleActions[0].ActionName,Eat,食べる
+NettleLeavesBlanchedBoiled_DismantleActions[0].ActionName,Eat,食べる
+NettleLeavesDried_DismantleActions[0].ActionName,Eat,食べる
+NettleLeavesRaw_DismantleActions[0].ActionName,Eat,食べる
+OLD_HealersMoss_OldHealingFactors_DismantleActions[0].ActionName,Eat,食べる
+PartridgeChickDead_DismantleActions[0].ActionName,Eat,食べる
+PeasCooked_DismantleActions[0].ActionName,Eat,食べる
+PeasDried_DismantleActions[0].ActionName,Eat,食べる
+PeasFresh_DismantleActions[0].ActionName,Eat,食べる
+RottenRemains_DismantleActions[0].ActionName,Eat,食べる
+RyeFlatBread_DismantleActions[0].ActionName,Eat,食べる
+SpiritMushroomsDried_DismantleActions[0].ActionName,Eat,食べる
+SpiritMushroomsFresh_DismantleActions[0].ActionName,Eat,食べる
+SpringberriesDried_DismantleActions[0].ActionName,Eat,食べる
+SpringberriesFermented_DismantleActions[0].ActionName,Eat,食べる
+SpringberriesFermenting_DismantleActions[0].ActionName,Eat,食べる
+SpringberriesFresh_DismantleActions[0].ActionName,Eat,食べる
+SpringberriesRoasted_DismantleActions[0].ActionName,Eat,食べる
+SquirrelCooked_DismantleActions[0].ActionName,Eat,食べる
+SquirrelRaw_DismantleActions[0].ActionName,Eat,食べる
+TurnrootBoiled_DismantleActions[0].ActionName,Eat,食べる
+TurnrootDried_DismantleActions[0].ActionName,Eat,食べる
+TurnrootFresh_DismantleActions[0].ActionName,Eat,食べる
+TurnrootMashedBoiled_DismantleActions[0].ActionName,Eat,食べる
+TurnrootRoasted_DismantleActions[0].ActionName,Eat,食べる
+WildGarlicCooked_DismantleActions[0].ActionName,Eat,食べる
+WildGarlicDried_DismantleActions[0].ActionName,Eat,食べる
+WildGarlicFresh_DismantleActions[0].ActionName,Eat,食べる
 AcornFlatBread_GroupInventoryActions[0].ActionName,Eat All,Eat All
 ClayBowl_GroupInventoryActions[0].ActionName,Eat All,Eat All
 ClayPlate_GroupInventoryActions[0].ActionName,Eat All,Eat All
@@ -3900,7 +3900,7 @@ TemperaturePerceived_Statuses[10].GameName,Extremely Freezing,Extremely Freezing
 TemperatureAlert_Statuses[1].GameName,Extremely Hot,Extremely Hot
 TemperaturePerceived_Statuses[1].GameName,Extremely Hot,Extremely Hot
 Stress_Statuses[3].GameName,Extremely Stressed,Extremely Stressed
-MORE_THAN_STRONG_FLAVOUR,Extremely {0},Extremely {0}
+MORE_THAN_STRONG_FLAVOUR,Extremely {0},非常に{0}
 EyeDamage_GameName,Eye Damage,Eye Damage
 Pkg_EyeColour_GroupName,Eyes,Eyes
 Myopia_GameName,Eyesight,Eyesight
@@ -4458,7 +4458,7 @@ Env_River_GroveOak_FloodedGrove_CardName,Flooded Grove,Flooded Grove
 River_GroveOak_FloodedGrove_CardName,Flooded Grove,Flooded Grove
 Caves_FmFloodedTunnel_CardName,Flooded Tunnel,Flooded Tunnel
 Env_FmFloodedTunnel_CardName,Flooded Tunnel,Flooded Tunnel
-Floral_FlavourName,Floral,Floral
+Floral_FlavourName,Floral,フローラル
 tag_Flower_InGameName,Flower,Flower
 ClearingPine_FlowerGlade_CardName,Flower Glade,Flower Glade
 Env_ClearingPine_FlowerGlade_CardName,Flower Glade,Flower Glade
@@ -4711,7 +4711,7 @@ W_Frostnip_SpoilageTime.OnFull.ActionName,Frostnip,Frostnip
 FrozenRiver_CardName,Frozen River,Frozen River
 BodyTemperature_Statuses[8].GameName,Frozen to Death,凍死 (8)
 SaturationFruits_GameName,Fruits Saturation,Fruits Saturation
-Fruity_FlavourName,Fruity,Fruity
+Fruity_FlavourName,Fruity,フルーティー
 FUEL_DEFAULT_NAME,Fuel,燃料
 tag_Fuel_InGameName,Fuel,燃料
 tag_FuelCapacity_InGameName,Fuel Capacity,Fuel Capacity
@@ -4967,7 +4967,7 @@ GpTag_Grain_TabName,Grain,Grain
 SaturationGrains_GameName,Grains Saturation,Grains Saturation
 tag_SpiritBindingGranted_InGameName,Granted Spirit Binding,Granted Spirit Binding
 tag_SpiritBlessingGranted_InGameName,Granted Spirit Blessing,Granted Spirit Blessing
-Grassy_FlavourName,Grassy,Grassy
+Grassy_FlavourName,Grassy,草っぽい
 GroveOak_GreatOak_CardName,Great Oak,Great Oak
 Wellbeing_Statuses[0].GameName,Great Wellbeing,とても幸福 (0)
 GreaterMudling_CardDescription,Greater Mudling,Greater Mudling
@@ -5474,7 +5474,7 @@ RiceEffect_Description,Helps stabilize your stomach.,Helps stabilize your stomac
 BrimstoneGelProtection_Description,"Helps treat and prevent backpain, hand and foot damage, sunburn and bugbites ","Helps treat and prevent backpain, hand and foot damage, sunburn and bugbites "
 Proteins_Description,"Helps your immune system, mood and energy levels. Can be gained by eating meat.","Helps your immune system, mood and energy levels. Can be gained by eating meat."
 Vitamins_Description,"Helps your immune system, mood and stamina. Can be gained by eating vegetables.","Helps your immune system, mood and stamina. Can be gained by eating vegetables."
-Herbal_FlavourName,Herbal,Herbal
+Herbal_FlavourName,Herbal,薬草っぽい
 Tab_Medical_Herbalism_TabName,Herbalism,Herbalism
 Pk_99_Vegetarian_PerkName,Herbivore,Herbivore
 Skill_Herbology_GameName,Herbology,Herbology
@@ -6854,7 +6854,7 @@ SunStrength_Statuses[2].GameName,Moderate Sun Strength,Moderate Sun Strength
 Testosterone_Statuses[2].GameName,Moderate Testosterone,Moderate Testosterone
 WindWest_Statuses[1].GameName,Moderate West,Moderate West
 Wounds_Statuses[2].GameName,Moderate Wounds,Moderate Wounds
-MEDIUM_FLAVOUR,Moderately {0},Moderately {0}
+MEDIUM_FLAVOUR,Moderately {0},ほどほどに{0}
 NerveDamageHandsPermanent_Statuses[0].GameName,Modifier 1,Modifier 1
 NerveDamageLegsPermanent_Statuses[0].GameName,Modifier 1,Modifier 1
 NerveDamageHandsPermanent_Statuses[1].GameName,Modifier 2,Modifier 2
@@ -7425,7 +7425,7 @@ BirdMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer
 FishMeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,栄養価が高い。\n\n調理したり乾燥させるこで長持ちする。
 MeatRaw_CardDescription,Nutritious.\n\nCan be cooked or dried to last longer.,栄養価が高い。\n\n調理したり乾燥させるこで長持ちする。
 SaturationNuts_GameName,Nuts Saturation,Nuts Saturation
-Nutty_FlavourName,Nutty,Nutty
+Nutty_FlavourName,Nutty,ナッツっぽい
 OBJECTIVE_COMPLETE,OBJECTIVE COMPLETE,目標達成
 OK,OK,OK
 OPTIONS_MENU_TITLE,OPTIONS,オプション
@@ -7907,7 +7907,7 @@ PkTab3_Background_TabName,Psychological,心理的
 Psylocibin_GameName,Psylocibin,Psylocibin
 W_Puncture_CardName,Puncture Wound,Puncture Wound
 W_Puncture_SpoilageTime.OnFull.ActionName,Puncture Wound,Puncture Wound
-Pungent_FlavourName,Pungent,Pungent
+Pungent_FlavourName,Pungent,刺激的
 PURCHASE,Purchase,Purchase
 BOUGHT,Purchased,Purchased
 LQ_WaterUnsafe_CardInteractions[0].ActionName,Purify,Purify
@@ -8535,7 +8535,7 @@ Sailed_Statuses[0].GameName,Sailed,Sailed
 Pk_4_9_SaladLover_PerkName,Salad Lover,Salad Lover
 FishMeatRaw_CardInteractions[0].ActionName,Salt,Salt
 MeatRaw_CardInteractions[0].ActionName,Salt,Salt
-Salty_FlavourName,Salty,Salty
+Salty_FlavourName,Salty,しょっぱい
 tag_WaterSalt_InGameName,Salty Water,Salty Water
 tag_Satchel_InGameName,Satchel,Satchel
 Bp_LeatherHaversack_UnlockConditionsDesc,Satchel Needed,Satchel Needed
@@ -8548,7 +8548,7 @@ SAVE_CUSTOM_CHECKPOINT,Save,セーブ
 SAVE_NEW_GAME,Save New Custom Checkpoint,Save New Custom Checkpoint
 SAVE_AND_QUIT,Save and Quit,保存して終了
 QUIT_CONFIRM,Save and quit to main menu?,保存してメインメニューに戻りますか？
-Savoury_FlavourName,Savoury,Savoury
+Savoury_FlavourName,Savoury,コクがある
 TemperatureAlert_Statuses[0].GameName,Scorching Hot,Scorching Hot
 TemperaturePerceived_Statuses[0].GameName,Scorching Hot,Scorching Hot
 ClayBowlUnfired_DismantleActions[0].ActionName,Scrap,Scrap
@@ -8843,7 +8843,7 @@ Wakefulness_Statuses[0].GameName,Sleepy,Sleepy
 AlteredMindstate_Statuses[1].GameName,Slightly Altered Mindstate,Slightly Altered Mindstate
 Satiation_Statuses[4].GameName,Slightly Hungry,やや空腹 (4)
 Thirst_Statuses[1].GameName,Slightly Thirsty,やや喉が渇いた (1)
-SUBTLE_FLAVOUR,Slightly {0},Slightly {0}
+SUBTLE_FLAVOUR,Slightly {0},わずかに{0}
 Skill_Sling_GameName,Sling,Sling
 Env_GrovePine_SlopedGrove_CardName,Sloped Grove,Sloped Grove
 GrovePine_SlopedGrove_CardName,Sloped Grove,Sloped Grove
@@ -8879,7 +8879,7 @@ tag_Smokable_InGameName,Smokable,Smokable
 Bp_Smokehouse__CardName,Smokehouse,Smokehouse
 SmokehouseExtinguished__CardName,Smokehouse,Smokehouse
 Smokehouse__CardName,Smokehouse,Smokehouse
-Smokey_FlavourName,Smokey,Smokey
+Smokey_FlavourName,Smokey,スモーキー
 Bp_ImprovedSnareTrap_CardName,Snare Trap,Snare Trap
 ImprovedSnareTrapTriggered_CardName,Snare Trap,Snare Trap
 ImprovedSnareTrap_CardName,Snare Trap,Snare Trap
@@ -8944,7 +8944,7 @@ SoothingPaste_CardName,Soothing Ointment,Soothing Ointment
 SoothingPasteApplied_Statuses[0].GameName,Soothing Paste,Soothing Paste
 SFX,Sound Effects,効果音
 LQ_StewWater_AlternateNames[2].Name,Soup,Soup
-Sour_FlavourName,Sour,Sour
+Sour_FlavourName,Sour,酸っぱい
 Caves_FmClearedTunnel_DismantleActions[1].ActionName,South,南
 Caves_FmCollapsedTunnel_DismantleActions[1].ActionName,South,南
 Caves_FmDarkTunnelNorthEast_DismantleActions[2].ActionName,South,南
@@ -9057,7 +9057,7 @@ WildGarlicCooked_SpecialDurability4.CardStatName,Spices,スパイス
 WildGarlicDried_SpecialDurability4.CardStatName,Spices,スパイス
 WildGarlicFresh_SpecialDurability4.CardStatName,Spices,スパイス
 WildGarlicPowder_SpecialDurability4.CardStatName,Spices,スパイス
-Spicy_FlavourName,Spicy,Spicy
+Spicy_FlavourName,Spicy,スパイシー
 SpiderLilyEffect_GameName,Spider Lily Effect,Spider Lily Effect
 tag_Spillable_InGameName,Spillable,Spillable
 Bp_Spindle_CardName,Spindle,Spindle
@@ -9358,7 +9358,7 @@ SurvivingTheNight_Main_QuestTitle*,Surviving the Night,Surviving the Night
 SurvivingTheNight_Completed_Event_CardName,Surviving the Night Complete,Surviving the Night Complete
 SurvivingTheNight_Completed_Event_CardName*,Surviving the Night Complete,Surviving the Night Complete
 BodyTemperature_Statuses[3].GameName,Sweating,発汗 (3)
-Sweet_FlavourName,Sweet,Sweet
+Sweet_FlavourName,Sweet,甘い
 Tab_Cooking_Sweet_TabName,Sweet,Sweet
 Pk_4_9_SweetTooth_PerkName,Sweet Tooth,Sweet Tooth
 GpTag_SweetWater_TabName,Sweet Water,Sweet Water
@@ -10437,7 +10437,7 @@ Pk_4_VeryTall_PerkName,Very Tall Stature,Very Tall Stature
 Thirst_Statuses[3].GameName,Very Thirsty,とてものどが渇いている (3)
 Focus_Statuses[0].GameName,Very Unfocused,まるで集中できない (0)
 Rash_Statuses[2].Description,Very red and so itchy it's hard to think.,Very red and so itchy it's hard to think.
-STRONG_FLAVOUR,Very {0},Very {0}
+STRONG_FLAVOUR,Very {0},とても{0}
 VesicalPressure_GameName,Vesical Pressure,Vesical Pressure
 VesicalPressure_Statuses[0].GameName,Vesical Pressure,Vesical Pressure
 VICTORY_BONUS,Victory Bonus,Victory Bonus
