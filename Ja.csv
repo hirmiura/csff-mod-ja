@@ -8662,7 +8662,7 @@ Debris_TrapDoor_CardDescription,Should clear this.,Should clear this.
 Debris_Workshop_CardDescription,Should clear this.,Should clear this.
 ColdTar_CardDescription,Should heat it up again if I want to use it.,Should heat it up again if I want to use it.
 Imp_TrappingFences_CardDescription,Should improve my chances of catching prey in my traps.,Should improve my chances of catching prey in my traps.
-ReedsFreshLocation_CardDescription,Should let them dry for a few days once they've soaked up enough to increase their quality.,Should let them dry for a few days once they've soaked up enough to increase their quality.
+ReedsFreshLocation_CardDescription,Should let them dry for a few days once they've soaked up enough to increase their quality.,充分に水分を吸収させたら、品質を高めるために数日間乾燥させる必要がある。
 FrozenRiver_CardDescription,Should open a hole on it with a hammer tool to get water or fish.,Should open a hole on it with a hammer tool to get water or fish.
 FishingLine_Rustic_CardDescription,Should place bait on its hook if I want to have a chance at catching anything.,Should place bait on its hook if I want to have a chance at catching anything.
 Bp_ShirtCloth_CardDescription,Should protect me a bit from bug bites and the sun.,Should protect me a bit from bug bites and the sun.
@@ -8923,7 +8923,7 @@ LQ_SoakedRye_CardName,Soaked Rye,Soaked Rye
 Wetness_Statuses[2].GameName,Soaked Wet,びしょ濡れ
 NettleStemsLocation_CardName,Soaking Nettle Stems,Soaking Nettle Stems
 ReedsFreshLocation_CardName,Soaking Reeds,Soaking Reeds
-NettleStemsLocation_CardDescription,Soaking up on water to increase their quality.,Soaking up on water to increase their quality.
+NettleStemsLocation_CardDescription,Soaking up on water to increase their quality.,水に浸して質を高める。
 GpTag_Soap_TabName,Soap,Soap
 Pk_4_5_Social_PerkName,Social,Social
 eTag_Socks_InGameName,Socks,Socks
