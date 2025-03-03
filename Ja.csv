@@ -4498,7 +4498,7 @@ Foodplace_GameName,Foodplace,Foodplace
 CallousesFeet_GameName,Foot Callouses,Foot Callouses
 CallousesFeet_Statuses[0].GameName,Foot Callouses,Foot Callouses
 CallousesFeet_Statuses[1].GameName,Foot Callouses,Foot Callouses
-FootDamage_GameName,Foot Damage,Foot Damage
+FootDamage_GameName,Foot Damage,足のダメージ
 FootHardness_GameName,Foot Hardness,Foot Hardness
 FootProtection_GameName,Foot Protection,Foot Protection
 FOR_THE_FULL_EXPERIENCE,For the full experience click on the image below:,For the full experience click on the image below:
@@ -6831,7 +6831,7 @@ EyeDamage_Statuses[1].GameName,Moderate Eye Damage,Moderate Eye Damage
 FairyweedEffect_Statuses[1].GameName,Moderate Fairyweed Dose,Moderate Fairyweed Dose
 Fitness_Statuses[2].GameName,Moderate Fitness,Moderate Fitness
 FoodPoisoning_Statuses[0].GameName,Moderate Food Poisoning,Moderate Food Poisoning
-FootDamage_Statuses[0].GameName,Moderate Foot Damage,Moderate Foot Damage
+FootDamage_Statuses[0].GameName,Moderate Foot Damage,中程度な足のダメージ
 HandDamage_Statuses[0].GameName,Moderate Hand Damage,中程度の手のダメージ
 MuscleGrower_Statuses[1].GameName,Moderate Intensity,Moderate Intensity
 JasmineEffect_Statuses[0].GameName,Moderate Jasmine Effect,Moderate Jasmine Effect
@@ -8599,7 +8599,7 @@ Blindness_Statuses[2].GameName,Severe Blidness,Severe Blidness
 BugBites_Statuses[2].GameName,Severe Bug Bites,Severe Bug Bites
 Diarrhoea_Statuses[2].GameName,Severe Diarrhoea,Severe Diarrhoea
 EyeDamage_Statuses[2].GameName,Severe Eye Damage,Severe Eye Damage
-FootDamage_Statuses[1].GameName,Severe Foot Damage,Severe Foot Damage
+FootDamage_Statuses[1].GameName,Severe Foot Damage,深刻な足のダメージ
 HandDamage_Statuses[1].GameName,Severe Hand Damage,深刻な手のダメージ
 Headache_Statuses[2].GameName,Severe Headache,Severe Headache
 LungDamage_Statuses[2].GameName,Severe Lung Damage,Severe Lung Damage
