@@ -143,7 +143,7 @@ Bp_PartridgeFeeder_CardDescription,A device to feed partridges with minimal work
 PartridgeFeederEmpty_CardDescription,A device to feed partridges with minimal work.,A device to feed partridges with minimal work.
 PartridgeFeeder_CardDescription,A device to feed partridges with minimal work.,A device to feed partridges with minimal work.
 Infection_LowerRespiratory_Description,"A disease of the lungs. Symptoms include persisting coughing, shortness of breath and chest pain.",肺の病気。 咳、息切れ、胸痛などの症状が続く。
-Fish_Pike_CardDescription,A diurnal predatory fish that prefers areas with abundant cover.\n\nNeeds to be gutted first.,A diurnal predatory fish that prefers areas with abundant cover.\n\nNeeds to be gutted first.
+Fish_Pike_CardDescription,A diurnal predatory fish that prefers areas with abundant cover.\n\nNeeds to be gutted first.,昼行性の捕食魚で、隠れ場所の多い場所を好む。\n\nまず内臓を取る必要がある。
 Path_WillOWispGrove2FromWillOWispGrove1_CardDescription,A ghostly light floating in the dark wilderness. Will it lead you or mislead you?,暗い原野に浮かぶ亡霊のような光。それはあなたを導くのか、それとも惑わすのか？
 MeadowgrassSeeds_CardDescription,A good cover crop deal for letting fields rest because of its soil structure improving capabilities.,A good cover crop deal for letting fields rest because of its soil structure improving capabilities.
 Flint_CardDescription,A hard form of quartz ideal for creating sharp tools and generating sparks when struck against steel.,鋭利な工具を作ったり、鋼鉄にぶつけて火花を発生させたりするのに理想的な硬質の石英。
@@ -155,7 +155,7 @@ Bp_ClayStoragePot_CardDescription,A large sealed container; preserves food and p
 ClayStoragePotPlaced_CardDescription,A large sealed container; preserves food and provides comfort.,A large sealed container; preserves food and provides comfort.
 ClayStoragePot_CardDescription,A large sealed container; preserves food.,A large sealed container; preserves food.
 MouseRaw_CardDescription,A little dead mouse.,A little dead mouse.
-SquirrelRaw_CardDescription,A little dead squirrel.,A little dead squirrel.
+SquirrelRaw_CardDescription,A little dead squirrel.,小さなリスの死骸。
 WoodCarving_Woman_CardDescription,A little wooden Maiden.,A little wooden Maiden.
 WoodCarving_Man_CardDescription,A little wooden Warrior.,A little wooden Warrior.
 WoodCarving_Monster_CardDescription,A little wooden Wolf.,A little wooden Wolf.
@@ -5157,10 +5157,10 @@ WildGarlicFresh_Progress.CardStatName,Growth,成長
 WildGarlicPlantedDormant_Progress.CardStatName,Growth,成長
 WildGarlicPlantedGrowing_Progress.CardStatName,Growth,成長
 WildGarlicPlantedGrowing_UsageDurability.CardStatName,Growth,成長
-Fish_Perch_CardInteractions[0].ActionName,Gut,Gut
-Fish_Pike_CardInteractions[0].ActionName,Gut,Gut
-Fish_Sturgeon_CardInteractions[0].ActionName,Gut,Gut
-Fish_Trout_CardInteractions[0].ActionName,Gut,Gut
+Fish_Perch_CardInteractions[0].ActionName,Gut,捌く
+Fish_Pike_CardInteractions[0].ActionName,Gut,捌く
+Fish_Sturgeon_CardInteractions[0].ActionName,Gut,捌く
+Fish_Trout_CardInteractions[0].ActionName,Gut,捌く
 ThawingFactor_Statuses[2].GameName,HIgh Thawing,HIgh Thawing
 Pkg_Hair_GroupName,Hair,Hair
 tag_Hammer_InGameName,Hammer,Hammer
@@ -5727,8 +5727,8 @@ AlcoholEffect_Statuses[1].Description,I think I'm drunk.,I think I'm drunk.
 Event_AnxietyAttack_DismantleActions[0].StatInterruptions[4].Notification,I think I'm dying of starvationl...,I think I'm dying of starvationl...
 BloodPressure_Statuses[2].Description,I think I'm going to faint...,I think I'm going to faint...
 Thirst_Statuses[2].Description,I want to drink something,何か飲みたい
-MouseCooked_CardDescription,I wish it had a bit more meat.,I wish it had a bit more meat.
-SquirrelCooked_CardDescription,I wish it had a bit more meat.,I wish it had a bit more meat.
+MouseCooked_CardDescription,I wish it had a bit more meat.,もう少し肉があればよかった。
+SquirrelCooked_CardDescription,I wish it had a bit more meat.,もう少し肉があればよかった。
 Hydration_Statuses[4].Description,I won't make it for much longer,I won't make it for much longer
 SaturationBird_Statuses[0].GameName,I'm a bit tired of eating Birds...,I'm a bit tired of eating Birds...
 SaturationEggs_Statuses[0].GameName,I'm a bit tired of eating Eggs...,I'm a bit tired of eating Eggs...
@@ -10215,7 +10215,7 @@ Twigs_CardName,Twigs,Twigs
 Bp_Twine_CardName,Twine,Twine
 Twine_CardName,Twine,Twine
 Bp_ImprovisedBed_UnlockConditionsDesc,Twine Needed,Twine Needed
-Rope_DismantleActions[0].ActionName,Unbraid,Unbraid
+Rope_DismantleActions[0].ActionName,Unbraid,ほどく
 ClearingOak_GreenGlade_SpecialDurability2.OnFull.ActionName,Uncommon,Uncommon
 ClearingOak_MossyClearing_SpecialDurability2.OnFull.ActionName,Uncommon,Uncommon
 ClearingPine_FlowerGlade_SpecialDurability2.OnFull.ActionName,Uncommon,Uncommon
