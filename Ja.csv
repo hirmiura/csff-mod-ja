@@ -1169,15 +1169,15 @@ Bookshelf_CardName,Bookshelf,Bookshelf
 Bp_Bookshelf_CardName,Bookshelf,Bookshelf
 SpiderLilyEffect_Description,Boost your immune system.,Boost your immune system.
 Pk_1_FemaleOrgans_PerkDescription,Boosts estrogen levels and confers the capacity to conceive and bear children.,エストロゲンレベルを高め、妊娠・出産能力を授ける。
-GarlicEffect_Description,Boosts immune system.,Boosts immune system.
+GarlicEffect_Description,Boosts immune system.,免疫力を高める。
 Pk_1_MaleOrgans_PerkDescription,Boosts testosterone levels and confers the ability to impregnate.,テストステロンレベルを高め、孕ませる能力を授ける。
-AppleWeedEffect_Description,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
-AppleWeedPowder_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
-LQ_AppleweedTea_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea."
-AppleweedFresh_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be dried to enhance its effects.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be dried to enhance its effects."
-AppleWeedDried_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be ground into powder to enhance its effects.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be ground into powder to enhance its effects."
-Bp_DeerBlessing_CardDescription,Boosts your alertness and immune system.,Boosts your alertness and immune system.
-LQ_GarlicWater_CardDescription,Boosts your immune system and acts as a fungicide for crops.,Boosts your immune system and acts as a fungicide for crops.
+AppleWeedEffect_Description,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.",幸福度、免疫力、エネルギー、食欲を高め、吐き気や下痢を抑える。
+AppleWeedPowder_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.",幸福度、免疫力、エネルギー、食欲を高め、吐き気や下痢を抑える。
+LQ_AppleweedTea_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.",幸福度、免疫力、エネルギー、食欲を高め、吐き気や下痢を抑える。
+AppleweedFresh_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be dried to enhance its effects.",幸福度、免疫力、エネルギー、食欲を高め、吐き気や下痢を抑える。\n\n乾燥させると効果が増す。
+AppleWeedDried_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be ground into powder to enhance its effects.",幸福度、免疫力、エネルギー、食欲を高め、吐き気や下痢を抑える。\n\n粉末にすると効果が高まる。
+Bp_DeerBlessing_CardDescription,Boosts your alertness and immune system.,注意力と免疫力を高める。
+LQ_GarlicWater_CardDescription,Boosts your immune system and acts as a fungicide for crops.,免疫力を高め、農作物の殺菌剤として働く。
 BOTH_HANDS,Both Hands,両手
 Bp_PeaField_CardDescription,"Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry.","Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry."
 PeaFieldGrowing_CardDescription,"Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry.","Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry."
