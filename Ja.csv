@@ -325,7 +325,7 @@ LQ_Fairybrew_SpecialDurability2.CardStatName,Activity,Activity
 LQ_Fairybrew_SpecialDurability4.CardStatName,Activity,Activity
 LQ_Firebrew_SpecialDurability2.CardStatName,Activity,Activity
 LQ_Firebrew_SpecialDurability4.CardStatName,Activity,Activity
-Pain_Statuses[2].GameName,Acute Pain,Acute Pain
+Pain_Statuses[2].GameName,Acute Pain,重度の痛み
 Fat_CardInteractions[0].ActionName,Add,Add
 FirerootPowder_CardInteractions[0].ActionName,Add,Add
 FrostleafPowder_CardInteractions[0].ActionName,Add,Add
@@ -3886,7 +3886,7 @@ BugDamage_Statuses[3].GameName,Extreme Bug Damage,Extreme Bug Damage
 BugPopulation_Statuses[3].GameName,Extreme Bug Population,Extreme Bug Population
 Discomfort_Statuses[4].GameName,Extreme Discomfort,Extreme Discomfort
 EyeDamage_Statuses[3].GameName,Extreme Eye Damage,Extreme Eye Damage
-Pain_Statuses[3].GameName,Extreme Pain,Extreme Pain
+Pain_Statuses[3].GameName,Extreme Pain,激痛
 BugProtection_Statuses[3].GameName,Extreme Protection,Extreme Protection
 SeaSicknessResistance_Statuses[4].GameName,Extreme Resistance,Extreme Resistance
 Sodium_Statuses[2].GameName,Extreme Sodium Levels,Extreme Sodium Levels
@@ -5756,8 +5756,8 @@ Loneliness_Statuses[2].Description,I'm feeling so lonely...,I'm feeling so lonel
 Wakefulness_Statuses[0].Description,I'm getting sleepy (click on clock or bed to sleep),I'm getting sleepy (click on clock or bed to sleep)
 BodyTemperature_Statuses[1].Description,I'm going to die if I don't cool down...,冷やさないとと死んでしまう...
 Nausea_Statuses[2].Description,I'm going to throw up!,I'm going to throw up!
-Pain_Statuses[1].Description,I'm in pain.,I'm in pain.
-Pain_Statuses[2].Description,I'm in serious pain.,I'm in serious pain.
+Pain_Statuses[1].Description,I'm in pain.,痛みを感じている。
+Pain_Statuses[2].Description,I'm in serious pain.,深刻な痛みを感じている。
 BedLog_DismantleActions[0].StatInterruptions[4].Notification,I'm losing too much blood...,大量の血を失っている...
 BedLog_DismantleActions[1].StatInterruptions[4].Notification,I'm losing too much blood...,大量の血を失っている...
 BedRoll_DismantleActions[0].StatInterruptions[4].Notification,I'm losing too much blood...,大量の血を失っている...
@@ -6103,9 +6103,9 @@ SunAllergy_Statuses[1].Description,It burns! It burns!,It burns! It burns!
 SunAllergy_Statuses[2].Description,It burns! It burns! It burns!,It burns! It burns! It burns!
 Focus_Description,It decreases with repetitive tasks and increases with varied activities or leisure. Has a direct effect on your wellbeing and stress levels.,タスクの繰り返しで減少し、さまざまな活動やレジャーで増加する。幸福度とストレスに直接的な影響を及ぼす。
 EncounterWindow_DefaultChaseFailedLog.LogText,It escapes your grasp.,It escapes your grasp.
-Pain_Statuses[3].Description,It hurts so much I can't think!,It hurts so much I can't think!
-Wounds_Statuses[2].Description,It hurts!,It hurts!
-Pain_Statuses[0].Description,It hurts.,It hurts.
+Pain_Statuses[3].Description,It hurts so much I can't think!,痛くて何も考えられない！
+Wounds_Statuses[2].Description,It hurts!,痛い！
+Pain_Statuses[0].Description,It hurts.,痛い。
 Combat_EncounterSquirrel_EnemyActions[1].ActionLog.LogText,It jumps in panic and tries to run away...,It jumps in panic and tries to run away...
 Combat_EncounterSquirrel_EnemyActions[2].ActionLog.LogText,It jumps in panic and tries to run away...,It jumps in panic and tries to run away...
 Combat_EncounterPartridge_EnemyActions[0].SuccessLog.LogText,It looks at you cautiously...,It looks at you cautiously...
@@ -6746,7 +6746,7 @@ W_MinorLaceration_SpoilageTime.OnFull.ActionName,Minor Laceration,Minor Lacerati
 LungDamage_Statuses[0].GameName,Minor Lung Damage,Minor Lung Damage
 LungrotSpores_Statuses[0].GameName,Minor Lungrot Exposure,Minor Lungrot Exposure
 Lungrot_Statuses[0].GameName,Minor Lungrot Infection,Minor Lungrot Infection
-Pain_Statuses[0].GameName,Minor Pain,Minor Pain
+Pain_Statuses[0].GameName,Minor Pain,軽い痛み
 RainProtection_Statuses[0].GameName,Minor Protection,Minor Protection
 Psylocibin_Statuses[0].GameName,Minor Psylocibin Dose,Minor Psylocibin Dose
 Rash_Statuses[0].GameName,Minor Rash,軽度の発疹
@@ -6842,7 +6842,7 @@ MuscleMass_Statuses[2].GameName,Moderate Muscle Mass,Moderate Muscle Mass
 WindNorth_Statuses[1].GameName,Moderate North,Moderate North
 WaterLevelVisible_Statuses[2].GameName,Moderate Overflow,中程度の氾濫
 WaterLevel_Statuses[2].GameName,Moderate Overflow,中程度の氾濫
-Pain_Statuses[1].GameName,Moderate Pain,Moderate Pain
+Pain_Statuses[1].GameName,Moderate Pain,中程度の痛み
 BugProtection_Statuses[0].GameName,Moderate Protection,Moderate Protection
 Quinine_Statuses[1].GameName,Moderate Quinine Dose,Moderate Quinine Dose
 RainValue_Statuses[3].GameName,Moderate Rain,雨
@@ -7577,44 +7577,44 @@ tag_Paddy_InGameName,Paddy,Paddy
 Event_FluteTunes1_CardName,Page 1,Page 1
 Event_FluteTunes2_CardName,Page 2,Page 2
 Event_FluteTunes3_CardName,Page 3,Page 3
-Pain_GameName,Pain,Pain
-Pkg_Pain_GroupName,Pain,Pain
-W_Abrasion_FuelCapacity.CardStatName,Pain,Pain
-W_ArmFractureL_FuelCapacity.CardStatName,Pain,Pain
-W_ArmFractureR_FuelCapacity.CardStatName,Pain,Pain
-W_ArmLacerationLStitched_FuelCapacity.CardStatName,Pain,Pain
-W_ArmLacerationL_FuelCapacity.CardStatName,Pain,Pain
-W_ArmLacerationRStitched_FuelCapacity.CardStatName,Pain,Pain
-W_ArmLacerationR_FuelCapacity.CardStatName,Pain,Pain
-W_ArmSprainedL_FuelCapacity.CardStatName,Pain,Pain
-W_ArmSprainedR_FuelCapacity.CardStatName,Pain,Pain
-W_BiteWound_FuelCapacity.CardStatName,Pain,Pain
-W_Bruise_FuelCapacity.CardStatName,Pain,Pain
-W_ClawMarks_FuelCapacity.CardStatName,Pain,Pain
-W_FireBurn_FuelCapacity.CardStatName,Pain,Pain
-W_Frostbite_FuelCapacity.CardStatName,Pain,Pain
-W_Frostnip_FuelCapacity.CardStatName,Pain,Pain
-W_LegFractureL_FuelCapacity.CardStatName,Pain,Pain
-W_LegFractureR_FuelCapacity.CardStatName,Pain,Pain
-W_LegLacerationLStitched_FuelCapacity.CardStatName,Pain,Pain
-W_LegLacerationL_FuelCapacity.CardStatName,Pain,Pain
-W_LegLacerationRStitched_FuelCapacity.CardStatName,Pain,Pain
-W_LegLacerationR_FuelCapacity.CardStatName,Pain,Pain
-W_LegSprainedL_FuelCapacity.CardStatName,Pain,Pain
-W_LegSprainedR_FuelCapacity.CardStatName,Pain,Pain
-W_MinorLacerationStitched_FuelCapacity.CardStatName,Pain,Pain
-W_MinorLaceration_FuelCapacity.CardStatName,Pain,Pain
-W_Puncture_FuelCapacity.CardStatName,Pain,Pain
-W_RibFracture_FuelCapacity.CardStatName,Pain,Pain
-W_WolfBite_FuelCapacity.CardStatName,Pain,Pain
+Pain_GameName,Pain,痛み
+Pkg_Pain_GroupName,Pain,痛み
+W_Abrasion_FuelCapacity.CardStatName,Pain,痛み
+W_ArmFractureL_FuelCapacity.CardStatName,Pain,痛み
+W_ArmFractureR_FuelCapacity.CardStatName,Pain,痛み
+W_ArmLacerationLStitched_FuelCapacity.CardStatName,Pain,痛み
+W_ArmLacerationL_FuelCapacity.CardStatName,Pain,痛み
+W_ArmLacerationRStitched_FuelCapacity.CardStatName,Pain,痛み
+W_ArmLacerationR_FuelCapacity.CardStatName,Pain,痛み
+W_ArmSprainedL_FuelCapacity.CardStatName,Pain,痛み
+W_ArmSprainedR_FuelCapacity.CardStatName,Pain,痛み
+W_BiteWound_FuelCapacity.CardStatName,Pain,痛み
+W_Bruise_FuelCapacity.CardStatName,Pain,痛み
+W_ClawMarks_FuelCapacity.CardStatName,Pain,痛み
+W_FireBurn_FuelCapacity.CardStatName,Pain,痛み
+W_Frostbite_FuelCapacity.CardStatName,Pain,痛み
+W_Frostnip_FuelCapacity.CardStatName,Pain,痛み
+W_LegFractureL_FuelCapacity.CardStatName,Pain,痛み
+W_LegFractureR_FuelCapacity.CardStatName,Pain,痛み
+W_LegLacerationLStitched_FuelCapacity.CardStatName,Pain,痛み
+W_LegLacerationL_FuelCapacity.CardStatName,Pain,痛み
+W_LegLacerationRStitched_FuelCapacity.CardStatName,Pain,痛み
+W_LegLacerationR_FuelCapacity.CardStatName,Pain,痛み
+W_LegSprainedL_FuelCapacity.CardStatName,Pain,痛み
+W_LegSprainedR_FuelCapacity.CardStatName,Pain,痛み
+W_MinorLacerationStitched_FuelCapacity.CardStatName,Pain,痛み
+W_MinorLaceration_FuelCapacity.CardStatName,Pain,痛み
+W_Puncture_FuelCapacity.CardStatName,Pain,痛み
+W_RibFracture_FuelCapacity.CardStatName,Pain,痛み
+W_WolfBite_FuelCapacity.CardStatName,Pain,痛み
 Pk_2_2_PainSensitivity_PerkName,Pain Sensitivity,Pain Sensitivity
 Pk_99_PainTolerance_PerkName,Pain Tolerance,Pain Tolerance
 eTag_Pants_InGameName,Pants,Pants
-Parasites_GameName,Parasitic Gut Infection,Parasitic Gut Infection
-Parasites_Statuses[0].GameName,Parasitic Gut Infection,Parasitic Gut Infection
-Parasites_Statuses[1].GameName,Parasitic Gut Infection,Parasitic Gut Infection
-Parasites_Statuses[2].GameName,Parasitic Gut Infection,Parasitic Gut Infection
-Parasites_Statuses[3].GameName,Parasitic Gut Infection,Parasitic Gut Infection
+Parasites_GameName,Parasitic Gut Infection,寄生性腸感染症
+Parasites_Statuses[0].GameName,Parasitic Gut Infection,寄生性腸感染症
+Parasites_Statuses[1].GameName,Parasitic Gut Infection,寄生性腸感染症
+Parasites_Statuses[2].GameName,Parasitic Gut Infection,寄生性腸感染症
+Parasites_Statuses[3].GameName,Parasitic Gut Infection,寄生性腸感染症
 Thirst_Statuses[4].GameName,Parched,カラカラ (4)
 Agent_Partridge_AgentName,Partridge,Partridge
 Combat_EncounterPartridge_EncounterTitle,Partridge,Partridge
