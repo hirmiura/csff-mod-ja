@@ -25,8 +25,8 @@ NewsEARelease2_Sections[0].Entries[4].Content,"- Added help screens.\n- Added th
 AlteredMindstate_Statuses[4].Description,...,...
 Diarrhoea_Statuses[2].Description,...,...
 Fever_Statuses[3].Description,...,...
-ENCOUNTER_AND,... and {0},... and {0}
-ENCOUNTER_BUT,... but {0},... but {0}
+ENCOUNTER_AND,... and {0},...そして、{0}
+ENCOUNTER_BUT,... but {0},...しかし、{0}
 FORMAT_DAYS,0D,0D
 FORMAT_HOURS,0h,0h
 FORMAT_MINUTES,0min,0min
@@ -1178,7 +1178,7 @@ AppleweedFresh_CardDescription,"Boosts wellbeing, immune system, energy and appe
 AppleWeedDried_CardDescription,"Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be ground into powder to enhance its effects.","Boosts wellbeing, immune system, energy and appetite while reducing nausea and diarrhoea.\n\nCan be ground into powder to enhance its effects."
 Bp_DeerBlessing_CardDescription,Boosts your alertness and immune system.,Boosts your alertness and immune system.
 LQ_GarlicWater_CardDescription,Boosts your immune system and acts as a fungicide for crops.,Boosts your immune system and acts as a fungicide for crops.
-BOTH_HANDS,Both Hands,Both Hands
+BOTH_HANDS,Both Hands,両手
 Bp_PeaField_CardDescription,"Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry.","Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry."
 PeaFieldGrowing_CardDescription,"Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry.","Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry."
 PeaFieldMature_CardDescription,"Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry.","Bought from traders; needs medium acidity, low hydration,  medium nutrients and medium to high structure. Increases nutrient and soil structure.\n\nA nutritious food that is long lasting when dry."
@@ -1741,7 +1741,7 @@ HearthExtinguished_DismantleActions[0].RequiredReceivingDurabilities.FailMessage
 Hearth_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Charcoal not ready yet.
 SpiritShrine_Fire_RitualPyreExtinguished_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Charcoal not ready yet.
 SpiritShrine_Fire_RitualPyre_DismantleActions[0].RequiredReceivingDurabilities.FailMessage,Charcoal not ready yet.,Charcoal not ready yet.
-EncounterWindow_PlayerGetCloseAction.ActionName,Charge,Charge
+EncounterWindow_PlayerGetCloseAction.ActionName,Charge,突撃
 tag_Charm_InGameName,Charm,Charm
 Tab_Spirits_Charms_TabName,Charms,Charms
 CharredRemains_CardName,Charred Remains,Charred Remains
@@ -3312,7 +3312,7 @@ DO_STACK_ACTION,Do x{0},Do x{0}
 CONFIRM_LOAD,Do you want to load this checkpoint?,Do you want to load this checkpoint?
 CONFIRM_SAVE,Do you want to overwrite this checkpoint?,Do you want to overwrite this checkpoint?
 PLAY_TUTORIAL,Do you want to play the tutorial?,チュートリアルをやりますか？
-EncounterWindow_GeneralPlayerActions[0].ActionName,Dodge,Dodge
+EncounterWindow_GeneralPlayerActions[0].ActionName,Dodge,避ける
 Agent_Doe_AgentName,Doe,Doe
 Combat_EncounterDoe_F_EncounterTitle,Doe,Doe
 Carcass_DoeCarcass_CardName,Doe Carcass,Doe Carcass
@@ -3786,9 +3786,9 @@ ThicketOak_WhisperingThicket_SpecialDurability4.OnFull.ActionName,Epic,Epic
 ThicketOak_WildThicket_SpecialDurability4.OnFull.ActionName,Epic,Epic
 BasicWoundTreatment_Obj2_EquipHealersMossinAWound_ObjectiveDescription,Equip Healers Moss in a Wound,Equip Healers Moss in a Wound
 BasicWoundTreatment_Sub2_EquipHealersMossinAWound_QuestTitle,Equip Healers Moss in a Wound,Equip Healers Moss in a Wound
-EQUIP_BOTH_HAND,Equip in Both Hands,Equip in Both Hands
-EQUIP_MAIN_HAND,Equip in Main Hand,Equip in Main Hand
-EQUIP_OFF_HAND,Equip in Off Hand,Equip in Off Hand
+EQUIP_BOTH_HAND,Equip in Both Hands,両手に装備
+EQUIP_MAIN_HAND,Equip in Main Hand,利き手に装備
+EQUIP_OFF_HAND,Equip in Off Hand,オフハンドに装備
 Skinning_Obj3_EquipSomeCuredSkinOrLeatherInYourBedForWarmth_ObjectiveDescription,Equip some Cured Skin or Leather in your Bed for Warmth,Equip some Cured Skin or Leather in your Bed for Warmth
 Skinning_Obj3_EquipSomeCuredSkinOrLeatherInYourBedForWarmth_ObjectiveDescription*,Equip some Cured Skin or Leather in your Bed for Warmth,Equip some Cured Skin or Leather in your Bed for Warmth
 Skinning_Sub3_EquipSomeCuredSkinOrLeatherInYourBedForWarmth_QuestTitle,Equip some Cured Skin or Leather in your Bed for Warmth,Equip some Cured Skin or Leather in your Bed for Warmth
@@ -3804,7 +3804,7 @@ BoarFreePiglet_SpecialDurability3.CardStatName,Escape,Escape
 PartridgeFreeChick_SpecialDurability3.CardStatName,Escape,Escape
 PartridgeFreeFemale_SpecialDurability3.CardStatName,Escape,Escape
 PartridgeFreeMale_SpecialDurability3.CardStatName,Escape,Escape
-EncounterWindow_PlayerEscapeAction.ActionName,Escape!,Escape!
+EncounterWindow_PlayerEscapeAction.ActionName,Escape!,逃げる！
 HearthExtinguished_UsageDurability.CardStatName,Essence,Essence
 Hearth_UsageDurability.CardStatName,Essence,Essence
 Spirit_Earth_UsageDurability.CardStatName,Essence,Essence
@@ -6499,7 +6499,7 @@ MISC,MISC.,その他
 MAGIC,Magic,魔法
 Tab_Spirits_TabName,Magic,魔法
 WoodCarving_Woman_CardName,Maiden Figure,Maiden Figure
-MAIN_HAND,Main Hand,Main Hand
+MAIN_HAND,Main Hand,利き手
 Workplace_Statuses[2].Description,Major Effect,Major Effect
 Psylocibin_Statuses[1].GameName,Major Psylocibin Dose,Major Psylocibin Dose
 RiceEffect_Statuses[1].GameName,Major Rice Effect,Major Rice Effect
@@ -7444,9 +7444,9 @@ FurClothing_Obj1_ObtainFurs_ObjectiveDescription,Obtain Furs,Obtain Furs
 FurClothing_Sub1_ObtainFurs_QuestTitle,Obtain Furs,Obtain Furs
 IntermediateCraftmanship_Obj2_ObtainTar_ObjectiveDescription,Obtain Tar,Obtain Tar
 IntermediateCraftmanship_Sub2_ObtainTar_QuestTitle,Obtain Tar,Obtain Tar
-OFF_HAND,Off Hand,Off Hand
+OFF_HAND,Off Hand,オフハンド
 Bp_ImprovisedShelter_CardDescription,"Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it.",風雨をある程度防ぐことができる。 寝ている間の幸福感、集中力、保温性を高める。
-ImprovisedShelter_CardDescription,"Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it.\n\nAdd blankets, skins or bedding materials for an improved effect.","Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it.\n\nAdd blankets, skins or bedding materials for an improved effect."
+ImprovisedShelter_CardDescription,"Offers some protection against the elements. Increases wellbeing, focus and insulation while sleeping on it.\n\nAdd blankets, skins or bedding materials for an improved effect.",風雨をある程度防ぐことができる。 寝ている間の幸福感、集中力、保温性を高める。\n\n毛布や皮、寝具を加えるとより効果的。
 BoarEnclosureFemale_SpoilageTime.OnZero.ActionName,Oh no!,Oh no!
 Event_FrostNipAppeared_DismantleActions[0].ActionName,Oh no...,Oh no...
 Event_FrostbiteAppeared_DismantleActions[0].ActionName,Oh no...,Oh no...
@@ -7459,7 +7459,7 @@ Env_GroveOak_OldStump_CardName,Old Stump,Old Stump
 GroveOak_OldStump_CardName,Old Stump,Old Stump
 Caves_FmOminousTunnel_CardName,Ominous Tunnel,Ominous Tunnel
 Env_FmOminousTunnel_CardName,Ominous Tunnel,Ominous Tunnel
-ON_GROUND,On Ground,On Ground
+ON_GROUND,On Ground,地面
 Weight_Statuses[8].GameName,On the Verge of Starvation,餓死寸前 (8)
 ONGOING_QUESTS,Ongoing,進行中
 tag_EnvOpen_InGameName,Open Environment,Open Environment
@@ -9367,9 +9367,9 @@ River_DismantleActions[1].ActionName,Swim,泳ぐ
 SettlingDown_Obj1_SwimInTheRiverToRelax_ObjectiveDescription,Swim in the River to Relax,Swim in the River to Relax
 SettlingDown_Sub1_SwimInTheRiverToRelax_QuestTitle,Swim in the River to Relax,Swim in the River to Relax
 Skill_Swimming_GameName,Swimming,Swimming
-SWITCH_BOTH_HANDS,Switch to Both Hands,Switch to Both Hands
-SWITCH_MAIN_HAND,Switch to Main Hand,Switch to Main Hand
-SWITCH_OFF_HAND,Switch to Off Hand,Switch to Off Hand
+SWITCH_BOTH_HANDS,Switch to Both Hands,両手に持ち替える
+SWITCH_MAIN_HAND,Switch to Main Hand,利き手に持ち替える
+SWITCH_OFF_HAND,Switch to Off Hand,オフハンドに持ち替える
 Infection_Systemic_GameName,Systemic Infection,Systemic Infection
 Infection_Systemic_Statuses[3].GameName,Systemic Infection,Systemic Infection
 Infection_Systemic_Statuses[4].GameName,Systemic Infection,Systemic Infection
@@ -9623,11 +9623,11 @@ TemperaturePerceived_Description,"The approximate temperature your body is perce
 Event_FloodDamage_CardDescription,The area is flooding! The water is threatening to take you away!,The area is flooding! The water is threatening to take you away!
 Combat_EncounterBadger_EnemyGettingCloseLog.LogText,The badger charges at you!,The badger charges at you!
 Combat_EncounterBadger_EnemyDefeatedEffects.ResultLog.LogText,The badger collapses on the floor.,The badger collapses on the floor.
-Combat_EncounterBadger_EnemyActions[0].ActionLog.LogText,The badger hisses at you.,The badger hisses at you.
-Combat_EncounterBadger_EnemyActions[3].ActionLog.LogText,The badger hisses at you.,The badger hisses at you.
-Combat_EncounterBadger_EnemyEscapedEffects.ResultLog.LogText,The badger runs away.,The badger runs away.
-Combat_EncounterBadger_EnemyActions[1].ActionLog.LogText,The badger tries to bite you!,The badger tries to bite you!
-Combat_EncounterBadger_EnemyActions[2].ActionLog.LogText,The badger tries to claw you!,The badger tries to claw you!
+Combat_EncounterBadger_EnemyActions[0].ActionLog.LogText,The badger hisses at you.,アナグマはあなたにシューッと音を出す。
+Combat_EncounterBadger_EnemyActions[3].ActionLog.LogText,The badger hisses at you.,アナグマはあなたにシューッと音を出す。
+Combat_EncounterBadger_EnemyEscapedEffects.ResultLog.LogText,The badger runs away.,アナグマは逃げる。
+Combat_EncounterBadger_EnemyActions[1].ActionLog.LogText,The badger tries to bite you!,アナグマがあなたを噛もうとする！
+Combat_EncounterBadger_EnemyActions[2].ActionLog.LogText,The badger tries to claw you!,アナグマがあなたを引っ掻こうとする！
 Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MediumWounds[0].WoundLog.LogText,The bite didn't draw blood but you'll get a nasty bruise,The bite didn't draw blood but you'll get a nasty bruise
 Combat_EncounterBadger_EnemyActions[1].PlayerWounds.MinorWounds[0].WoundLog.LogText,The bite didn't draw blood but you'll get a nasty bruise,The bite didn't draw blood but you'll get a nasty bruise
 Combat_EncounterBadger_EnemyActions[1].PlayerWounds.SeriousWounds[0].WoundLog.LogText,The bite didn't draw blood but you'll get a nasty bruise,The bite didn't draw blood but you'll get a nasty bruise
@@ -9675,10 +9675,10 @@ Combat_EncounterFox_EnemyActions[2].ActionLog.LogText,The fox tries to claw you!
 Combat_EncounterFox_EnemyActions[3].ActionLog.LogText,The fox tries to escape!,The fox tries to escape!
 Combat_EncounterWolfPack_EnemyActions[0].SuccessLog.LogText,The growl intimidates you.,The growl intimidates you.
 Combat_EncounterWolf_EnemyActions[0].SuccessLog.LogText,The growl intimidates you.,The growl intimidates you.
-Combat_EncounterBadger_EnemyActions[0].SuccessLog.LogText,The hiss intimidates you...,The hiss intimidates you...
-Combat_EncounterBadger_EnemyActions[3].SuccessLog.LogText,The hiss intimidates you...,The hiss intimidates you...
-Combat_EncounterFlintclaw_EnemyActions[0].SuccessLog.LogText,The hiss intimidates you...,The hiss intimidates you...
-Combat_EncounterFlintclaw_EnemyActions[3].SuccessLog.LogText,The hiss intimidates you...,The hiss intimidates you...
+Combat_EncounterBadger_EnemyActions[0].SuccessLog.LogText,The hiss intimidates you...,シューッとあなたを威嚇する...
+Combat_EncounterBadger_EnemyActions[3].SuccessLog.LogText,The hiss intimidates you...,シューッとあなたを威嚇する...
+Combat_EncounterFlintclaw_EnemyActions[0].SuccessLog.LogText,The hiss intimidates you...,シューッとあなたを威嚇する...
+Combat_EncounterFlintclaw_EnemyActions[3].SuccessLog.LogText,The hiss intimidates you...,シューッとあなたを威嚇する...
 LQ_Fairybrew_CardInteractions[0].RequiredReceivingDurabilities.SpecificFailMessages[0].Message,The mixture is too thick...,The mixture is too thick...
 LQ_Fairybrew_CardInteractions[1].RequiredReceivingDurabilities.SpecificFailMessages[0].Message,The mixture is too thick...,The mixture is too thick...
 LQ_Fairybrew_CardInteractions[2].RequiredReceivingDurabilities.SpecificFailMessages[0].Message,The mixture is too thick...,The mixture is too thick...
@@ -9896,7 +9896,7 @@ MudHutEnclosure_CardInteractions[2].ActionName,Throw Inside,Throw Inside
 CharredRemains_DismantleActions[1].ActionName,Throw away,Throw away
 THROW_AWAY,Throw away,Throw away
 TRASH_CONFIRM,Throw {0} away?,Throw {0} away?
-SpearThrust_ActionName,Thrust,Thrust
+SpearThrust_ActionName,Thrust,突く
 TickCounter_GameName,Tick Counter,Tick Counter
 Tides_GameName,Tides,Tides
 BoarTiedMale_CardName,Tied up Boar,Tied up Boar
@@ -10951,7 +10951,7 @@ Weight_Statuses[9].Description,You died of starvation.,あなたは餓死した�
 Combat_EncounterBadger_PlayerEscapedEffects.ResultLog.LogText,You disengage and escape from the badger...,You disengage and escape from the badger...
 Combat_EncounterFlintclaw_PlayerEscapedEffects.ResultLog.LogText,You disengage and retreat from the Flintclaw,You disengage and retreat from the Flintclaw
 Combat_EncounterDoe_F_PlayerEscapedEffects.ResultLog.LogText,You disengage and retreat.,You disengage and retreat.
-EncounterWindow_DropOnGroundLog.LogText,You drop your {0}.,You drop your {0}.
+EncounterWindow_DropOnGroundLog.LogText,You drop your {0}.,あなたは{0}を落とした。
 MOONS_DESC,You earn one moon per 30 days of survival,You earn one moon per 30 days of survival
 SUNS_DESC,You earn one sun per day of survival,You earn one sun per day of survival
 Combat_EncounterBoar_EnemyActions[3].SuccessLog.LogText,You fail to avoid the attack...,あなたは攻撃を避けられなかった...
@@ -11168,9 +11168,9 @@ Combat_ BTWolfPack_Head.MediumWounds[1].CombatLog.LogText,You hit {0} hard on th
 Combat_ BTWolf_F_Head.MediumWounds[1].CombatLog.LogText,You hit {0} hard on the nose. It whimpers in pain!,You hit {0} hard on the nose. It whimpers in pain!
 Combat_ BTBoar_F_Head.MediumWounds[1].CombatLog.LogText,You hit {0} hard on the snout. It squeals in pain!,You hit {0} hard on the snout. It squeals in pain!
 Combat_ BTFlintclaw_Head.MediumWounds[2].CombatLog.LogText,You hit {0} right in the face. It screams in pain!,You hit {0} right in the face. It screams in pain!
-EncounterWindow_EquipInMainHandLog.LogText,You hold your {0} in your main hand.,You hold your {0} in your main hand.
-EncounterWindow_EquipInOffHandLog.LogText,You hold your {0} in your off hand.,You hold your {0} in your off hand.
-EncounterWindow_EquipInBothHandsLog.LogText,You hold your {0} with both hands.,You hold your {0} with both hands.
+EncounterWindow_EquipInMainHandLog.LogText,You hold your {0} in your main hand.,あなたは{0}を利き手で構えた。
+EncounterWindow_EquipInOffHandLog.LogText,You hold your {0} in your off hand.,あなたは{0}をオフハンドに構えた。
+EncounterWindow_EquipInBothHandsLog.LogText,You hold your {0} with both hands.,あなたは{0}を両手で構えた。
 Combat_ BTBadger_Head.SeriousWounds[4].CombatLog.LogText,You inflict a serious wound on {0}'s head!,You inflict a serious wound on {0}'s head!
 Combat_ BTBoar_F_Head.SeriousWounds[4].CombatLog.LogText,You inflict a serious wound on {0}'s head!,You inflict a serious wound on {0}'s head!
 Combat_ BTFlintclaw_Head.SeriousWounds[3].CombatLog.LogText,You inflict a serious wound on {0}'s head!,You inflict a serious wound on {0}'s head!
@@ -11392,14 +11392,14 @@ Combat_ BTFox_Torso.SeriousWounds[0].CombatLog.LogText,You struck {0} so hard yo
 Combat_ BTStag_Torso.SeriousWounds[0].CombatLog.LogText,You struck {0} so hard you felt something crack inside!,You struck {0} so hard you felt something crack inside!
 Combat_ BTWolfPack_Torso.SeriousWounds[0].CombatLog.LogText,You struck {0} so hard you felt something crack inside!,You struck {0} so hard you felt something crack inside!
 Combat_ BTWolf_F_Torso.SeriousWounds[0].CombatLog.LogText,You struck {0} so hard you felt something crack inside!,You struck {0} so hard you felt something crack inside!
-Combat_EncounterBadger_EnemyActions[1].FailureLog.LogText,You successfully dodge the bite...,You successfully dodge the bite...
-Combat_EncounterFlintclaw_EnemyActions[1].FailureLog.LogText,You successfully dodge the bite...,You successfully dodge the bite...
-Combat_EncounterFox_EnemyActions[1].FailureLog.LogText,You successfully dodge the bite...,You successfully dodge the bite...
-Combat_EncounterWolfPack_EnemyActions[7].FailureLog.LogText,You successfully dodge the bite...,You successfully dodge the bite...
-Combat_EncounterWolf_EnemyActions[4].FailureLog.LogText,You successfully dodge the bite...,You successfully dodge the bite...
-Combat_EncounterBadger_EnemyActions[2].FailureLog.LogText,You successfully dodge the clawing attack...,You successfully dodge the clawing attack...
-Combat_EncounterFlintclaw_EnemyActions[2].FailureLog.LogText,You successfully dodge the clawing attack...,You successfully dodge the clawing attack...
-Combat_EncounterFox_EnemyActions[2].FailureLog.LogText,You successfully dodge the clawing attack...,You successfully dodge the clawing attack...
+Combat_EncounterBadger_EnemyActions[1].FailureLog.LogText,You successfully dodge the bite...,噛みつきをうまくかわした...
+Combat_EncounterFlintclaw_EnemyActions[1].FailureLog.LogText,You successfully dodge the bite...,噛みつきをうまくかわした...
+Combat_EncounterFox_EnemyActions[1].FailureLog.LogText,You successfully dodge the bite...,噛みつきをうまくかわした...
+Combat_EncounterWolfPack_EnemyActions[7].FailureLog.LogText,You successfully dodge the bite...,噛みつきをうまくかわした...
+Combat_EncounterWolf_EnemyActions[4].FailureLog.LogText,You successfully dodge the bite...,噛みつきをうまくかわした...
+Combat_EncounterBadger_EnemyActions[2].FailureLog.LogText,You successfully dodge the clawing attack...,引っ掻きをうまくかわした...
+Combat_EncounterFlintclaw_EnemyActions[2].FailureLog.LogText,You successfully dodge the clawing attack...,引っ掻きをうまくかわした...
+Combat_EncounterFox_EnemyActions[2].FailureLog.LogText,You successfully dodge the clawing attack...,引っ掻きをうまくかわした...
 Combat_EncounterBoar_EnemyActions[0].FailureLog.LogText,You successfully get out of the way...,You successfully get out of the way...
 Combat_EncounterBoar_EnemyActions[1].FailureLog.LogText,You successfully get out of the way...,You successfully get out of the way...
 Combat_EncounterBoar_EnemyActions[2].FailureLog.LogText,You successfully get out of the way...,You successfully get out of the way...
@@ -11584,7 +11584,7 @@ DarknessSpirit_WeaponMove_Blindness_ActionFailureLog.LogText,you fail to blind {
 SpearBlock_ActionFailureLog.LogText,you fail to block the attack...,you fail to block the attack...
 BurningTouch_ActionFailureLog.LogText,you fail to channel the energy of your {1}...,you fail to channel the energy of your {1}...
 Ferocity_ActionFailureLog.LogText,you fail to channel the energy of your {1}...,you fail to channel the energy of your {1}...
-SpearThrust_ActionFailureLog.LogText,you fail to hit {0} with your thrusting attack...,you fail to hit {0} with your thrusting attack...
+SpearThrust_ActionFailureLog.LogText,you fail to hit {0} with your thrusting attack...,あなたの突きは{0}に当たらなかった...
 EncounterWindow_PlayerWeaponActionFailureLog.LogText,you fail to land a hit with your {1}.,you fail to land a hit with your {1}.
 SpearShove_ActionFailureLog.LogText,you fail to push {0} away...,you fail to push {0} away...
 SpearTrip_ActionSuccessLog.LogText,you hit {0} in the legs!,you hit {0} in the legs!
@@ -11598,8 +11598,8 @@ EncounterWindow_PlayerEscapeAction.ActionSuccessLog.LogText,you manage to escape
 EncounterWindow_StatEnforcedPlayerActions[0].Action.ActionFailureLog.LogText,you manage to escape!,you manage to escape!
 EncounterWindow_StatEnforcedPlayerActions[0].Action.ActionSuccessLog.LogText,you manage to escape!,you manage to escape!
 EncounterWindow_PlayerWeaponActionSuccessLog.LogText,you manage to land a hit with your {1}.,you manage to land a hit with your {1}.
-EncounterWindow_PlayerGetCloseAction.ActionFailureLog.LogText,you move into close combat!,you move into close combat!
-EncounterWindow_PlayerGetCloseAction.ActionSuccessLog.LogText,you move into close combat!,you move into close combat!
+EncounterWindow_PlayerGetCloseAction.ActionFailureLog.LogText,you move into close combat!,接近戦に移る！
+EncounterWindow_PlayerGetCloseAction.ActionSuccessLog.LogText,you move into close combat!,接近戦に移る！
 EncounterWindow_PlayerBreakFreeAction.ActionSuccessLog.LogText,you push the {0} away and get on your feet.,you push the {0} away and get on your feet.
 SpearShove_ActionSuccessLog.LogText,you push {0} away!,you push {0} away!
 SpearBrace_ActionSuccessLog.LogText,you successfully brace yourself!,you successfully brace yourself!
