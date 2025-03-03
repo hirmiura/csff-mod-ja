@@ -1551,7 +1551,7 @@ FurCured_CardDescription,"Can be used for warm clothing and other crafts, or fur
 LQ_Snow_CardDescription,Can be used to build snowmen or melted into water.,Can be used to build snowmen or melted into water.
 SnowPile_CardDescription,Can be used to build snowmen or melted into water.,Can be used to build snowmen or melted into water.
 BoneSplinters_CardDescription,"Can be used to craft hooks and needles or further crushed into bonemeal, which is useful as a fertilizer..",フックや針を作るのに使ったり、さらに砕いて肥料として使えるボーンミールにすることもできる。
-Fat_CardDescription,Can be used to flavour and enrich food when heated up.,Can be used to flavour and enrich food when heated up.
+Fat_CardDescription,Can be used to flavour and enrich food when heated up.,加熱すると風味が増し、料理がおいしくなる。
 NettlePatchWild_CardDescription,Can be used to make twine and cloth and for its edible leaves. Should handle it with caution due to its stinging hairs.,紐や布の材料になり、葉は食用になる。 刺毛があるので取り扱いには注意が必要。
 Bp_ClayCauldron_CardDescription,Can be used to prepare broths and stews.,Can be used to prepare broths and stews.
 ClayCauldron_CardDescription,Can be used to prepare broths and stews.,Can be used to prepare broths and stews.
@@ -8666,8 +8666,8 @@ ReedsFreshLocation_CardDescription,Should let them dry for a few days once they'
 FrozenRiver_CardDescription,Should open a hole on it with a hammer tool to get water or fish.,Should open a hole on it with a hammer tool to get water or fish.
 FishingLine_Rustic_CardDescription,Should place bait on its hook if I want to have a chance at catching anything.,Should place bait on its hook if I want to have a chance at catching anything.
 Bp_ShirtCloth_CardDescription,Should protect me a bit from bug bites and the sun.,Should protect me a bit from bug bites and the sun.
-FurFresh_CardDescription,Should scrape it clean before it starts rotting.,Should scrape it clean before it starts rotting.
-SkinFresh_CardDescription,Should scrape it clean before it starts rotting.,Should scrape it clean before it starts rotting.
+FurFresh_CardDescription,Should scrape it clean before it starts rotting.,腐り始める前に、きれいに削る必要がある。
+SkinFresh_CardDescription,Should scrape it clean before it starts rotting.,腐り始める前に、きれいに削る必要がある。
 NerveDamageHandsPermanent_Statuses[3].Description,Should slowly heal when I remove the tourniquet.,Should slowly heal when I remove the tourniquet.
 NerveDamageLegsPermanent_Statuses[3].Description,Should slowly heal when I remove the tourniquet.,Should slowly heal when I remove the tourniquet.
 LQ_TanningLiquor_CardDescription,Should submerge hides in it within a tanning pit to transform them into leather.,Should submerge hides in it within a tanning pit to transform them into leather.
