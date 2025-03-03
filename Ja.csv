@@ -103,7 +103,7 @@ HOLD_SWAP,<b>Hold top/bottom</b> of cards to move stacks.,<b>Hold top/bottom</b>
 DEMO_SAVEWRITING_WARNING,"<b>IMPORTANT NOTE:</b>\nYOUR PROGRESS WILL NOT BE SAVED\n\n""The First Days"" cannot store progress on saves created by the full game.","<b>IMPORTANT NOTE:</b>\nYOUR PROGRESS WILL NOT BE SAVED\n\n""The First Days"" cannot store progress on saves created by the full game."
 LOCATION_ROW_HELP,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>,<b>Location Row</b>\n<size=80%>Static landmarks and structures.</size>
 Amulet_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>機能するには装備スロットに装備されていなければならない</b>
-GreenwardPouch_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>機能するには装備スロットに装備されていなければならない</b>
+GreenwardPouch_CardDescription,<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,<b>装備しないと機能しない</b>
 NewsEARelease2_Sections[0].Entries[1].Title,<b>Negative Reviews</b>,<b>Negative Reviews</b>
 NewsEARelease2_Sections[0].Entries[4].Title,<b>Official Patch Notes since release:</b>,<b>Official Patch Notes since release:</b>
 NewsEARelease2_Sections[0].Entries[3].Title,<b>Patch 0.03:</b>,<b>Patch 0.03:</b>
@@ -7866,7 +7866,7 @@ LQ_RottenStew_SpecialDurability3.CardStatName,Proteins,Proteins
 LQ_StewWater_SpecialDurability3.CardStatName,Proteins,Proteins
 LQ_Water_SpecialDurability3.CardStatName,Proteins,Proteins
 Proteins_GameName,Proteins,Proteins
-BarkSandals_CardDescription,Provide foot protection and wellbeing.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,足の保護と幸福度を提供する。\n\n<b>機能するには装備スロットに装備されていなければならない</b>
+BarkSandals_CardDescription,Provide foot protection and wellbeing.\n\n<b>MUST BE EQUIPPED ON EQUIPMENT SLOT TO WORK</b>,足の保護と幸福度を提供する。\n\n<b>装備しないと機能しない</b>
 FurBoots_CardDescription,"Provide foot protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>","Provide foot protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>"
 LeatherBoots_CardDescription,"Provide foot protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>","Provide foot protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>"
 LeatherShoes_CardDescription,"Provide foot protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>","Provide foot protection, wellbeing and insulation.\n\n<b>MUST BE EQUIPPED TO WORK</b>"
