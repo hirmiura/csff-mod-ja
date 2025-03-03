@@ -524,7 +524,7 @@ Infection_Systemic_Description,"An ailment that arises when bacteria enter the s
 SpiritShrine_Earth_SacredOak_CardDescription,An ancient oak. There's something special about it.,An ancient oak. There's something special about it.
 Imp_MudHutEnclosure_CardDescription,An annexed enclosure for keeping animals.,An annexed enclosure for keeping animals.
 SnowMan_CardDescription,An ephemeral work of art.,An ephemeral work of art.
-HookBone_CardDescription,An essential component for a fishing rod.,An essential component for a fishing rod.
+HookBone_CardDescription,An essential component for a fishing rod.,釣り竿に欠かせない部品。
 LQ_Oil_CardDescription,An essential food ingredient.,An essential food ingredient.
 OakLogPiecePlacedStool_CardDescription,An improvised stool. Increases comfort and helps you with crafting.,An improvised stool. Increases comfort and helps you with crafting.
 PineLogPiecePlacedStool_CardDescription,An improvised stool. Increases comfort and helps you with crafting.,An improvised stool. Increases comfort and helps you with crafting.
@@ -5935,8 +5935,8 @@ Pk_2_HighEstrogen_PerkDescription,"Increases empathy and female physical traits 
 Estrogen_Description,Increases female physical traits and empathy.,Increases female physical traits and empathy.
 Testosterone_Description,Increases male physical traits as well as assertiveness.,Increases male physical traits as well as assertiveness.
 Loneliness_Description,Increases over time. Lowers morale and mental structure.,時間とともに増加する。 士気や精神構造を低下させる。
-ReedTunic_CardDescription,Increases protection and insulation but lowers wellbeing.\n\n<b>MUST BE EQUIPPED TO WORK</b>,Increases protection and insulation but lowers wellbeing.\n\n<b>MUST BE EQUIPPED TO WORK</b>
-ReedSkirt_CardDescription,Increases protection and insulation but lowers wellbeing.\n\nCan be repaired with reeds.\n<b>MUST BE EQUIPPED TO WORK</b>,Increases protection and insulation but lowers wellbeing.\n\nCan be repaired with reeds.\n<b>MUST BE EQUIPPED TO WORK</b>
+ReedTunic_CardDescription,Increases protection and insulation but lowers wellbeing.\n\n<b>MUST BE EQUIPPED TO WORK</b>,防護と断熱は高まるが、幸福度が低下する。\n\n<b>装備しないと機能しない</b>
+ReedSkirt_CardDescription,Increases protection and insulation but lowers wellbeing.\n\nCan be repaired with reeds.\n<b>MUST BE EQUIPPED TO WORK</b>,防護と断熱は高まるが、幸福度が低下する。\n\n葦で修理可能。\n<b>装備しないと機能しない</b>
 MuscleMass_Description,Increases the amount of weight you can carry. Can be increased through exercise and by carrying heavy loads.,Increases the amount of weight you can carry. Can be increased through exercise and by carrying heavy loads.
 StretchingFrame_CardDescription,Increases the quality of freshly tanned leather.,Increases the quality of freshly tanned leather.
 Skill_Crafting_Description,Increases the quality of some of your crafts.,Increases the quality of some of your crafts.
@@ -7046,7 +7046,7 @@ RectalPressure_Statuses[2].PreventingActionMessage,Need to Poop before doing thi
 RectalPressure_Statuses[1].Description,Need to defecate,排便が必要
 VesicalPressure_Statuses[1].Description,Need to urinate,排尿が必要
 Stamina_Description,Needed for physical activities. Can be recovered by resting or engaging in less strenuous activities. Expending stamina increases your appetite and tires you out. Be cautious not to overexert yourself when food is limited.,身体活動に必要。休むか、あまり激しい運動をしないことで回復できる。スタミナを消費すると食欲が増し、疲れやすくなる。食料が制限されているときは、無理をしないように注意する。
-BoneNeedle_CardDescription,Needed to craft cloth and leather items.,Needed to craft cloth and leather items.
+BoneNeedle_CardDescription,Needed to craft cloth and leather items.,布や革製品を作るのに必要。
 BoneNeedleThreaded_CardDescription,Needed to craft more complex cloth and leather items.,Needed to craft more complex cloth and leather items.
 CombatMorale_Description,Needed to stay in a fight and resist your flight instincts. Recovers over time.,Needed to stay in a fight and resist your flight instincts. Recovers over time.
 GpTag_Needle_TabName,Needle,Needle
@@ -7877,10 +7877,10 @@ Bp_FurBlanket_CardDescription,Provides comfort and insulation while sleeping whe
 Bp_LeatherBlanket_CardDescription,Provides comfort and insulation while sleeping when placed on a bed.,ベッドの上に置くと、就寝中に快適さと断熱性を提供する。
 FurBlanket_CardDescription,"Provides comfort, wellbeing and insulation while sleeping when placed on a bed.",ベッドの上に置くと、睡眠中に快適さ、幸福度、断熱性を提供する。
 LeatherBlanket_CardDescription,"Provides comfort, wellbeing and insulation while sleeping when placed on a bed.",ベッドの上に置くと、睡眠中に快適さ、幸福度、断熱性を提供する。
-Bonemeal_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
-Feathermeal_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
-Fertilizer_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
-Manure_CardDescription,Provides nutrition for gardens and fields.,Provides nutrition for gardens and fields.
+Bonemeal_CardDescription,Provides nutrition for gardens and fields.,庭や畑に栄養を与える。
+Feathermeal_CardDescription,Provides nutrition for gardens and fields.,庭や畑に栄養を与える。
+Fertilizer_CardDescription,Provides nutrition for gardens and fields.,庭や畑に栄養を与える。
+Manure_CardDescription,Provides nutrition for gardens and fields.,庭や畑に栄養を与える。
 Bp_LeatherCloak_CardDescription,Provides protection and insulation.,Provides protection and insulation.
 Bp_LeatherCoat_CardDescription,Provides protection and insulation.,Provides protection and insulation.
 Bp_LeatherCuirass_CardDescription,Provides protection and insulation.,Provides protection and insulation.
