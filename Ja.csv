@@ -6390,7 +6390,7 @@ Feathers_CardInteractions[1].ActionName,Light with Hand Drill,Light with Hand Dr
 Fibers_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
 LeavesDry_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
 WoodShavings_CardInteractions[0].ActionName,Light with Hand Drill,Light with Hand Drill
-MinnowCooked_CardDescription,"Lightly cooked, offering a crispy, mild taste that can be a quick, simple meal.","Lightly cooked, offering a crispy, mild taste that can be a quick, simple meal."
+MinnowCooked_CardDescription,"Lightly cooked, offering a crispy, mild taste that can be a quick, simple meal.",軽く火を通すだけで、カリッとしたマイルドな味わいが楽しめる。
 TinderLit_CardName,Lit Tinder,Lit Tinder
 NOT_USED_Bp_LitTinders_CardName,Lit Tinders,Lit Tinders
 LOAD,Load,ロード
