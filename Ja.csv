@@ -239,7 +239,7 @@ Bp_ClayJar_CardDescription,"A small sealed container, ideal for preserving spice
 ClayJar_CardDescription,"A small sealed container, ideal for preserving spices, medicines and dried powders in general.","A small sealed container, ideal for preserving spices, medicines and dried powders in general."
 ClayJar_Fermenter_CardDescription,"A small sealed container, ideal for preserving spices, medicines and dried powders in general.","A small sealed container, ideal for preserving spices, medicines and dried powders in general."
 PineTreeSmall_CardDescription,"A small tree, could cut it down to get a long stick.","A small tree, could cut it down to get a long stick."
-MinnowRaw_CardDescription,"A small, abundant fish, often used as bait but also edible in large quantities.","A small, abundant fish, often used as bait but also edible in large quantities."
+MinnowRaw_CardDescription,"A small, abundant fish, often used as bait but also edible in large quantities.",小型で豊富な魚で、餌としてよく使われるが、大量に食用にもされる。
 FertilityBoon_Description,"A spirit blessing. Blesses your garden plants and your crop fields when you inspect them, making them stronger against pests and more resilient in general.","A spirit blessing. Blesses your garden plants and your crop fields when you inspect them, making them stronger against pests and more resilient in general."
 Resilience_Description,A spirit blessing. Boost your immune system.,A spirit blessing. Boost your immune system.
 InnerWarmth_Description,A spirit blessing. Boosts your temperature and immune system.,A spirit blessing. Boosts your temperature and immune system.
@@ -497,7 +497,7 @@ LQ_SpiritDeer_DismantleActions[0].ActionName,Alertness Aid,Alertness Aid
 FULL_GAME_FEATURES,"All Characters + Character Creator\nAll Island Environments, Animals, Crops and Blueprints","All Characters + Character Creator\nAll Island Environments, Animals, Crops and Blueprints"
 Pk_0_0_AllKnowing_PerkName,All Knowing,全知
 Rash_Statuses[1].Description,All red and really itchy.,真っ赤になって、かゆくてたまらない。
-FrostleafEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,Alleviates inflamation and provides a mild numbing effect against pain and headaches. 
+FrostleafEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain and headaches. ,炎症を和らげ、痛みや頭痛を和らげる。
 FrostleafPasteEffect_Description,Alleviates inflamation and provides a mild numbing effect against pain.,Alleviates inflamation and provides a mild numbing effect against pain.
 Bp_SoothingPaste_CardDescription,"Alleviates inflamation, rashes and burns. Numbs pain and is ideal for treating foot and hand damage.","Alleviates inflamation, rashes and burns. Numbs pain and is ideal for treating foot and hand damage."
 SoothingPasteApplied_Description,"Alleviates inflamation, rashes and burns. Numbs pain and is ideal for treating foot and hand damage.","Alleviates inflamation, rashes and burns. Numbs pain and is ideal for treating foot and hand damage."
@@ -1545,7 +1545,7 @@ RottenRemains_CardDescription,"Can be used as fertilizer, compost or trap bait."
 Straw_CardDescription,Can be used as fuel or animal feed.,燃料や飼料として利用できる。
 Charcoal_CardDescription,"Can be used as fuel, crushed into ashes or eaten to treat diarrhoea.",燃料にしたり、砕いて灰にしたり、下痢の治療に食べたりする。
 LeavesDry_CardDescription,"Can be used as tinder by dragging a fire starter to it, or used as compost or soil acidifier.",火おこし器で火種にしたり、堆肥や土壌の酸性化剤として使用することもできる。
-SkinCured_CardDescription,"Can be used for clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed.","Can be used for clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed."
+SkinCured_CardDescription,"Can be used for clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed.",衣服やその他の工芸品に使用することもできるし、なめし場でさらに精製して革にすることもできる。\n\nベッドに敷くと、就寝中に快適さと断熱性を提供する。
 SkinLeather_CardDescription,Can be used for clothing and other crafts.\n\nProvides comfort and insulation while sleeping when placed on a bed.,Can be used for clothing and other crafts.\n\nProvides comfort and insulation while sleeping when placed on a bed.
 FurCured_CardDescription,"Can be used for warm clothing and other crafts, or further refined into leather in a tanning pit.\n\nProvides comfort and insulation while sleeping when placed on a bed.",暖かい衣類やその他の工芸品に使用できるほか、なめし場でさらに精製して革にすることもできる。\n\nベッドに敷くと、就寝中に快適さと断熱性を提供する。
 LQ_Snow_CardDescription,Can be used to build snowmen or melted into water.,Can be used to build snowmen or melted into water.
@@ -4700,7 +4700,7 @@ FrostleafFresh_CardName,Frostleaf,Frostleaf
 FrostleafPlantedMature_CardName,Frostleaf,Frostleaf
 GpTag_Frostleaf_TabName,Frostleaf,Frostleaf
 Spice_Frostleaf_SpiceName,Frostleaf,Frostleaf
-FrostleafEffect_GameName,Frostleaf Effect,Frostleaf Effect
+FrostleafEffect_GameName,Frostleaf Effect,フロストリーフ効果
 FrostleafPasteEffect_GameName,Frostleaf Paste Effect,Frostleaf Paste Effect
 FrostleafPowder_CardName,Frostleaf Powder,Frostleaf Powder
 LQ_FrostleafTea_CardName,Frostleaf Tea,Frostleaf Tea
@@ -9264,7 +9264,7 @@ ChinaRoseEffect_Statuses[1].GameName,Strong China Rose Effect,Strong China Rose 
 tag_CleanerStrong_InGameName,Strong Cleaner,Strong Cleaner
 WindEast_Statuses[2].GameName,Strong East,Strong East
 FoodPoisoning_Statuses[1].GameName,Strong Food Poisoning,Strong Food Poisoning
-FrostleafEffect_Statuses[1].GameName,Strong Frostleaf Effect,Strong Frostleaf Effect
+FrostleafEffect_Statuses[1].GameName,Strong Frostleaf Effect,強いフロストリーフ効果
 tag_FuelStrong_InGameName,Strong Fuel,Strong Fuel
 GarlicEffect_Statuses[2].GameName,Strong Garlic Effect,Strong Garlic Effect
 ImmuneSystem_Statuses[4].GameName,Strong Immune System,Strong Immune System
@@ -10591,7 +10591,7 @@ tag_CleanerWeak_InGameName,Weak Cleaner,Weak Cleaner
 WindEast_Statuses[0].GameName,Weak East,Weak East
 tag_FeedWeak_InGameName,Weak Feed,Weak Feed
 tag_FertilizerWeak_InGameName,Weak Fertilizer,Weak Fertilizer
-FrostleafEffect_Statuses[0].GameName,Weak Frostleaf Effect,Weak Frostleaf Effect
+FrostleafEffect_Statuses[0].GameName,Weak Frostleaf Effect,弱いフロストリーフ効果
 tag_FuelWeak_InGameName,Weak Fuel,Weak Fuel
 ImmuneSystem_Statuses[2].GameName,Weak Immune System,Weak Immune System
 Pk_8_ImmuneSystemWeak_PerkName,Weak Immune System,Weak Immune System
