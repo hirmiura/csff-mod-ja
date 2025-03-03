@@ -135,7 +135,7 @@ NormalGuy_CharacterDescription,"A completely ordinary and very average human. No
 Bp_CookingPot_CardDescription,A cooking pot for preparing more advanced meals. Needs to be fired in a Kiln.,A cooking pot for preparing more advanced meals. Needs to be fired in a Kiln.
 Fireplace_CardDescription,A cozy fireplace. Perfect for cooking food and warming yourself up.,A cozy fireplace. Perfect for cooking food and warming yourself up.
 Campfire_CardDescription,A crackling campfire. Good for cooking food and warming yourself up.,パチパチと燃えるキャンプファイヤー。 料理を作ったり、体を温めたりするのに適している。
-Path_FmTheShaftFromRockyGrove_CardDescription,A dark and mysterious hole.,A dark and mysterious hole.
+Path_FmTheShaftFromRockyGrove_CardDescription,A dark and mysterious hole.,暗く神秘的な穴。
 Fish_Trout_CardDescription,"A delicious fish that prefers cold, well-oxygenated waters.\n\nNeeds to be gutted first.",冷たく、酸素の豊富な水域を好む美味しい魚。\n\nまず内臓を取り除く必要がある。
 Bp_Travois_CardDescription,A device for carrying heavy things.,A device for carrying heavy things.
 Travois_CardDescription,A device for carrying heavy things.,A device for carrying heavy things.
@@ -2039,7 +2039,7 @@ Resting_Sub1_ClickOnYourStaminaStatAndClickOnTheRestButton_QuestTitle,Click on y
 Number1_Obj1_ClickOnYourVesicalPressureStatAndClickOnTheUrinateButton_ObjectiveDescription,Click on your Vesical Pressure Stat and Click on the Urinate Button,膀胱圧をクリックし、排尿ボタンをクリックする
 Number1_Sub1_ClickOnYourVesicalPressureStatAndClickOnTheUrinateButton_QuestTitle,Click on your Vesical Pressure Stat and Click on the Urinate Button,膀胱圧をクリックし、排尿ボタンをクリックする
 STACKS_HELP,Click this icon to <b>toggle stacks</b>.,Click this icon to <b>toggle stacks</b>.
-Path_FmTheShaftFromRockyGrove_DismantleActions[0].ActionName,Climb Down,Climb Down
+Path_FmTheShaftFromRockyGrove_DismantleActions[0].ActionName,Climb Down,這い降りる
 ModifierClimb_GameName,Climb Modifier,Climb Modifier
 ModifierClimb_Statuses[0].GameName,Climb Modifier 1,Climb Modifier 1
 ModifierClimb_Statuses[1].GameName,Climb Modifier 2,Climb Modifier 2
@@ -3319,7 +3319,7 @@ Carcass_DoeCarcass_CardName,Doe Carcass,Doe Carcass
 Agent_DoeExists_GameName,Doe Exists,Doe Exists
 tag_DoeHabitat_InGameName,Doe Habitat,Doe Habitat
 _FlavourSystem_Rules.FlavourScoreFeedback[2].Feedback,Doesn't taste so good...,Doesn't taste so good...
-SuccessChanceLabels_ModifiedSuccessLabels[4].LabelText,Don't see how this could fail!,Don't see how this could fail!
+SuccessChanceLabels_ModifiedSuccessLabels[4].LabelText,Don't see how this could fail!,これが失敗するとは思えない！
 DONT_SHOW_STARTUP,Don't show this on start up.,起動時にこれを表示しない。
 COOKING_READY,Done,Done
 Imp_Door_CardName,Door,Door
@@ -4119,7 +4119,7 @@ PartridgeFeeder_FuelCapacity.OnZero.ActionDescription,Feeder ran out of food!,Fe
 PartridgeChickFree_CardDescription,Feeds on its own provided there's enough to forage. Might escape if the area is not secured and its trust is low.,Feeds on its own provided there's enough to forage. Might escape if the area is not secured and its trust is low.
 PartridgeMaleFree_CardDescription,Feeds on its own provided there's enough to forage. Might escape if the area is not secured and its trust is low.,Feeds on its own provided there's enough to forage. Might escape if the area is not secured and its trust is low.
 PartridgeFemaleFree_CardDescription,Feeds on its own provided there's enough to forage. Might escape if the area is not secured and its trust is low.\n\nProduces fertilized eggs if a male is present.,Feeds on its own provided there's enough to forage. Might escape if the area is not secured and its trust is low.\n\nProduces fertilized eggs if a male is present.
-SuccessChanceLabels_SuccessLabels[4].LabelText,Feeling confident,Feeling confident
+SuccessChanceLabels_SuccessLabels[4].LabelText,Feeling confident,自信を感じる
 Morale_Statuses[3].GameName,Feeling down,Feeling down
 KnifeFeint_ActionName,Feint,Feint
 SpearFeint_ActionName,Feint,Feint
@@ -5466,12 +5466,12 @@ NewsEARelease1_Sections[0].Entries[0].Content,"Hello everyone!\n<b>Card Survival
 NewsEARelease4_Sections[0].Entries[0].Content,"Hello everyone!\nHope you're all doing well.\n\nHere's the patch notes for today.\n\n\n<size=150%><b>Version EA_0.07:</b></size>\n\n- Fixed a bug that would get the game stuck when travelling to an area where a fox carcass had rotted.\n- Fixed a bug where the confirm"" popup for certain actions would appear too high on the screen.\n- Fixed a bug where the ""Eat All"" action would appear on bowls that only contained a liquid (like tea for instance).\n- Satiation overhaul: After having a big meal it takes significantly longer for the player to drop all the way down to 0 satiation.\n- Washing yourself in a River or with a Water Container no longer makes your clothes Wet.\n- Oven can now be Extinguished just like Campfire can.\n- Cellar passive effect for food preservation is not working as intended and is temporarily disabled.\n- Quite a few perk combinations such as Social/Loner are now mutually exclusive.\n- Added fat chunk to the food filter.\n- Extended the duration of dried meat.\n\nThat's all for now.\nSee you tomorrow!""","Hello everyone!\nHope you're all doing well.\n\nHere's the patch notes for today.\n\n\n<size=150%><b>Version EA_0.07:</b></size>\n\n- Fixed a bug that would get the game stuck when travelling to an area where a fox carcass had rotted.\n- Fixed a bug where the confirm"" popup for certain actions would appear too high on the screen.\n- Fixed a bug where the ""Eat All"" action would appear on bowls that only contained a liquid (like tea for instance).\n- Satiation overhaul: After having a big meal it takes significantly longer for the player to drop all the way down to 0 satiation.\n- Washing yourself in a River or with a Water Container no longer makes your clothes Wet.\n- Oven can now be Extinguished just like Campfire can.\n- Cellar passive effect for food preservation is not working as intended and is temporarily disabled.\n- Quite a few perk combinations such as Social/Loner are now mutually exclusive.\n- Added fat chunk to the food filter.\n- Extended the duration of dried meat.\n\nThat's all for now.\nSee you tomorrow!"""
 HELP,Help,ヘルプ
 HELP_TAB,Help,ヘルプ
-SuccessChanceLabels_ContributionLabels[1].LabelText,Helps,ヘルプ
+SuccessChanceLabels_ContributionLabels[1].LabelText,Helps,役に立つ
 Food_TagTooltip,Helps Avoid Starvation,Helps Avoid Starvation
 Medicine_TagTooltip,Helps Survive Ailments.,Helps Survive Ailments.
 Winter_TagTooltip,Helps Survive the Cold,Helps Survive the Cold
-SuccessChanceLabels_ContributionLabels[0].LabelText,Helps a little,Helps a little
-SuccessChanceLabels_ContributionLabels[2].LabelText,Helps a lot,Helps a lot
+SuccessChanceLabels_ContributionLabels[0].LabelText,Helps a little,少しは役に立つ
+SuccessChanceLabels_ContributionLabels[2].LabelText,Helps a lot,大いに役立つ
 RiceEffect_Description,Helps stabilize your stomach.,Helps stabilize your stomach.
 BrimstoneGelProtection_Description,"Helps treat and prevent backpain, hand and foot damage, sunburn and bugbites ","Helps treat and prevent backpain, hand and foot damage, sunburn and bugbites "
 Proteins_Description,"Helps your immune system, mood and energy levels. Can be gained by eating meat.","Helps your immune system, mood and energy levels. Can be gained by eating meat."
@@ -5671,7 +5671,7 @@ Nausea_Statuses[1].Description,I feel like throwing up.,I feel like throwing up.
 Mania_Statuses[0].Description,I feel so full of energy!,I feel so full of energy!
 Mania_Statuses[1].Description,I feel so full of energy!,I feel so full of energy!
 AlcoholEffect_Statuses[1].StatusLog.LogText,I got drunk.,I got drunk.
-SuccessChanceLabels_ModifiedSuccessLabels[3].LabelText,"I got this, no problem!","I got this, no problem!"
+SuccessChanceLabels_ModifiedSuccessLabels[3].LabelText,"I got this, no problem!",これなら問題ない！
 AlcoholEffect_Statuses[2].StatusLog.LogText,I got very drunk.,I got very drunk.
 Headache_Statuses[0].Description,I have a bit of a headache,I have a bit of a headache
 Diarrhoea_Statuses[1].Description,I have diarrhoea!,I have diarrhoea!
@@ -6709,8 +6709,8 @@ Tab_Tools_Metal_TabName,Metal,Metal
 Tab_Clay_TabName,Metal & Clay,Metal & Clay
 tag_ContainerMetal_InGameName,Metal Container,Metal Container
 Skill_Metalworking_GameName,Metalworking,Metalworking
-SuccessChanceLabels_SuccessLabels[2].LabelText,Might fail,Might fail
-SuccessChanceLabels_SuccessLabels[3].LabelText,Might succeed,Might succeed
+SuccessChanceLabels_SuccessLabels[2].LabelText,Might fail,失敗するかも
+SuccessChanceLabels_SuccessLabels[3].LabelText,Might succeed,成功するかも
 Blindness_Statuses[0].GameName,Mild Blidness,Mild Blidness
 EyeDamage_Statuses[0].GameName,Mild Eye Damage,Mild Eye Damage
 FirerootEffect_Statuses[0].GameName,Mild Firebrew Effect,マイルドなファイヤブリュー効果
@@ -7213,7 +7213,7 @@ Satiation_Statuses[3].GameName,Not Hungry,空腹ではない (3)
 Hydration_DefaultStatusName,Not Thirsty,喉は渇いていない
 Thirst_DefaultStatusName,Not Thirsty,喉は渇いていない
 Thirst_Statuses[0].GameName,Not Thirsty,喉は渇いていない (0)
-SuccessChanceLabels_SuccessLabels[0].LabelText,Not a chance,Not a chance
+SuccessChanceLabels_SuccessLabels[0].LabelText,Not a chance,チャンスはない
 BeastAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 BirdAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
 DarknessAffinity_NotEnoughText,Not enough affinity.,Not enough affinity.
@@ -7820,8 +7820,8 @@ W_LegLacerationRStitched_CookingRecipes[0].ActionName,Pressure,Pressure
 W_LegLacerationR_CookingRecipes[0].ActionName,Pressure,Pressure
 tag_Pretty_InGameName,Pretty,Pretty
 Knife_Bone_CardDescription,"Pretty sharp, can use it to cut or puncture things.","Pretty sharp, can use it to cut or puncture things."
-SuccessChanceLabels_ModifiedSuccessLabels[2].LabelText,Pretty sure I can do it,Pretty sure I can do it
-SuccessChanceLabels_ModifiedSuccessLabels[0].LabelText,Probably a bad idea,Probably a bad idea
+SuccessChanceLabels_ModifiedSuccessLabels[2].LabelText,Pretty sure I can do it,できると確信している
+SuccessChanceLabels_ModifiedSuccessLabels[0].LabelText,Probably a bad idea,おそらく悪い考えだ
 LQ_WaterUnsafe_CardDescription,Probably full of bacteria and parasites.,Probably full of bacteria and parasites.
 IntermediateGardening_Obj2_ProduceFertilizer_ObjectiveDescription,Produce Fertilizer,Produce Fertilizer
 IntermediateGardening_Sub2_ProduceFertilizer_QuestTitle,Produce Fertilizer,Produce Fertilizer
@@ -8389,7 +8389,7 @@ ClothLarge_DismantleActions[1].ActionName,Rip Cloth,Rip Cloth
 ClothVeryLarge_DismantleActions[0].ActionName,Rip Cloth,Rip Cloth
 Cloth_DismantleActions[0].ActionName,Rip Cloth,Rip Cloth
 ShirtCloth_DismantleActions[0].ActionName,Rip off cloth,Rip off cloth
-SuccessChanceLabels_SuccessLabels[1].LabelText,Risky,Risky
+SuccessChanceLabels_SuccessLabels[1].LabelText,Risky,リスキー
 Bp_SpiritShrine_Fire_RitualPyre_CardName,Ritual Pyre,Ritual Pyre
 SpiritShrine_Fire_RitualPyreExtinguished_CardName,Ritual Pyre,Ritual Pyre
 SpiritShrine_Fire_RitualPyre_CardName,Ritual Pyre,Ritual Pyre
@@ -10697,7 +10697,7 @@ ShirtCloth_FuelCapacity.CardStatName,Wetness,濡れ
 Splint_FuelCapacity.CardStatName,Wetness,濡れ
 Wetness_GameName,Wetness,濡れ具合
 Dmg_RoofCollapsed_CardDescription,What a mess...,What a mess...
-SuccessChanceLabels_ModifiedSuccessLabels[1].LabelText,What could go wrong?,What could go wrong?
+SuccessChanceLabels_ModifiedSuccessLabels[1].LabelText,What could go wrong?,何が問題なのか？
 Morale_Statuses[5].Description,What is the point...,What is the point...
 Morale_Statuses[6].Description,What is the point...,What is the point...
 Event_BadgerSpiritFamiliar_CardDescription,Where a spirit is bound to your soul.,Where a spirit is bound to your soul.
