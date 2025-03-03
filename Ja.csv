@@ -6464,15 +6464,15 @@ Infection_LowerRespiratory_Statuses[4].GameName,Lower Respiratory Infection,下�
 Infection_LowerRespiratory_Statuses[5].GameName,Lower Respiratory Infection,下気道感染症
 Infection_LowerRespiratory_Statuses[6].GameName,Lower Respiratory Infection,下気道感染症
 SkinIntegrity_Description,Lowered by wounds and increased through dressings. The lower your skin integrity the easier it is for you to catch infections when dirty.,傷によって低下し、包帯によって上昇する。皮膚の完全性が低ければ低いほど、汚れたときに感染症にかかりやすくなる。
-FairyweedEffect_Description,"Lowers fever, pain and stress, while slightly altering your mind state.","Lowers fever, pain and stress, while slightly altering your mind state."
-Bp_FairyBrew_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-FairyweedPowder_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-LQ_FairyBrewCooked_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-LQ_Fairybrew_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-LQ_FairyweedTea_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state."
-FairyweedDried_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.\n\nCan be dried to enhance its effects.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.\n\nCan be dried to enhance its effects."
-FairyweedFresh_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.\n\nCan be dried to enhance its effects.","Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.\n\nCan be dried to enhance its effects."
-ChinaRoseEffect_Description,"Lowers stress, relaxes the body and slightly boosts morale and immune system.","Lowers stress, relaxes the body and slightly boosts morale and immune system."
+FairyweedEffect_Description,"Lowers fever, pain and stress, while slightly altering your mind state.",熱、痛み、ストレスを和らげ、精神状態をわずかに変容させる。
+Bp_FairyBrew_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+FairyweedPowder_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+LQ_FairyBrewCooked_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+LQ_Fairybrew_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+LQ_FairyweedTea_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。
+FairyweedDried_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.\n\nCan be dried to enhance its effects.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。\n\n乾燥させると効果が増す。
+FairyweedFresh_CardDescription,"Lowers fever, pain, stress and wakefulness, while slightly altering your mind state.\n\nCan be dried to enhance its effects.",熱、痛み、ストレス、覚醒を下げ、精神状態をわずかに変容させる。\n\n乾燥させると効果が増す。
+ChinaRoseEffect_Description,"Lowers stress, relaxes the body and slightly boosts morale and immune system.",ストレスを和らげ、身体をリラックスさせ、士気と免疫力をわずかに高める。
 Rash_Description,Lowers wellbeing and increases stress. Can be treated with cool water and soothing medicines.,幸福感を低下させ、ストレスを増大させる。冷たい水と鎮静剤で治療できる。
 Skill_Climbing_Description,Lowers your chances of getting hurt when climbing.,Lowers your chances of getting hurt when climbing.
 Pain_Description,Lowers your morale and increases your stress.,士気を下げ、ストレスを増大させる。
@@ -11626,7 +11626,7 @@ PLACEHOLDER_DISCLAIMER,{0}\n\n<b>-The text above is a placeholder-</b>,{0}\n\n<b
 BOOKMARK_TITLE_WITH_LIQUID,{0} ({1}),{0} ({1})
 ENCOUNTER_WEAPON_AND_PROJECTILE,{0} and {1},{0} and {1}
 USAGE_ZERO,{0} broke,{0} broke
-CANNOT_BE_TAKEN_OUT,{0} can't be taken out of {1},{0} can't be taken out of {1}
+CANNOT_BE_TAKEN_OUT,{0} can't be taken out of {1},{1}から{0}を取り出すことはできない。
 CANNOT_MAKE_BLUEPRINT,{0} cannot be made here...,{0} cannot be made here...
 EncounterWindow_EnemyHiddenPluralLog.LogText,{0} catch you off guard!,{0} catch you off guard!
 EncounterWindow_EnemyHiddenLog.LogText,{0} catches you off guard!,{0} catches you off guard!
