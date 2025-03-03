@@ -5089,9 +5089,9 @@ TurnrootFieldGrowing_CardName,Growing Turnroot Field,Growing Turnroot Field
 WildGarlicPlantedGrowing_CardName,Growing Wild Garlic,Growing Wild Garlic
 PeasPlantedMature_CardName,Grown Peas,Grown Peas
 RyePlantedMature_CardName,Grown Rye,Grown Rye
-FrostleafPlantedGrowing_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. ","Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. "
-FrostleafPlantedMature_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Can alleviate inflamation and  provide a mild numbing effect against pain and headaches.","Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Can alleviate inflamation and  provide a mild numbing effect against pain and headaches."
-FrostleafPlantedDormant_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nWill grow when conditions are right.","Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nWill grow when conditions are right."
+FrostleafPlantedGrowing_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Alleviates inflamation and provides a mild numbing effect against pain and headaches. ",川の近くで生育し、低酸性度、中〜高栄養、中〜高水分を好む。\n\n清涼感のある香り。 炎症を和らげ、痛みや頭痛を和らげる。
+FrostleafPlantedMature_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nHas a cool refreshing aroma. Can alleviate inflamation and  provide a mild numbing effect against pain and headaches.",川の近くで生育し、低酸性度、中〜高栄養、中〜高水分を好む。\n\n清涼感のある香り。 炎症を和らげ、痛みや頭痛を和らげる。
+FrostleafPlantedDormant_CardDescription,"Grows near rivers; prefers low acidity, medium to high nutrients, and medium to high hydration. \n\nWill grow when conditions are right.",川の近くで生育し、低酸性度、中〜高栄養、中〜高水分を好む。\n\n条件が整えば成長する。
 AppleweedFresh_Progress.CardStatName,Growth,成長
 AppleweedPlantedDormant_Progress.CardStatName,Growth,成長
 AppleweedPlantedGrowing_Progress.CardStatName,Growth,成長
