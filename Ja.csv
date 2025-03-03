@@ -3,7 +3,7 @@ PartridgeChickDead_CardDescription, Could be used as trap bait., 罠の餌とし
 MudWorkingTools_Obj3_CraftAMudBrickMold_ObjectiveDescription, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 MudWorkingTools_Sub3_CraftAMudBrickMold_QuestTitle, Craft a Mud Brick Mold, Craft a Mud Brick Mold
 BodyTemperature_Statuses[7].GameName, Hypothermia, 低体温症 (7)
-FirerootEffect_Statuses[2].GameName, Strong Firebrew Effect, Strong Firebrew Effect
+FirerootEffect_Statuses[2].GameName, Strong Firebrew Effect,強いファイヤブリュー効果
 LQ_SpiritBadger_LiquidSuffixName,(Badger),(Badger)
 LQ_SpiritBoar_LiquidSuffixName,(Boar),(Boar)
 LQ_SpiritDarkness_LiquidSuffixName,(Darkness),(Darkness)
@@ -4316,11 +4316,11 @@ FermentationBinUnfired_SpecialDurability1.CardStatName,Fired,Fired
 FireplaceExtinguished_CardName,Fireplace,Fireplace
 Fireplace_CardName,Fireplace,Fireplace
 Imp_FirePlace_CardName,Fireplace,Fireplace
-FirerootEffect_GameName,Fireroot,Fireroot
-FirerootFresh_CardName,Fireroot,Fireroot
-FirerootPlantedMature_CardName,Fireroot,Fireroot
-GpTag_Fireroot_TabName,Fireroot,Fireroot
-Spice_Fireroot_SpiceName,Fireroot,Fireroot
+FirerootEffect_GameName,Fireroot,ファイヤルート効果
+FirerootFresh_CardName,Fireroot,ファイヤルート
+FirerootPlantedMature_CardName,Fireroot,ファイヤルート
+GpTag_Fireroot_TabName,Fireroot,ファイヤルート
+Spice_Fireroot_SpiceName,Fireroot,ファイヤルート
 LQ_Firebrew_SpecialDurability1.CardStatName,Fireroot Effect,Fireroot Effect
 FirerootPowder_CardName,Fireroot Powder,Fireroot Powder
 FirerootToxicityEffect_GameName,Fireroot Toxicity,Fireroot Toxicity
@@ -6678,7 +6678,7 @@ SeaAgitation_Statuses[2].GameName,Medium Agitation,Medium Agitation
 tag_MediumAnimal_InGameName,Medium Animal,Medium Animal
 Comfort_Statuses[2].GameName,Medium Comfort,Medium Comfort
 tag_FibersMedium_InGameName,Medium Fibers,Medium Fibers
-FirerootEffect_Statuses[1].GameName,Medium Firebrew Effect,Medium Firebrew Effect
+FirerootEffect_Statuses[1].GameName,Medium Firebrew Effect,中程度なファイヤブリュー効果
 FirerootToxicityEffect_Statuses[1].GameName,Medium Fireroot Toxicity,Medium Fireroot Toxicity
 GarlicEffect_Statuses[1].GameName,Medium Garlic Effect,Medium Garlic Effect
 tag_ContainerOpenMedium_InGameName,Medium Open Container,Medium Open Container
@@ -6713,7 +6713,7 @@ SuccessChanceLabels_SuccessLabels[2].LabelText,Might fail,Might fail
 SuccessChanceLabels_SuccessLabels[3].LabelText,Might succeed,Might succeed
 Blindness_Statuses[0].GameName,Mild Blidness,Mild Blidness
 EyeDamage_Statuses[0].GameName,Mild Eye Damage,Mild Eye Damage
-FirerootEffect_Statuses[0].GameName,Mild Firebrew Effect,Mild Firebrew Effect
+FirerootEffect_Statuses[0].GameName,Mild Firebrew Effect,マイルドなファイヤブリュー効果
 FirerootToxicityEffect_Statuses[0].GameName,Mild Fireroot Toxicity,Mild Fireroot Toxicity
 GarlicEffect_Statuses[0].GameName,Mild Garlic Effect,Mild Garlic Effect
 Headache_Statuses[0].GameName,Mild Headache,Mild Headache
@@ -7000,7 +7000,7 @@ tag_BoarSpiritUrgeReducer_InGameName,Mushroom or Root,Mushroom or Root
 SaturationMushrooms_GameName,Mushrooms Saturation,Mushrooms Saturation
 PartridgeFemaleTied_CardDescription,"Must be fed regularly to keep it alive.  Can be freed so it can feed on its own, but might escape if the area is not secured.","Must be fed regularly to keep it alive.  Can be freed so it can feed on its own, but might escape if the area is not secured."
 PartridgeMaleTied_CardDescription,"Must be fed regularly to keep it alive.  Can be freed so it can feed on its own, but might escape if the area is not secured.","Must be fed regularly to keep it alive.  Can be freed so it can feed on its own, but might escape if the area is not secured."
-FirerootFresh_CardDescription,"Must be peeled first. \n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic.","Must be peeled first. \n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic."
+FirerootFresh_CardDescription,"Must be peeled first. \n\nIncreases body temperature, boosts immune system, stamina and alertness. Slightly toxic.",最初に皮をむく必要がある。\n\n体温を上昇させ、免疫力、スタミナ、注意力を高める。 やや有毒。
 MudHut_Completed_Event_CardName,Mut Hut Complete,Mut Hut Complete
 ModifierHand_NotEnoughText,My Arm is not in shape for this action.,My Arm is not in shape for this action.
 ModifierLeg_NotEnoughText,My Leg is not in shape for this action.,My Leg is not in shape for this action.
@@ -7637,7 +7637,7 @@ Bp_PeaField_CardName,Pea Field,Pea Field
 Event_FluteTunes3_DismantleActions[0].ActionDescription,Peaceful and Comforting,Peaceful and Comforting
 PeasCooked_UsageDurability.OnFull.ActionDescription,Peas dried!,Peas dried!
 PeasFresh_UsageDurability.OnFull.ActionDescription,Peas dried!,Peas dried!
-FirerootFresh_CardInteractions[0].ActionName,Peel & Cut ,Peel & Cut 
+FirerootFresh_CardInteractions[0].ActionName,Peel & Cut ,皮を剥き刻む
 FurLeather_CardName,Pelt,Pelt
 TemperaturePerceived_GameName,Perceived Temperature,体感温度
 Fish_Perch_CardName,Perch,Perch
