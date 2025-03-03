@@ -5170,7 +5170,7 @@ HandBasket_CardName,Hand Basket,Hand Basket
 CallousesHands_GameName,Hand Callouses,Hand Callouses
 CallousesHands_Statuses[0].GameName,Hand Callouses,Hand Callouses
 CallousesHands_Statuses[1].GameName,Hand Callouses,Hand Callouses
-HandDamage_GameName,Hand Damage,Hand Damage
+HandDamage_GameName,Hand Damage,手のダメージ
 Bp_HandDrill_CardName,Hand Drill,Hand Drill
 HandDrill_CardName,Hand Drill,Hand Drill
 ModifierHand_GameName,Hand Modifier,Hand Modifier
@@ -6832,7 +6832,7 @@ FairyweedEffect_Statuses[1].GameName,Moderate Fairyweed Dose,Moderate Fairyweed 
 Fitness_Statuses[2].GameName,Moderate Fitness,Moderate Fitness
 FoodPoisoning_Statuses[0].GameName,Moderate Food Poisoning,Moderate Food Poisoning
 FootDamage_Statuses[0].GameName,Moderate Foot Damage,Moderate Foot Damage
-HandDamage_Statuses[0].GameName,Moderate Hand Damage,Moderate Hand Damage
+HandDamage_Statuses[0].GameName,Moderate Hand Damage,中程度の手のダメージ
 MuscleGrower_Statuses[1].GameName,Moderate Intensity,Moderate Intensity
 JasmineEffect_Statuses[0].GameName,Moderate Jasmine Effect,Moderate Jasmine Effect
 LungDamage_Statuses[1].GameName,Moderate Lung Damage,Moderate Lung Damage
@@ -8600,7 +8600,7 @@ BugBites_Statuses[2].GameName,Severe Bug Bites,Severe Bug Bites
 Diarrhoea_Statuses[2].GameName,Severe Diarrhoea,Severe Diarrhoea
 EyeDamage_Statuses[2].GameName,Severe Eye Damage,Severe Eye Damage
 FootDamage_Statuses[1].GameName,Severe Foot Damage,Severe Foot Damage
-HandDamage_Statuses[1].GameName,Severe Hand Damage,Severe Hand Damage
+HandDamage_Statuses[1].GameName,Severe Hand Damage,深刻な手のダメージ
 Headache_Statuses[2].GameName,Severe Headache,Severe Headache
 LungDamage_Statuses[2].GameName,Severe Lung Damage,Severe Lung Damage
 Lungrot_Statuses[2].GameName,Severe Lungrot Infection,Severe Lungrot Infection
