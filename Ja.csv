@@ -1524,9 +1524,9 @@ NettleStemsPlantedDormant_CardDescription,Can be found alongside rivers. Needs m
 SpringBerriesPlantedGrowing_CardDescription,"Can be found in Pine areas during spring. Needs medium acidity, medium hydration and high nutrients.\n\nTasty and nutritious spring berries.","Can be found in Pine areas during spring. Needs medium acidity, medium hydration and high nutrients.\n\nTasty and nutritious spring berries."
 SpringBerriesPlantedMature_CardDescription,"Can be found in Pine areas during spring. Needs medium acidity, medium hydration and high nutrients.\n\nTasty and nutritious spring berries.","Can be found in Pine areas during spring. Needs medium acidity, medium hydration and high nutrients.\n\nTasty and nutritious spring berries."
 SpringberriesPlantedDormant_CardDescription,"Can be found in Pine areas during spring. Needs medium acidity, medium hydration and high nutrients.\n\nWill grow when conditions are right.","Can be found in Pine areas during spring. Needs medium acidity, medium hydration and high nutrients.\n\nWill grow when conditions are right."
-BillberriesPlantedGrowing_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries.","Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries."
-BillberriesPlantedMature_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries.","Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries."
-BillberriesPlantedDormant_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nWill grow when conditions are right.","Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nWill grow when conditions are right."
+BillberriesPlantedGrowing_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries.",夏の松林地帯で見られる。 強酸性、高水分、低栄養を必要とする。\n\n美味しく栄養価の高い夏のベリー。
+BillberriesPlantedMature_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nTasty and nutritious summer berries.",夏の松林地帯で見られる。 強酸性、高水分、低栄養を必要とする。\n\n美味しく栄養価の高い夏のベリー。
+BillberriesPlantedDormant_CardDescription,"Can be found in Pine areas during summer. Needs high acidity, high hydration and low nutrients.\n\nWill grow when conditions are right.",夏の松林地帯で見られる。 強酸性、高水分、低栄養を必要とする。\n\n条件が整えば成長する。
 ReedPatch_CardDescription,"Can be harvested and used for roofing, bedding, clothing or weaving baskets.",収穫して屋根材、寝具、衣類、籠編みなどに利用できる。
 SkinFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.,そのまま自然乾燥させるか、なめし槽に沈めて革にする。
 FurFleshed_CardDescription,Can be left to cure naturally or submerged in a tanning pit to transform it into leather.\n\nCan be scraped to turn it into a normal skin.,そのまま自然乾燥させるか、なめし槽に沈めて革にする。\n\n削って普通の皮にすることもできる。
@@ -6106,8 +6106,8 @@ EncounterWindow_DefaultChaseFailedLog.LogText,It escapes your grasp.,It escapes 
 Pain_Statuses[3].Description,It hurts so much I can't think!,痛くて何も考えられない！
 Wounds_Statuses[2].Description,It hurts!,痛い！
 Pain_Statuses[0].Description,It hurts.,痛い。
-Combat_EncounterSquirrel_EnemyActions[1].ActionLog.LogText,It jumps in panic and tries to run away...,It jumps in panic and tries to run away...
-Combat_EncounterSquirrel_EnemyActions[2].ActionLog.LogText,It jumps in panic and tries to run away...,It jumps in panic and tries to run away...
+Combat_EncounterSquirrel_EnemyActions[1].ActionLog.LogText,It jumps in panic and tries to run away...,パニックになって飛び跳ね、逃げようとする......
+Combat_EncounterSquirrel_EnemyActions[2].ActionLog.LogText,It jumps in panic and tries to run away...,パニックになって飛び跳ね、逃げようとする......
 Combat_EncounterPartridge_EnemyActions[0].SuccessLog.LogText,It looks at you cautiously...,It looks at you cautiously...
 CookingPotUnfired_CardDescription,It needs to be fired in a kiln.,It needs to be fired in a kiln.
 SAVEFILE_WRITING_ERROR,"It seems there was an error while attempting to write the save file for the game. \n\nUnfortunately this means your current game can't be saved. If you have opened your save file in another program this could be the cause for the error, close that program and try saving again.\n\nIf this is not the case and this message keeps appearing, please notify us in the Steam forums and send us your Player.log file at winterspringgames@gmail.com. Our apologies for the inconvenience.","It seems there was an error while attempting to write the save file for the game. \n\nUnfortunately this means your current game can't be saved. If you have opened your save file in another program this could be the cause for the error, close that program and try saving again.\n\nIf this is not the case and this message keeps appearing, please notify us in the Steam forums and send us your Player.log file at winterspringgames@gmail.com. Our apologies for the inconvenience."
@@ -9436,10 +9436,10 @@ _FlavourSystem_Rules.FlavourScoreFeedback[4].Feedback,Tastes good!,Tastes good!
 _FlavourSystem_Rules.FlavourScoreFeedback[5].Feedback,Tastes great!,Tastes great!
 _FlavourSystem_Rules.FlavourScoreFeedback[0].Feedback,Tastes horrible!,Tastes horrible!
 _FlavourSystem_Rules.FlavourScoreFeedback[3].Feedback,Tastes okay...,Tastes okay...
-BillberriesRoasted_CardDescription,Tasty and nutritious berries.,Tasty and nutritious berries.
-SpringberriesFresh_CardDescription,Tasty and nutritious berries.,Tasty and nutritious berries.
-SpringberriesRoasted_CardDescription,Tasty and nutritious berries.,Tasty and nutritious berries.
-BillberriesFresh_CardDescription,Tasty and nutritious berries.\n\nCan be dried or fermented to last longer ,Tasty and nutritious berries.\n\nCan be dried or fermented to last longer 
+BillberriesRoasted_CardDescription,Tasty and nutritious berries.,美味しくて栄養価の高いベリー。
+SpringberriesFresh_CardDescription,Tasty and nutritious berries.,美味しくて栄養価の高いベリー。
+SpringberriesRoasted_CardDescription,Tasty and nutritious berries.,美味しくて栄養価の高いベリー。
+BillberriesFresh_CardDescription,Tasty and nutritious berries.\n\nCan be dried or fermented to last longer ,美味しくて栄養価の高いベリー。\n\n乾燥させたり、発酵させたりすると長持ちする
 BillberriesFermented_CardDescription,Tasty and nutritious berry spread.,Tasty and nutritious berry spread.
 SpringberriesFermented_CardDescription,Tasty and nutritious berry spread.,Tasty and nutritious berry spread.
 PeasCooked_CardDescription,"Tasty and nutritious, perfect for enriching a meal.","Tasty and nutritious, perfect for enriching a meal."
