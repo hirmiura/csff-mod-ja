@@ -272,12 +272,12 @@ WoodenPlate_Unfinished_CardDescription,A work in progress. Should continue worki
 JohnDoe_CharacterDescription,"A young man, average in everything.","A young man, average in everything."
 JaneDoe_CharacterDescription,"A young woman, average in everything.","A young woman, average in everything."
 AUTOFILL,AUTO-FILL,自動補充
-W_Abrasion_CardName,Abrasion,Abrasion
-W_Abrasion_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
-W_BarrenCurse_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
-W_MarkOfTerror_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
-W_MudlingSpit_SpoilageTime.OnFull.ActionName,Abrasion,Abrasion
-eTag_WAbrasion_InGameName,Abrasion,Abrasion
+W_Abrasion_CardName,Abrasion,擦過傷
+W_Abrasion_SpoilageTime.OnFull.ActionName,Abrasion,擦過傷
+W_BarrenCurse_SpoilageTime.OnFull.ActionName,Abrasion,擦過傷
+W_MarkOfTerror_SpoilageTime.OnFull.ActionName,Abrasion,擦過傷
+W_MudlingSpit_SpoilageTime.OnFull.ActionName,Abrasion,擦過傷
+eTag_WAbrasion_InGameName,Abrasion,擦過傷
 LQ_Fairybrew_CookingRecipes[0].ActionName,Absorb,Absorb
 LQ_Firebrew_CookingRecipes[0].ActionName,Absorb,Absorb
 LQ_RottenStew_CookingRecipes[0].ActionName,Absorb,Absorb
@@ -533,40 +533,40 @@ Bp_Cellar_CardDescription,"An underground room, food stored here will last longe
 Cellar_CardDescription,"An underground room, food stored here will last longer.","An underground room, food stored here will last longer."
 MudHutConstructionLocationCellar_CardDescription,"An underground room, food stored here will last longer.","An underground room, food stored here will last longer."
 MudHutConstructionStartingPointCellar_CardDescription,"An underground room, food stored here will last longer.","An underground room, food stored here will last longer."
-ClothSmall_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-HealersMossBoiled_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-HealersMoss_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-OLD_HealersMoss_OldHealingFactors_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-RiverPoultice_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-Splint_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_Abrasion_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmFractureL_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmFractureR_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmLacerationLStitched_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmLacerationL_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmLacerationRStitched_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmLacerationR_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmSprainedL_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ArmSprainedR_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_BiteWound_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_Bruise_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_ClawMarks_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_FireBurn_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_Frostbite_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_Frostnip_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegFractureL_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegFractureR_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegLacerationLStitched_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegLacerationL_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegLacerationRStitched_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegLacerationR_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegSprainedL_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_LegSprainedR_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_MinorLacerationStitched_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_MinorLaceration_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_Puncture_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_RibFracture_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
-W_WolfBite_SpecialDurability3.CardStatName,Analgesic Factor,Analgesic Factor
+ClothSmall_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+HealersMossBoiled_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+HealersMoss_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+OLD_HealersMoss_OldHealingFactors_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+RiverPoultice_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+Splint_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_Abrasion_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmFractureL_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmFractureR_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmLacerationLStitched_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmLacerationL_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmLacerationRStitched_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmLacerationR_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmSprainedL_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ArmSprainedR_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_BiteWound_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_Bruise_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_ClawMarks_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_FireBurn_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_Frostbite_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_Frostnip_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegFractureL_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegFractureR_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegLacerationLStitched_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegLacerationL_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegLacerationRStitched_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegLacerationR_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegSprainedL_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_LegSprainedR_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_MinorLacerationStitched_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_MinorLaceration_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_Puncture_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_RibFracture_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
+W_WolfBite_SpecialDurability3.CardStatName,Analgesic Factor,鎮痛因子
 AnimalHusbandry_Completed_ObjectiveDescription,Animal Husbandry,Animal Husbandry
 AnimalHusbandry_Main_QuestTitle,Animal Husbandry,Animal Husbandry
 Tab_6_Farming_Subtab_2_AnimalHusbandry_TabName,Animal Husbandry,Animal Husbandry
@@ -3178,41 +3178,41 @@ StreamBed_DismantleActions[1].ActionName,Dig up Dirt,Dig up Dirt
 Puddle_DismantleActions[0].ActionName,Dig up Mud,泥を掘る
 River_DismantleActions[3].ActionName,Dig up Mud,泥を掘る
 StreamBed_DismantleActions[0].ActionName,Dig up Mud,泥を掘る
-Calories_Intestines_Statuses[0].GameName,Digestion,Digestion
-Calories_Intestines_Statuses[1].GameName,Digestion,Digestion
-Calories_Intestines_Statuses[2].GameName,Digestion,Digestion
-Calories_Intestines_Statuses[3].GameName,Digestion,Digestion
-Calories_Intestines_Statuses[4].GameName,Digestion,Digestion
-Calories_Stomach_Statuses[0].GameName,Digestion,Digestion
-Calories_Stomach_Statuses[1].GameName,Digestion,Digestion
-Calories_Stomach_Statuses[2].GameName,Digestion,Digestion
-Calories_Stomach_Statuses[3].GameName,Digestion,Digestion
-Fullness_Intestines_Statuses[0].GameName,Digestion,Digestion
-Fullness_Intestines_Statuses[1].GameName,Digestion,Digestion
-Fullness_Intestines_Statuses[2].GameName,Digestion,Digestion
-Fullness_Intestines_Statuses[3].GameName,Digestion,Digestion
-Fullness_Intestines_Statuses[4].GameName,Digestion,Digestion
-Fullness_Stomach_Statuses[0].GameName,Digestion,Digestion
-Fullness_Stomach_Statuses[1].GameName,Digestion,Digestion
-Fullness_Stomach_Statuses[2].GameName,Digestion,Digestion
-Fullness_Stomach_Statuses[3].GameName,Digestion,Digestion
-Proteins_Stomach_Statuses[0].GameName,Digestion,Digestion
-Proteins_Stomach_Statuses[1].GameName,Digestion,Digestion
-Proteins_Stomach_Statuses[2].GameName,Digestion,Digestion
-Proteins_Stomach_Statuses[3].GameName,Digestion,Digestion
-Vitamins_Stomach_Statuses[0].GameName,Digestion,Digestion
-Vitamins_Stomach_Statuses[1].GameName,Digestion,Digestion
-Vitamins_Stomach_Statuses[2].GameName,Digestion,Digestion
-Vitamins_Stomach_Statuses[3].GameName,Digestion,Digestion
-Waste_Intestines_Statuses[0].GameName,Digestion,Digestion
-Waste_Intestines_Statuses[1].GameName,Digestion,Digestion
-Waste_Intestines_Statuses[2].GameName,Digestion,Digestion
-Waste_Intestines_Statuses[3].GameName,Digestion,Digestion
-Waste_Intestines_Statuses[4].GameName,Digestion,Digestion
-Waste_Stomach_Statuses[0].GameName,Digestion,Digestion
-Waste_Stomach_Statuses[1].GameName,Digestion,Digestion
-Waste_Stomach_Statuses[2].GameName,Digestion,Digestion
-Waste_Stomach_Statuses[3].GameName,Digestion,Digestion
+Calories_Intestines_Statuses[0].GameName,Digestion,消化
+Calories_Intestines_Statuses[1].GameName,Digestion,消化
+Calories_Intestines_Statuses[2].GameName,Digestion,消化
+Calories_Intestines_Statuses[3].GameName,Digestion,消化
+Calories_Intestines_Statuses[4].GameName,Digestion,消化
+Calories_Stomach_Statuses[0].GameName,Digestion,消化
+Calories_Stomach_Statuses[1].GameName,Digestion,消化
+Calories_Stomach_Statuses[2].GameName,Digestion,消化
+Calories_Stomach_Statuses[3].GameName,Digestion,消化
+Fullness_Intestines_Statuses[0].GameName,Digestion,消化
+Fullness_Intestines_Statuses[1].GameName,Digestion,消化
+Fullness_Intestines_Statuses[2].GameName,Digestion,消化
+Fullness_Intestines_Statuses[3].GameName,Digestion,消化
+Fullness_Intestines_Statuses[4].GameName,Digestion,消化
+Fullness_Stomach_Statuses[0].GameName,Digestion,消化
+Fullness_Stomach_Statuses[1].GameName,Digestion,消化
+Fullness_Stomach_Statuses[2].GameName,Digestion,消化
+Fullness_Stomach_Statuses[3].GameName,Digestion,消化
+Proteins_Stomach_Statuses[0].GameName,Digestion,消化
+Proteins_Stomach_Statuses[1].GameName,Digestion,消化
+Proteins_Stomach_Statuses[2].GameName,Digestion,消化
+Proteins_Stomach_Statuses[3].GameName,Digestion,消化
+Vitamins_Stomach_Statuses[0].GameName,Digestion,消化
+Vitamins_Stomach_Statuses[1].GameName,Digestion,消化
+Vitamins_Stomach_Statuses[2].GameName,Digestion,消化
+Vitamins_Stomach_Statuses[3].GameName,Digestion,消化
+Waste_Intestines_Statuses[0].GameName,Digestion,消化
+Waste_Intestines_Statuses[1].GameName,Digestion,消化
+Waste_Intestines_Statuses[2].GameName,Digestion,消化
+Waste_Intestines_Statuses[3].GameName,Digestion,消化
+Waste_Intestines_Statuses[4].GameName,Digestion,消化
+Waste_Stomach_Statuses[0].GameName,Digestion,消化
+Waste_Stomach_Statuses[1].GameName,Digestion,消化
+Waste_Stomach_Statuses[2].GameName,Digestion,消化
+Waste_Stomach_Statuses[3].GameName,Digestion,消化
 DirtPile_CardName,Dirt Pile,Dirt Pile
 W_MudlingSpit_CardDescription,"Dirt in your eyes, you should wash it as soon as possible. ","Dirt in your eyes, you should wash it as soon as possible. "
 Filth_Statuses[3].GameName,Dirty,Dirty
@@ -3230,38 +3230,38 @@ TrappingPitTriggered_DismantleActions[1].ActionName,Disassemble trap,Disassemble
 TrappingPit_DismantleActions[0].ActionName,Disassemble trap,Disassemble trap
 DISCARD_ACTION_TITLE,Discard,Discard
 Discomfort_GameName,Discomfort,Discomfort
-ClothSmall_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-OLD_HealersMoss_OldHealingFactors_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-RiverPoultice_SpecialDurability1.CardStatName,Disinfectant Factor,Disinfectant Factor
-Splint_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_Abrasion_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmFractureL_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmFractureR_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmLacerationLStitched_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmLacerationL_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmLacerationRStitched_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmLacerationR_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmSprainedL_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ArmSprainedR_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_BiteWound_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_Bruise_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_ClawMarks_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_FireBurn_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_Frostbite_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_Frostnip_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegFractureL_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegFractureR_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegLacerationLStitched_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegLacerationL_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegLacerationRStitched_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegLacerationR_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegSprainedL_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_LegSprainedR_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_MinorLacerationStitched_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_MinorLaceration_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_Puncture_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_RibFracture_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
-W_WolfBite_SpecialDurability2.CardStatName,Disinfectant Factor,Disinfectant Factor
+ClothSmall_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+OLD_HealersMoss_OldHealingFactors_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+RiverPoultice_SpecialDurability1.CardStatName,Disinfectant Factor,殺菌因子
+Splint_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_Abrasion_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmFractureL_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmFractureR_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmLacerationLStitched_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmLacerationL_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmLacerationRStitched_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmLacerationR_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmSprainedL_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ArmSprainedR_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_BiteWound_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_Bruise_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_ClawMarks_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_FireBurn_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_Frostbite_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_Frostnip_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegFractureL_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegFractureR_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegLacerationLStitched_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegLacerationL_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegLacerationRStitched_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegLacerationR_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegSprainedL_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_LegSprainedR_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_MinorLacerationStitched_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_MinorLaceration_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_Puncture_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_RibFracture_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
+W_WolfBite_SpecialDurability2.CardStatName,Disinfectant Factor,殺菌因子
 BarkSandals_DismantleActions[0].ActionName,Dismantle,解体する
 BedLog_DismantleActions[2].ActionName,Dismantle,解体する
 BedRoll_DismantleActions[2].ActionName,Dismantle,解体する
@@ -4489,7 +4489,7 @@ FoodPoisoning_GameName,Food Poisoning,Food Poisoning
 FoodPreservation_Completed_ObjectiveDescription,Food Preservation,Food Preservation
 FoodPreservation_Main_QuestTitle,Food Preservation,Food Preservation
 FoodPreservation_Completed_Event_CardName,Food Preservation Complete,Food Preservation Complete
-Waste_Stomach_Description,Food here will be gradually transferred into intestines waste. Try not to vomit while there's food in your stomach.,Food here will be gradually transferred into intestines waste. Try not to vomit while there's food in your stomach.
+Waste_Stomach_Description,Food here will be gradually transferred into intestines waste. Try not to vomit while there's food in your stomach.,ここで食べたものは、徐々に腸内内容物に移行していく。 胃の中に食べ物がある間は嘔吐しないようにしよう。
 Proteins_Stomach_Description,Food here will be gradually transferred into proteins. Try not to vomit while there's food in your stomach.,Food here will be gradually transferred into proteins. Try not to vomit while there's food in your stomach.
 Vitamins_Stomach_Description,Food here will be gradually transferred into vitamins. Try not to vomit while there's food in your stomach.,Food here will be gradually transferred into vitamins. Try not to vomit while there's food in your stomach.
 Calories_Stomach_Description,Food here will be gradually transferred into your intestines. Try not to vomit while there's food in your stomach.,Food here will be gradually transferred into your intestines. Try not to vomit while there's food in your stomach.
@@ -5300,40 +5300,40 @@ Headache_Statuses[1].GameName,Headache,Headache
 LQ_SpiritEarth_CardInteractions[1].ActionName,Heal Plant,Heal Plant
 HealersMoss_CardName,Healer's Moss,Healer's Moss
 OLD_HealersMoss_OldHealingFactors_CardName,Healer's Moss,Healer's Moss
-ClothSmall_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-HealersMossBoiled_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-HealersMoss_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-OLD_HealersMoss_OldHealingFactors_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-RiverPoultice_Progress.CardStatName,Healing Factor,Healing Factor
-Splint_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_Abrasion_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmFractureL_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmFractureR_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmLacerationLStitched_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmLacerationL_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmLacerationRStitched_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmLacerationR_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmSprainedL_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ArmSprainedR_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_BiteWound_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_Bruise_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_ClawMarks_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_FireBurn_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_Frostbite_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_Frostnip_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegFractureL_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegFractureR_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegLacerationLStitched_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegLacerationL_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegLacerationRStitched_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegLacerationR_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegSprainedL_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_LegSprainedR_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_MinorLacerationStitched_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_MinorLaceration_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_Puncture_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_RibFracture_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
-W_WolfBite_SpecialDurability1.CardStatName,Healing Factor,Healing Factor
+ClothSmall_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+HealersMossBoiled_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+HealersMoss_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+OLD_HealersMoss_OldHealingFactors_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+RiverPoultice_Progress.CardStatName,Healing Factor,治癒因子
+Splint_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_Abrasion_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmFractureL_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmFractureR_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmLacerationLStitched_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmLacerationL_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmLacerationRStitched_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmLacerationR_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmSprainedL_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ArmSprainedR_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_BiteWound_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_Bruise_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_ClawMarks_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_FireBurn_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_Frostbite_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_Frostnip_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegFractureL_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegFractureR_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegLacerationLStitched_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegLacerationL_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegLacerationRStitched_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegLacerationR_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegSprainedL_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_LegSprainedR_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_MinorLacerationStitched_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_MinorLaceration_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_Puncture_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_RibFracture_SpecialDurability1.CardStatName,Healing Factor,治癒因子
+W_WolfBite_SpecialDurability1.CardStatName,Healing Factor,治癒因子
 Bp_RiverPoultice_CardName,Healing Ointment,Healing Ointment
 HealingOintment_CardName,Healing Ointment,Healing Ointment
 LQ_SpiritFire_CardInteractions[0].ActionName,Healing Warmth,Healing Warmth
@@ -5682,7 +5682,7 @@ ImprovisedBed_DismantleActions[0].StatInterruptions[9].Notification,I need to Pe
 BodyTemperature_Statuses[2].Description,I need to cool down...,体を冷やさないと...
 Thirst_Statuses[3].Description,I need to drink something,何か飲まなければ
 Dmg_RoofDamage_CardDescription,I need to fix it.,I need to fix it.
-Wakefulness_Statuses[1].Description,I need to sleep (click on clock or bed to sleep),I need to sleep (click on clock or bed to sleep)
+Wakefulness_Statuses[1].Description,I need to sleep (click on clock or bed to sleep),眠りたい（時計かベッドをクリックして眠る）
 Event_AnxietyAttack_CardDescription,I need to stop. I feel like I'm going crazy.\n\nI need to stop and calm down.,I need to stop. I feel like I'm going crazy.\n\nI need to stop and calm down.
 Filth_Statuses[2].Description,I really could use a bath,I really could use a bath
 BedLog_DismantleActions[0].StatInterruptions[10].Notification,I really need to Pee!,おしっこしたい！
@@ -5753,7 +5753,7 @@ Morale_Statuses[3].Description,I'm feeling a bit sad,I'm feeling a bit sad
 Morale_DefaultStatusDescription,I'm feeling fine.,I'm feeling fine.
 Loneliness_Statuses[1].Description,I'm feeling lonely...,I'm feeling lonely...
 Loneliness_Statuses[2].Description,I'm feeling so lonely...,I'm feeling so lonely...
-Wakefulness_Statuses[0].Description,I'm getting sleepy (click on clock or bed to sleep),I'm getting sleepy (click on clock or bed to sleep)
+Wakefulness_Statuses[0].Description,I'm getting sleepy (click on clock or bed to sleep),眠くなってきた（時計かベッドをクリックして眠る）
 BodyTemperature_Statuses[1].Description,I'm going to die if I don't cool down...,冷やさないとと死んでしまう...
 Nausea_Statuses[2].Description,I'm going to throw up!,I'm going to throw up!
 Pain_Statuses[1].Description,I'm in pain.,痛みを感じている。
@@ -6091,7 +6091,7 @@ IntermediateWeaving_Completed_Event_CardName,Intermediate Weaving Complete,Inter
 Internal_TabName,Internal,Internal
 Calories_Intestines_GameName,Intestines,Intestines
 Fullness_Intestines_GameName,Intestines Fullness,Intestines Fullness
-Waste_Intestines_GameName,Intestines Waste,Intestines Waste
+Waste_Intestines_GameName,Intestines Waste,腸内内容物
 CellarEntrance_CardDescription,Into the Cellar,Into the Cellar
 EnclosureEntrance_CardDescription,Into the Enclosure,Into the Enclosure
 INVERT_SCROLL,Invert Horizontal Scroll,水平スクロール反転
@@ -8755,10 +8755,10 @@ Skill_Metalworking_Description,Shows how good you are at working with metal. Unl
 Skill_Handguns_Description,Shows how good you are with handguns. Increases your success chances when hunting with these weapons.,Shows how good you are with handguns. Increases your success chances when hunting with these weapons.
 Foodplace_Description,Shows how good your eating place is. Gives you a bonus to eating.,Shows how good your eating place is. Gives you a bonus to eating.
 Workplace_Description,"Shows how good your workplace is. Gives you a bonus to crafting. Can be increased by placing chairs, tables and other equipment.",作業場の快適さを表す。クラフトへボーナスを与える。椅子やテーブル、その他の設備を設置することで増やせる。
-Waste_Intestines_Description,Shows how much calories is currently in your intestines. Calories are gradually converted into body weight here.,Shows how much calories is currently in your intestines. Calories are gradually converted into body weight here.
+Waste_Intestines_Description,Shows how much calories is currently in your intestines. Calories are gradually converted into body weight here.,現在腸内にあるカロリーの量を表す。 カロリーはここで徐々に体重に変換される。
 Calories_Intestines_Description,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.
 Fullness_Intestines_Description,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.,Shows how much food is currently in your intestines. Food is gradually converted into body weight here.
-RectalPressure_Description,"Shows how much waste is accumulated in your intestines. High levels can cause stress and decrease your wellbeing. This stat increases as you digest food, with less digestible foods (like those high in fiber) accelerating the increase.",腸内に蓄積された老廃物の量を示す。 高値はストレスの原因となり、健康状態を低下させる。 この統計は食べ物を消化するにつれて増加し、消化の悪い食べ物（食物繊維の多いものなど）は増加を加速させる。
+RectalPressure_Description,"Shows how much waste is accumulated in your intestines. High levels can cause stress and decrease your wellbeing. This stat increases as you digest food, with less digestible foods (like those high in fiber) accelerating the increase.",腸内に蓄積された内容物の量を示す。 高値はストレスの原因となり、健康状態を低下させる。 この統計は食べ物を消化するにつれて増加し、消化の悪い食べ物（食物繊維の多いものなど）は増加を加速させる。
 SunProtection_Description,Shows how protected from the sun you are.,Shows how protected from the sun you are.
 SaturationBird_Description,Shows how tired you are of eating bird meat. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating bird meat. Lowers your wellbeing and gets you nauseous if it gets too high.
 SaturationDairy_Description,Shows how tired you are of eating diary. Lowers your wellbeing and gets you nauseous if it gets too high.,Shows how tired you are of eating diary. Lowers your wellbeing and gets you nauseous if it gets too high.
@@ -8843,7 +8843,7 @@ BedWooden_DismantleActions[1].FadeMessage,Sleeping...,Sleeping...
 ImprovisedBed_DismantleActions[1].FadeMessage,Sleeping...,Sleeping...
 ImprovisedShelter_DismantleActions[1].FadeMessage,Sleeping...,Sleeping...
 TimeSkipOptions_Actions[5].FadeMessage,Sleeping...,Sleeping...
-Wakefulness_Statuses[0].GameName,Sleepy,Sleepy
+Wakefulness_Statuses[0].GameName,Sleepy,眠い
 AlteredMindstate_Statuses[1].GameName,Slightly Altered Mindstate,Slightly Altered Mindstate
 Satiation_Statuses[4].GameName,Slightly Hungry,やや空腹 (4)
 Thirst_Statuses[1].GameName,Slightly Thirsty,やや喉が渇いた (1)
@@ -9213,7 +9213,7 @@ Calories_Stomach_GameName,Stomach,Stomach
 Fullness_Stomach_GameName,Stomach Fullness,Stomach Fullness
 Proteins_Stomach_GameName,Stomach Proteins,Stomach Proteins
 Vitamins_Stomach_GameName,Stomach Vitamins,Stomach Vitamins
-Waste_Stomach_GameName,Stomach Waste,Stomach Waste
+Waste_Stomach_GameName,Stomach Waste,胃内内容物
 Stone_CardName,Stone,Stone
 Axe_Stone_CardName,Stone Axe,Stone Axe
 Bp_StoneAxe_CardName,Stone Axe,Stone Axe
@@ -10435,7 +10435,7 @@ FemaleTraits_Statuses[0].GameName,Very Pronounced,Very Pronounced
 MaleTraits_Statuses[0].GameName,Very Pronounced,Very Pronounced
 Pk_4_VeryShort_PerkName,Very Short Stature,Very Short Stature
 Myopia_Statuses[1].GameName,Very Short-sighted,Very Short-sighted
-Wakefulness_Statuses[1].GameName,Very Sleepy,Very Sleepy
+Wakefulness_Statuses[1].GameName,Very Sleepy,とても眠い
 ImmuneSystem_Statuses[5].GameName,Very Strong Immune System,Very Strong Immune System
 Pk_4_VeryTall_PerkName,Very Tall Stature,Very Tall Stature
 Thirst_Statuses[3].GameName,Very Thirsty,とてものどが渇いている (3)
@@ -10446,12 +10446,12 @@ VesicalPressure_GameName,Vesical Pressure,膀胱圧
 VesicalPressure_Statuses[0].GameName,Vesical Pressure,膀胱圧
 VICTORY_BONUS,Victory Bonus,Victory Bonus
 VISUAL_EFFECTS,Visual effects,映像効果
-LQ_Fairybrew_UsageDurability.CardStatName,Vitamins,Vitamins
-LQ_Firebrew_UsageDurability.CardStatName,Vitamins,Vitamins
-LQ_RottenStew_UsageDurability.CardStatName,Vitamins,Vitamins
-LQ_StewWater_UsageDurability.CardStatName,Vitamins,Vitamins
-LQ_Water_UsageDurability.CardStatName,Vitamins,Vitamins
-Vitamins_GameName,Vitamins,Vitamins
+LQ_Fairybrew_UsageDurability.CardStatName,Vitamins,ビタミン
+LQ_Firebrew_UsageDurability.CardStatName,Vitamins,ビタミン
+LQ_RottenStew_UsageDurability.CardStatName,Vitamins,ビタミン
+LQ_StewWater_UsageDurability.CardStatName,Vitamins,ビタミン
+LQ_Water_UsageDurability.CardStatName,Vitamins,ビタミン
+Vitamins_GameName,Vitamins,ビタミン
 VoidInsight_GameName,Void Insight,Void Insight
 VomitCounter_GameName,Vomit Counter,Vomit Counter
 Event_Vomit_CardName,Vomit!,Vomit!
@@ -10472,7 +10472,7 @@ PineLogPiecePlacedStool_DismantleActions[0].FadeMessage,Waiting...,Waiting...
 Stamina_StatActions[0].FadeMessage,Waiting...,Waiting...
 StoolPlaced_DismantleActions[0].FadeMessage,Waiting...,Waiting...
 TimeSkipOptions_Actions[0].FadeMessage,Waiting...,Waiting...
-Wakefulness_GameName,Wakefulness,Wakefulness
+Wakefulness_GameName,Wakefulness,覚醒度
 Event_WillOWisp_Grove1_DismantleActions[0].ActionName,Walk towards it,それに向かって進む
 Pk_4_3_WanderingFocus_PerkName,Wandering Focus,散漫な集中力
 MsStandardExperience_CharacterDescription,Want to jump straight into the game without having to create a character?\n\nGive this one a try for the standard experience. ,Want to jump straight into the game without having to create a character?\n\nGive this one a try for the standard experience. 
