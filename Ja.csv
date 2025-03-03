@@ -8894,7 +8894,7 @@ SnowPile_SpoilageTime.OnZero.ActionDescription,Snow Pile melted.,Snow Pile melte
 LQ_Snow_SpoilageTime.OnZero.ActionDescription,Snow melted.,Snow melted.
 Bp_SnowMan_CardName,Snowman,Snowman
 SnowMan_CardName,Snowman,Snowman
-Stamina_Statuses[1].Description,So much physical activity is getting me tired.,身体活動が多すぎて疲れてしまった。
+Stamina_Statuses[1].Description,So much physical activity is getting me tired.,活動しすぎて疲れてしまった。
 AcornFlourRaw_CardInteractions[0].ActionName,Soak,Soak
 AppleWeedDried_CardInteractions[0].ActionName,Soak,Soak
 AppleWeedPowder_CardInteractions[0].ActionName,Soak,Soak
