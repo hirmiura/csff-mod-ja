@@ -4323,8 +4323,8 @@ GpTag_Fireroot_TabName,Fireroot,ファイヤルート
 Spice_Fireroot_SpiceName,Fireroot,ファイヤルート
 LQ_Firebrew_SpecialDurability1.CardStatName,Fireroot Effect,Fireroot Effect
 FirerootPowder_CardName,Fireroot Powder,Fireroot Powder
-FirerootToxicityEffect_GameName,Fireroot Toxicity,Fireroot Toxicity
-LQ_Firebrew_SpecialDurability3.CardStatName,Fireroot Toxicity,Fireroot Toxicity
+FirerootToxicityEffect_GameName,Fireroot Toxicity,ファイヤルート毒性
+LQ_Firebrew_SpecialDurability3.CardStatName,Fireroot Toxicity,ファイヤルート毒性
 FirerootCutFresh_UsageDurability.OnFull.ActionDescription,Fireroot dried!,Fireroot dried!
 FirerootRoasted_UsageDurability.OnFull.ActionDescription,Fireroot dried!,Fireroot dried!
 Fireplace_CookingRecipes[5].ActionName,"Fires Low, Heat up Cooking Containers","Fires Low, Heat up Cooking Containers"
@@ -4799,7 +4799,7 @@ Pk_4_6_Creative_PerkDescription,Gain additional wellbeing when performing creati
 Pk_4_6_Physical_PerkDescription,Gain additional wellbeing when performing physically demanding actions.,Gain additional wellbeing when performing physically demanding actions.
 AnimalHusbandry_Obj3_GainTheTrustOfALargeAnimal_ObjectiveDescription,Gain the Trust of a Large Animal,Gain the Trust of a Large Animal
 AnimalHusbandry_Sub3_GainTheTrustOfALargeAnimal_QuestTitle,Gain the Trust of a Large Animal,Gain the Trust of a Large Animal
-FirerootToxicityEffect_Description,"Gained from consuming fireroot. Causes stress, nausea and diarrhoea.","Gained from consuming fireroot. Causes stress, nausea and diarrhoea."
+FirerootToxicityEffect_Description,"Gained from consuming fireroot. Causes stress, nausea and diarrhoea.",ファイアルートを摂取すると上がる。 ストレス、吐き気、下痢を引き起こす。
 Capsaicin_Description,"Gained from eating Chillies, lowers appetite, body temperature and hydration levels.","Gained from eating Chillies, lowers appetite, body temperature and hydration levels."
 LQ_SpiritEarth_CardInteractions[0].ActionName,Garden Blessing,Garden Blessing
 Bp_GardenPlot_CardName,Garden Plot,Garden Plot
@@ -5504,7 +5504,7 @@ Energy_Statuses[3].GameName,High Energy,High Energy
 Pk_2_HighEstrogen_PerkName,High Estrogen,高エストロゲン
 FairyweedEffect_Statuses[2].GameName,High Fairyweed Dose,High Fairyweed Dose
 Fever_Statuses[2].GameName,High Fever,高い発熱
-FirerootToxicityEffect_Statuses[2].GameName,High Fireroot Toxicity,High Fireroot Toxicity
+FirerootToxicityEffect_Statuses[2].GameName,High Fireroot Toxicity,高いファイヤルート毒
 Fitness_Statuses[1].GameName,High Fitness,High Fitness
 LungrotSpores_Statuses[2].GameName,High Lungrot Exposure,High Lungrot Exposure
 MuscleMass_Statuses[1].GameName,High Muscle Mass,High Muscle Mass
@@ -6679,7 +6679,7 @@ tag_MediumAnimal_InGameName,Medium Animal,Medium Animal
 Comfort_Statuses[2].GameName,Medium Comfort,Medium Comfort
 tag_FibersMedium_InGameName,Medium Fibers,Medium Fibers
 FirerootEffect_Statuses[1].GameName,Medium Firebrew Effect,中程度なファイヤブリュー効果
-FirerootToxicityEffect_Statuses[1].GameName,Medium Fireroot Toxicity,Medium Fireroot Toxicity
+FirerootToxicityEffect_Statuses[1].GameName,Medium Fireroot Toxicity,中程度なファイヤルート毒
 GarlicEffect_Statuses[1].GameName,Medium Garlic Effect,Medium Garlic Effect
 tag_ContainerOpenMedium_InGameName,Medium Open Container,Medium Open Container
 Pop_Badger_Statuses[1].GameName,Medium Population,Medium Population
@@ -6714,7 +6714,7 @@ SuccessChanceLabels_SuccessLabels[3].LabelText,Might succeed,Might succeed
 Blindness_Statuses[0].GameName,Mild Blidness,Mild Blidness
 EyeDamage_Statuses[0].GameName,Mild Eye Damage,Mild Eye Damage
 FirerootEffect_Statuses[0].GameName,Mild Firebrew Effect,マイルドなファイヤブリュー効果
-FirerootToxicityEffect_Statuses[0].GameName,Mild Fireroot Toxicity,Mild Fireroot Toxicity
+FirerootToxicityEffect_Statuses[0].GameName,Mild Fireroot Toxicity,マイルドなファイヤルート毒
 GarlicEffect_Statuses[0].GameName,Mild Garlic Effect,Mild Garlic Effect
 Headache_Statuses[0].GameName,Mild Headache,Mild Headache
 LandSickness_Statuses[0].GameName,Mild Nausea,Mild Nausea
