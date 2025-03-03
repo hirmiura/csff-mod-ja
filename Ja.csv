@@ -5571,8 +5571,8 @@ PartridgeFemaleTied_SpoilageTime.CardStatName,Hunger,Hunger
 PartridgeMaleFree_SpoilageTime.CardStatName,Hunger,Hunger
 PartridgeMaleTied_SpoilageTime.CardStatName,Hunger,Hunger
 Satiation_Statuses[5].GameName,Hungry,空腹 (5)
-Combat_EventBadger_1_Explore_F_DismantleActions[1].ActionName,Hunt It!,Hunt It!
-Combat_EventFox_1_Explore_DismantleActions[1].ActionName,Hunt It!,Hunt It!
+Combat_EventBadger_1_Explore_F_DismantleActions[1].ActionName,Hunt It!,狩る！
+Combat_EventFox_1_Explore_DismantleActions[1].ActionName,Hunt It!,狩る！
 BasicHunting_Obj2_HuntABadgerOrTheFox_ObjectiveDescription,Hunt a Badger or Fox,Hunt a Badger or Fox
 BasicHunting_Obj2_HuntBadgerOrFox_ObjectiveDescription,Hunt a Badger or Fox,Hunt a Badger or Fox
 BasicHunting_Sub2_HuntAbadgerOrTheFox_QuestTitle,Hunt a Badger or a Fox,Hunt a Badger or a Fox
@@ -5581,10 +5581,10 @@ IntermediateHunting_Obj2_HuntADeerOrBoar_ObjectiveDescription,Hunt a Deer or Boa
 IntermediateHunting_Obj4_HuntADeerOrBoar_ObjectiveDescription,Hunt a Deer or Boar,Hunt a Deer or Boar
 IntermediateHunting_Sub2_HuntADeerOrBoar_QuestTitle,Hunt a Deer or Boar,Hunt a Deer or Boar
 IntermediateHunting_Sub4_HuntADeerOrBoar_QuestTitle,Hunt a Deer or Boar,Hunt a Deer or Boar
-Combat_EventDoe_1_Explore_F_DismantleActions[1].ActionName,Hunt it,Hunt it
-Combat_EventStag_1_Explore_DismantleActions[1].ActionName,Hunt it,Hunt it
-Combat_EventPartridge_1_DismantleActions[1].ActionName,Hunt it!,Hunt it!
-Combat_EventSquirrel_1_DismantleActions[1].ActionName,Hunt it!,Hunt it!
+Combat_EventDoe_1_Explore_F_DismantleActions[1].ActionName,Hunt it,狩る
+Combat_EventStag_1_Explore_DismantleActions[1].ActionName,Hunt it,狩る
+Combat_EventPartridge_1_DismantleActions[1].ActionName,Hunt it!,狩る！
+Combat_EventSquirrel_1_DismantleActions[1].ActionName,Hunt it!,狩る！
 ChasingAid_GameName,Hunters Blessing,Hunters Blessing
 Tab_Hunting_TabName,Hunting,Hunting
 Burns_Statuses[3].Description,Hurts so much!,Hurts so much!
@@ -6294,12 +6294,12 @@ Spirit_Flintclaw_SpoilageTime.OnZero.ActionName,Leave,Leave
 Spirit_Fox_SpoilageTime.OnZero.ActionName,Leave,Leave
 Spirit_Water_SpoilageTime.OnZero.ActionName,Leave,Leave
 Spirit_Wolf_SpoilageTime.OnZero.ActionName,Leave,Leave
-Combat_EventBadger_1_Explore_F_DismantleActions[0].ActionName,Leave it alone,Leave it alone
-Combat_EventDoe_1_Explore_F_DismantleActions[0].ActionName,Leave it alone,Leave it alone
-Combat_EventFox_1_Explore_DismantleActions[0].ActionName,Leave it alone,Leave it alone
-Combat_EventPartridge_1_DismantleActions[0].ActionName,Leave it alone,Leave it alone
-Combat_EventSquirrel_1_DismantleActions[0].ActionName,Leave it alone,Leave it alone
-Combat_EventStag_1_Explore_DismantleActions[0].ActionName,Leave it alone,Leave it alone
+Combat_EventBadger_1_Explore_F_DismantleActions[0].ActionName,Leave it alone,放っておく
+Combat_EventDoe_1_Explore_F_DismantleActions[0].ActionName,Leave it alone,放っておく
+Combat_EventFox_1_Explore_DismantleActions[0].ActionName,Leave it alone,放っておく
+Combat_EventPartridge_1_DismantleActions[0].ActionName,Leave it alone,放っておく
+Combat_EventSquirrel_1_DismantleActions[0].ActionName,Leave it alone,放っておく
+Combat_EventStag_1_Explore_DismantleActions[0].ActionName,Leave it alone,放っておく
 LEAVE_BE,Leave it be,Leave it be
 Combat_EventPixie_1_Explore_F_DismantleActions[0].ActionName,Leave them alone,Leave them alone
 GpTag_Leaves_TabName,Leaves,Leaves
@@ -9621,8 +9621,8 @@ BugDamage_Description,The amount of bug bites (including mosquitoes) you are get
 BugPopulation_Description,The amount of bugs (including mosquitoes) that can be found in a given area.,The amount of bugs (including mosquitoes) that can be found in a given area.
 TemperaturePerceived_Description,"The approximate temperature your body is perceiving. Can be increased by staying in more sheltered areas, by wearing more clothes and by warming up by a fire.",あなたの体が感知しているおおよその温度。 日当たりの良い場所に滞在したり、衣服を多く着たり、焚き火で暖をとったりすることで体感温度を上げることができる。
 Event_FloodDamage_CardDescription,The area is flooding! The water is threatening to take you away!,The area is flooding! The water is threatening to take you away!
-Combat_EncounterBadger_EnemyGettingCloseLog.LogText,The badger charges at you!,The badger charges at you!
-Combat_EncounterBadger_EnemyDefeatedEffects.ResultLog.LogText,The badger collapses on the floor.,The badger collapses on the floor.
+Combat_EncounterBadger_EnemyGettingCloseLog.LogText,The badger charges at you!,アナグマが突進してくる！
+Combat_EncounterBadger_EnemyDefeatedEffects.ResultLog.LogText,The badger collapses on the floor.,アナグマは床に倒れこむ。
 Combat_EncounterBadger_EnemyActions[0].ActionLog.LogText,The badger hisses at you.,アナグマはあなたにシューッと音を出す。
 Combat_EncounterBadger_EnemyActions[3].ActionLog.LogText,The badger hisses at you.,アナグマはあなたにシューッと音を出す。
 Combat_EncounterBadger_EnemyEscapedEffects.ResultLog.LogText,The badger runs away.,アナグマは逃げる。
@@ -11247,28 +11247,28 @@ Combat_ BTFox_Torso.SeriousWounds[1].CombatLog.LogText,You opened a deep wound o
 Combat_ BTStag_Torso.SeriousWounds[1].CombatLog.LogText,You opened a deep wound on {0}'s torso. It's bleeding profusely!,You opened a deep wound on {0}'s torso. It's bleeding profusely!
 Combat_ BTWolfPack_Torso.SeriousWounds[1].CombatLog.LogText,You opened a deep wound on {0}'s torso. It's bleeding profusely!,You opened a deep wound on {0}'s torso. It's bleeding profusely!
 Combat_ BTWolf_F_Torso.SeriousWounds[1].CombatLog.LogText,You opened a deep wound on {0}'s torso. It's bleeding profusely!,You opened a deep wound on {0}'s torso. It's bleeding profusely!
-Combat_ BTBoar_F_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,You opened a wound on {0}'s torso.
-Combat_ BTDoe_F_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,You opened a wound on {0}'s torso.
-Combat_ BTFlintclaw_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,You opened a wound on {0}'s torso.
-Combat_ BTStag_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,You opened a wound on {0}'s torso.
-Combat_ BTWolfPack_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,You opened a wound on {0}'s torso.
-Combat_ BTWolf_F_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,You opened a wound on {0}'s torso.
-Combat_ BTBadger_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTBoar_F_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTDoe_F_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTFlintclaw_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTFox_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTStag_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTWolfPack_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTWolf_F_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!","You pierced its brain, {0} is dead!"
-Combat_ BTBadger_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTBoar_F_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTDoe_F_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTFlintclaw_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTFox_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTStag_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTWolfPack_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
-Combat_ BTWolf_F_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,You pierced one of {0}'s eyes!
+Combat_ BTBoar_F_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,あなたは{0}の胴体に傷を負わせた。
+Combat_ BTDoe_F_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,あなたは{0}の胴体に傷を負わせた。
+Combat_ BTFlintclaw_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,あなたは{0}の胴体に傷を負わせた。
+Combat_ BTStag_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,あなたは{0}の胴体に傷を負わせた。
+Combat_ BTWolfPack_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,あなたは{0}の胴体に傷を負わせた。
+Combat_ BTWolf_F_Torso.MediumWounds[1].CombatLog.LogText,You opened a wound on {0}'s torso.,あなたは{0}の胴体に傷を負わせた。
+Combat_ BTBadger_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTBoar_F_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTDoe_F_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTFlintclaw_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTFox_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTStag_Head.SeriousWounds[2].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTWolfPack_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTWolf_F_Head.SeriousWounds[3].CombatLog.LogText,"You pierced its brain, {0} is dead!",あなたは脳を貫き、{0}は死んだ！
+Combat_ BTBadger_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTBoar_F_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTDoe_F_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTFlintclaw_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTFox_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTStag_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTWolfPack_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
+Combat_ BTWolf_F_Head.SeriousWounds[1].CombatLog.LogText,You pierced one of {0}'s eyes!,あなたは{0}の目を貫いた！
 Combat_ BTPartridge_Head.SeriousWounds[0].CombatLog.LogText,"You pierced right through {0}, stopping it in its tracks.","You pierced right through {0}, stopping it in its tracks."
 Combat_ BTSquirrel_Head.SeriousWounds[0].CombatLog.LogText,"You pierced right through {0}, stopping it in its tracks.","You pierced right through {0}, stopping it in its tracks."
 Combat_ BTBoar_F_Head.MediumWounds[3].CombatLog.LogText,"You pierced {0} in the face, causing an ugly wound.","You pierced {0} in the face, causing an ugly wound."
@@ -11602,12 +11602,12 @@ EncounterWindow_PlayerGetCloseAction.ActionFailureLog.LogText,you move into clos
 EncounterWindow_PlayerGetCloseAction.ActionSuccessLog.LogText,you move into close combat!,接近戦に移る！
 EncounterWindow_PlayerBreakFreeAction.ActionSuccessLog.LogText,you push the {0} away and get on your feet.,you push the {0} away and get on your feet.
 SpearShove_ActionSuccessLog.LogText,you push {0} away!,you push {0} away!
-SpearBrace_ActionSuccessLog.LogText,you successfully brace yourself!,you successfully brace yourself!
-SpearPoke_ActionSuccessLog.LogText,you successfully poke the {0} with your {1}!,you successfully poke the {0} with your {1}!
-KnifeStab_ActionSuccessLog.LogText,you successfully stab {0} with your {1}!,you successfully stab {0} with your {1}!
-KnifeThrow_ActionSuccessLog.LogText,you throw your {1} and successfully hit {0}!,you throw your {1} and successfully hit {0}!
-SpearThrow_ActionSuccessLog.LogText,you throw your {1} and successfully hit {0}!,you throw your {1} and successfully hit {0}!
-SpearThrust_ActionSuccessLog.LogText,you thrust your {1} and land a hit on {0}!,you thrust your {1} and land a hit on {0}!
+SpearBrace_ActionSuccessLog.LogText,you successfully brace yourself!,あなたはうまく身構えることができた！
+SpearPoke_ActionSuccessLog.LogText,you successfully poke the {0} with your {1}!,あなたは{1}で{0}を突っつき当てた！
+KnifeStab_ActionSuccessLog.LogText,you successfully stab {0} with your {1}!,あなたは{1}で{0}を刺して当てた！
+KnifeThrow_ActionSuccessLog.LogText,you throw your {1} and successfully hit {0}!,あなたは{1}を投げて{0}に当てた！
+SpearThrow_ActionSuccessLog.LogText,you throw your {1} and successfully hit {0}!,あなたは{1}を投げて{0}に当てた！
+SpearThrust_ActionSuccessLog.LogText,you thrust your {1} and land a hit on {0}!,あなたは{1}で{0}を突いて当てた！
 SpearPoke_ActionFailureLog.LogText,your poke fails to connect with the {0}...,your poke fails to connect with the {0}...
 SpearBrace_ActionFailureLog.LogText,your posture is off and you fail to properly brace yourself...,your posture is off and you fail to properly brace yourself...
 KnifeSlash_ActionFailureLog.LogText,your slashing attack misses {0}...,your slashing attack misses {0}...
